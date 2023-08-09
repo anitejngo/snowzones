@@ -1,0 +1,13 @@
+Land,Landkreis/große kreisangehörige und kreisfreie Stadt,Bemerkung,Schneelastzone,DC,ZIP,comments
+MV,Ludwigslust-Parchim,jeweils alle Gemeinden,2,13076,,
+MV,"Mecklenburgische Seenplatte, Neubrandenburg",jeweils alle Gemeinden,2,13071,,
+MV,"Nordwestmecklenburg, Wismar",jeweils alle Gemeinden,2,13074,,
+MV,LK Rostock,"alle Gemeinden, soweit nicht Schneelastzone 3",2,13072,,"DC rule: 18107,18181,18182,18184 Poppendorf, 18211 Admannshagen-Bargeshagen, 18211 Börgerende-Rethwisch, 18211 Nienhagen are zone 3"
+MV,Vorpommern-Greifswald,"alle Gemeinden, soweit nicht Schneelastzone 3",2,13075,,"DC rule: 17498 Mesekenhagen, 17498 Wackerow, 17392 Neuenkirchen (bei Greifswald), 17438 Wolgast, 17440 Zemitz, 17440 Lassan, 17440 Buggenhagen, 17509, 17406, 17489,17491,17493,18435,18437,18439 are zone 3"
+MV,Vorpommern-Rügen,"folgende Gemeinden: 18334 Dettmannsdorf, 18334 Bad Sülze, 18465 Tribsees, 18334 Lindholz, 18513 Deyelsdorf, 18513 Grammendorf, 18513 Gransebieth, 18513 Wendisch Baggendorf, 18513 Glewitz, 18516 Süderholz",2,13073,,covered by DC rule!
+MV,Schwerin,,2,13004,,
+MV,LK Rostock,"folgende Gemeinden: Börgerende-Rethwisch, Admannshagen-Bargeshagen, Nienhagen, Elmenhorst/Lichtenhagen, Graal-Müritz, Gelbensande, Blankenhagen, Rövershagen, Mönchhagen, Bentwisch, Poppendorf",3,13072,,covered by DC rule!
+MV,"Vorpommern-Rügen, Stralsund","alle Gemeinden, soweit nicht in Schneelastzone 2",3,13073,,"DC rule: 18334 Dettmannsdorf, 18334 Bad Sülze, 18334 Lindholz, 18465 Tribsees, 18513 Deyelsdorf, 18513 Grammendorf, 18513 Gransebieth, 18513 Wendisch Baggendorf, 18513 Glewitz, 18516 Süderholz are zone 2"
+MV,Vorpommern-Greifswald,"folgende Gemeinden: 17498 Mesekenhagen, 17498 Wackerow, 17392 Neuenkirchen (bei Greifswald), 17438 Wolgast, 17440 Zemitz, 17440 Lassan, 17440 Buggenhagen, alle Gemeinden im Amtsgebiet 17509 Lubmin, alle Gemeinden auf der 17406 Insel Usedom",3,13075,,covered by DC!
+MV,Greifswald,,3,13075,,covered by DC!
+MV,Rostock,,3,13003,,

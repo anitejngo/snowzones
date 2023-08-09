@@ -1,0 +1,23 @@
+Land,Landkreis,Gemeinde/Kreisfreie Stadt,Schneelastzone,Fußnote(n),DC,ZIP,comments
+ST,,Dessau-Roßlau,2,,15001,,
+ST,,Halle (Saale,2,,15002,,
+ST,,Magdeburg,2,*Nordd. Tiefld.,15003,,
+ST,"Altmarkkreis
+Salzwedel",alle,2,*Nordd. Tiefld.,15081,,
+ST,Anhalt-Bitterfeld,alle,2,"*Nordd. Tiefld.  von Zerbst/Anhalt die Ortsteile Buhlendorf, Deetz, Dobritz, Gehrden, Grimme, Lindau, Moritz, Nedlitz, Polenzko, Reuden, Straguth, und Zernitz",15082,,"NGP rule (NGP15082): 39264 partially applies to NGP rule , see https://www.suche-postleitzahl.org/zerbst-plz-39261-39264.67d8 "
+ST,Börde,alle,2,"*Nordd. Tiefld. alle, außer Gröningen, Kroppenstedt, sowie die südlichen Teile von Oschersleben (Bode) und Sülzetal",15083,,"NGP rule (NGP15083): all except 39397, 39387, 39171 apply to NGP rule"
+ST,Burgenlandkreis,alle,2,,15084,,
+ST,Harz,alle,2,*Nordd. Tiefld. die nördlichen Teile von Osterwieck und Huy,15085,,"DC rule (DC15085): 38871 partially,38875-38899,38855-38879, NGP rule (NGP15085): see footnote"
+,,"Ilsenburg (Harz), Ortsteil Darlingerode",2,,15085,,38871 Ortsteil Darlingerode rule
+,,Ilsenburg(Harz),3,,15085,38871,covered by DC rule!
+,,Oberharz am Brocken,3,,15085,38875-38899,covered by DC rule!
+,,Wernigerode,3,,15085,38855-38879,covered by DC rule!
+ST,Jerichower Land,alle,2,*Nordd. Tiefld.,15086,,
+ST,Mansfeld-Südharz,alle,2,,15087,,
+ST,Saalekreis,alle,2,,15088,,
+ST,Salzlandkreis,alle,2,*Nordd. Tiefld. von Barby der Ortsteil Glinde sowie Schönebeck (Elbe) und von Bördeland der Ortsteil Welsleben,15089,,"NGP rule (NGP15089): partially 39249, 39218, partially 39221"
+ST,Stendal,alle,2,*Nordd. Tiefld.,15090,,
+ST,Wittenberg,alle,2,*Nordd. Tiefld. von Coswig (Anhalt) die Ortsteile Serno und Stackelitz,15091,,NGP rule (NGP15091): partially 06869
+,,,,,,,
+,,,,,,,
+Die Zuordnung bezieht sich auf den Gebietsstand 1. Dezember 2017,,,,,,,

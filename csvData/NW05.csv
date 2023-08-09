@@ -1,0 +1,204 @@
+Landkreis,Gemeindeschlüssel,Gemeinde,Schneelastzone,DC,ZIP,comments
+Düsseldorf,5111000,Düsseldorf,1,05111,,
+Duisburg,5112000,Duisburg,1,05112,,
+Essen,5113000,Essen,1,05113,,
+Krefeld,5114000,Krefeld,1,05114,,
+Mönchengladbach,5116000,Mönchengladbach,1,05116,,
+Mülheim an der Ruhr,5117000,Mülheim an der Ruhr,1,05117,,
+Oberhausen,5119000,Oberhausen,1,05119,,
+Remscheid,5120000,Remscheid,2,05120,,
+Solingen,5122000,Solingen,1,05122,,
+Wuppertal,5124000,Wuppertal,1,05124,,
+Kleve,05154004 bis 05154064,alle,1,05154,,
+Mettmann,05158004 bis 05158036,alle,1,05158,,
+Rhein-Kreis Neuss,05162004 bis 05162028,alle,1,05162,,
+Viersen,05166004 bis 05166036,alle,1,05166,,
+Wesel,05170004 bis 05170052,alle,1,05170,,
+Bonn,5314000,Bonn,1,05134,,
+Köln,5315000,Köln,1,05135,,
+Leverkusen,5316000,Leverkusen,1,05316,,
+Aachen,5334002,"Aachen, Stadt",2,05334,,DC rule (DC 05334): ZIP code 52499 is zone 1
+Aachen,5334004,Alsdorf,2,05334,,covered by DC rule!
+Aachen,5334008,Baesweiler,1,05334,52499,covered by DC rule!
+Aachen,5334012,Eschweiler,2,05334,,covered by DC rule!
+Aachen,5334016,Herzogenrath,2,05334,,covered by DC rule!
+Aachen,5334020,Monschau,2,05334,,covered by DC rule!
+Aachen,5334024,Roetgen,2,05334,,covered by DC rule!
+Aachen,5334028,Simmerath,2,05334,,covered by DC rule!
+Aachen,5334032,Stolberg (Rhld.),2,05334,,covered by DC rule!
+Aachen,5334036,Würselen,2,05334,,covered by DC rule!
+Düren,5358004,Aldenhoven,1,05358,,"DC rule (DC 05358): ZIP codes 52349, 52351, 52353, 52355, 52372, 52379, 52385, 52391, 52393, 52396 are zone 1"
+Düren,5358008,Düren,2,05358,"52349, 52351, 52353, 52355",covered by DC rule!
+Düren,5358012,Heimbach,2,05358,52396,covered by DC rule!
+Düren,5358016,Hürtgenwald,2,05358,52393,covered by DC rule!
+Düren,5358020,Inden,1,05358,,covered by DC rule!
+Düren,5358024,Jülich,1,05358,,covered by DC rule!
+Düren,5358028,Kreuzau,2,05358,52372,covered by DC rule!
+Düren,5358032,Langerwehe,2,05358,52379,covered by DC rule!
+Düren,5358036,Linnich,1,05358,,covered by DC rule!
+Düren,5358040,Merzenich,1,05358,,covered by DC rule!
+Düren,5358044,Nideggen,2,05358,52385,covered by DC rule!
+Düren,5358048,Niederzier,1,05358,,covered by DC rule!
+Düren,5358052,Nörvenich,1,05358,,covered by DC rule!
+Düren,5358056,Titz,1,05358,,covered by DC rule!
+Düren,5358060,Vettweiß,2,05358,52391,covered by DC rule!
+Rhein-Erft-Kreis,05362004 bis 05362040,alle,1,05362,,
+Euskirchen,05366004 bis 05366044,alle,2,05366,,
+Heinsberg,05370004 bis 05370040,alle,1,05370,,
+Oberbergischer Kreis,5374004,Bergneustadt,2a,05374,,"DC rule (DC 05378): ZIP codes 42477, 42499, 51766, 51789 are zone 2"
+Oberbergischer Kreis,5374008,Engelskirchen,2,05374,51766,covered by DC rule!
+Oberbergischer Kreis,5374012,Gummersbach,2a,05374,,covered by DC rule!
+Oberbergischer Kreis,5374016,Hückeswagen,2,05374,42499,covered by DC rule!
+Oberbergischer Kreis,5374020,Lindlar,2,05374,51789,covered by DC rule!
+Oberbergischer Kreis,5374024,Marienheide,2a,05374,,covered by DC rule!
+Oberbergischer Kreis,5374028,Morsbach,2a,05374,,covered by DC rule!
+Oberbergischer Kreis,5374032,Nümbrecht,2a,05374,,covered by DC rule!
+Oberbergischer Kreis,5374036,Radevormwald,2,05374,42477,covered by DC rule!
+Oberbergischer Kreis,5374040,Reichshof,2a,05374,,covered by DC rule!
+Oberbergischer Kreis,5374044,Waldbröl,2a,05374,,covered by DC rule!
+Oberbergischer Kreis,5374048,Wiehl,2a,05374,,covered by DC rule!
+Oberbergischer Kreis,5374052,Wipperfürth,2a,05374,,covered by DC rule!
+Rheinisch-Bergischer Kreis,5378004,Bergisch Gladbach,1,05378,,"DC rule (DC 05378): ZIP codes 42929, 51491, 51515 are zone 2"
+Rheinisch-Bergischer Kreis,5378008,Burscheid,1,05378,,covered by DC rule!
+Rheinisch-Bergischer Kreis,5378012,Kürten,2,05378,51515,covered by DC rule!
+Rheinisch-Bergischer Kreis,5378016,Leichlingen (Rhld.),1,05378,,covered by DC rule!
+Rheinisch-Bergischer Kreis,5378020,Odenthal,1,05378,,covered by DC rule!
+Rheinisch-Bergischer Kreis,5378024,Overath,2,05378,51491,covered by DC rule!
+Rheinisch-Bergischer Kreis,5378028,Rösrath,1,05378,,covered by DC rule!
+Rheinisch-Bergischer Kreis,5378032,Wermelskirchen,2,05378,42929,covered by DC rule!
+Rhein-Sieg-Kreis,5382004,Alfter,1,05382,,"DC rule (DC 05382): ZIP codes 51570, 53783, 53804, 53809 are zone 2"
+Rhein-Sieg-Kreis,5382008,Bad Honnef,1,05382,,covered by DC rule!
+Rhein-Sieg-Kreis,5382012,Bornheim,1,05382,,covered by DC rule!
+Rhein-Sieg-Kreis,5382016,Eitorf,2,05382,53783,covered by DC rule!
+Rhein-Sieg-Kreis,5382020,Hennef (Sieg),1,05382,,covered by DC rule!
+Rhein-Sieg-Kreis,5382024,Königswinter,1,05382,,covered by DC rule!
+Rhein-Sieg-Kreis,5382028,Lohmar,1,05382,,covered by DC rule!
+Rhein-Sieg-Kreis,5382032,Meckenheim,1,05382,,covered by DC rule!
+Rhein-Sieg-Kreis,5382036,Much,2,05382,53804,covered by DC rule!
+Rhein-Sieg-Kreis,5382040,Neunkirchen-Seelscheid,2,05382,53819,covered by DC rule!
+Rhein-Sieg-Kreis,5382044,Niederkassel,1,05382,,covered by DC rule!
+Rhein-Sieg-Kreis,5382048,Rheinbach,1,05382,,covered by DC rule!
+Rhein-Sieg-Kreis,5382052,Ruppichteroth,2,05382,53809,covered by DC rule!
+Rhein-Sieg-Kreis,5382056,Sankt Augustin,1,05382,,covered by DC rule!
+Rhein-Sieg-Kreis,5382060,Siegburg,1,05382,,covered by DC rule!
+Rhein-Sieg-Kreis,5382064,Swisttal,1,05382,,covered by DC rule!
+Rhein-Sieg-Kreis,5382068,Troisdorf,1,05382,,covered by DC rule!
+Rhein-Sieg-Kreis,5382072,Wachtberg,1,05382,,covered by DC rule!
+Rhein-Sieg-Kreis,5382076,Windeck,2,05382,51570,covered by DC rule!
+Bottrop,5512000,Bottrop,1,05512,,
+Gelsenkirchen,5513000,Gelsenkirchen,1,05513,,
+Münster,5515000,Münster,1,05515,,
+Borken,05554004 bis 05554068,alle,1,05554,,
+Coesfeld,05558004 bis 05558044,alle,1,05558,,
+Recklinghausen,05562004 bis 05562036,alle,1,05562,,
+Steinfurt,5566004,Altenberge,1,05566,,"DC rule (DC 05566): ZIP codes 49504, 49536 are zone 2"
+Steinfurt,5566008,Emsdetten,1,05566,,covered by DC rule!
+Steinfurt,5566012,Greven,1,05566,,covered by DC rule!
+Steinfurt,5566016,Hörstel,1,05566,,covered by DC rule!
+Steinfurt,5566020,Hopsten,1,05566,,covered by DC rule!
+Steinfurt,5566024,Horstmar,1,05566,,covered by DC rule!
+Steinfurt,5566028,Ibbenbüren,1,05566,,covered by DC rule!
+Steinfurt,5566032,Ladbergen,1,05566,,covered by DC rule!
+Steinfurt,5566036,Laer,1,05566,,covered by DC rule!
+Steinfurt,5566040,Lengerich,1,05566,,covered by DC rule!
+Steinfurt,5566044,Lienen,2,05566,49536,covered by DC rule!
+Steinfurt,5566048,Lotte,2,05566,49504,covered by DC rule!
+Steinfurt,5566052,Metelen,1,05566,,covered by DC rule!
+Steinfurt,5566056,Mettingen,1,05566,,covered by DC rule!
+Steinfurt,5566060,Neuenkirchen,1,05566,,covered by DC rule!
+Steinfurt,5566064,Nordwalde,1,05566,,covered by DC rule!
+Steinfurt,5566068,Ochtrup,1,05566,,covered by DC rule!
+Steinfurt,5566072,Recke,1,05566,,covered by DC rule!
+Steinfurt,5566076,Rheine,1,05566,,covered by DC rule!
+Steinfurt,5566080,Saerbeck,1,05566,,covered by DC rule!
+Steinfurt,5566084,Steinfurt,1,05566,,covered by DC rule!
+Steinfurt,5566088,Tecklenburg,1,05566,,covered by DC rule!
+Steinfurt,5566092,Westerkappeln,1,05566,,covered by DC rule!
+Steinfurt,5566096,Wettringen,1,05566,,covered by DC rule!
+Warendorf,5570004,Ahlen,1,05570,,"DC rule (DC 05570): ZIP codes 48336, 48361, 59302, 59329 are zone 2"
+Warendorf,5570008,Beckum,1,05570,,covered by DC rule!
+Warendorf,5570012,Beelen,2,05570,48361,covered by DC rule!
+Warendorf,5570016,Drensteinfurt,1,05570,,covered by DC rule!
+Warendorf,5570020,Ennigerloh,1,05570,,covered by DC rule!
+Warendorf,5570024,Everswinkel,1,05570,,covered by DC rule!
+Warendorf,5570028,Oelde,2,05570,59302,covered by DC rule!
+Warendorf,5570032,Ostbevern,1,05570,,covered by DC rule!
+Warendorf,5570036,Sassenberg,2,05570,48336,covered by DC rule!
+Warendorf,5570040,Sendenhorst,1,05570,,covered by DC rule!
+Warendorf,5570044,Telgte,1,05570,,covered by DC rule!
+Warendorf,5570048,Wadersloh,2,05570,59329,covered by DC rule!
+Warendorf,5570052,Warendorf,1,05570,,covered by DC rule!
+Bielefeld,5711000,Bielefeld,2,05711,,
+Gütersloh,05754004 bis 05754052,alle,2,05754,,
+Herford,05758004 bis 05754036,alle,2,05758,,
+Höxter,05762004 bis 05762040,alle,2,05762,,
+Lippe,05766004 bis 05766064,alle,2,05766,,
+Minden-Lübbecke,05770004 bis 05770044,alle,2,05770,,
+Paderborn,05774004 bis 05774040,alle,2,05774,,
+Bochum,5911000,Bochum,1,05911,,
+Dortmund,5913000,Dortmund,1,05913,,
+Hagen,5914000,Hagen,2,05914,,
+Hamm,5915000,Hamm,1,05915,,
+Herne,5916000,Herne,1,05916,,
+Ennepe-Ruhr-Kreis,5954004,Breckerfeld,2,05954,58339,"DC rule (DC 05954): all ZIP codes except 58256,58339 are zone 1"
+Ennepe-Ruhr-Kreis,5954008,Ennepetal,2,05954,58256,covered by DC rule!
+Ennepe-Ruhr-Kreis,5954012,Gevelsberg,1,05954,,covered by DC rule!
+Ennepe-Ruhr-Kreis,5954016,Hattingen,1,05954,,covered by DC rule!
+Ennepe-Ruhr-Kreis,5954020,Herdecke,1,05954,,covered by DC rule!
+Ennepe-Ruhr-Kreis,5954024,Schwelm,1,05954,,covered by DC rule!
+Ennepe-Ruhr-Kreis,5954028,Sprockhövel,1,05954,,covered by DC rule!
+Ennepe-Ruhr-Kreis,5954032,Wetter (Ruhr),1,05954,,covered by DC rule!
+Ennepe-Ruhr-Kreis,5954036,Witten,1,05954,,covered by DC rule!
+Hochsauerlandkreis,5958004,Arnsberg,2,05958,"59755,59757,59579,59821,59823","DC rule (DC 05958): all ZIP codes except 59755,59757,59579,59821,59823 are zone 2a; but ZIP code 59955 is are zone 3"
+Hochsauerlandkreis,5958008,Bestwig,2a,05958,,covered by DC rule!
+Hochsauerlandkreis,5958012,Brilon,2a,05958,,covered by DC rule!
+Hochsauerlandkreis,5958016,Eslohe (Sauerland),2a,05958,,covered by DC rule!
+Hochsauerlandkreis,5958020,Hallenberg,2a,05958,,covered by DC rule!
+Hochsauerlandkreis,5958024,Marsberg,2a,05958,,covered by DC rule!
+Hochsauerlandkreis,5958028,Medebach,2a,05958,,covered by DC rule!
+Hochsauerlandkreis,5958032,Meschede,2a,05958,,covered by DC rule!
+Hochsauerlandkreis,5958036,Olsberg,2a,05958,,covered by DC rule!
+Hochsauerlandkreis,5958040,Schmallenberg,2a,05958,,covered by DC rule!
+Hochsauerlandkreis,5958044,Sundern (Sauerland),2a,05958,,covered by DC rule!
+Hochsauerlandkreis,5958048,Winterberg,3,05958,59955,covered by DC rule!
+Märkischer Kreis,5962004,Altena,2a,05962,,"DC rule (DC 05962): ZIP codes 58636,58638,58640,58642,58644,58706,58708,58710 are zone 2"
+Märkischer Kreis,5962008,Balve,2a,05962,,covered by DC rule!
+Märkischer Kreis,5962012,Halver,2a,05962,,covered by DC rule!
+Märkischer Kreis,5962016,Hemer,2a,05962,,covered by DC rule!
+Märkischer Kreis,5962020,Herscheid,2a,05962,,covered by DC rule!
+Märkischer Kreis,5962024,Iserlohn,2,05962,"58636,58638,58640,58642,58644",covered by DC rule!
+Märkischer Kreis,5962028,Kierspe,2a,05962,,covered by DC rule!
+Märkischer Kreis,5962032,Lüdenscheid,2a,05962,,covered by DC rule!
+Märkischer Kreis,5962036,Meinerzhagen,2a,05962,,covered by DC rule!
+Märkischer Kreis,5962040,Menden (Sauerland),2,05962,"58706,58708,58710",covered by DC rule!
+Märkischer Kreis,5962044,Nachrodt-Wiblingwerde,2a,05962,,covered by DC rule!
+Märkischer Kreis,5962048,Neuenrade,2a,05962,,covered by DC rule!
+Märkischer Kreis,5962052,Plettenberg,2a,05962,,covered by DC rule!
+Märkischer Kreis,5962056,Schalksmühle,2a,05962,,covered by DC rule!
+Märkischer Kreis,5962060,Werdohl,2a,05962,,covered by DC rule!
+Olpe,05966004 bis 05966028,alle,2a,05966,,
+Siegen-Wittgenstein,05970004 bis 05970044,"alle, bis auf Bad Berleburg und Erndtebrück = SLZ3",2a,05970,,DC rule (DC 05970): ZIP codes 57319 and 57339 are zone 3
+Soest,5974004,Anröchte,2,05974,,DC rule (DC 05974): ZIP code 59510 is zone 1
+Soest,5974008,Bad Sassendorf,2,05974,,covered by DC rule!
+Soest,5974012,Ense,2,05974,,covered by DC rule!
+Soest,5974016,Erwitte,2,05974,,covered by DC rule!
+Soest,5974020,Geseke,2,05974,,covered by DC rule!
+Soest,5974024,Lippetal,1,05974,59510,covered by DC rule!
+Soest,5974028,Lippstadt,2,05974,,covered by DC rule!
+Soest,5974032,Möhnesee,2,05974,,covered by DC rule!
+Soest,5974036,Rüthen,2,05974,,covered by DC rule!
+Soest,5974040,Soest,2,05974,,covered by DC rule!
+Soest,5974044,Warstein,2,05974,,covered by DC rule!
+Soest,5974048,Welver,2,05974,,covered by DC rule!
+Soest,5974052,Werl,2,05974,,covered by DC rule!
+Soest,5974056,Wickede (Ruhr),2,05974,,covered by DC rule!
+Unna,5978004,Bergkamen,1,05978,,"DC rule (DC 05978): ZIP codes 58239, 58730 are zone 2"
+Unna,5978008,Bönen,1,05978,,covered by DC rule!
+Unna,5978012,Fröndenberg,2,05978,58730,covered by DC rule!
+Unna,5978016,Holzwickede,1,05978,,covered by DC rule!
+Unna,5978020,Kamen,1,05978,,covered by DC rule!
+Unna,5978024,Lünen,1,05978,,covered by DC rule!
+Unna,5978028,Schwerte,2,05978,58239,covered by DC rule!
+Unna,5978032,Selm,1,05978,,covered by DC rule!
+Unna,5978036,Unna,1,05978,,covered by DC rule!
+Unna,5978040,Werne,1,05978,,covered by DC rule!
