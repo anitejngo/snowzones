@@ -25,8 +25,6 @@ def updateSnowload(input_filename, snowload_filename, output_filename):
             if dc in snowload_data:
                 snowload_info = snowload_data[dc]
                 row['snowload'] = snowload_info['snowload']
-                row['comment'] = snowload_info['comment']
-                row['note'] = snowload_info['note']
             result.append(row)
 
     print(len(result), "rows processed")

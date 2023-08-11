@@ -62,11 +62,12 @@ BW,LK Tuttlingen,"Alle Gemeinden, sofern nicht in Schneelastzone 2",1,08327,,DC 
 BW,,"78554 Aldingen, 78586 Deilingen, 78588 Denkingen, 78591 Durchhausen, 78665 Frittlingen, 78559 Gosheim, 78594 Gunningen, 78549 Spaichingen, 78607 Talheim, 78647 Trossingen, 78564 Wehingen",2,08327,,covered by DC rule!
 BW,LK Waldshut,Alle Gemeinden,2,08337,,
 BW,Regierungsbezirk Tübingen:,,,,,
+BW,Ulm,ergänzt,1,08421,,
 BW,Alb-Donau-Kreis,"Alle Gemeinden, sofern nicht in Schneelastzone 1a oder 2",1,08425,,DC rule (default 1)
 BW,,"89176 Asselfingen, 89179 Beimerstetten, 89180 Berghülen, 89182 Bernstadt, 89143 Blaubeuren, 89134 Blaustein, 89177 Börslingen, 89183 Breitingen, 89160 Dornstadt, 89183 Holzkirch, 89129 Langenau, 89189 Neenstetten, 89129 Nerenstetten, 89129 Öllingen, 89192 Rammingen, 89129 Setzingen, 89198 Westerstetten",1a,08425,,covered by DC rule!
 BW,,"89174 Altheim (Alb), 73340 Amstetten, 89177 Ballendorf, 89150 Laichingen, 89173 Lonsee, 89188 Merklingen, 89191 Nellingen, 89197 Weidenstetten, 72589 Westerheim",2,08425,,covered by DC rule!
-BW,LK Biberach,"Alle Gemeinden und Gemeindeteile, sofern nicht in Zone 1a",1,08317,,DC rule (default 1)
-BW,,"88430 Rot a. d. Rot, 88416 Steinhausen a. d. Rottum (nur Gemeindeteile 88416 Steinhausen und 88416 Bellamont), 88436 Eberhardzell (nur Gemeindeteile 88436 Füramoos und 88436 Mühlhausen)",1a,08317,,covered by DC rule! 88416 and 88436 are ambiguous!
+BW,LK Biberach,"Alle Gemeinden und Gemeindeteile, sofern nicht in Zone 1a",1,08426,,DC rule (default 1)
+BW,,"88430 Rot a. d. Rot, 88416 Steinhausen a. d. Rottum (nur Gemeindeteile 88416 Steinhausen und 88416 Bellamont), 88436 Eberhardzell (nur Gemeindeteile 88436 Füramoos und 88436 Mühlhausen)",1a,08426,,covered by DC rule! 88416 and 88436 are ambiguous!
 BW,Bodenseekreis,"Alle Gemeinden, sofern nicht in Schneelastzone 2",1,08435,,DC rule (default 1)
 BW,,"88079 Kressbronn, 88058 Langenargen, 88099 Neukirch, 88069 Tettnang",2,08435,,covered by DC rule!
 BW,LK Ravensburg,"Alle Gemeinden, sofern nicht in Schneelastzone 2 oder 3",1,08436,,DC rule (default 1)
@@ -79,5 +80,3 @@ BW,LK Tübingen,Alle Gemeinden,2,08416,,
 BW,Zollernalbkreis,"72475 Bitz, 72469 Meßstetten (ohne Gemeindeteile Hossingen, Oberdigisheim und Tieringen), 72362 Nusplingen, 72479 Straßberg, 72474 Winterlingen",1,08417,,covered by DC rule!
 BW,,"Alle Gemeinden und Gemeindeteile, sofern nicht in Zone 1",2,08417,,DC rule (default 2)
 BW,Bodensee ,Bodensee,1,08435,,
-,,,,,,
-,,,,,,Die Zuordnung zu den Scheelastzonen hat sich gegenüber der Verwaltungsvorschrift Technische Baubestimmungen vom 20. Dezember 2017 (GABl. S. 656) nicht geändert.
