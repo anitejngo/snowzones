@@ -4,80 +4,80 @@ BW,LK Böblingen,Alle Gemeinden,2,08115,,
 BW,LK Esslingen,Alle Gemeinden,2,08116,,
 BW,LK Göppingen,Alle Gemeinden,2,08117,,
 BW,LK Heidenheim,"89168 Niederstotzingen, 89567 Sontheim an der Brenz",1a,08135,,covered by DC rule!
-BW,,"Alle Gemeinden, sofern nicht in Zone 1a",2,08135,,"DC: 89168, 89567 are zone 2"
+BW,,"Alle Gemeinden, sofern nicht in Zone 1a",2,08135,,DC rule (default 2)
 BW,SK Heilbronn,,2,08121,,
 BW,LK Heilbronn,Alle Gemeinden,2,08125,,
-BW,Hohenlohekreis,"Alle Gemeinden, sofern nicht in Schneelastzone 2",1,08126,,"DC: 74626, 74632, 74613, 74629, 74638, 74639 are zone 2"
+BW,Hohenlohekreis,"Alle Gemeinden, sofern nicht in Schneelastzone 2",1,08126,,DC rule (default 1)
 BW,,"74626 Bretzfeld, 74632 Neuenstein, 74613 Öhringen, 74629 Pfedelbach, 74638 Waldenburg, 74639 Zweiflingen",2,08126,,covered by DC rule!
 BW,LK Ludwigsburg,Alle Gemeinden,2,08118,,
-BW,Main-Tauber-Kreis,"Alle Gemeinden, sofern nicht in Schneelastzone 2",1,08128,,DC:
-BW,,"Freudenberg, Königheim, Külsheim, Wertheim",2,08128,,covered by DC rule!
-BW,Ostalbkreis,"Alle Gemeinden, sofern nicht in Schneelastzone 2a",2,,,
-BW,,"Essingen, Heubach",2a,,,
-BW,Rems-Murr-Kreis,Alle Gemeinden,2,,,
-BW,Schwäbisch Hall,"Blaufelden, Braunsbach, Gerabronn, Kirchberg an der Jagst, Langenburg, Rot am See, Schrozberg",1,,,
-BW,,"Alle Gemeinden, sofern nicht in Schneelastzone 1",2,,,
-BW,SK Stuttgart,,2,,,
+BW,Main-Tauber-Kreis,"Alle Gemeinden, sofern nicht in Schneelastzone 2",1,08128,,DC rule (default 1)
+BW,,"97896 Freudenberg, 97953 Königheim, 97900 Külsheim, 97877 Wertheim",2,08128,,covered by DC rule!
+BW,Ostalbkreis,"Alle Gemeinden, sofern nicht in Schneelastzone 2a",2,08136,,DC rule (default 2)
+BW,,"73457 Essingen, 73540 Heubach",2a,08136,,covered by DC rule!
+BW,Rems-Murr-Kreis,Alle Gemeinden,2,08119,,
+BW,Schwäbisch Hall,"74572 Blaufelden, 74542 Braunsbach, 74582 Gerabronn, 74592 Kirchberg an der Jagst, 74595 Langenburg, 74585 Rot am See, 74575 Schrozberg",1,08127,,covered by DC rule!
+BW,,"Alle Gemeinden, sofern nicht in Schneelastzone 1",2,08127,,DC rule (default 2)
+BW,SK Stuttgart,,2,08111,,
 BW,Regierungsbezirk Karlsruhe:,,,,,
-BW,SK Baden-Baden,,1,,,
-BW,Calw,Alle Gemeinden,2,,,
-BW,Enzkreis,Alle Gemeinden,2,,,
-BW,LK Freudenstadt,"Alle Gemeinden, sofern nicht in Schneelastzone 2a",2,,,
-BW,,"Bad Rippoldsau-Schapbach, Baiersbronn, Freudenstadt, Loßburg",2a,,,
-BW,SK Heidelberg,,1,,,
-BW,SK Karlsruhe,,1,,,
-BW,LK Karlsruhe,"Alle Gemeinden, sofern nicht in Schneelastzone 2",1,,,
-BW,,"Bretten, Karlsbad, Kürnbach, Marxzell, Oberderdingen, Sulzfeld, Zaisenhausen",2,,,
-BW,SK Mannheim,,1,,,
-BW,Neckar-Odenwald-Kreis,Ravenstein,1,,,
-BW,,"Alle Gemeinden, sofern nicht in Schneelastzone 1",2,,,
-BW,SK Pforzheim,,2,,,
-BW,LK Rastatt,"Alle Gemeinden, sofern nicht in Schneelastzone 2",1,,,
-BW,,"Forbach, Gaggenau, Gernsbach, Loffenau, Weisenbach",2,,,
-BW,Rhein-Neckar-Kreis,"Alle Gemeinden, sofern nicht in Schneelastzone 2",1,,,
-BW,,"Angelbachtal, Bammental, Dielheim, Eberbach, Epfenbach, Eschelbronn, Heddesbach,
-Heiligkreuzsteinach, Helmstadt-Bargen, Lobbach, Mauer, Meckesheim,
-Neckarbischofsheim, Neckargemünd, Neidenstein, Reichartshausen, Schönau,
-Schönbrunn, Sinsheim, Spechbach, Waibstadt, Wiesenbach, Wilhelmsfeld, Zuzenhausen",2,,,
+BW,SK Baden-Baden,,1,08211,,
+BW,Calw,Alle Gemeinden,2,08235,,
+BW,Enzkreis,Alle Gemeinden,2,08236,,
+BW,LK Freudenstadt,"Alle Gemeinden, sofern nicht in Schneelastzone 2a",2,08237,,DC rule (default 2)
+BW,,"77776 Bad Rippoldsau-Schapbach, 72270 Baiersbronn, 72250 Freudenstadt, 72290 Loßburg",2a,08237,,covered by DC rule!
+BW,SK Heidelberg,,1,08221,,
+BW,SK Karlsruhe,,1,08212,,
+BW,LK Karlsruhe,"Alle Gemeinden, sofern nicht in Schneelastzone 2",1,08215,,DC rule (default 1)
+BW,,"75015 Bretten, 76307 Karlsbad, 75057 Kürnbach, 76359 Marxzell, 75038 Oberderdingen, 75056 Sulzfeld, 75059 Zaisenhausen",2,08215,,covered by DC rule!
+BW,SK Mannheim,,1,08222,,
+BW,Neckar-Odenwald-Kreis,74747 Ravenstein,1,08225,,covered by DC rule!
+BW,,"Alle Gemeinden, sofern nicht in Schneelastzone 1",2,08225,,DC rule (default 2)
+BW,SK Pforzheim,,2,08231,,
+BW,LK Rastatt,"Alle Gemeinden, sofern nicht in Schneelastzone 2",1,08216,,DC rule (default 1)
+BW,,"76596 Forbach, 76571 Gaggenau, 76593 Gernsbach, 76597 Loffenau, 76599 Weisenbach",2,08216,,covered by DC rule!
+BW,Rhein-Neckar-Kreis,"Alle Gemeinden, sofern nicht in Schneelastzone 2",1,08226,,DC rule (default 1)
+BW,,"74918 Angelbachtal, 69245 Bammental, 69234 Dielheim, 69412 Eberbach, 74925 Epfenbach, 74927 Eschelbronn, 69434 Heddesbach,
+69253 Heiligkreuzsteinach, 74921 Helmstadt-Bargen, 74931 Lobbach, 69256 Mauer, 74909 Meckesheim,
+74924 Neckarbischofsheim, 69151 Neckargemünd, 74933 Neidenstein, 74934 Reichartshausen, 69250 Schönau,
+69436 Schönbrunn, 74889 Sinsheim, 74937 Spechbach, 74915 Waibstadt, 69257 Wiesenbach, 69259 Wilhelmsfeld, 74939 Zuzenhausen",2,08226,,covered by DC rule!
 BW,Regierungsbezirk Freiburg:,,,,,
-BW,SK Freiburg im Breisgau,,2,,,
-BW,LK Breisgau-Hochschwarzwald,"Au, Auggen, Badenweiler, Bad Krozingen, Ballrechten-Dottingen, Bötzingen, Breisach a.
-Rhein, Buggingen, Ebringen, Ehrenkirchen, Eichstetten a. Kaiserstuhl, Eschbach,
-Gottenheim, Gundelfingen, Hartheim, Heitersheim, Ihringen, March, Merdingen,
-Merzhausen, Müllheim, Neuenburg a. Rhein, Pfaffenweiler, Schallstadt, Staufen i. Breisgau,
-Sulzburg, Umkirch, Vogtsburg i. KaiserstuhlAlle Gemeinden, sofern nicht in Schneelastzone 2",2,,,
-BW,,"Alle Gemeinden, sofern nicht in Schneelastzone 2",2a,,,
-BW,LK Emmendingen,Alle Gemeinden,2,,,
-BW,LK Konstanz,Alle Gemeinden,1,,,
-BW,LK Lörrach,Alle Gemeinden,2,,,
-BW,Ortenaukreis,"Achern, Appenweier, Friesenheim, Hohberg, Kappel-Grafenhausen, Kappelrodeck, Kehl,
-Kippenheim, Lahr, Lauf, Mahlberg, Meißenheim, Neuried, Offenburg, Ortenberg, Renchen,
-Rheinau, Ringsheim, Rust, Sasbach, Schutterwald, Schwanau, Willstätt,
-gemeindefreier Grundbesitz (Rheinauer Wald)",1,,,
-BW,,"Alle Gemeinden, sofern nicht in Schneelastzone 1",2,,,
-BW,LK Rottweil,Alle Gemeinden,2,,,
-BW,Schwarzwald-Baar-Kreis,"Alle Gemeinden, sofern nicht in Schneelastzone 2a",2,,,
-BW,,"Schönwald, Schonach, Triberg",2a,,,
-BW,LK Tuttlingen,"Alle Gemeinden, sofern nicht in Schneelastzone 2",1,,,
-BW,,"Aldingen, Deilingen, Denkingen, Durchhausen, Frittlingen, Gosheim, Gunningen, Spaichingen, Talheim, Trossingen, Wehingen",2,,,
-BW,LK Waldshut,Alle Gemeinden,2,,,
+BW,SK Freiburg im Breisgau,,2,08311,,
+BW,LK Breisgau-Hochschwarzwald,"79280 Au, 79424 Auggen, 79410 Badenweiler, 79189 Bad Krozingen, 79282 Ballrechten-Dottingen, 79268 Bötzingen, 79206 Breisach a.
+Rhein, 79426 Buggingen, 79285 Ebringen, 79238 Ehrenkirchen, 79356 Eichstetten a. Kaiserstuhl, 79427 Eschbach,
+79288 Gottenheim, 79194 Gundelfingen, 79258 Hartheim, 79423 Heitersheim, 79241 Ihringen, 79232 March, 79291 Merdingen,
+79249 Merzhausen, 79379 Müllheim, 79395 Neuenburg a. Rhein, 79292 Pfaffenweiler, 79227 Schallstadt, 79219 Staufen i. Breisgau,
+79295 Sulzburg, 79224 Umkirch, 79235 Vogtsburg i. Kaiserstuhl",2,08315,,covered by DC rule!
+BW,,"Alle Gemeinden, sofern nicht in Schneelastzone 2",2a,08315,,DC rule (default 2a)
+BW,LK Emmendingen,Alle Gemeinden,2,08316,,
+BW,LK Konstanz,Alle Gemeinden,1,08335,,
+BW,LK Lörrach,Alle Gemeinden,2,08336,,
+BW,Ortenaukreis,"77855 Achern, 77767 Appenweier, 77948 Friesenheim, 77749 Hohberg, 77966 Kappel-Grafenhausen, 77876 Kappelrodeck, 77694 Kehl,
+77971 Kippenheim, 77933 Lahr, 77886 Lauf, 77972 Mahlberg, 77974 Meißenheim, 77743 Neuried, 77652-77656 Offenburg, 77799 Ortenberg, 77871 Renchen,
+77866 Rheinau, 77975 Ringsheim, 77977 Rust, 77880 Sasbach, 77746 Schutterwald, 77963 Schwanau, 77731 Willstätt,
+77966 gemeindefreier Grundbesitz (Rheinauer Wald)",1,08317,,covered by DC rule!
+BW,,"Alle Gemeinden, sofern nicht in Schneelastzone 1",2,08317,,DC rule (default 2)
+BW,LK Rottweil,Alle Gemeinden,2,08325,,
+BW,Schwarzwald-Baar-Kreis,"Alle Gemeinden, sofern nicht in Schneelastzone 2a",2,08326,,DC rule (default 2)
+BW,,"78141 Schönwald, 78136 Schonach, 78098 Triberg",2a,08326,,covered by DC rule!
+BW,LK Tuttlingen,"Alle Gemeinden, sofern nicht in Schneelastzone 2",1,08327,,DC rule (default 1)
+BW,,"78554 Aldingen, 78586 Deilingen, 78588 Denkingen, 78591 Durchhausen, 78665 Frittlingen, 78559 Gosheim, 78594 Gunningen, 78549 Spaichingen, 78607 Talheim, 78647 Trossingen, 78564 Wehingen",2,08327,,covered by DC rule!
+BW,LK Waldshut,Alle Gemeinden,2,08337,,
 BW,Regierungsbezirk Tübingen:,,,,,
-BW,Alb-Donau-Kreis,"Alle Gemeinden, sofern nicht in Schneelastzone 1a oder 2",1,,,
-BW,,"Asselfingen, Beimerstetten, Berghülen, Bernstadt, Blaubeuren, Blaustein, Börslingen, Breitingen, Dornstadt, Holzkirch, Langenau, Neenstetten, Nerenstetten, Öllingen, Rammingen, Setzingen, Westerstetten",1a,,,
-BW,,"Altheim (Alb), Amstetten, Ballendorf, Laichingen, Lonsee, Merklingen, Nellingen, Weidenstetten, Westerheim",2,,,
-BW,LK Biberach,"Alle Gemeinden und Gemeindeteile, sofern nicht in Zone 1a",1,,,
-BW,,"Rot a. d. Rot, Steinhausen a. d. Rottum (nur Gemeindeteile Steinhausen und Bellamont), Eberhardzell (nur Gemeindeteile Füramoos und Mühlhausen)",1a,,,
-BW,Bodenseekreis,"Alle Gemeinden, sofern nicht in Schneelastzone 2",1,,,
-BW,,"Kressbronn, Langenargen, Neukirch, Tettnang",2,,,
-BW,LK Ravensburg,"Alle Gemeinden, sofern nicht in Schneelastzone 2 oder 3",1,,,
-BW,,"Achberg, Aichstetten, Aitrach, Amtzell, Bad Wurzach, Bodnegg, Grünkraut, Schlier, Vogt, Waldburg, Wolfegg",2,,,
-BW,,"Argenbühl, Isny, Kißleg, Leutkirch i. Allgäu, Wangen i. Allgäu",3,,,
-BW,LK Reutlingen,"Gomadingen, Hayingen, Hohenstein, Mehrstetten, Münsingen, Pfronstetten, Trochtelfingen, Zwiefalten",1,,,
-BW,,"Alle Gemeinden, sofern nicht in Schneelastzone 1",2,,,
-BW,LK Sigmaringen,Alle Gemeinden,1,,,
-BW,LK Tübingen,Alle Gemeinden,2,,,
-BW,Zollernalbkreis,"Bitz, Meßstetten (ohne Gemeindeteile Hossingen, Oberdigisheim und Tieringen), Nusplingen, Straßberg, Winterlingen",1,,,
-BW,,"Alle Gemeinden und Gemeindeteile, sofern nicht in Zone 1",2,,,
-BW,Bodensee ,Bodensee,1,,,
+BW,Alb-Donau-Kreis,"Alle Gemeinden, sofern nicht in Schneelastzone 1a oder 2",1,08425,,DC rule (default 1)
+BW,,"89176 Asselfingen, 89179 Beimerstetten, 89180 Berghülen, 89182 Bernstadt, 89143 Blaubeuren, 89134 Blaustein, 89177 Börslingen, 89183 Breitingen, 89160 Dornstadt, 89183 Holzkirch, 89129 Langenau, 89189 Neenstetten, 89129 Nerenstetten, 89129 Öllingen, 89192 Rammingen, 89129 Setzingen, 89198 Westerstetten",1a,08425,,covered by DC rule!
+BW,,"89174 Altheim (Alb), 73340 Amstetten, 89177 Ballendorf, 89150 Laichingen, 89173 Lonsee, 89188 Merklingen, 89191 Nellingen, 89197 Weidenstetten, 72589 Westerheim",2,08425,,covered by DC rule!
+BW,LK Biberach,"Alle Gemeinden und Gemeindeteile, sofern nicht in Zone 1a",1,08317,,DC rule (default 1)
+BW,,"88430 Rot a. d. Rot, 88416 Steinhausen a. d. Rottum (nur Gemeindeteile 88416 Steinhausen und 88416 Bellamont), 88436 Eberhardzell (nur Gemeindeteile 88436 Füramoos und 88436 Mühlhausen)",1a,08317,,covered by DC rule! 88416 and 88436 are ambiguous!
+BW,Bodenseekreis,"Alle Gemeinden, sofern nicht in Schneelastzone 2",1,08435,,DC rule (default 1)
+BW,,"88079 Kressbronn, 88058 Langenargen, 88099 Neukirch, 88069 Tettnang",2,08435,,covered by DC rule!
+BW,LK Ravensburg,"Alle Gemeinden, sofern nicht in Schneelastzone 2 oder 3",1,08436,,DC rule (default 1)
+BW,,"88147 Achberg, 88317 Aichstetten, 88319 Aitrach, 88279 Amtzell, 88410 Bad Wurzach, 88285 Bodnegg, 88287 Grünkraut, 88281 Schlier, 88267 Vogt, 88289 Waldburg, 88364 Wolfegg",2,08436,,covered by DC rule!
+BW,,"88260 Argenbühl, 88316 Isny, 88353 Kißleg, 88299 Leutkirch i. Allgäu, 88239 Wangen i. Allgäu",3,08436,,covered by DC rule!
+BW,LK Reutlingen,"72532 Gomadingen, 72534 Hayingen, 72531 Hohenstein, 72537 Mehrstetten, 72525 Münsingen, 72539 Pfronstetten, 72818 Trochtelfingen, 88529 Zwiefalten",1,08415,,covered by DC rule!
+BW,,"Alle Gemeinden, sofern nicht in Schneelastzone 1",2,08415,,DC rule (default 2)
+BW,LK Sigmaringen,Alle Gemeinden,1,08437,,
+BW,LK Tübingen,Alle Gemeinden,2,08416,,
+BW,Zollernalbkreis,"72475 Bitz, 72469 Meßstetten (ohne Gemeindeteile Hossingen, Oberdigisheim und Tieringen), 72362 Nusplingen, 72479 Straßberg, 72474 Winterlingen",1,08417,,covered by DC rule!
+BW,,"Alle Gemeinden und Gemeindeteile, sofern nicht in Zone 1",2,08417,,DC rule (default 2)
+BW,Bodensee ,Bodensee,1,08435,,
 ,,,,,,
-Die Zuordnung zu den Scheelastzonen hat sich gegenüber der Verwaltungsvorschrift Technische Baubestimmungen vom 20. Dezember 2017 (GABl. S. 656) nicht geändert.,,,,,,
+,,,,,,Die Zuordnung zu den Scheelastzonen hat sich gegenüber der Verwaltungsvorschrift Technische Baubestimmungen vom 20. Dezember 2017 (GABl. S. 656) nicht geändert.

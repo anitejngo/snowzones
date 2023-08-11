@@ -11,8 +11,6 @@ def updateSnowload(input_filename, snowload_filename, output_filename):
         for row in reader:
             snowload_data[row['DC']] = {
                 'snowload': row['Schneelastzone'],
-                'comment': row['comments'] if 'comments' in row else '',
-                'note': row['Fußnote(n)'] if 'Fußnote(n)' in row else ''
             }
 
     print("Snowload data loaded:", len(snowload_data))

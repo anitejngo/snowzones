@@ -1,19 +1,26 @@
 import csv
 
+def is_within_range(number, range_string):
+    start, end = map(str, range_string.split('-'))
+    return start <= number <= end
+
+def is_within_comma_separated_range(number, range_string):
+    numbers = range_string.split(',')
+    return number in numbers
+
 def updateSnowload(input_filename, snowload_filename, output_filename):
     print("Start")
 
-    snowload_data = {}
+    snowload_data = []
 
     # Read the snowload data from the snowload file
     with open(snowload_filename, 'r', newline='', encoding="utf-8") as csvfile:
         reader = csv.DictReader(csvfile, delimiter=',')
         for row in reader:
-            snowload_data[row['DC']] = {
-                'snowload': row['Schneelastzone'],
-            }
+            snowload_data.append(row)
 
     print("Snowload data loaded:", len(snowload_data))
+
 
     result = []
 
@@ -21,12 +28,21 @@ def updateSnowload(input_filename, snowload_filename, output_filename):
     with open(input_filename, 'r', encoding="utf-8") as csvfile:
         reader = csv.DictReader(csvfile, delimiter=',')
         for row in reader:
-            dc = row['dc']
-            if dc in snowload_data:
-                snowload_info = snowload_data[dc]
-                row['snowload'] = snowload_info['snowload']
-                row['comment'] = snowload_info['comment']
-                row['note'] = snowload_info['note']
+            zipcode = row['zipcode']
+
+            for zipRow in snowload_data:
+                zipCodeInData = zipRow['ZIP code']
+                if '-' in zipCodeInData:
+                    if is_within_range(zipcode,zipCodeInData):
+                        row['snowload'] = zipRow['snow zone']
+                elif ',' in zipCodeInData:
+                    if is_within_comma_separated_range(zipcode,zipCodeInData):
+                        row['snowload'] = zipRow['snow zone']
+                else:
+                    if zipcode == zipRow['ZIP code']:
+                        row['snowload'] = zipRow['snow zone']
+
+
             result.append(row)
 
     print(len(result), "rows processed")
@@ -41,7 +57,7 @@ def updateSnowload(input_filename, snowload_filename, output_filename):
 
 # Provide the input and output filenames
 _zipcode_city_dc_snowload = "_zipcode_city_dc_snowload.csv"
-_snowload_data = "csvData/BB12.csv"
+_snowload_data = "csvData/zip2zone.csv"
 _result = "_zipcode_city_dc_snowload.csv"
 
 # Call the function to update the snowload values

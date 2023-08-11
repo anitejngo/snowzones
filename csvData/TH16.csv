@@ -1,576 +1,576 @@
-Land,Landkreis,Gemeinde-schlüssel,Gemeinde,Schneelastzone,Fußnote(n),DC,ZIP,comments
-TH,Erfurt,16051000,Erfurt,2,,16051,,
-TH,Gera,16052000,Gera,2,,16052,,
-TH,Jena,16053000,Jena,2,,16053,,
-TH,Suhl,16054000,Suhl,2,,16054,,
-TH,Weimar,16055000,Weimar,2,,16055,,
-TH,Eisenach,16056000,Eisenach,3,,16056,,
-TH,Eichsfeld,16061001,Arenshausen,2,,16061,37318,DC rule (DC 16061): tbd.
-TH,Eichsfeld,16061002,Asbach-Sickenberg,3,,16061,37318,covered by DC rule!
-TH,Eichsfeld,16061003,Berlingerode,2,,16061,37339,covered by DC rule!
-TH,Eichsfeld,16061004,Bernterode (bei Heilbad Heiligenstadt),2,,16061,37308,covered by DC rule!
-TH,Eichsfeld,16061005,Bernterode (bei Worbis),2,,16061,37355,covered by DC rule!
-TH,Eichsfeld,16061007,Birkenfelde,2,,16061,37318,covered by DC rule!
-TH,Eichsfeld,16061009,Bischofferode,2,,16061,37345,covered by DC rule!
-TH,Eichsfeld,16061011,Bockelnhagen,2,,16061,37345,covered by DC rule!
-TH,Eichsfeld,16061012,Bodenrode-Westhausen,2,,16061,37308,covered by DC rule!
-TH,Eichsfeld,16061014,Bornhagen,3,,16061,37318,covered by DC rule!
-TH,Eichsfeld,16061015,Brehme,2,,16061,37339,covered by DC rule!
-TH,Eichsfeld,16061017,Breitenworbis,2,,16061,37339,covered by DC rule!
-TH,Eichsfeld,16061018,Büttstedt,2,,16061,37359,covered by DC rule!
-TH,Eichsfeld,16061019,Buhla,2,,16061,37339,covered by DC rule!
-TH,Eichsfeld,16061021,Burgwalde,2,,16061,37318,covered by DC rule!
-TH,Eichsfeld,16061022,Deuna,2,,16061,37355,covered by DC rule!
-TH,Eichsfeld,16061023,Dieterode,3,,16061,37318,covered by DC rule!
-TH,Eichsfeld,16061024,Dietzenrode/Vatterode,3,,16061,37318,covered by DC rule!
-TH,Eichsfeld,16061025,Dingelstädt,2,,16061,37351,covered by DC rule!
-TH,Eichsfeld,16061026,Ecklingerode,2,,16061,37339,covered by DC rule!
-TH,Eichsfeld,16061027,Effelder,2,,16061,37359,covered by DC rule!
-TH,Eichsfeld,16061028,Eichstruth,3,,16061,37318,covered by DC rule!
-TH,Eichsfeld,16061031,Ferna,2,,16061,37339,covered by DC rule!
-TH,Eichsfeld,16061032,Freienhagen,2,,16061,37318,covered by DC rule!
-TH,Eichsfeld,16061033,Fretterode,3,,16061,37318,covered by DC rule!
-TH,Eichsfeld,16061034,Geisleden,2,,16061,37308,covered by DC rule!
-TH,Eichsfeld,16061035,Geismar,3,,16061,37308,covered by DC rule!
-TH,Eichsfeld,16061036,Gerbershausen,3,,16061,37318,covered by DC rule!
-TH,Eichsfeld,16061037,Gernrode,2,,16061,37339,covered by DC rule!
-TH,Eichsfeld,16061038,Gerterode,2,,16061,37355,covered by DC rule!
-TH,Eichsfeld,16061039,Glasehausen,2,,16061,37308,covered by DC rule!
-TH,Eichsfeld,16061041,Großbartloff,2,,16061,37359,covered by DC rule!
-TH,Eichsfeld,16061042,Großbodungen,2,,16061,37345,covered by DC rule!
-TH,Eichsfeld,16061043,Hausen,2,,16061,37327,covered by DC rule!
-TH,Eichsfeld,16061044,Haynrode,2,,16061,37339,covered by DC rule!
-TH,Eichsfeld,16061045,Heilbad Heiligenstadt,2,,16061,37308,covered by DC rule!
-TH,Eichsfeld,16061046,Helmsdorf,2,,16061,37351,covered by DC rule!
-TH,Eichsfeld,16061047,Heuthen,2,,16061,37308,covered by DC rule!
-TH,Eichsfeld,16061048,Hohengandern,2,,16061,37318,covered by DC rule!
-TH,Eichsfeld,16061049,Hohes Kreuz,2,,16061,37308,covered by DC rule!
-TH,Eichsfeld,16061051,Holungen,2,,16061,37345,covered by DC rule!
-TH,Eichsfeld,16061052,Hundeshagen,2,,16061,37339,covered by DC rule!
-TH,Eichsfeld,16061053,Jützenbach,2,,16061,37345,covered by DC rule!
-TH,Eichsfeld,16061054,Kallmerode,2,,16061,37327,covered by DC rule!
-TH,Eichsfeld,16061055,Kefferhausen,2,,16061,37351,covered by DC rule!
-TH,Eichsfeld,16061056,Kella,3,,16061,37308,covered by DC rule!
-TH,Eichsfeld,16061057,Kirchgandern,2,,16061,37318,covered by DC rule!
-TH,Eichsfeld,16061058,Kirchworbis,2,,16061,37339,covered by DC rule!
-TH,Eichsfeld,16061059,Kleinbartloff,2,,16061,37355,covered by DC rule!
-TH,Eichsfeld,16061061,Kreuzebra,2,,16061,37351,covered by DC rule!
-TH,Eichsfeld,16061062,Krombach,2,,16061,37308,covered by DC rule!
-TH,Eichsfeld,16061063,Küllstedt,2,,16061,37359,covered by DC rule!
-TH,Eichsfeld,16061,Leinefelde-Worbis,2,,16061,37327 bis 37339,covered by DC rule!
-TH,Eichsfeld,16061065,Lenterode,2,,16061,37318,covered by DC rule!
-TH,Eichsfeld,16061066,Lindewerra,3,,16061,37318,covered by DC rule!
-TH,Eichsfeld,16061067,Lutter,2,,16061,37318,covered by DC rule!
-TH,Eichsfeld,16061068,Mackenrode,3,,16061,37318,covered by DC rule!
-TH,Eichsfeld,16061069,Marth,2,,16061,37318,covered by DC rule!
-TH,Eichsfeld,16061073,Neustadt,2,,16061,37354,covered by DC rule!
-TH,Eichsfeld,16061074,Niederorschel,2,,16061,37355,covered by DC rule!
-TH,Eichsfeld,16061075,Pfaffschwende,3,,16061,37308,covered by DC rule!
-TH,Eichsfeld,16061076,Reinholterode,2,,16061,37308,covered by DC rule!
-TH,Eichsfeld,16061077,Röhrig,3,,16061,37318,covered by DC rule!
-TH,Eichsfeld,16061078,Rohrberg,2,,16061,37318,covered by DC rule!
-TH,Eichsfeld,16061082,Rustenfelde,2,,16061,37318,covered by DC rule!
-TH,Eichsfeld,16061083,Schachtebich,2,,16061,37318,covered by DC rule!
-TH,Eichsfeld,16061084,Schönhagen,3,,16061,37318,covered by DC rule!
-TH,Eichsfeld,16061085,Schwobfeld,3,,16061,37318,covered by DC rule!
-TH,Eichsfeld,16061086,Sickerode,3,,16061,37308,covered by DC rule!
-TH,Eichsfeld,16061087,Silberhausen,2,,16061,37351,covered by DC rule!
-TH,Eichsfeld,16061088,Silkerode,2,,16061,37345,covered by DC rule!
-TH,Eichsfeld,16061089,Steinbach,2,,16061,37308,covered by DC rule!
-TH,Eichsfeld,16061091,Steinheuterode,2,,16061,37318,covered by DC rule!
-TH,Eichsfeld,16061092,Steinrode,2,,16061,37345,covered by DC rule!
-TH,Eichsfeld,16061093,Stöckey,2,,16061,37345,covered by DC rule!
-TH,Eichsfeld,16061094,Tastungen,2,,16061,37339,covered by DC rule!
-TH,Eichsfeld,16061096,Thalwenden,2,,16061,37318,covered by DC rule!
-TH,Eichsfeld,16061097,Uder,2,,16061,37318,covered by DC rule!
-TH,Eichsfeld,16061098,Volkerode,3,,16061,37308,covered by DC rule!
-TH,Eichsfeld,16061099,Vollenborn,2,,16061,37355,covered by DC rule!
-TH,Eichsfeld,16061101,Wachstedt,2,,16061,37359,covered by DC rule!
-TH,Eichsfeld,16061102,Wahlhausen,3,,16061,37318,covered by DC rule!
-TH,Eichsfeld,16061103,Wehnde,2,,16061,37339,covered by DC rule!
-TH,Eichsfeld,16061104,Weißenborn-Lüderode,2,,16061,37345,covered by DC rule!
-TH,Eichsfeld,16061105,Wiesenfeld,3,,16061,37308,covered by DC rule!
-TH,Eichsfeld,16061107,Wingerode,2,,16061,37327,covered by DC rule!
-TH,Eichsfeld,16061111,Wüstheuterode,3,,16061,37318,covered by DC rule!
-TH,Eichsfeld,16061112,Zwinge,2,,16061,37345,covered by DC rule!
-TH,Eichsfeld,16061113,Schimberg,3,,16061,37308,covered by DC rule!
-TH,Eichsfeld,16061114,Teistungen,2,,16061,37339,covered by DC rule!
-TH,Nordhausen,16062001,Auleben,2,,16062,,"DC rule (DC 16062): ZIP codes named are zone 3, others zone 2"
-TH,Nordhausen,16062002,Bleicherode,2,,16062,99752,covered by DC rule!
-TH,Nordhausen,16062004,Buchholz,3,,16062,,covered by DC rule!
-TH,Nordhausen,16062005,Ellrich,3,,16062,99755,covered by DC rule!
-TH,Nordhausen,16062006,Etzelsrode,2,,16062,,covered by DC rule!
-TH,Nordhausen,16062007,Friedrichsthal,2,,16062,,covered by DC rule!
-TH,Nordhausen,16062008,Görsbach,2,,16062,99765,covered by DC rule!
-TH,Nordhausen,16062009,Großlohra,2,,16062,99759,covered by DC rule!
-TH,Nordhausen,16062014,Hainrode/Hainleite,2,,16062,,covered by DC rule!
-TH,Nordhausen,16062015,Hamma,2,,16062,,covered by DC rule!
-TH,Nordhausen,16062016,Harzungen,3,,16062,,covered by DC rule!
-TH,Nordhausen,16062017,Heringen/Helme,2,,16062,99765,covered by DC rule!
-TH,Nordhausen,16062018,Herrmannsacker,3,,16062,,covered by DC rule!
-TH,Nordhausen,16062022,Ilfeld,3,,16062,,covered by DC rule!
-TH,Nordhausen,16062024,Kehmstedt,2,,16062,99752,covered by DC rule!
-TH,Nordhausen,16062025,Kleinbodungen,2,,16062,,covered by DC rule!
-TH,Nordhausen,16062026,Kleinfurra,2,,16062,99735,covered by DC rule!
-TH,Nordhausen,16062029,Kraja,2,,16062,,covered by DC rule!
-TH,Nordhausen,16062033,Lipprechterode,2,,16062,99752,covered by DC rule!
-TH,Nordhausen,16062036,Neustadt/Harz,3,,16062,,covered by DC rule!
-TH,Nordhausen,16062037,Niedergebra,2,,16062,99759,covered by DC rule!
-TH,Nordhausen,16062038,Niedersachswerfen,3,,16062,,covered by DC rule!
-TH,Nordhausen,16062039,Nohra,2,,16062,,covered by DC rule!
-TH,Nordhausen,16062041,Nordhausen,2,,16062,99734,covered by DC rule!
-TH,Nordhausen,16062042,Obergebra,2,,16062,,covered by DC rule!
-TH,Nordhausen,16062044,Petersdorf,3,,16062,,covered by DC rule!
-TH,Nordhausen,16062046,Rehungen,2,,16062,,covered by DC rule!
-TH,Nordhausen,16062047,Rodishain,3,,16062,,covered by DC rule!
-TH,Nordhausen,16062049,Sollstedt,2,,16062,99759,covered by DC rule!
-TH,Nordhausen,16062052,Stempeda,2,,16062,,covered by DC rule!
-TH,Nordhausen,16062054,Urbach,2,,16062,99765,covered by DC rule!
-TH,Nordhausen,16062055,Uthleben,2,,16062,,covered by DC rule!
-TH,Nordhausen,16062057,Windehausen,2,,16062,,covered by DC rule!
-TH,Nordhausen,16062058,Wipperdorf,2,,16062,,covered by DC rule!
-TH,Nordhausen,16062059,Wolkramshausen,2,,16062,,covered by DC rule!
-TH,Nordhausen,16062062,Hohenstein,3,,16062,99755,covered by DC rule!
-TH,Nordhausen,16062063,Werther,2,,16062,99735,covered by DC rule!
-TH,Wartburgkreis,16063001,Andenhausen,2,,16063,,"DC rule (DC 16063): ZIP codes named are zone 3, others zone 2"
-TH,Wartburgkreis,16063002,Bad Liebenstein,3,,16063,,covered by DC rule!
-TH,Wartburgkreis,16063003,Bad Salzungen,2,,16063,,covered by DC rule!
-TH,Wartburgkreis,16063004,Barchfeld,2,,16063,,covered by DC rule!
-TH,Wartburgkreis,16063006,Berka v.d.Hainich,3,,16063,,covered by DC rule!
-TH,Wartburgkreis,16063007,Berka/Werra,2,,16063,,covered by DC rule!
-TH,Wartburgkreis,16063008,Bischofroda,3,,16063,,covered by DC rule!
-TH,Wartburgkreis,16063009,Brunnhartshausen,2,,16063,,covered by DC rule!
-TH,Wartburgkreis,16063011,Buttlar,2,,16063,,covered by DC rule!
-TH,Wartburgkreis,16063013,Creuzburg,3,,16063,,covered by DC rule!
-TH,Wartburgkreis,16063014,Dankmarshausen,2,,16063,,covered by DC rule!
-TH,Wartburgkreis,16063015,Dermbach,2,,16063,,covered by DC rule!
-TH,Wartburgkreis,16063016,Diedorf/Rhön,2,,16063,,covered by DC rule!
-TH,Wartburgkreis,16063017,Dippach,2,,16063,,covered by DC rule!
-TH,Wartburgkreis,16063018,Dorndorf,2,,16063,,covered by DC rule!
-TH,Wartburgkreis,16063019,Ebenshausen,3,,16063,,covered by DC rule!
-TH,Wartburgkreis,16063023,Empfertshausen,2,,16063,,covered by DC rule!
-TH,Wartburgkreis,16063024,Ettenhausen a.d.Suhl,3,,16063,,covered by DC rule!
-TH,Wartburgkreis,16063026,Fischbach/Rhön,2,,16063,,covered by DC rule!
-TH,Wartburgkreis,16063028,Frankenroda,3,,16063,,covered by DC rule!
-TH,Wartburgkreis,16063029,Frauensee,2,,16063,,covered by DC rule!
-TH,Wartburgkreis,16063032,Geisa,2,,16063,,covered by DC rule!
-TH,Wartburgkreis,16063033,Gerstengrund,2,,16063,,covered by DC rule!
-TH,Wartburgkreis,16063097,Gerstungen,2,,16063,,covered by DC rule!
-TH,Wartburgkreis,16063036,Großensee,2,,16063,,covered by DC rule!
-TH,Wartburgkreis,16063037,Hallungen,3,,16063,,covered by DC rule!
-TH,Wartburgkreis,16063039,Ifta,3,,16063,,covered by DC rule!
-TH,Wartburgkreis,16063041,Immelborn,2,,16063,,covered by DC rule!
-TH,Wartburgkreis,16063043,Kaltenlengsfeld,2,,16063,,covered by DC rule!
-TH,Wartburgkreis,16063044,Kaltennordheim,2,,16063,,covered by DC rule!
-TH,Wartburgkreis,16063045,Klings,2,,16063,,covered by DC rule!
-TH,Wartburgkreis,16063046,Krauthausen,3,,16063,,covered by DC rule!
-TH,Wartburgkreis,16063049,Lauterbach,3,,16063,,covered by DC rule!
-TH,Wartburgkreis,16063051,Leimbach,2,,16063,,covered by DC rule!
-TH,Wartburgkreis,16063052,Marksuhl,3,,16063,,covered by DC rule!
-TH,Wartburgkreis,16063053,Martinroda,2,,16063,,covered by DC rule!
-TH,Wartburgkreis,16063054,Merkers-Kieselbach,2,,16063,,covered by DC rule!
-TH,Wartburgkreis,16063055,Mihla,3,,16063,,covered by DC rule!
-TH,Wartburgkreis,16063058,Nazza,3,,16063,,covered by DC rule!
-TH,Wartburgkreis,16063059,Neidhartshausen,2,,16063,,covered by DC rule!
-TH,Wartburgkreis,16063062,Oechsen,2,,16063,,covered by DC rule!
-TH,Wartburgkreis,16063065,Rockenstuhl,2,,16063,,covered by DC rule!
-TH,Wartburgkreis,16063066,Ruhla,3,,16063,,covered by DC rule!
-TH,Wartburgkreis,16063068,Schleid,2,,16063,,covered by DC rule!
-TH,Wartburgkreis,16063069,Schweina,3,,16063,,covered by DC rule!
-TH,Wartburgkreis,16063071,Seebach,3,,16063,,covered by DC rule!
-TH,Wartburgkreis,16063072,Stadtlengsfeld,2,,16063,,covered by DC rule!
-TH,Wartburgkreis,16063073,Steinbach,3,,16063,,covered by DC rule!
-TH,Wartburgkreis,16063075,Tiefenort,2,,16063,,covered by DC rule!
-TH,Wartburgkreis,16063076,Treffurt,3,,16063,,covered by DC rule!
-TH,Wartburgkreis,16063078,Unterbreizbach,2,,16063,,covered by DC rule!
-TH,Wartburgkreis,16063081,Urnshausen,2,,16063,,covered by DC rule!
-TH,Wartburgkreis,16063082,Vacha,2,,16063,,covered by DC rule!
-TH,Wartburgkreis,16063083,Völkershausen,2,,16063,,covered by DC rule!
-TH,Wartburgkreis,16063084,Weilar,2,,16063,,covered by DC rule!
-TH,Wartburgkreis,16063086,Wiesenthal,2,,16063,,covered by DC rule!
-TH,Wartburgkreis,16063087,Wölferbütt,2,,16063,,covered by DC rule!
-TH,Wartburgkreis,16063089,Wolfsburg-Unkeroda,3,,16063,,covered by DC rule!
-TH,Wartburgkreis,16063092,Wutha-Farnroda,3,,16063,,covered by DC rule!
-TH,Wartburgkreis,16063093,Zella/Rhön,2,,16063,,covered by DC rule!
-TH,Wartburgkreis,16063094,Moorgrund,3,,16063,,covered by DC rule!
-TH,Wartburgkreis,16063095,Hörselberg,3,,16063,,covered by DC rule!
-TH,Wartburgkreis,16063096,Behringen,3,,16063,,covered by DC rule!
-TH,Unstrut-Hainich-Kreis,16064001,Altengottern,2,,16064,,"DC rule (DC 16064): ZIP codes named are zone 3, others zone 2"
-TH,Unstrut-Hainich-Kreis,16064003,Bad Langensalza,2,,16064,,covered by DC rule!
-TH,Unstrut-Hainich-Kreis,16064004,Bad Tennstedt,2,,16064,,covered by DC rule!
-TH,Unstrut-Hainich-Kreis,16064005,Ballhausen,2,,16064,,covered by DC rule!
-TH,Unstrut-Hainich-Kreis,16064007,Blankenburg,2,,16064,,covered by DC rule!
-TH,Unstrut-Hainich-Kreis,16064008,Bothenheilingen,2,,16064,,covered by DC rule!
-TH,Unstrut-Hainich-Kreis,16064009,Bruchstedt,2,,16064,,covered by DC rule!
-TH,Unstrut-Hainich-Kreis,16064014,Dünwald,2,,16064,,covered by DC rule!
-TH,Unstrut-Hainich-Kreis,16064017,Flarchheim,3,,16064,,covered by DC rule!
-TH,Unstrut-Hainich-Kreis,16064018,Großengottern,2,,16064,,covered by DC rule!
-TH,Unstrut-Hainich-Kreis,16064019,Großvargula,2,,16064,,covered by DC rule!
-TH,Unstrut-Hainich-Kreis,16064021,Haussömmern,2,,16064,,covered by DC rule!
-TH,Unstrut-Hainich-Kreis,16064022,Herbsleben,2,,16064,,covered by DC rule!
-TH,Unstrut-Hainich-Kreis,16064023,Heroldishausen,2,,16064,,covered by DC rule!
-TH,Unstrut-Hainich-Kreis,16064024,Heyerode,3,,16064,,covered by DC rule!
-TH,Unstrut-Hainich-Kreis,16064025,Hildebrandshausen,3,,16064,,covered by DC rule!
-TH,Unstrut-Hainich-Kreis,16064027,Hornsömmern,2,,16064,,covered by DC rule!
-TH,Unstrut-Hainich-Kreis,16064029,Issersheilingen,2,,16064,,covered by DC rule!
-TH,Unstrut-Hainich-Kreis,16064032,Kammerforst,3,,16064,,covered by DC rule!
-TH,Unstrut-Hainich-Kreis,16064033,Kirchheilingen,2,,16064,,covered by DC rule!
-TH,Unstrut-Hainich-Kreis,16064035,Kleinwelsbach,2,,16064,,covered by DC rule!
-TH,Unstrut-Hainich-Kreis,16064036,Klettstedt,2,,16064,,covered by DC rule!
-TH,Unstrut-Hainich-Kreis,16064037,Körner,2,,16064,,covered by DC rule!
-TH,Unstrut-Hainich-Kreis,16064038,Kutzleben,2,,16064,,covered by DC rule!
-TH,Unstrut-Hainich-Kreis,16064039,Langula,3,,16064,,covered by DC rule!
-TH,Unstrut-Hainich-Kreis,16064042,Lengenfeld unterm Stein,3,,16064,,covered by DC rule!
-TH,Unstrut-Hainich-Kreis,16064043,Marolterode,2,,16064,,covered by DC rule!
-TH,Unstrut-Hainich-Kreis,16064045,Mittelsömmern,2,,16064,,covered by DC rule!
-TH,Unstrut-Hainich-Kreis,16064046,Mühlhausen/Thüringen,2,,16064,,covered by DC rule!
-TH,Unstrut-Hainich-Kreis,16064047,Mülverstedt,3,,16064,,covered by DC rule!
-TH,Unstrut-Hainich-Kreis,16064048,Neunheilingen,2,,16064,,covered by DC rule!
-TH,Unstrut-Hainich-Kreis,16064049,Niederdorla,3,,16064,,covered by DC rule!
-TH,Unstrut-Hainich-Kreis,16064051,Oberdorla,3,,16064,,covered by DC rule!
-TH,Unstrut-Hainich-Kreis,16064052,Obermehler,2,,16064,,covered by DC rule!
-TH,Unstrut-Hainich-Kreis,16064053,Oppershausen,3,,16064,,covered by DC rule!
-TH,Unstrut-Hainich-Kreis,16064055,Rodeberg,3,,16064,,covered by DC rule!
-TH,Unstrut-Hainich-Kreis,16064057,Schlotheim,2,,16064,,covered by DC rule!
-TH,Unstrut-Hainich-Kreis,16064058,Schönstedt,3,,16064,,covered by DC rule!
-TH,Unstrut-Hainich-Kreis,16064061,Sundhausen,2,,16064,,covered by DC rule!
-TH,Unstrut-Hainich-Kreis,16064062,Tottleben,2,,16064,,covered by DC rule!
-TH,Unstrut-Hainich-Kreis,16064064,Urleben,2,,16064,,covered by DC rule!
-TH,Unstrut-Hainich-Kreis,16064065,Weberstedt,3,,16064,,covered by DC rule!
-TH,Unstrut-Hainich-Kreis,16064066,Weinbergen,2,,16064,,covered by DC rule!
-TH,Unstrut-Hainich-Kreis,16064069,Katharinenberg,3,,16064,,covered by DC rule!
-TH,Unstrut-Hainich-Kreis,16064071,Unstruttal,2,,16064,,covered by DC rule!
-TH,Unstrut-Hainich-Kreis,16064072,Menteroda,2,,16064,,covered by DC rule!
-TH,Unstrut-Hainich-Kreis,16064073,Anrode,2,,16064,,covered by DC rule!
-TH,Kyffhäuserkreis,alle,alle,2,,alle,,
-TH,Schmalkalden-Meiningen,16066001,Altersbach,3,,16066,,DC rule (DC 16066)
-TH,Schmalkalden-Meiningen,16066002,Aschenhausen,2,,16066,,covered by DC rule!
-TH,Schmalkalden-Meiningen,16066003,Bauerbach,2,,16066,,covered by DC rule!
-TH,Schmalkalden-Meiningen,16066004,Behrungen,2,,16066,,covered by DC rule!
-TH,Schmalkalden-Meiningen,16066005,Belrieth,2,,16066,,covered by DC rule!
-TH,Schmalkalden-Meiningen,16066006,Benshausen,2,,16066,,covered by DC rule!
-TH,Schmalkalden-Meiningen,16066007,Berkach,2,,16066,,covered by DC rule!
-TH,Schmalkalden-Meiningen,16066008,Bermbach,2,,16066,,covered by DC rule!
-TH,Schmalkalden-Meiningen,16066011,Bibra,2,,16066,,covered by DC rule!
-TH,Schmalkalden-Meiningen,16066012,Birx,2a,,16066,,covered by DC rule!
-TH,Schmalkalden-Meiningen,16066013,Breitungen/Werra,2,,16066,,covered by DC rule!
-TH,Schmalkalden-Meiningen,16066014,Brotterode,3,,16066,,covered by DC rule!
-TH,Schmalkalden-Meiningen,16066015,Christes,2,,16066,,covered by DC rule!
-TH,Schmalkalden-Meiningen,16066016,Dillstädt,2,,16066,,covered by DC rule!
-TH,Schmalkalden-Meiningen,16066017,Einhausen,2,,16066,,covered by DC rule!
-TH,Schmalkalden-Meiningen,16066018,Ellingshausen,2,,16066,,covered by DC rule!
-TH,Schmalkalden-Meiningen,16066019,Erbenhausen,2a,,16066,,covered by DC rule!
-TH,Schmalkalden-Meiningen,16066021,Exdorf,2,,16066,,covered by DC rule!
-TH,Schmalkalden-Meiningen,16066022,Fambach,2,,16066,,covered by DC rule!
-TH,Schmalkalden-Meiningen,16066023,Floh-Seligenthal,3,,16066,,covered by DC rule!
-TH,Schmalkalden-Meiningen,16066024,Frankenheim/Rhön,2a,,16066,,covered by DC rule!
-TH,Schmalkalden-Meiningen,16066025,Friedelshausen,2,,16066,,covered by DC rule!
-TH,Schmalkalden-Meiningen,16066028,Henneberg,2,,16066,,covered by DC rule!
-TH,Schmalkalden-Meiningen,16066031,Herpf,2,,16066,,covered by DC rule!
-TH,Schmalkalden-Meiningen,16066032,Heßles,3,,16066,,covered by DC rule!
-TH,Schmalkalden-Meiningen,16066033,Hümpfershausen,2,,16066,,covered by DC rule!
-TH,Schmalkalden-Meiningen,16066034,Jüchsen,2,,16066,,covered by DC rule!
-TH,Schmalkalden-Meiningen,16066035,Kaltensundheim,2,,16066,,covered by DC rule!
-TH,Schmalkalden-Meiningen,16066036,Kaltenwestheim,2,,16066,,covered by DC rule!
-TH,Schmalkalden-Meiningen,16066037,Kleinschmalkalden,3,,16066,,covered by DC rule!
-TH,Schmalkalden-Meiningen,16066038,Kühndorf,2,,16066,,covered by DC rule!
-TH,Schmalkalden-Meiningen,16066039,Leutersdorf,2,,16066,,covered by DC rule!
-TH,Schmalkalden-Meiningen,16066041,Mehmels,2,,16066,,covered by DC rule!
-TH,Schmalkalden-Meiningen,16066042,Meiningen,2,,16066,,covered by DC rule!
-TH,Schmalkalden-Meiningen,16066043,Melpers,2a,,16066,,covered by DC rule!
-TH,Schmalkalden-Meiningen,16066044,Metzels,2,,16066,,covered by DC rule!
-TH,Schmalkalden-Meiningen,16066045,Neubrunn,2,,16066,,covered by DC rule!
-TH,Schmalkalden-Meiningen,16066046,Nordheim,2,,16066,,covered by DC rule!
-TH,Schmalkalden-Meiningen,16066047,Oberhof,3,,16066,,covered by DC rule!
-TH,Schmalkalden-Meiningen,16066048,Oberkatz,2,,16066,,covered by DC rule!
-TH,Schmalkalden-Meiningen,16066049,Obermaßfeld-Grimmenthal,2,,16066,,covered by DC rule!
-TH,Schmalkalden-Meiningen,16066051,Oberschönau,3,,16066,,covered by DC rule!
-TH,Schmalkalden-Meiningen,16066052,Oberweid,2,,16066,,covered by DC rule!
-TH,Schmalkalden-Meiningen,16066053,Oepfershausen,2,,16066,,covered by DC rule!
-TH,Schmalkalden-Meiningen,16066054,Queienfeld,2,,16066,,covered by DC rule!
-TH,Schmalkalden-Meiningen,16066055,Rentwertshausen,2,,16066,,covered by DC rule!
-TH,Schmalkalden-Meiningen,16066056,Rippershausen,2,,16066,,covered by DC rule!
-TH,Schmalkalden-Meiningen,16066057,Ritschenhausen,2,,16066,,covered by DC rule!
-TH,Schmalkalden-Meiningen,16066058,Rohr,2,,16066,,covered by DC rule!
-TH,Schmalkalden-Meiningen,16066059,Rosa,2,,16066,,covered by DC rule!
-TH,Schmalkalden-Meiningen,16066061,Roßdorf,2,,16066,,covered by DC rule!
-TH,Schmalkalden-Meiningen,16066062,Rotterode,3,,16066,,covered by DC rule!
-TH,Schmalkalden-Meiningen,16066063,Schmalkalden,3,,16066,,covered by DC rule!
-TH,Schmalkalden-Meiningen,16066064,Schwallungen,2,,16066,,covered by DC rule!
-TH,Schmalkalden-Meiningen,16066065,Schwarza,2,,16066,,covered by DC rule!
-TH,Schmalkalden-Meiningen,16066066,Schwickershausen,2,,16066,,covered by DC rule!
-TH,Schmalkalden-Meiningen,16066067,Springstille,3,,16066,,covered by DC rule!
-TH,Schmalkalden-Meiningen,16066069,Steinbach-Hallenberg,3,,16066,,covered by DC rule!
-TH,Schmalkalden-Meiningen,16066071,Stepfershausen,2,,16066,,covered by DC rule!
-TH,Schmalkalden-Meiningen,16066073,Sülzfeld,2,,16066,,covered by DC rule!
-TH,Schmalkalden-Meiningen,16066074,Trusetal,3,,16066,,covered by DC rule!
-TH,Schmalkalden-Meiningen,16066075,Unterkatz,2,,16066,,covered by DC rule!
-TH,Schmalkalden-Meiningen,16066076,Untermaßfeld,2,,16066,,covered by DC rule!
-TH,Schmalkalden-Meiningen,16066077,Unterschönau,3,,16066,,covered by DC rule!
-TH,Schmalkalden-Meiningen,16066078,Unterweid,2,,16066,,covered by DC rule!
-TH,Schmalkalden-Meiningen,16066079,Utendorf,2,,16066,,covered by DC rule!
-TH,Schmalkalden-Meiningen,16066081,Vachdorf,2,,16066,,covered by DC rule!
-TH,Schmalkalden-Meiningen,16066082,Viernau,2,,16066,,covered by DC rule!
-TH,Schmalkalden-Meiningen,16066083,Wahns,2,,16066,,covered by DC rule!
-TH,Schmalkalden-Meiningen,16066084,Wallbach,2,,16066,,covered by DC rule!
-TH,Schmalkalden-Meiningen,16066085,Walldorf,2,,16066,,covered by DC rule!
-TH,Schmalkalden-Meiningen,16066086,Wasungen,2,,16066,,covered by DC rule!
-TH,Schmalkalden-Meiningen,16066087,Wernshausen,2,,16066,,covered by DC rule!
-TH,Schmalkalden-Meiningen,16066088,Wölfershausen,2,,16066,,covered by DC rule!
-TH,Schmalkalden-Meiningen,16066091,Wolfmannshausen,2,,16066,,covered by DC rule!
-TH,Schmalkalden-Meiningen,16066092,Zella-Mehlis,3,,16066,,covered by DC rule!
-TH,Schmalkalden-Meiningen,16066093,Rhönblick,2,,16066,,covered by DC rule!
-TH,Gotha,16067001,Apfelstädt,2,,16067,,DC rule (DC 16067)
-TH,Gotha,16067002,Aspach,3,,16067,,covered by DC rule!
-TH,Gotha,16067003,Ballstädt,2,,16067,,covered by DC rule!
-TH,Gotha,16067004,Bienstädt,2,,16067,,covered by DC rule!
-TH,Gotha,16067005,Brüheim,3,,16067,,covered by DC rule!
-TH,Gotha,16067006,Bufleben,2,,16067,,covered by DC rule!
-TH,Gotha,16067008,Crawinkel,3,,16067,,covered by DC rule!
-TH,Gotha,16067009,Dachwig,2,,16067,,covered by DC rule!
-TH,Gotha,16067011,Döllstädt,2,,16067,,covered by DC rule!
-TH,Gotha,16067012,Ebenheim,3,,16067,,covered by DC rule!
-TH,Gotha,16067013,Emleben,3,,16067,,covered by DC rule!
-TH,Gotha,16067015,Ernstroda,3,,16067,,covered by DC rule!
-TH,Gotha,16067016,Eschenbergen,2,,16067,,covered by DC rule!
-TH,Gotha,16067017,Finsterbergen,3,,16067,,covered by DC rule!
-TH,Gotha,16067019,Friedrichroda,3,,16067,,covered by DC rule!
-TH,Gotha,16067021,Friedrichswerth,3,,16067,,covered by DC rule!
-TH,Gotha,16067022,Friemar,2,,16067,,covered by DC rule!
-TH,Gotha,16067023,Fröttstädt,3,,16067,,covered by DC rule!
-TH,Gotha,16067024,Gamstädt,2,,16067,,covered by DC rule!
-TH,Gotha,16067025,Georgenthal/Thür. Wald,3,,16067,,covered by DC rule!
-TH,Gotha,16067026,Gierstädt,2,,16067,,covered by DC rule!
-TH,Gotha,16067027,Goldbach,3,,16067,,covered by DC rule!
-TH,Gotha,16067029,Gotha,3,,16067,,covered by DC rule!
-TH,Gotha,16067031,Grabsleben,2,,16067,,covered by DC rule!
-TH,Gotha,16067032,Gräfenhain,3,,16067,,covered by DC rule!
-TH,Gotha,16067033,Großfahner,2,,16067,,covered by DC rule!
-TH,Gotha,16067035,Haina,3,,16067,,covered by DC rule!
-TH,Gotha,16067036,Herrenhof,3,,16067,,covered by DC rule!
-TH,Gotha,16067037,Hochheim,2,,16067,,covered by DC rule!
-TH,Gotha,16067038,Hörselgau,3,,16067,,covered by DC rule!
-TH,Gotha,16067039,Hohenkirchen,3,,16067,,covered by DC rule!
-TH,Gotha,16067041,Ingersleben,2,,16067,,covered by DC rule!
-TH,Gotha,16067042,Laucha,3,,16067,,covered by DC rule!
-TH,Gotha,16067044,Luisenthal,3,,16067,,covered by DC rule!
-TH,Gotha,16067045,Mechterstädt,3,,16067,,covered by DC rule!
-TH,Gotha,16067046,Metebach,3,,16067,,covered by DC rule!
-TH,Gotha,16067047,Molschleben,2,,16067,,covered by DC rule!
-TH,Gotha,16067048,Mühlberg,3,,16067,,covered by DC rule!
-TH,Gotha,16067051,Neudietendorf,2,,16067,,covered by DC rule!
-TH,Gotha,16067052,Nottleben,2,,16067,,covered by DC rule!
-TH,Gotha,16067053,Ohrdruf,3,,16067,,covered by DC rule!
-TH,Gotha,16067054,Petriroda,3,,16067,,covered by DC rule!
-TH,Gotha,16067055,Pferdingsleben,2,,16067,,covered by DC rule!
-TH,Gotha,16067056,Remstädt,3,,16067,,covered by DC rule!
-TH,Gotha,16067059,Schwabhausen,3,,16067,,covered by DC rule!
-TH,Gotha,16067062,Seebergen,3,,16067,,covered by DC rule!
-TH,Gotha,16067063,Sonneborn,3,,16067,,covered by DC rule!
-TH,Gotha,16067064,Tabarz/Thür. Wald,3,,16067,,covered by DC rule!
-TH,Gotha,16067065,Tambach-Dietharz/Thür. Wald,3,,16067,,covered by DC rule!
-TH,Gotha,16067066,Teutleben,3,,16067,,covered by DC rule!
-TH,Gotha,16067067,Tonna,2,,16067,,covered by DC rule!
-TH,Gotha,16067068,Tröchtelborn,2,,16067,,covered by DC rule!
-TH,Gotha,16067069,Trügleben,3,,16067,,covered by DC rule!
-TH,Gotha,16067071,Tüttleben,2,,16067,,covered by DC rule!
-TH,Gotha,16067072,Waltershausen,3,,16067,,covered by DC rule!
-TH,Gotha,16067073,Wandersleben,3,,16067,,covered by DC rule!
-TH,Gotha,16067074,Wangenheim,3,,16067,,covered by DC rule!
-TH,Gotha,16067075,Warza,2,,16067,,covered by DC rule!
-TH,Gotha,16067077,Weingarten,3,,16067,,covered by DC rule!
-TH,Gotha,16067078,Westhausen,2,,16067,,covered by DC rule!
-TH,Gotha,16067081,Wölfis,3,,16067,,covered by DC rule!
-TH,Gotha,16067082,Zimmernsupra,2,,16067,,covered by DC rule!
-TH,Gotha,16067083,Leinatal,3,,16067,,covered by DC rule!
-TH,Gotha,16067084,Emsetal,3,,16067,,covered by DC rule!
-TH,Gotha,16067085,Günthersleben-Wechmar,3,,16067,,covered by DC rule!
-TH,Sömmerda,alle,alle,2,,16068,,
-TH,Hildburghausen,alle,alle,2,,16069,,
-TH,Ilm-Kreis,16070001,Alkersleben,2,,16070,,DC rule (DC 16070)
-TH,Ilm-Kreis,16070002,Altenfeld,3,,16070,,covered by DC rule!
-TH,Ilm-Kreis,16070003,Angelroda,3,,16070,,covered by DC rule!
-TH,Ilm-Kreis,16070004,Arnstadt,3,,16070,,covered by DC rule!
-TH,Ilm-Kreis,16070005,Böhlen,3,,16070,,covered by DC rule!
-TH,Ilm-Kreis,16070006,Bösleben-Wüllersleben,2,,16070,,covered by DC rule!
-TH,Ilm-Kreis,16070008,Dornheim,3,,16070,,covered by DC rule!
-TH,Ilm-Kreis,16070011,Elgersburg,3,,16070,,covered by DC rule!
-TH,Ilm-Kreis,16070012,Elleben,2,,16070,,covered by DC rule!
-TH,Ilm-Kreis,16070013,Elxleben,2,,16070,,covered by DC rule!
-TH,Ilm-Kreis,16070014,Frankenhain,3,,16070,,covered by DC rule!
-TH,Ilm-Kreis,16070015,Frauenwald,3,,16070,,covered by DC rule!
-TH,Ilm-Kreis,16070016,Friedersdorf,3,,16070,,covered by DC rule!
-TH,Ilm-Kreis,16070017,Gehlberg,3,,16070,,covered by DC rule!
-TH,Ilm-Kreis,16070018,Gehren,3,,16070,,covered by DC rule!
-TH,Ilm-Kreis,16070019,Geraberg,3,,16070,,covered by DC rule!
-TH,Ilm-Kreis,16070021,Geschwenda,3,,16070,,covered by DC rule!
-TH,Ilm-Kreis,16070022,Gillersdorf,3,,16070,,covered by DC rule!
-TH,Ilm-Kreis,16070023,Gossel,3,,16070,,covered by DC rule!
-TH,Ilm-Kreis,16070024,Gräfenroda,3,,16070,,covered by DC rule!
-TH,Ilm-Kreis,16070025,Großbreitenbach,3,,16070,,covered by DC rule!
-TH,Ilm-Kreis,16070027,Herschdorf,3,,16070,,covered by DC rule!
-TH,Ilm-Kreis,16070028,Ichtershausen,2,,16070,,covered by DC rule!
-TH,Ilm-Kreis,16070029,Ilmenau,3,,16070,,covered by DC rule!
-TH,Ilm-Kreis,16070031,Kirchheim,2,,16070,,covered by DC rule!
-TH,Ilm-Kreis,16070032,Langewiesen,3,,16070,,covered by DC rule!
-TH,Ilm-Kreis,16070033,Liebenstein,3,,16070,,covered by DC rule!
-TH,Ilm-Kreis,16070034,Martinroda,3,,16070,,covered by DC rule!
-TH,Ilm-Kreis,16070035,Möhrenbach,3,,16070,,covered by DC rule!
-TH,Ilm-Kreis,16070037,Neusiß,3,,16070,,covered by DC rule!
-TH,Ilm-Kreis,16070038,Neustadt am Rennsteig,3,,16070,,covered by DC rule!
-TH,Ilm-Kreis,16070041,Osthausen-Wülfershausen,2,,16070,,covered by DC rule!
-TH,Ilm-Kreis,16070042,Pennewitz,3,,16070,,covered by DC rule!
-TH,Ilm-Kreis,16070043,Plaue,3,,16070,,covered by DC rule!
-TH,Ilm-Kreis,16070044,Rockhausen,2,,16070,,covered by DC rule!
-TH,Ilm-Kreis,16070046,Schmiedefeld am Rennsteig,3,,16070,,covered by DC rule!
-TH,Ilm-Kreis,16070048,Stadtilm,3,,16070,,covered by DC rule!
-TH,Ilm-Kreis,16070049,Stützerbach,3,,16070,,covered by DC rule!
-TH,Ilm-Kreis,16070051,Wachsenburggemeinde,3,,16070,,covered by DC rule!
-TH,Ilm-Kreis,16070052,Wildenspring,3,,16070,,covered by DC rule!
-TH,Ilm-Kreis,16070053,Wipfratal,3,,16070,,covered by DC rule!
-TH,Ilm-Kreis,16070054,Witzleben,2,,16070,,covered by DC rule!
-TH,Ilm-Kreis,16070055,Wolfsberg,3,,16070,,covered by DC rule!
-TH,Ilm-Kreis,16070056,Ilmtal,3,,16070,,covered by DC rule!
-TH,Weimarer Land,alle,alle,2,,16071,,
-TH,Sonneberg,16072001,Bachfeld,2,,16072,,DC rule (DC 16072)
-TH,Sonneberg,16072002,Effelder-Rauenstein,2,,16072,,covered by DC rule!
-TH,Sonneberg,16072005,Föritz,2,,16072,,covered by DC rule!
-TH,Sonneberg,16072006,Goldisthal,3,,16072,,covered by DC rule!
-TH,Sonneberg,16072009,Judenbach,3,,16072,,covered by DC rule!
-TH,Sonneberg,16072011,Lauscha,3,,16072,,covered by DC rule!
-TH,Sonneberg,16072012,Mengersgereuth-Hämmern,2,,16072,,covered by DC rule!
-TH,Sonneberg,16072013,Neuhaus am Rennweg,3,,16072,,covered by DC rule!
-TH,Sonneberg,16072014,Neuhaus-Schierschnitz,2,,16072,,covered by DC rule!
-TH,Sonneberg,16072015,Schalkau,2,,16072,,covered by DC rule!
-TH,Sonneberg,16072016,Scheibe-Alsbach,3,,16072,,covered by DC rule!
-TH,Sonneberg,16072017,Siegmundsburg,2,,16072,,covered by DC rule!
-TH,Sonneberg,16072018,Sonneberg,2,,16072,,covered by DC rule!
-TH,Sonneberg,16072019,Steinach,3,,16072,,covered by DC rule!
-TH,Sonneberg,16072021,Steinheid,3,,16072,,covered by DC rule!
-TH,Sonneberg,16072022,Oberland am Rennsteig,3,,16072,,covered by DC rule!
-TH,Saalfeld-Rudolstadt,16073001,Allendorf,3,,16073,,DC rule (DC 16073)
-TH,Saalfeld-Rudolstadt,16073002,Altenbeuthen,3,,16073,,covered by DC rule!
-TH,Saalfeld-Rudolstadt,16073004,Arnsgereuth,3,,16073,,covered by DC rule!
-TH,Saalfeld-Rudolstadt,16073005,Bad Blankenburg,3,,16073,,covered by DC rule!
-TH,Saalfeld-Rudolstadt,16073006,Bechstedt,3,,16073,,covered by DC rule!
-TH,Saalfeld-Rudolstadt,16073009,Birkigt,3,,16073,,covered by DC rule!
-TH,Saalfeld-Rudolstadt,16073013,Cursdorf,3,,16073,,covered by DC rule!
-TH,Saalfeld-Rudolstadt,16073014,Deesbach,3,,16073,,covered by DC rule!
-TH,Saalfeld-Rudolstadt,16073017,Döschnitz,3,,16073,,covered by DC rule!
-TH,Saalfeld-Rudolstadt,16073021,Dröbischau,3,,16073,,covered by DC rule!
-TH,Saalfeld-Rudolstadt,16073027,Goßwitz,3,,16073,,covered by DC rule!
-TH,Saalfeld-Rudolstadt,16073028,Gräfenthal,3,,16073,,covered by DC rule!
-TH,Saalfeld-Rudolstadt,16073029,Großkochberg,2,,16073,,covered by DC rule!
-TH,Saalfeld-Rudolstadt,16073032,Heilingen,2,,16073,,covered by DC rule!
-TH,Saalfeld-Rudolstadt,16073035,Hohenwarte,3,,16073,,covered by DC rule!
-TH,Saalfeld-Rudolstadt,16073036,Kamsdorf,3,,16073,,covered by DC rule!
-TH,Saalfeld-Rudolstadt,16073037,Katzhütte,3,,16073,,covered by DC rule!
-TH,Saalfeld-Rudolstadt,16073038,Kaulsdorf,3,,16073,,covered by DC rule!
-TH,Saalfeld-Rudolstadt,16073042,Königsee,3,,16073,,covered by DC rule!
-TH,Saalfeld-Rudolstadt,16073043,Könitz,3,,16073,,covered by DC rule!
-TH,Saalfeld-Rudolstadt,16073045,Lausnitz b. Pößneck,3,,16073,,covered by DC rule!
-TH,Saalfeld-Rudolstadt,16073046,Lehesten,3,,16073,,covered by DC rule!
-TH,Saalfeld-Rudolstadt,16073049,Lichte,3,,16073,,covered by DC rule!
-TH,Saalfeld-Rudolstadt,16073051,Lichtenhain/Bergbahn,3,,16073,,covered by DC rule!
-TH,Saalfeld-Rudolstadt,16073054,Mellenbach-Glasbach,3,,16073,,covered by DC rule!
-TH,Saalfeld-Rudolstadt,16073055,Meura,3,,16073,,covered by DC rule!
-TH,Saalfeld-Rudolstadt,16073056,Meuselbach-Schwarzmühle,3,,16073,,covered by DC rule!
-TH,Saalfeld-Rudolstadt,16073063,Oberhain,3,,16073,,covered by DC rule!
-TH,Saalfeld-Rudolstadt,16073065,Oberweißbach/Thür. Wald,3,,16073,,covered by DC rule!
-TH,Saalfeld-Rudolstadt,16073066,Piesau,3,,16073,,covered by DC rule!
-TH,Saalfeld-Rudolstadt,16073067,Probstzella,3,,16073,,covered by DC rule!
-TH,Saalfeld-Rudolstadt,16073068,Reichmannsdorf,3,,16073,,covered by DC rule!
-TH,Saalfeld-Rudolstadt,16073074,Rohrbach,3,,16073,,covered by DC rule!
-TH,Saalfeld-Rudolstadt,16073075,Rottenbach,3,,16073,,covered by DC rule!
-TH,Saalfeld-Rudolstadt,16073076,Rudolstadt,3,,16073,,covered by DC rule!
-TH,Saalfeld-Rudolstadt,16073077,Saalfeld/Saale,3,,16073,,covered by DC rule!
-TH,Saalfeld-Rudolstadt,16073079,Schmiedefeld,3,,16073,,covered by DC rule!
-TH,Saalfeld-Rudolstadt,16073082,Schwarzburg,3,,16073,,covered by DC rule!
-TH,Saalfeld-Rudolstadt,16073084,Sitzendorf,3,,16073,,covered by DC rule!
-TH,Saalfeld-Rudolstadt,16073092,Uhlstädt-Kirchhasel,2,,16073,,covered by DC rule!
-TH,Saalfeld-Rudolstadt,16073094,Unterweißbach,3,,16073,,covered by DC rule!
-TH,Saalfeld-Rudolstadt,16073095,Unterwellenborn,3,,16073,,covered by DC rule!
-TH,Saalfeld-Rudolstadt,16073101,Wittgendorf,3,,16073,,covered by DC rule!
-TH,Saalfeld-Rudolstadt,16073105,Remda-Teichel,2,,16073,,covered by DC rule!
-TH,Saalfeld-Rudolstadt,16073106,Leutenberg,3,,16073,,covered by DC rule!
-TH,Saalfeld-Rudolstadt,16073107,Drognitz,3,,16073,,covered by DC rule!
-TH,Saalfeld-Rudolstadt,16073108,Saalfelder Höhe,3,,16073,,covered by DC rule!
-TH,Saale-Holzland-Kreis,alle,alle,2,,alle,,
-TH,Saale-Orla-Kreis,16075002,Birkenhügel,3,,16075,,DC rule (DC 16075)
-TH,Saale-Orla-Kreis,16075003,Blankenberg,3,,16075,,covered by DC rule!
-TH,Saale-Orla-Kreis,16075004,Blankenstein,3,,16075,,covered by DC rule!
-TH,Saale-Orla-Kreis,16075006,Bodelwitz,2,,16075,,covered by DC rule!
-TH,Saale-Orla-Kreis,16075007,Breitenhain,2,,16075,,covered by DC rule!
-TH,Saale-Orla-Kreis,16075008,Bucha,3,,16075,,covered by DC rule!
-TH,Saale-Orla-Kreis,16075009,Burgk,3,,16075,,covered by DC rule!
-TH,Saale-Orla-Kreis,16075012,Chursdorf,2,,16075,,covered by DC rule!
-TH,Saale-Orla-Kreis,16075013,Crispendorf,3,,16075,,covered by DC rule!
-TH,Saale-Orla-Kreis,16075014,Dittersdorf,2,,16075,,covered by DC rule!
-TH,Saale-Orla-Kreis,16075016,Döbritz,2,,16075,,covered by DC rule!
-TH,Saale-Orla-Kreis,16075017,Dragensdorf,2,,16075,,covered by DC rule!
-TH,Saale-Orla-Kreis,16075018,Dreba,2,,16075,,covered by DC rule!
-TH,Saale-Orla-Kreis,16075019,Dreitzsch,2,,16075,,covered by DC rule!
-TH,Saale-Orla-Kreis,16075023,Eßbach,3,,16075,,covered by DC rule!
-TH,Saale-Orla-Kreis,16075029,Geroda,2,,16075,,covered by DC rule!
-TH,Saale-Orla-Kreis,16075031,Gertewitz,2,,16075,,covered by DC rule!
-TH,Saale-Orla-Kreis,16075033,Görkwitz,3,,16075,,covered by DC rule!
-TH,Saale-Orla-Kreis,16075034,Göschitz,2,,16075,,covered by DC rule!
-TH,Saale-Orla-Kreis,16075035,Gössitz,3,,16075,,covered by DC rule!
-TH,Saale-Orla-Kreis,16075039,Grobengereuth,2,,16075,,covered by DC rule!
-TH,Saale-Orla-Kreis,16075042,Harra,3,,16075,,covered by DC rule!
-TH,Saale-Orla-Kreis,16075046,Hirschberg,3,,16075,,covered by DC rule!
-TH,Saale-Orla-Kreis,16075047,Keila,3,,16075,,covered by DC rule!
-TH,Saale-Orla-Kreis,16075048,Kirschkau,2,,16075,,covered by DC rule!
-TH,Saale-Orla-Kreis,16075049,Knau,3,,16075,,covered by DC rule!
-TH,Saale-Orla-Kreis,16075051,Kospoda,2,,16075,,covered by DC rule!
-TH,Saale-Orla-Kreis,16075054,Langenorla,2,,16075,,covered by DC rule!
-TH,Saale-Orla-Kreis,16075056,Lausnitz b. Neustadt an der Orla,2,,16075,,covered by DC rule!
-TH,Saale-Orla-Kreis,16075057,Lemnitz,2,,16075,,covered by DC rule!
-TH,Saale-Orla-Kreis,16075061,Linda b. Neustadt an der Orla,2,,16075,,covered by DC rule!
-TH,Saale-Orla-Kreis,16075062,Lobenstein,3,,16075,,covered by DC rule!
-TH,Saale-Orla-Kreis,16075063,Löhma,2,,16075,,covered by DC rule!
-TH,Saale-Orla-Kreis,16075065,Miesitz,2,,16075,,covered by DC rule!
-TH,Saale-Orla-Kreis,16075066,Mittelpöllnitz,2,,16075,,covered by DC rule!
-TH,Saale-Orla-Kreis,16075068,Moßbach,2,,16075,,covered by DC rule!
-TH,Saale-Orla-Kreis,16075069,Moxa,3,,16075,,covered by DC rule!
-TH,Saale-Orla-Kreis,16075071,Neundorf (bei Lobenstein),3,,16075,,covered by DC rule!
-TH,Saale-Orla-Kreis,16075072,Neundorf (bei Schleiz),3,,16075,,covered by DC rule!
-TH,Saale-Orla-Kreis,16075073,Neustadt an der Orla,2,,16075,,covered by DC rule!
-TH,Saale-Orla-Kreis,16075074,Nimritz,2,,16075,,covered by DC rule!
-TH,Saale-Orla-Kreis,16075075,Oberoppurg,2,,16075,,covered by DC rule!
-TH,Saale-Orla-Kreis,16075076,Oettersdorf,2,,16075,,covered by DC rule!
-TH,Saale-Orla-Kreis,16075077,Oppurg,2,,16075,,covered by DC rule!
-TH,Saale-Orla-Kreis,16075079,Paska,3,,16075,,covered by DC rule!
-TH,Saale-Orla-Kreis,16075081,Peuschen,3,,16075,,covered by DC rule!
-TH,Saale-Orla-Kreis,16075082,Pillingsdorf,2,,16075,,covered by DC rule!
-TH,Saale-Orla-Kreis,16075083,Plothen,2,,16075,,covered by DC rule!
-TH,Saale-Orla-Kreis,16075084,Pörmitz,2,,16075,,covered by DC rule!
-TH,Saale-Orla-Kreis,16075085,Pößneck,2,,16075,,covered by DC rule!
-TH,Saale-Orla-Kreis,16075086,Pottiga,3,,16075,,covered by DC rule!
-TH,Saale-Orla-Kreis,16075087,Quaschwitz,2,,16075,,covered by DC rule!
-TH,Saale-Orla-Kreis,16075088,Ranis,3,,16075,,covered by DC rule!
-TH,Saale-Orla-Kreis,16075093,Rosendorf,2,,16075,,covered by DC rule!
-TH,Saale-Orla-Kreis,16075096,Saalburg-Ebersdorf,3,,16075,,covered by DC rule!
-TH,Saale-Orla-Kreis,16075097,Schlegel,3,,16075,,covered by DC rule!
-TH,Saale-Orla-Kreis,16075098,Schleiz,3,,16075,,covered by DC rule!
-TH,Saale-Orla-Kreis,16075099,Schmieritz,2,,16075,,covered by DC rule!
-TH,Saale-Orla-Kreis,16075101,Schmorda,3,,16075,,covered by DC rule!
-TH,Saale-Orla-Kreis,16075102,Schöndorf,3,,16075,,covered by DC rule!
-TH,Saale-Orla-Kreis,16075103,Seisla,3,,16075,,covered by DC rule!
-TH,Saale-Orla-Kreis,16075105,Solkwitz,2,,16075,,covered by DC rule!
-TH,Saale-Orla-Kreis,16075106,Stanau,2,,16075,,covered by DC rule!
-TH,Saale-Orla-Kreis,16075109,Tegau,2,,16075,,covered by DC rule!
-TH,Saale-Orla-Kreis,16075114,Tömmelsdorf,2,,16075,,covered by DC rule!
-TH,Saale-Orla-Kreis,16075116,Triptis,2,,16075,,covered by DC rule!
-TH,Saale-Orla-Kreis,16075119,Volkmannsdorf,3,,16075,,covered by DC rule!
-TH,Saale-Orla-Kreis,16075121,Weira,2,,16075,,covered by DC rule!
-TH,Saale-Orla-Kreis,16075124,Wernburg,3,,16075,,covered by DC rule!
-TH,Saale-Orla-Kreis,16075125,Wilhelmsdorf,3,,16075,,covered by DC rule!
-TH,Saale-Orla-Kreis,16075127,Ziegenrück,3,,16075,,covered by DC rule!
-TH,Saale-Orla-Kreis,16075129,Krölpa,3,,16075,,covered by DC rule!
-TH,Saale-Orla-Kreis,16075131,Gefell,3,,16075,,covered by DC rule!
-TH,Saale-Orla-Kreis,16075132,Tanna,3,,16075,,covered by DC rule!
-TH,Saale-Orla-Kreis,16075133,Wurzbach,3,,16075,,covered by DC rule!
-TH,Saale-Orla-Kreis,16075134,Remptendorf,3,,16075,,covered by DC rule!
-TH,Greiz,alle,alle,2,,alle,,
-TH,Altenburger Land,alle,alle,2,,alle,,
+Land,Landkreis,Gemeinde-schlüssel,Gemeinde,Schneelastzone,Fußnote(n),DC,ZIP,comments,,ambiguous
+TH,Erfurt,16051000,Erfurt,2,,16051,,,,
+TH,Gera,16052000,Gera,2,,16052,,,,
+TH,Jena,16053000,Jena,2,,16053,,,,
+TH,Suhl,16054000,Suhl,2,,16054,,,,
+TH,Weimar,16055000,Weimar,2,,16055,,,,
+TH,Eisenach,16056000,Eisenach,3,,16056,,,,
+TH,Eichsfeld,16061001,Arenshausen,2,,16061,37318,covered by DC rule!,,37318 Arenshausen (2)
+TH,Eichsfeld,16061002,Asbach-Sickenberg,3,,16061,37318,"bold ZIP codes are zone 2, 37308&37318 are 50:50 ambiguous => zone 3",,
+TH,Eichsfeld,16061003,Berlingerode,2,,16061,37339,covered by DC rule!,,
+TH,Eichsfeld,16061004,Bernterode (bei Heilbad Heiligenstadt),2,,16061,37308,covered by DC rule!,,37308 Bernterode (bei Heilbad Heiligenstadt) (2)
+TH,Eichsfeld,16061005,Bernterode (bei Worbis),2,,16061,37355,covered by DC rule!,,
+TH,Eichsfeld,16061007,Birkenfelde,2,,16061,37318,covered by DC rule!,,37318 Birkenfelde (2)
+TH,Eichsfeld,16061009,Bischofferode,2,,16061,37345,covered by DC rule!,,
+TH,Eichsfeld,16061011,Bockelnhagen,2,,16061,37345,covered by DC rule!,,
+TH,Eichsfeld,16061012,Bodenrode-Westhausen,2,,16061,37308,covered by DC rule!,,37308 Bodenrode-Westhausen (2)
+TH,Eichsfeld,16061014,Bornhagen,3,,16061,37318,covered by DC rule!,,
+TH,Eichsfeld,16061015,Brehme,2,,16061,37339,covered by DC rule!,,
+TH,Eichsfeld,16061017,Breitenworbis,2,,16061,37339,covered by DC rule!,,
+TH,Eichsfeld,16061018,Büttstedt,2,,16061,37359,covered by DC rule!,,
+TH,Eichsfeld,16061019,Buhla,2,,16061,37339,covered by DC rule!,,
+TH,Eichsfeld,16061021,Burgwalde,2,,16061,37318,covered by DC rule!,,37318 Burgwalde (2)
+TH,Eichsfeld,16061022,Deuna,2,,16061,37355,covered by DC rule!,,
+TH,Eichsfeld,16061023,Dieterode,3,,16061,37318,covered by DC rule!,,
+TH,Eichsfeld,16061024,Dietzenrode/Vatterode,3,,16061,37318,covered by DC rule!,,
+TH,Eichsfeld,16061025,Dingelstädt,2,,16061,37351,covered by DC rule!,,
+TH,Eichsfeld,16061026,Ecklingerode,2,,16061,37339,covered by DC rule!,,
+TH,Eichsfeld,16061027,Effelder,2,,16061,37359,covered by DC rule!,,
+TH,Eichsfeld,16061028,Eichstruth,3,,16061,37318,covered by DC rule!,,
+TH,Eichsfeld,16061031,Ferna,2,,16061,37339,covered by DC rule!,,
+TH,Eichsfeld,16061032,Freienhagen,2,,16061,37318,covered by DC rule!,,37318 Freienhagen (2)
+TH,Eichsfeld,16061033,Fretterode,3,,16061,37318,covered by DC rule!,,
+TH,Eichsfeld,16061034,Geisleden,2,,16061,37308,covered by DC rule!,,37308 Geisleden (2)
+TH,Eichsfeld,16061035,Geismar,3,,16061,37308,covered by DC rule!,,
+TH,Eichsfeld,16061036,Gerbershausen,3,,16061,37318,covered by DC rule!,,
+TH,Eichsfeld,16061037,Gernrode,2,,16061,37339,covered by DC rule!,,
+TH,Eichsfeld,16061038,Gerterode,2,,16061,37355,covered by DC rule!,,
+TH,Eichsfeld,16061039,Glasehausen,2,,16061,37308,covered by DC rule!,,37308 Glasehausen (2)
+TH,Eichsfeld,16061041,Großbartloff,2,,16061,37359,covered by DC rule!,,
+TH,Eichsfeld,16061042,Großbodungen,2,,16061,37345,covered by DC rule!,,
+TH,Eichsfeld,16061043,Hausen,2,,16061,37327,covered by DC rule!,,
+TH,Eichsfeld,16061044,Haynrode,2,,16061,37339,covered by DC rule!,,
+TH,Eichsfeld,16061045,Heilbad Heiligenstadt,2,,16061,37308,covered by DC rule!,,37308 Heilbad Heiligenstadt (2)
+TH,Eichsfeld,16061046,Helmsdorf,2,,16061,37351,covered by DC rule!,,
+TH,Eichsfeld,16061047,Heuthen,2,,16061,37308,covered by DC rule!,,37308 Heuthen (2)
+TH,Eichsfeld,16061048,Hohengandern,2,,16061,37318,covered by DC rule!,,37318 Hohengandern (2)
+TH,Eichsfeld,16061049,Hohes Kreuz,2,,16061,37308,covered by DC rule!,,37308 Hohes Kreuz (2)
+TH,Eichsfeld,16061051,Holungen,2,,16061,37345,covered by DC rule!,,
+TH,Eichsfeld,16061052,Hundeshagen,2,,16061,37339,covered by DC rule!,,
+TH,Eichsfeld,16061053,Jützenbach,2,,16061,37345,covered by DC rule!,,
+TH,Eichsfeld,16061054,Kallmerode,2,,16061,37327,covered by DC rule!,,
+TH,Eichsfeld,16061055,Kefferhausen,2,,16061,37351,covered by DC rule!,,
+TH,Eichsfeld,16061056,Kella,3,,16061,37308,covered by DC rule!,,
+TH,Eichsfeld,16061057,Kirchgandern,2,,16061,37318,covered by DC rule!,,37318 Kirchgandern (2)
+TH,Eichsfeld,16061058,Kirchworbis,2,,16061,37339,covered by DC rule!,,
+TH,Eichsfeld,16061059,Kleinbartloff,2,,16061,37355,covered by DC rule!,,
+TH,Eichsfeld,16061061,Kreuzebra,2,,16061,37351,covered by DC rule!,,
+TH,Eichsfeld,16061062,Krombach,2,,16061,37308,covered by DC rule!,,37308 Krombach (2)
+TH,Eichsfeld,16061063,Küllstedt,2,,16061,37359,covered by DC rule!,,
+TH,Eichsfeld,16061,Leinefelde-Worbis,2,,16061,37327-37339,covered by DC rule!,,
+TH,Eichsfeld,16061065,Lenterode,2,,16061,37318,covered by DC rule!,,37318 Lenterode (2)
+TH,Eichsfeld,16061066,Lindewerra,3,,16061,37318,covered by DC rule!,,
+TH,Eichsfeld,16061067,Lutter,2,,16061,37318,covered by DC rule!,,37318 Lutter (2)
+TH,Eichsfeld,16061068,Mackenrode,3,,16061,37318,covered by DC rule!,,
+TH,Eichsfeld,16061069,Marth,2,,16061,37318,covered by DC rule!,,37318 Marth (2)
+TH,Eichsfeld,16061073,Neustadt,2,,16061,37354,covered by DC rule!,,
+TH,Eichsfeld,16061074,Niederorschel,2,,16061,37355,covered by DC rule!,,
+TH,Eichsfeld,16061075,Pfaffschwende,3,,16061,37308,covered by DC rule!,,
+TH,Eichsfeld,16061076,Reinholterode,2,,16061,37308,covered by DC rule!,,37308 Reinholterode (2)
+TH,Eichsfeld,16061077,Röhrig,3,,16061,37318,covered by DC rule!,,
+TH,Eichsfeld,16061078,Rohrberg,2,,16061,37318,covered by DC rule!,,37318 Rohrberg (2)
+TH,Eichsfeld,16061082,Rustenfelde,2,,16061,37318,covered by DC rule!,,37318 Rustenfelde (2)
+TH,Eichsfeld,16061083,Schachtebich,2,,16061,37318,covered by DC rule!,,37318 Schachtebich (2)
+TH,Eichsfeld,16061084,Schönhagen,3,,16061,37318,covered by DC rule!,,
+TH,Eichsfeld,16061085,Schwobfeld,3,,16061,37318,covered by DC rule!,,
+TH,Eichsfeld,16061086,Sickerode,3,,16061,37308,covered by DC rule!,,
+TH,Eichsfeld,16061087,Silberhausen,2,,16061,37351,covered by DC rule!,,
+TH,Eichsfeld,16061088,Silkerode,2,,16061,37345,covered by DC rule!,,
+TH,Eichsfeld,16061089,Steinbach,2,,16061,37308,covered by DC rule!,,37308 Steinbach (2)
+TH,Eichsfeld,16061091,Steinheuterode,2,,16061,37318,covered by DC rule!,,37318 Steinheuterode (2)
+TH,Eichsfeld,16061092,Steinrode,2,,16061,37345,covered by DC rule!,,
+TH,Eichsfeld,16061093,Stöckey,2,,16061,37345,covered by DC rule!,,
+TH,Eichsfeld,16061094,Tastungen,2,,16061,37339,covered by DC rule!,,
+TH,Eichsfeld,16061096,Thalwenden,2,,16061,37318,covered by DC rule!,,37318 Thalwenden (2)
+TH,Eichsfeld,16061097,Uder,2,,16061,37318,covered by DC rule!,,37318 Uder (2)
+TH,Eichsfeld,16061098,Volkerode,3,,16061,37308,covered by DC rule!,,
+TH,Eichsfeld,16061099,Vollenborn,2,,16061,37355,covered by DC rule!,,
+TH,Eichsfeld,16061101,Wachstedt,2,,16061,37359,covered by DC rule!,,
+TH,Eichsfeld,16061102,Wahlhausen,3,,16061,37318,covered by DC rule!,,
+TH,Eichsfeld,16061103,Wehnde,2,,16061,37339,covered by DC rule!,,
+TH,Eichsfeld,16061104,Weißenborn-Lüderode,2,,16061,37345,covered by DC rule!,,
+TH,Eichsfeld,16061105,Wiesenfeld,3,,16061,37308,covered by DC rule!,,
+TH,Eichsfeld,16061107,Wingerode,2,,16061,37327,covered by DC rule!,,
+TH,Eichsfeld,16061111,Wüstheuterode,3,,16061,37318,covered by DC rule!,,
+TH,Eichsfeld,16061112,Zwinge,2,,16061,37345,covered by DC rule!,,
+TH,Eichsfeld,16061113,Schimberg,3,,16061,37308,covered by DC rule!,,
+TH,Eichsfeld,16061114,Teistungen,2,,16061,37339,covered by DC rule!,,
+TH,Nordhausen,16062001,Auleben,2,,16062,99765,"bold ZIP codes are zone 3, 99735 (maj. 2) & 99762 (only Stempeda is 2) are ambiguous => majority wins",,
+TH,Nordhausen,16062002,Bleicherode,2,,16062,99752,covered by DC rule!,,
+TH,Nordhausen,16062004,Buchholz,3,,16062,99762,covered by DC rule!,,
+TH,Nordhausen,16062005,Ellrich,3,,16062,99755,covered by DC rule!,,
+TH,Nordhausen,16062006,Etzelsrode,2,,16062,99735,covered by DC rule!,,
+TH,Nordhausen,16062007,Friedrichsthal,2,,16062,99735,covered by DC rule!,,
+TH,Nordhausen,16062008,Görsbach,2,,16062,99765,covered by DC rule!,,
+TH,Nordhausen,16062009,Großlohra,2,,16062,99759,covered by DC rule!,,
+TH,Nordhausen,16062014,Hainrode/Hainleite,2,,16062,99735,covered by DC rule!,,
+TH,Nordhausen,16062015,Hamma,2,,16062,99765,covered by DC rule!,,
+TH,Nordhausen,16062016,Harzungen,3,,16062,99762,covered by DC rule!,,
+TH,Nordhausen,16062017,Heringen/Helme,2,,16062,99765,covered by DC rule!,,
+TH,Nordhausen,16062018,Herrmannsacker,3,,16062,99762,covered by DC rule!,,
+TH,Nordhausen,16062022,Ilfeld,3,,16062,99768,covered by DC rule!,,
+TH,Nordhausen,16062024,Kehmstedt,2,,16062,99752,covered by DC rule!,,
+TH,Nordhausen,16062025,Kleinbodungen,2,,16062,99752,covered by DC rule!,,
+TH,Nordhausen,16062026,Kleinfurra,2,,16062,99735,covered by DC rule!,,
+TH,Nordhausen,16062029,Kraja,2,,16062,99752,covered by DC rule!,,
+TH,Nordhausen,16062033,Lipprechterode,2,,16062,99752,covered by DC rule!,,
+TH,Nordhausen,16062036,Neustadt/Harz,3,,16062,99762,covered by DC rule!,,
+TH,Nordhausen,16062037,Niedergebra,2,,16062,99759,covered by DC rule!,,
+TH,Nordhausen,16062038,Niedersachswerfen,3,,16062,99762,covered by DC rule!,,
+TH,Nordhausen,16062039,Nohra,2,,16062,99735,covered by DC rule!,,
+TH,Nordhausen,16062041,Nordhausen,2,,16062,99734,covered by DC rule!,,
+TH,Nordhausen,16062042,Obergebra,2,,16062,99759,covered by DC rule!,,
+TH,Nordhausen,16062044,Petersdorf,3,,16062,99735,covered by DC rule!,,99735 Petersdorf (3)
+TH,Nordhausen,16062046,Rehungen,2,,16062,99759,covered by DC rule!,,
+TH,Nordhausen,16062047,Rodishain,3,,16062,99762,covered by DC rule!,,
+TH,Nordhausen,16062049,Sollstedt,2,,16062,99759,covered by DC rule!,,
+TH,Nordhausen,16062052,Stempeda,2,,16062,99762,covered by DC rule!,,99762 Stempeda (2)
+TH,Nordhausen,16062054,Urbach,2,,16062,99765,covered by DC rule!,,
+TH,Nordhausen,16062055,Uthleben,2,,16062,99765,covered by DC rule!,,
+TH,Nordhausen,16062057,Windehausen,2,,16062,99765,covered by DC rule!,,
+TH,Nordhausen,16062058,Wipperdorf,2,,16062,99752,covered by DC rule!,,
+TH,Nordhausen,16062059,Wolkramshausen,2,,16062,99735,covered by DC rule!,,
+TH,Nordhausen,16062062,Hohenstein,3,,16062,99755,covered by DC rule!,,
+TH,Nordhausen,16062063,Werther,2,,16062,99735,covered by DC rule!,,
+TH,Wartburgkreis,16063001,Andenhausen,2,,16063,36452,bold ZIP codes are zone 3; 36433 is ambiguous (only Moorgrund is zone 3) => zone 2,,
+TH,Wartburgkreis,16063002,Bad Liebenstein,3,,16063,36448,covered by DC rule!,,
+TH,Wartburgkreis,16063003,Bad Salzungen,2,,16063,36433,covered by DC rule!,,
+TH,Wartburgkreis,16063004,Barchfeld,2,,16063,36456,covered by DC rule!,,
+TH,Wartburgkreis,16063006,Berka v.d.Hainich,3,,16063,99862,covered by DC rule!,,
+TH,Wartburgkreis,16063007,Berka/Werra,2,,16063,99837,covered by DC rule!,,
+TH,Wartburgkreis,16063008,Bischofroda,3,,16063,99826,covered by DC rule!,,
+TH,Wartburgkreis,16063009,Brunnhartshausen,2,,16063,36452,covered by DC rule!,,
+TH,Wartburgkreis,16063011,Buttlar,2,,16063,36419,covered by DC rule!,,
+TH,Wartburgkreis,16063013,Creuzburg,3,,16063,99831,covered by DC rule!,,
+TH,Wartburgkreis,16063014,Dankmarshausen,2,,16063,99837,covered by DC rule!,,
+TH,Wartburgkreis,16063015,Dermbach,2,,16063,36466,covered by DC rule!,,
+TH,Wartburgkreis,16063016,Diedorf/Rhön,2,,16063,36452,covered by DC rule!,,
+TH,Wartburgkreis,16063017,Dippach,2,,16063,99837,covered by DC rule!,,
+TH,Wartburgkreis,16063018,Dorndorf,2,,16063,36466,covered by DC rule!,,
+TH,Wartburgkreis,16063019,Ebenshausen,3,,16063,99826,covered by DC rule!,,
+TH,Wartburgkreis,16063023,Empfertshausen,2,,16063,36452,covered by DC rule!,,
+TH,Wartburgkreis,16063024,Ettenhausen a.d.Suhl,3,,16063,99819,covered by DC rule!,,
+TH,Wartburgkreis,16063026,Fischbach/Rhön,2,,16063,36452,covered by DC rule!,,
+TH,Wartburgkreis,16063028,Frankenroda,3,,16063,99826,covered by DC rule!,,
+TH,Wartburgkreis,16063029,Frauensee,2,,16063,36460,covered by DC rule!,,
+TH,Wartburgkreis,16063032,Geisa,2,,16063,36419,covered by DC rule!,,
+TH,Wartburgkreis,16063033,Gerstengrund,2,,16063,36419,covered by DC rule!,,
+TH,Wartburgkreis,16063097,Gerstungen,2,,16063,99834,covered by DC rule!,,
+TH,Wartburgkreis,16063036,Großensee,2,,16063,99837,covered by DC rule!,,
+TH,Wartburgkreis,16063037,Hallungen,3,,16063,99826,covered by DC rule!,,
+TH,Wartburgkreis,16063039,Ifta,3,,16063,99831,covered by DC rule!,,
+TH,Wartburgkreis,16063041,Immelborn,2,,16063,36433,covered by DC rule!,,
+TH,Wartburgkreis,16063043,Kaltenlengsfeld,2,,16063,36452,covered by DC rule!,,
+TH,Wartburgkreis,16063044,Kaltennordheim,2,,16063,36452,covered by DC rule!,,
+TH,Wartburgkreis,16063045,Klings,2,,16063,36452,covered by DC rule!,,
+TH,Wartburgkreis,16063046,Krauthausen,3,,16063,99819,covered by DC rule!,,
+TH,Wartburgkreis,16063049,Lauterbach,3,,16063,99826,covered by DC rule!,,
+TH,Wartburgkreis,16063051,Leimbach,2,,16063,36433,covered by DC rule!,,
+TH,Wartburgkreis,16063052,Marksuhl,3,,16063,99819,covered by DC rule!,,
+TH,Wartburgkreis,16063053,Martinroda,2,,16063,36404,covered by DC rule!,,
+TH,Wartburgkreis,16063054,Merkers-Kieselbach,2,,16063,36460,covered by DC rule!,,
+TH,Wartburgkreis,16063055,Mihla,3,,16063,99826,covered by DC rule!,,
+TH,Wartburgkreis,16063058,Nazza,3,,16063,99826,covered by DC rule!,,
+TH,Wartburgkreis,16063059,Neidhartshausen,2,,16063,36452,covered by DC rule!,,
+TH,Wartburgkreis,16063062,Oechsen,2,,16063,36404,covered by DC rule!,,
+TH,Wartburgkreis,16063065,Rockenstuhl,2,,16063,36419,covered by DC rule!,,
+TH,Wartburgkreis,16063066,Ruhla,3,,16063,99842,covered by DC rule!,,
+TH,Wartburgkreis,16063068,Schleid,2,,16063,36419,covered by DC rule!,,
+TH,Wartburgkreis,16063069,Schweina,3,,16063,36448,covered by DC rule!,,
+TH,Wartburgkreis,16063071,Seebach,3,,16063,99846,covered by DC rule!,,
+TH,Wartburgkreis,16063072,Stadtlengsfeld,2,,16063,36457,covered by DC rule!,,
+TH,Wartburgkreis,16063073,Steinbach,3,,16063,36448,covered by DC rule!,,
+TH,Wartburgkreis,16063075,Tiefenort,2,,16063,36469,covered by DC rule!,,
+TH,Wartburgkreis,16063076,Treffurt,3,,16063,99830,covered by DC rule!,,
+TH,Wartburgkreis,16063078,Unterbreizbach,2,,16063,36414,covered by DC rule!,,
+TH,Wartburgkreis,16063081,Urnshausen,2,,16063,36457,covered by DC rule!,,
+TH,Wartburgkreis,16063082,Vacha,2,,16063,36404,covered by DC rule!,,
+TH,Wartburgkreis,16063083,Völkershausen,2,,16063,36404,covered by DC rule!,,
+TH,Wartburgkreis,16063084,Weilar,2,,16063,36457,covered by DC rule!,,
+TH,Wartburgkreis,16063086,Wiesenthal,2,,16063,36466,covered by DC rule!,,
+TH,Wartburgkreis,16063087,Wölferbütt,2,,16063,36404,covered by DC rule!,,
+TH,Wartburgkreis,16063089,Wolfsburg-Unkeroda,3,,16063,99819,covered by DC rule!,,
+TH,Wartburgkreis,16063092,Wutha-Farnroda,3,,16063,99848,covered by DC rule!,,
+TH,Wartburgkreis,16063093,Zella/Rhön,2,,16063,36452,covered by DC rule!,,
+TH,Wartburgkreis,16063094,Moorgrund,3,,16063,36433,covered by DC rule!,,36433 Moorgrund (3)
+TH,Wartburgkreis,16063095,Hörselberg,3,,16063,99820,covered by DC rule!,,
+TH,Wartburgkreis,16063096,Behringen,3,,16063,99947,covered by DC rule!,,
+TH,Unstrut-Hainich-Kreis,16064001,Altengottern,2,,16064,99991,"bold ZIP codes are zone 3, amb. 99976 (def. 3), 99947 (def. 2)",,
+TH,Unstrut-Hainich-Kreis,16064003,Bad Langensalza,2,,16064,99947,covered by DC rule!,,
+TH,Unstrut-Hainich-Kreis,16064004,Bad Tennstedt,2,,16064,99955,covered by DC rule!,,
+TH,Unstrut-Hainich-Kreis,16064005,Ballhausen,2,,16064,99955,covered by DC rule!,,
+TH,Unstrut-Hainich-Kreis,16064007,Blankenburg,2,,16064,99955,covered by DC rule!,,
+TH,Unstrut-Hainich-Kreis,16064008,Bothenheilingen,2,,16064,99947,covered by DC rule!,,
+TH,Unstrut-Hainich-Kreis,16064009,Bruchstedt,2,,16064,99955,covered by DC rule!,,
+TH,Unstrut-Hainich-Kreis,16064014,Dünwald,2,,16064,99976,covered by DC rule!,,99976 Dünwald (2)
+TH,Unstrut-Hainich-Kreis,16064017,Flarchheim,3,,16064,99986,covered by DC rule!,,
+TH,Unstrut-Hainich-Kreis,16064018,Großengottern,2,,16064,99991,covered by DC rule!,,
+TH,Unstrut-Hainich-Kreis,16064019,Großvargula,2,,16064,99958,covered by DC rule!,,
+TH,Unstrut-Hainich-Kreis,16064021,Haussömmern,2,,16064,99955,covered by DC rule!,,
+TH,Unstrut-Hainich-Kreis,16064022,Herbsleben,2,,16064,99955,covered by DC rule!,,
+TH,Unstrut-Hainich-Kreis,16064023,Heroldishausen,2,,16064,99991,covered by DC rule!,,
+TH,Unstrut-Hainich-Kreis,16064024,Heyerode,3,,16064,99988,covered by DC rule!,,
+TH,Unstrut-Hainich-Kreis,16064025,Hildebrandshausen,3,,16064,99976,covered by DC rule!,,
+TH,Unstrut-Hainich-Kreis,16064027,Hornsömmern,2,,16064,99955,covered by DC rule!,,
+TH,Unstrut-Hainich-Kreis,16064029,Issersheilingen,2,,16064,99947,covered by DC rule!,,
+TH,Unstrut-Hainich-Kreis,16064032,Kammerforst,3,,16064,99986,covered by DC rule!,,
+TH,Unstrut-Hainich-Kreis,16064033,Kirchheilingen,2,,16064,99947,covered by DC rule!,,
+TH,Unstrut-Hainich-Kreis,16064035,Kleinwelsbach,2,,16064,99947,covered by DC rule!,,
+TH,Unstrut-Hainich-Kreis,16064036,Klettstedt,2,,16064,99955,covered by DC rule!,,
+TH,Unstrut-Hainich-Kreis,16064037,Körner,2,,16064,99998,covered by DC rule!,,
+TH,Unstrut-Hainich-Kreis,16064038,Kutzleben,2,,16064,99955,covered by DC rule!,,
+TH,Unstrut-Hainich-Kreis,16064039,Langula,3,,16064,99986,covered by DC rule!,,
+TH,Unstrut-Hainich-Kreis,16064042,Lengenfeld unterm Stein,3,,16064,99976,covered by DC rule!,,
+TH,Unstrut-Hainich-Kreis,16064043,Marolterode,2,,16064,99994,covered by DC rule!,,
+TH,Unstrut-Hainich-Kreis,16064045,Mittelsömmern,2,,16064,99955,covered by DC rule!,,
+TH,Unstrut-Hainich-Kreis,16064046,Mühlhausen/Thüringen,2,,16064,99947,covered by DC rule!,,
+TH,Unstrut-Hainich-Kreis,16064047,Mülverstedt,3,,16064,99947,covered by DC rule!,,99947 Mülverstedt (3)
+TH,Unstrut-Hainich-Kreis,16064048,Neunheilingen,2,,16064,99947,covered by DC rule!,,
+TH,Unstrut-Hainich-Kreis,16064049,Niederdorla,3,,16064,99986,covered by DC rule!,,
+TH,Unstrut-Hainich-Kreis,16064051,Oberdorla,3,,16064,99986,covered by DC rule!,,
+TH,Unstrut-Hainich-Kreis,16064052,Obermehler,2,,16064,99996,covered by DC rule!,,
+TH,Unstrut-Hainich-Kreis,16064053,Oppershausen,3,,16064,99986,covered by DC rule!,,
+TH,Unstrut-Hainich-Kreis,16064055,Rodeberg,3,,16064,99976,covered by DC rule!,,
+TH,Unstrut-Hainich-Kreis,16064057,Schlotheim,2,,16064,99994,covered by DC rule!,,
+TH,Unstrut-Hainich-Kreis,16064058,Schönstedt,3,,16064,99947,covered by DC rule!,,99947 Schönstedt (3)
+TH,Unstrut-Hainich-Kreis,16064061,Sundhausen,2,,16064,99947,covered by DC rule!,,
+TH,Unstrut-Hainich-Kreis,16064062,Tottleben,2,,16064,99947,covered by DC rule!,,
+TH,Unstrut-Hainich-Kreis,16064064,Urleben,2,,16064,99955,covered by DC rule!,,
+TH,Unstrut-Hainich-Kreis,16064065,Weberstedt,3,,16064,99947,covered by DC rule!,,99947 Weberstedt (3)
+TH,Unstrut-Hainich-Kreis,16064066,Weinbergen,2,,16064,99998,covered by DC rule!,,
+TH,Unstrut-Hainich-Kreis,16064069,Katharinenberg,3,,16064,99988,covered by DC rule!,,
+TH,Unstrut-Hainich-Kreis,16064071,Unstruttal,2,,16064,99974,covered by DC rule!,,
+TH,Unstrut-Hainich-Kreis,16064072,Menteroda,2,,16064,99996,covered by DC rule!,,
+TH,Unstrut-Hainich-Kreis,16064073,Anrode,2,,16064,99976,covered by DC rule!,,99976 Anrode (2)
+TH,Kyffhäuserkreis,alle,alle,2,,16065,,,,
+TH,Schmalkalden-Meiningen,16066001,Altersbach,3,,16066,98587,covered by DC rule!,,
+TH,Schmalkalden-Meiningen,16066002,Aschenhausen,2,,16066,98634,"bold zip codes are zones 2a and 3, amb. 98587 (def. 3), 98597 (def. 2), 98634 (def. 2)",,
+TH,Schmalkalden-Meiningen,16066003,Bauerbach,2,,16066,98617,covered by DC rule!,,
+TH,Schmalkalden-Meiningen,16066004,Behrungen,2,,16066,98631,covered by DC rule!,,
+TH,Schmalkalden-Meiningen,16066005,Belrieth,2,,16066,98617,covered by DC rule!,,
+TH,Schmalkalden-Meiningen,16066006,Benshausen,2,,16066,98554,covered by DC rule!,,
+TH,Schmalkalden-Meiningen,16066007,Berkach,2,,16066,98631,covered by DC rule!,,
+TH,Schmalkalden-Meiningen,16066008,Bermbach,2,,16066,98587,covered by DC rule!,,98587 Bermbach (2)
+TH,Schmalkalden-Meiningen,16066011,Bibra,2,,16066,98631,covered by DC rule!,,
+TH,Schmalkalden-Meiningen,16066012,Birx,2a,,16066,98634,covered by DC rule!,,98634 Birx (2a)
+TH,Schmalkalden-Meiningen,16066013,Breitungen/Werra,2,,16066,98597,covered by DC rule!,,
+TH,Schmalkalden-Meiningen,16066014,Brotterode,3,,16066,98599,covered by DC rule!,,
+TH,Schmalkalden-Meiningen,16066015,Christes,2,,16066,98547,covered by DC rule!,,
+TH,Schmalkalden-Meiningen,16066016,Dillstädt,2,,16066,98530,covered by DC rule!,,
+TH,Schmalkalden-Meiningen,16066017,Einhausen,2,,16066,98617,covered by DC rule!,,
+TH,Schmalkalden-Meiningen,16066018,Ellingshausen,2,,16066,98617,covered by DC rule!,,
+TH,Schmalkalden-Meiningen,16066019,Erbenhausen,2a,,16066,98634,covered by DC rule!,,98634 Erbenhausen (2a)
+TH,Schmalkalden-Meiningen,16066021,Exdorf,2,,16066,98631,covered by DC rule!,,
+TH,Schmalkalden-Meiningen,16066022,Fambach,2,,16066,98597,covered by DC rule!,,
+TH,Schmalkalden-Meiningen,16066023,Floh-Seligenthal,3,,16066,98593,covered by DC rule!,,
+TH,Schmalkalden-Meiningen,16066024,Frankenheim/Rhön,2a,,16066,98634,covered by DC rule!,,98634 Frankenheim/Rhön (2a)
+TH,Schmalkalden-Meiningen,16066025,Friedelshausen,2,,16066,98634,covered by DC rule!,,
+TH,Schmalkalden-Meiningen,16066028,Henneberg,2,,16066,98617,covered by DC rule!,,
+TH,Schmalkalden-Meiningen,16066031,Herpf,2,,16066,98617,covered by DC rule!,,
+TH,Schmalkalden-Meiningen,16066032,Heßles,3,,16066,98597,covered by DC rule!,,98597 Heßles (3)
+TH,Schmalkalden-Meiningen,16066033,Hümpfershausen,2,,16066,98634,covered by DC rule!,,
+TH,Schmalkalden-Meiningen,16066034,Jüchsen,2,,16066,98631,covered by DC rule!,,
+TH,Schmalkalden-Meiningen,16066035,Kaltensundheim,2,,16066,98634,covered by DC rule!,,
+TH,Schmalkalden-Meiningen,16066036,Kaltenwestheim,2,,16066,98634,covered by DC rule!,,
+TH,Schmalkalden-Meiningen,16066037,Kleinschmalkalden,3,,16066,98593,covered by DC rule!,,
+TH,Schmalkalden-Meiningen,16066038,Kühndorf,2,,16066,98547,covered by DC rule!,,
+TH,Schmalkalden-Meiningen,16066039,Leutersdorf,2,,16066,98617,covered by DC rule!,,
+TH,Schmalkalden-Meiningen,16066041,Mehmels,2,,16066,98634,covered by DC rule!,,
+TH,Schmalkalden-Meiningen,16066042,Meiningen,2,,16066,98617,covered by DC rule!,,
+TH,Schmalkalden-Meiningen,16066043,Melpers,2a,,16066,98634,covered by DC rule!,,98634 Melpers (2a)
+TH,Schmalkalden-Meiningen,16066044,Metzels,2,,16066,98639,covered by DC rule!,,
+TH,Schmalkalden-Meiningen,16066045,Neubrunn,2,,16066,98617,covered by DC rule!,,
+TH,Schmalkalden-Meiningen,16066046,Nordheim,2,,16066,98631,covered by DC rule!,,
+TH,Schmalkalden-Meiningen,16066047,Oberhof,3,,16066,98559,covered by DC rule!,,
+TH,Schmalkalden-Meiningen,16066048,Oberkatz,2,,16066,98634,covered by DC rule!,,
+TH,Schmalkalden-Meiningen,16066049,Obermaßfeld-Grimmenthal,2,,16066,98617,covered by DC rule!,,
+TH,Schmalkalden-Meiningen,16066051,Oberschönau,3,,16066,98587,covered by DC rule!,,
+TH,Schmalkalden-Meiningen,16066052,Oberweid,2,,16066,98634,covered by DC rule!,,
+TH,Schmalkalden-Meiningen,16066053,Oepfershausen,2,,16066,98634,covered by DC rule!,,
+TH,Schmalkalden-Meiningen,16066054,Queienfeld,2,,16066,98631,covered by DC rule!,,
+TH,Schmalkalden-Meiningen,16066055,Rentwertshausen,2,,16066,98631,covered by DC rule!,,
+TH,Schmalkalden-Meiningen,16066056,Rippershausen,2,,16066,98639,covered by DC rule!,,
+TH,Schmalkalden-Meiningen,16066057,Ritschenhausen,2,,16066,98617,covered by DC rule!,,
+TH,Schmalkalden-Meiningen,16066058,Rohr,2,,16066,98530,covered by DC rule!,,
+TH,Schmalkalden-Meiningen,16066059,Rosa,2,,16066,98590,covered by DC rule!,,
+TH,Schmalkalden-Meiningen,16066061,Roßdorf,2,,16066,98590,covered by DC rule!,,
+TH,Schmalkalden-Meiningen,16066062,Rotterode,3,,16066,98587,covered by DC rule!,,
+TH,Schmalkalden-Meiningen,16066063,Schmalkalden,3,,16066,98574,covered by DC rule!,,
+TH,Schmalkalden-Meiningen,16066064,Schwallungen,2,,16066,98590,covered by DC rule!,,
+TH,Schmalkalden-Meiningen,16066065,Schwarza,2,,16066,98547,covered by DC rule!,,
+TH,Schmalkalden-Meiningen,16066066,Schwickershausen,2,,16066,98631,covered by DC rule!,,
+TH,Schmalkalden-Meiningen,16066067,Springstille,3,,16066,98587,covered by DC rule!,,
+TH,Schmalkalden-Meiningen,16066069,Steinbach-Hallenberg,3,,16066,98587,covered by DC rule!,,
+TH,Schmalkalden-Meiningen,16066071,Stepfershausen,2,,16066,98617,covered by DC rule!,,
+TH,Schmalkalden-Meiningen,16066073,Sülzfeld,2,,16066,98617,covered by DC rule!,,
+TH,Schmalkalden-Meiningen,16066074,Trusetal,3,,16066,98596,covered by DC rule!,,
+TH,Schmalkalden-Meiningen,16066075,Unterkatz,2,,16066,98634,covered by DC rule!,,
+TH,Schmalkalden-Meiningen,16066076,Untermaßfeld,2,,16066,98617,covered by DC rule!,,
+TH,Schmalkalden-Meiningen,16066077,Unterschönau,3,,16066,98587,covered by DC rule!,,
+TH,Schmalkalden-Meiningen,16066078,Unterweid,2,,16066,98634,covered by DC rule!,,
+TH,Schmalkalden-Meiningen,16066079,Utendorf,2,,16066,98617,covered by DC rule!,,
+TH,Schmalkalden-Meiningen,16066081,Vachdorf,2,,16066,98617,covered by DC rule!,,
+TH,Schmalkalden-Meiningen,16066082,Viernau,2,,16066,98547,covered by DC rule!,,
+TH,Schmalkalden-Meiningen,16066083,Wahns,2,,16066,98634,covered by DC rule!,,
+TH,Schmalkalden-Meiningen,16066084,Wallbach,2,,16066,98639,covered by DC rule!,,
+TH,Schmalkalden-Meiningen,16066085,Walldorf,2,,16066,98639,covered by DC rule!,,
+TH,Schmalkalden-Meiningen,16066086,Wasungen,2,,16066,98634,covered by DC rule!,,
+TH,Schmalkalden-Meiningen,16066087,Wernshausen,2,,16066,98590,covered by DC rule!,,
+TH,Schmalkalden-Meiningen,16066088,Wölfershausen,2,,16066,98617,covered by DC rule!,,
+TH,Schmalkalden-Meiningen,16066091,Wolfmannshausen,2,,16066,98631,covered by DC rule!,,
+TH,Schmalkalden-Meiningen,16066092,Zella-Mehlis,3,,16066,98544,covered by DC rule!,,
+TH,Schmalkalden-Meiningen,16066093,Rhönblick,2,,16066,98617,covered by DC rule!,,
+TH,Gotha,16067001,Apfelstädt,2,,16067,99192,covered by DC rule!,,
+TH,Gotha,16067002,Aspach,3,,16067,99880,"bold zip codes are zone 2, amb. 99869 (def. 3), 99958 (def. 3)",,
+TH,Gotha,16067003,Ballstädt,2,,16067,99869,covered by DC rule!,,99869 Ballstädt (2)
+TH,Gotha,16067004,Bienstädt,2,,16067,99100,covered by DC rule!,,
+TH,Gotha,16067005,Brüheim,3,,16067,99869,covered by DC rule!,,
+TH,Gotha,16067006,Bufleben,2,,16067,99869,covered by DC rule!,,99869 Bufleben (2)
+TH,Gotha,16067008,Crawinkel,3,,16067,99330,covered by DC rule!,,
+TH,Gotha,16067009,Dachwig,2,,16067,99100,covered by DC rule!,,
+TH,Gotha,16067011,Döllstädt,2,,16067,99100,covered by DC rule!,,
+TH,Gotha,16067012,Ebenheim,3,,16067,99869,covered by DC rule!,,
+TH,Gotha,16067013,Emleben,3,,16067,99869,covered by DC rule!,,
+TH,Gotha,16067015,Ernstroda,3,,16067,99894,covered by DC rule!,,
+TH,Gotha,16067016,Eschenbergen,2,,16067,99869,covered by DC rule!,,99869 Eschenbergen (2)
+TH,Gotha,16067017,Finsterbergen,3,,16067,99898,covered by DC rule!,,
+TH,Gotha,16067019,Friedrichroda,3,,16067,99894,covered by DC rule!,,
+TH,Gotha,16067021,Friedrichswerth,3,,16067,99869,covered by DC rule!,,
+TH,Gotha,16067022,Friemar,2,,16067,99869,covered by DC rule!,,99869 Friemar (2)
+TH,Gotha,16067023,Fröttstädt,3,,16067,99880,covered by DC rule!,,
+TH,Gotha,16067024,Gamstädt,2,,16067,99192,covered by DC rule!,,
+TH,Gotha,16067025,Georgenthal/Thür. Wald,3,,16067,99887,covered by DC rule!,,
+TH,Gotha,16067026,Gierstädt,2,,16067,99100,covered by DC rule!,,
+TH,Gotha,16067027,Goldbach,3,,16067,99869,covered by DC rule!,,
+TH,Gotha,16067029,Gotha,3,,16067,99867,covered by DC rule!,,
+TH,Gotha,16067031,Grabsleben,2,,16067,99869,covered by DC rule!,,99869 Grabsleben (2)
+TH,Gotha,16067032,Gräfenhain,3,,16067,99887,covered by DC rule!,,
+TH,Gotha,16067033,Großfahner,2,,16067,99100,covered by DC rule!,,
+TH,Gotha,16067035,Haina,3,,16067,99869,covered by DC rule!,,
+TH,Gotha,16067036,Herrenhof,3,,16067,99887,covered by DC rule!,,
+TH,Gotha,16067037,Hochheim,2,,16067,99869,covered by DC rule!,,99869 Hochheim (2)
+TH,Gotha,16067038,Hörselgau,3,,16067,99880,covered by DC rule!,,
+TH,Gotha,16067039,Hohenkirchen,3,,16067,99887,covered by DC rule!,,
+TH,Gotha,16067041,Ingersleben,2,,16067,99192,covered by DC rule!,,
+TH,Gotha,16067042,Laucha,3,,16067,99880,covered by DC rule!,,
+TH,Gotha,16067044,Luisenthal,3,,16067,99885,covered by DC rule!,,
+TH,Gotha,16067045,Mechterstädt,3,,16067,99880,covered by DC rule!,,
+TH,Gotha,16067046,Metebach,3,,16067,99880,covered by DC rule!,,
+TH,Gotha,16067047,Molschleben,2,,16067,99869,covered by DC rule!,,99869 Molschleben (2)
+TH,Gotha,16067048,Mühlberg,3,,16067,99869,covered by DC rule!,,
+TH,Gotha,16067051,Neudietendorf,2,,16067,99192,covered by DC rule!,,
+TH,Gotha,16067052,Nottleben,2,,16067,99192,covered by DC rule!,,
+TH,Gotha,16067053,Ohrdruf,3,,16067,99885,covered by DC rule!,,
+TH,Gotha,16067054,Petriroda,3,,16067,99887,covered by DC rule!,,
+TH,Gotha,16067055,Pferdingsleben,2,,16067,99869,covered by DC rule!,,99869 Pferdingsleben (2)
+TH,Gotha,16067056,Remstädt,3,,16067,99869,covered by DC rule!,,
+TH,Gotha,16067059,Schwabhausen,3,,16067,99869,covered by DC rule!,,
+TH,Gotha,16067062,Seebergen,3,,16067,99869,covered by DC rule!,,
+TH,Gotha,16067063,Sonneborn,3,,16067,99869,covered by DC rule!,,
+TH,Gotha,16067064,Tabarz/Thür. Wald,3,,16067,99891,covered by DC rule!,,
+TH,Gotha,16067065,Tambach-Dietharz/Thür. Wald,3,,16067,99897,covered by DC rule!,,
+TH,Gotha,16067066,Teutleben,3,,16067,99880,covered by DC rule!,,
+TH,Gotha,16067067,Tonna,2,,16067,99958,covered by DC rule!,,99958 Tonna (2)
+TH,Gotha,16067068,Tröchtelborn,2,,16067,99869,covered by DC rule!,,99869 Tröchtelborn (2)
+TH,Gotha,16067069,Trügleben,3,,16067,99880,covered by DC rule!,,
+TH,Gotha,16067071,Tüttleben,2,,16067,99869,covered by DC rule!,,99869 Tüttleben (2)
+TH,Gotha,16067072,Waltershausen,3,,16067,99880,covered by DC rule!,,
+TH,Gotha,16067073,Wandersleben,3,,16067,99869,covered by DC rule!,,
+TH,Gotha,16067074,Wangenheim,3,,16067,99869,covered by DC rule!,,
+TH,Gotha,16067075,Warza,2,,16067,99869,covered by DC rule!,,99869 Warza (2)
+TH,Gotha,16067077,Weingarten,3,,16067,99869,covered by DC rule!,,
+TH,Gotha,16067078,Westhausen,2,,16067,99869,covered by DC rule!,,99869 Westhausen (2)
+TH,Gotha,16067081,Wölfis,3,,16067,99885,covered by DC rule!,,
+TH,Gotha,16067082,Zimmernsupra,2,,16067,99100,covered by DC rule!,,
+TH,Gotha,16067083,Leinatal,3,,16067,99880,covered by DC rule!,,
+TH,Gotha,16067084,Emsetal,3,,16067,99891,covered by DC rule!,,
+TH,Gotha,16067085,Günthersleben-Wechmar,3,,16067,99869,covered by DC rule!,,
+TH,Sömmerda,alle,alle,2,,16068,,,,
+TH,Hildburghausen,alle,alle,2,,16069,,,,
+TH,Ilm-Kreis,16070001,Alkersleben,2,,16070,99310,covered by DC rule!,,99310 Alkersleben (2)
+TH,Ilm-Kreis,16070002,Altenfeld,3,,16070,98701,bold ZIP codes are zone 2,,
+TH,Ilm-Kreis,16070003,Angelroda,3,,16070,99338,covered by DC rule!,,
+TH,Ilm-Kreis,16070004,Arnstadt,3,,16070,99310,covered by DC rule!,,
+TH,Ilm-Kreis,16070005,Böhlen,3,,16070,98701,covered by DC rule!,,
+TH,Ilm-Kreis,16070006,Bösleben-Wüllersleben,2,,16070,99310,covered by DC rule!,,99310 Bösleben-Wüllersleben (2)
+TH,Ilm-Kreis,16070008,Dornheim,3,,16070,99310,covered by DC rule!,,
+TH,Ilm-Kreis,16070011,Elgersburg,3,,16070,98716,covered by DC rule!,,
+TH,Ilm-Kreis,16070012,Elleben,2,,16070,99334,covered by DC rule!,,
+TH,Ilm-Kreis,16070013,Elxleben,2,,16070,99334,covered by DC rule!,,
+TH,Ilm-Kreis,16070014,Frankenhain,3,,16070,99330,covered by DC rule!,,
+TH,Ilm-Kreis,16070015,Frauenwald,3,,16070,98711,covered by DC rule!,,
+TH,Ilm-Kreis,16070016,Friedersdorf,3,,16070,98701,covered by DC rule!,,
+TH,Ilm-Kreis,16070017,Gehlberg,3,,16070,98559,covered by DC rule!,,
+TH,Ilm-Kreis,16070018,Gehren,3,,16070,98708,covered by DC rule!,,
+TH,Ilm-Kreis,16070019,Geraberg,3,,16070,98716,covered by DC rule!,,
+TH,Ilm-Kreis,16070021,Geschwenda,3,,16070,98716,covered by DC rule!,,
+TH,Ilm-Kreis,16070022,Gillersdorf,3,,16070,98701,covered by DC rule!,,
+TH,Ilm-Kreis,16070023,Gossel,3,,16070,99338,covered by DC rule!,,
+TH,Ilm-Kreis,16070024,Gräfenroda,3,,16070,99330,covered by DC rule!,,
+TH,Ilm-Kreis,16070025,Großbreitenbach,3,,16070,98701,covered by DC rule!,,
+TH,Ilm-Kreis,16070027,Herschdorf,3,,16070,98701,covered by DC rule!,,
+TH,Ilm-Kreis,16070028,Ichtershausen,2,,16070,99334,covered by DC rule!,,
+TH,Ilm-Kreis,16070029,Ilmenau,3,,16070,98693,covered by DC rule!,,
+TH,Ilm-Kreis,16070031,Kirchheim,2,,16070,99334,covered by DC rule!,,
+TH,Ilm-Kreis,16070032,Langewiesen,3,,16070,98704,covered by DC rule!,,
+TH,Ilm-Kreis,16070033,Liebenstein,3,,16070,99330,covered by DC rule!,,
+TH,Ilm-Kreis,16070034,Martinroda,3,,16070,98693,covered by DC rule!,,
+TH,Ilm-Kreis,16070035,Möhrenbach,3,,16070,98708,covered by DC rule!,,
+TH,Ilm-Kreis,16070037,Neusiß,3,,16070,99338,covered by DC rule!,,
+TH,Ilm-Kreis,16070038,Neustadt am Rennsteig,3,,16070,98701,covered by DC rule!,,
+TH,Ilm-Kreis,16070041,Osthausen-Wülfershausen,2,,16070,99310,covered by DC rule!,,99310 Osthausen-Wülfershausen (2)
+TH,Ilm-Kreis,16070042,Pennewitz,3,,16070,98708,covered by DC rule!,,
+TH,Ilm-Kreis,16070043,Plaue,3,,16070,99338,covered by DC rule!,,
+TH,Ilm-Kreis,16070044,Rockhausen,2,,16070,99102,covered by DC rule!,,
+TH,Ilm-Kreis,16070046,Schmiedefeld am Rennsteig,3,,16070,98711,covered by DC rule!,,
+TH,Ilm-Kreis,16070048,Stadtilm,3,,16070,99326,covered by DC rule!,,
+TH,Ilm-Kreis,16070049,Stützerbach,3,,16070,98714,covered by DC rule!,,
+TH,Ilm-Kreis,16070051,Wachsenburggemeinde,3,,16070,99310,covered by DC rule!,,
+TH,Ilm-Kreis,16070052,Wildenspring,3,,16070,98701,covered by DC rule!,,
+TH,Ilm-Kreis,16070053,Wipfratal,3,,16070,99310,covered by DC rule!,,
+TH,Ilm-Kreis,16070054,Witzleben,2,,16070,99310,covered by DC rule!,,99310 Wipfratal (2)
+TH,Ilm-Kreis,16070055,Wolfsberg,3,,16070,98704,covered by DC rule!,,
+TH,Ilm-Kreis,16070056,Ilmtal,3,,16070,99326,covered by DC rule!,,
+TH,Weimarer Land,alle,alle,2,,16071,,,,
+TH,Sonneberg,16072001,Bachfeld,2,,16072,96528,covered by DC rule!,,
+TH,Sonneberg,16072002,Effelder-Rauenstein,2,,16072,96528,covered by DC rule!,,
+TH,Sonneberg,16072005,Föritz,2,,16072,96524,covered by DC rule!,,
+TH,Sonneberg,16072006,Goldisthal,3,,16072,98764,bold ZIP codes are zone 2,,
+TH,Sonneberg,16072009,Judenbach,3,,16072,96515,covered by DC rule!,,
+TH,Sonneberg,16072011,Lauscha,3,,16072,98724,covered by DC rule!,,
+TH,Sonneberg,16072012,Mengersgereuth-Hämmern,2,,16072,96529,covered by DC rule!,,
+TH,Sonneberg,16072013,Neuhaus am Rennweg,3,,16072,98724,covered by DC rule!,,
+TH,Sonneberg,16072014,Neuhaus-Schierschnitz,2,,16072,96524,covered by DC rule!,,
+TH,Sonneberg,16072015,Schalkau,2,,16072,96528,covered by DC rule!,,
+TH,Sonneberg,16072016,Scheibe-Alsbach,3,,16072,98749,covered by DC rule!,,
+TH,Sonneberg,16072017,Siegmundsburg,2,,16072,98749,covered by DC rule!,,98749 Siegmundsburg (2)
+TH,Sonneberg,16072018,Sonneberg,2,,16072,96515,covered by DC rule!,,96515 Sonneberg (2)
+TH,Sonneberg,16072019,Steinach,3,,16072,96523,covered by DC rule!,,
+TH,Sonneberg,16072021,Steinheid,3,,16072,98749,covered by DC rule!,,
+TH,Sonneberg,16072022,Oberland am Rennsteig,3,,16072,96523,covered by DC rule!,,
+TH,Saalfeld-Rudolstadt,16073001,Allendorf,3,,16073,07426,bold ZIP codes are zone 2,,
+TH,Saalfeld-Rudolstadt,16073002,Altenbeuthen,3,,16073,07338,covered by DC rule!,,
+TH,Saalfeld-Rudolstadt,16073004,Arnsgereuth,3,,16073,07318,covered by DC rule!,,
+TH,Saalfeld-Rudolstadt,16073005,Bad Blankenburg,3,,16073,07422,covered by DC rule!,,
+TH,Saalfeld-Rudolstadt,16073006,Bechstedt,3,,16073,07426,covered by DC rule!,,
+TH,Saalfeld-Rudolstadt,16073009,Birkigt,3,,16073,07336,covered by DC rule!,,
+TH,Saalfeld-Rudolstadt,16073013,Cursdorf,3,,16073,98744,covered by DC rule!,,
+TH,Saalfeld-Rudolstadt,16073014,Deesbach,3,,16073,98744,covered by DC rule!,,
+TH,Saalfeld-Rudolstadt,16073017,Döschnitz,3,,16073,07429,covered by DC rule!,,
+TH,Saalfeld-Rudolstadt,16073021,Dröbischau,3,,16073,07426,covered by DC rule!,,
+TH,Saalfeld-Rudolstadt,16073027,Goßwitz,3,,16073,07334,covered by DC rule!,,
+TH,Saalfeld-Rudolstadt,16073028,Gräfenthal,3,,16073,98743,covered by DC rule!,,
+TH,Saalfeld-Rudolstadt,16073029,Großkochberg,2,,16073,07407,covered by DC rule!,,
+TH,Saalfeld-Rudolstadt,16073032,Heilingen,2,,16073,07407,covered by DC rule!,,
+TH,Saalfeld-Rudolstadt,16073035,Hohenwarte,3,,16073,07338,covered by DC rule!,,
+TH,Saalfeld-Rudolstadt,16073036,Kamsdorf,3,,16073,07334,covered by DC rule!,,
+TH,Saalfeld-Rudolstadt,16073037,Katzhütte,3,,16073,98746,covered by DC rule!,,
+TH,Saalfeld-Rudolstadt,16073038,Kaulsdorf,3,,16073,07338,covered by DC rule!,,
+TH,Saalfeld-Rudolstadt,16073042,Königsee,3,,16073,07426,covered by DC rule!,,
+TH,Saalfeld-Rudolstadt,16073043,Könitz,3,,16073,07336,covered by DC rule!,,
+TH,Saalfeld-Rudolstadt,16073045,Lausnitz b. Pößneck,3,,16073,07387,covered by DC rule!,,
+TH,Saalfeld-Rudolstadt,16073046,Lehesten,3,,16073,07349,covered by DC rule!,,
+TH,Saalfeld-Rudolstadt,16073049,Lichte,3,,16073,98739,covered by DC rule!,,
+TH,Saalfeld-Rudolstadt,16073051,Lichtenhain/Bergbahn,3,,16073,98744,covered by DC rule!,,
+TH,Saalfeld-Rudolstadt,16073054,Mellenbach-Glasbach,3,,16073,98746,covered by DC rule!,,
+TH,Saalfeld-Rudolstadt,16073055,Meura,3,,16073,98744,covered by DC rule!,,
+TH,Saalfeld-Rudolstadt,16073056,Meuselbach-Schwarzmühle,3,,16073,98746,covered by DC rule!,,
+TH,Saalfeld-Rudolstadt,16073063,Oberhain,3,,16073,07426,covered by DC rule!,,
+TH,Saalfeld-Rudolstadt,16073065,Oberweißbach/Thür. Wald,3,,16073,98744,covered by DC rule!,,
+TH,Saalfeld-Rudolstadt,16073066,Piesau,3,,16073,98739,covered by DC rule!,,
+TH,Saalfeld-Rudolstadt,16073067,Probstzella,3,,16073,07330,covered by DC rule!,,
+TH,Saalfeld-Rudolstadt,16073068,Reichmannsdorf,3,,16073,98739,covered by DC rule!,,
+TH,Saalfeld-Rudolstadt,16073074,Rohrbach,3,,16073,07429,covered by DC rule!,,
+TH,Saalfeld-Rudolstadt,16073075,Rottenbach,3,,16073,07422,covered by DC rule!,,
+TH,Saalfeld-Rudolstadt,16073076,Rudolstadt,3,,16073,07407,covered by DC rule!,,07407 Rudolstadt (3)
+TH,Saalfeld-Rudolstadt,16073077,Saalfeld/Saale,3,,16073,07318,covered by DC rule!,,
+TH,Saalfeld-Rudolstadt,16073079,Schmiedefeld,3,,16073,98739,covered by DC rule!,,
+TH,Saalfeld-Rudolstadt,16073082,Schwarzburg,3,,16073,07427,covered by DC rule!,,
+TH,Saalfeld-Rudolstadt,16073084,Sitzendorf,3,,16073,07429,covered by DC rule!,,
+TH,Saalfeld-Rudolstadt,16073092,Uhlstädt-Kirchhasel,2,,16073,07407,covered by DC rule!,,
+TH,Saalfeld-Rudolstadt,16073094,Unterweißbach,3,,16073,98744,covered by DC rule!,,
+TH,Saalfeld-Rudolstadt,16073095,Unterwellenborn,3,,16073,07333,covered by DC rule!,,
+TH,Saalfeld-Rudolstadt,16073101,Wittgendorf,3,,16073,07318,covered by DC rule!,,
+TH,Saalfeld-Rudolstadt,16073105,Remda-Teichel,2,,16073,07407,covered by DC rule!,,
+TH,Saalfeld-Rudolstadt,16073106,Leutenberg,3,,16073,07338,covered by DC rule!,,
+TH,Saalfeld-Rudolstadt,16073107,Drognitz,3,,16073,07338,covered by DC rule!,,
+TH,Saalfeld-Rudolstadt,16073108,Saalfelder Höhe,3,,16073,07422,covered by DC rule!,,
+TH,Saale-Holzland-Kreis,alle,alle,2,,16074,,,,
+TH,Saale-Orla-Kreis,16075002,Birkenhügel,3,,16075,07366,bold zip codes are zone 2,,
+TH,Saale-Orla-Kreis,16075003,Blankenberg,3,,16075,07366,covered by DC rule!,,
+TH,Saale-Orla-Kreis,16075004,Blankenstein,3,,16075,07366,covered by DC rule!,,
+TH,Saale-Orla-Kreis,16075006,Bodelwitz,2,,16075,07381,covered by DC rule!,,
+TH,Saale-Orla-Kreis,16075007,Breitenhain,2,,16075,07806,covered by DC rule!,,
+TH,Saale-Orla-Kreis,16075008,Bucha,3,,16075,07389,covered by DC rule!,,
+TH,Saale-Orla-Kreis,16075009,Burgk,3,,16075,07907,covered by DC rule!,,07907 Burgk (3)
+TH,Saale-Orla-Kreis,16075012,Chursdorf,2,,16075,07907,covered by DC rule!,,
+TH,Saale-Orla-Kreis,16075013,Crispendorf,3,,16075,07924,covered by DC rule!,,
+TH,Saale-Orla-Kreis,16075014,Dittersdorf,2,,16075,07907,covered by DC rule!,,
+TH,Saale-Orla-Kreis,16075016,Döbritz,2,,16075,07381,covered by DC rule!,,
+TH,Saale-Orla-Kreis,16075017,Dragensdorf,2,,16075,07907,covered by DC rule!,,
+TH,Saale-Orla-Kreis,16075018,Dreba,2,,16075,07806,covered by DC rule!,,
+TH,Saale-Orla-Kreis,16075019,Dreitzsch,2,,16075,07819,covered by DC rule!,,
+TH,Saale-Orla-Kreis,16075023,Eßbach,3,,16075,07924,covered by DC rule!,,
+TH,Saale-Orla-Kreis,16075029,Geroda,2,,16075,07819,covered by DC rule!,,
+TH,Saale-Orla-Kreis,16075031,Gertewitz,2,,16075,07389,covered by DC rule!,,07389 Gertewitz (2)
+TH,Saale-Orla-Kreis,16075033,Görkwitz,3,,16075,07907,covered by DC rule!,,07907 Görkwitz (3)
+TH,Saale-Orla-Kreis,16075034,Göschitz,2,,16075,07907,covered by DC rule!,,
+TH,Saale-Orla-Kreis,16075035,Gössitz,3,,16075,07389,covered by DC rule!,,
+TH,Saale-Orla-Kreis,16075039,Grobengereuth,2,,16075,07389,covered by DC rule!,,07389 Grobengereuth (2)
+TH,Saale-Orla-Kreis,16075042,Harra,3,,16075,07366,covered by DC rule!,,
+TH,Saale-Orla-Kreis,16075046,Hirschberg,3,,16075,07927,covered by DC rule!,,
+TH,Saale-Orla-Kreis,16075047,Keila,3,,16075,07389,covered by DC rule!,,
+TH,Saale-Orla-Kreis,16075048,Kirschkau,2,,16075,07919,covered by DC rule!,,
+TH,Saale-Orla-Kreis,16075049,Knau,3,,16075,07389,covered by DC rule!,,
+TH,Saale-Orla-Kreis,16075051,Kospoda,2,,16075,07806,covered by DC rule!,,
+TH,Saale-Orla-Kreis,16075054,Langenorla,2,,16075,07381,covered by DC rule!,,
+TH,Saale-Orla-Kreis,16075056,Lausnitz b. Neustadt an der Orla,2,,16075,07806,covered by DC rule!,,
+TH,Saale-Orla-Kreis,16075057,Lemnitz,2,,16075,07819,covered by DC rule!,,
+TH,Saale-Orla-Kreis,16075061,Linda b. Neustadt an der Orla,2,,16075,07819,covered by DC rule!,,
+TH,Saale-Orla-Kreis,16075062,Lobenstein,3,,16075,07356,covered by DC rule!,,
+TH,Saale-Orla-Kreis,16075063,Löhma,2,,16075,07907,covered by DC rule!,,
+TH,Saale-Orla-Kreis,16075065,Miesitz,2,,16075,07819,covered by DC rule!,,
+TH,Saale-Orla-Kreis,16075066,Mittelpöllnitz,2,,16075,07819,covered by DC rule!,,
+TH,Saale-Orla-Kreis,16075068,Moßbach,2,,16075,07907,covered by DC rule!,,
+TH,Saale-Orla-Kreis,16075069,Moxa,3,,16075,07381,covered by DC rule!,,07381 Moxa (3)
+TH,Saale-Orla-Kreis,16075071,Neundorf (bei Lobenstein),3,,16075,07356,covered by DC rule!,,
+TH,Saale-Orla-Kreis,16075072,Neundorf (bei Schleiz),3,,16075,07924,covered by DC rule!,,
+TH,Saale-Orla-Kreis,16075073,Neustadt an der Orla,2,,16075,07806,covered by DC rule!,,
+TH,Saale-Orla-Kreis,16075074,Nimritz,2,,16075,07381,covered by DC rule!,,
+TH,Saale-Orla-Kreis,16075075,Oberoppurg,2,,16075,07381,covered by DC rule!,,
+TH,Saale-Orla-Kreis,16075076,Oettersdorf,2,,16075,07907,covered by DC rule!,,
+TH,Saale-Orla-Kreis,16075077,Oppurg,2,,16075,07381,covered by DC rule!,,
+TH,Saale-Orla-Kreis,16075079,Paska,3,,16075,07381,covered by DC rule!,,07381 Paska (3)
+TH,Saale-Orla-Kreis,16075081,Peuschen,3,,16075,07389,covered by DC rule!,,
+TH,Saale-Orla-Kreis,16075082,Pillingsdorf,2,,16075,07819,covered by DC rule!,,
+TH,Saale-Orla-Kreis,16075083,Plothen,2,,16075,07907,covered by DC rule!,,
+TH,Saale-Orla-Kreis,16075084,Pörmitz,2,,16075,07907,covered by DC rule!,,
+TH,Saale-Orla-Kreis,16075085,Pößneck,2,,16075,07381,covered by DC rule!,,
+TH,Saale-Orla-Kreis,16075086,Pottiga,3,,16075,07366,covered by DC rule!,,
+TH,Saale-Orla-Kreis,16075087,Quaschwitz,2,,16075,07389,covered by DC rule!,,07389 Quaschwitz (2)
+TH,Saale-Orla-Kreis,16075088,Ranis,3,,16075,07389,covered by DC rule!,,
+TH,Saale-Orla-Kreis,16075093,Rosendorf,2,,16075,07819,covered by DC rule!,,
+TH,Saale-Orla-Kreis,16075096,Saalburg-Ebersdorf,3,,16075,07929,covered by DC rule!,,
+TH,Saale-Orla-Kreis,16075097,Schlegel,3,,16075,07366,covered by DC rule!,,
+TH,Saale-Orla-Kreis,16075098,Schleiz,3,,16075,07907,covered by DC rule!,,07907 Schleiz (3)
+TH,Saale-Orla-Kreis,16075099,Schmieritz,2,,16075,07819,covered by DC rule!,,
+TH,Saale-Orla-Kreis,16075101,Schmorda,3,,16075,07389,covered by DC rule!,,
+TH,Saale-Orla-Kreis,16075102,Schöndorf,3,,16075,07924,covered by DC rule!,,
+TH,Saale-Orla-Kreis,16075103,Seisla,3,,16075,07389,covered by DC rule!,,
+TH,Saale-Orla-Kreis,16075105,Solkwitz,2,,16075,07381,covered by DC rule!,,
+TH,Saale-Orla-Kreis,16075106,Stanau,2,,16075,07806,covered by DC rule!,,
+TH,Saale-Orla-Kreis,16075109,Tegau,2,,16075,07907,covered by DC rule!,,
+TH,Saale-Orla-Kreis,16075114,Tömmelsdorf,2,,16075,07819,covered by DC rule!,,
+TH,Saale-Orla-Kreis,16075116,Triptis,2,,16075,07819,covered by DC rule!,,
+TH,Saale-Orla-Kreis,16075119,Volkmannsdorf,3,,16075,07924,covered by DC rule!,,
+TH,Saale-Orla-Kreis,16075121,Weira,2,,16075,07806,covered by DC rule!,,
+TH,Saale-Orla-Kreis,16075124,Wernburg,3,,16075,07381,covered by DC rule!,,07381 Wernburg (3)
+TH,Saale-Orla-Kreis,16075125,Wilhelmsdorf,3,,16075,07389,covered by DC rule!,,
+TH,Saale-Orla-Kreis,16075127,Ziegenrück,3,,16075,07924,covered by DC rule!,,
+TH,Saale-Orla-Kreis,16075129,Krölpa,3,,16075,07387,covered by DC rule!,,
+TH,Saale-Orla-Kreis,16075131,Gefell,3,,16075,07926,covered by DC rule!,,
+TH,Saale-Orla-Kreis,16075132,Tanna,3,,16075,07922,covered by DC rule!,,
+TH,Saale-Orla-Kreis,16075133,Wurzbach,3,,16075,07343,covered by DC rule!,,
+TH,Saale-Orla-Kreis,16075134,Remptendorf,3,,16075,07368,covered by DC rule!,,
+TH,Greiz,alle,alle,2,,16076,,,,
+TH,Altenburger Land,alle,alle,2,,16077,,,,
