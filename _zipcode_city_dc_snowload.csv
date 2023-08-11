@@ -1828,9 +1828,9 @@ zipcode,city,dc,snowload,comment,note
 26169,Friesoythe,03453,2,,*Nord. Tiefld
 26180,Rastede,03451,1,,*Nord. Tiefld
 26188,Edewecht,03451,1,,*Nord. Tiefld
-26197,Großenkneten,03458,,,
-26203,Wardenburg,03458,,,
-26209,Hatten,03458,,,
+26197,Großenkneten,03458,2,,
+26203,Wardenburg,03458,2,,
+26209,Hatten,03458,2,,
 26215,Wiefelstede,03451,1,,*Nord. Tiefld
 26219,Bösel,03453,2,,*Nord. Tiefld
 26316,Varel,03455,1,,*Nord. Tiefld
@@ -1914,7 +1914,7 @@ zipcode,city,dc,snowload,comment,note
 27211,Bassum,03251,2,,*Nord. Tiefld
 27232,Sulingen,03251,2,,*Nord. Tiefld
 27239,Twistringen,03251,2,,*Nord. Tiefld
-27243,"Harpstedt, Groß Ippener, Colnrade u.a.",03458,,,
+27243,"Harpstedt, Groß Ippener, Colnrade u.a.",03458,2,,
 27245,"Bahrenborstel, Barenburg, Kirchdorf",03251,2,,*Nord. Tiefld
 27246,Borstel,03251,2,,*Nord. Tiefld
 27248,Ehrenburg,03251,2,,*Nord. Tiefld
@@ -1979,10 +1979,10 @@ zipcode,city,dc,snowload,comment,note
 27751,Delmenhorst,03401,2,,*Nord. Tiefld
 27753,Delmenhorst,03401,2,,*Nord. Tiefld
 27755,Delmenhorst,03401,2,,*Nord. Tiefld
-27777,Ganderkesee,03458,,,
-27793,Wildeshausen,03458,,,
-27798,Hude (Oldenburg),03458,,,
-27801,Dötlingen,03458,,,
+27777,Ganderkesee,03458,2,,
+27793,Wildeshausen,03458,2,,
+27798,Hude (Oldenburg),03458,2,,
+27801,Dötlingen,03458,2,,
 27804,Berne,03461,2,,*Nord. Tiefld
 27809,Lemwerder,03461,2,,*Nord. Tiefld
 28195,Bremen,04011,2,,*Nord. Tiefld
@@ -2175,7 +2175,7 @@ zipcode,city,dc,snowload,comment,note
 30938,Burgwedel,03241,2,DC rule (DC 03241): ZIP code 30974 is zone 3,
 30952,Ronnenberg,03241,2,DC rule (DC 03241): ZIP code 30974 is zone 3,
 30966,Hemmingen,03241,2,DC rule (DC 03241): ZIP code 30974 is zone 3,
-30974,Wennigsen (Deister),03241,3,DC rule (DC 03241): ZIP code 30974 is zone 3,
+30974,Wennigsen (Deister),03241,2,DC rule (DC 03241): ZIP code 30974 is zone 3,
 30982,Pattensen,03241,2,DC rule (DC 03241): ZIP code 30974 is zone 3,
 30989,Gehrden,03241,2,DC rule (DC 03241): ZIP code 30974 is zone 3,
 31008,Elze,03254,2,,
@@ -2278,7 +2278,7 @@ zipcode,city,dc,snowload,comment,note
 31812,Bad Pyrmont,03252,2,DC rule (DC 03252): ZIP code 31848 is zone 3,
 31832,Springe,03241,2,DC rule (DC 03241): ZIP code 30974 is zone 3,
 31840,Hessisch Oldendorf,03252,2,DC rule (DC 03252): ZIP code 31848 is zone 3,
-31848,Bad Münder am Deister,03252,3,DC rule (DC 03252): ZIP code 31848 is zone 3,
+31848,Bad Münder am Deister,03252,2,DC rule (DC 03252): ZIP code 31848 is zone 3,
 31855,Aerzen,03252,2,DC rule (DC 03252): ZIP code 31848 is zone 3,
 31860,Emmerthal,03252,2,DC rule (DC 03252): ZIP code 31848 is zone 3,
 31863,Coppenbrügge,03252,2,DC rule (DC 03252): ZIP code 31848 is zone 3,
@@ -2838,7 +2838,7 @@ zipcode,city,dc,snowload,comment,note
 38667,"Bad Harzburg, Torfhaus",03153,> 3,"covered by Harz55 rule: ZIP codes 38667 Torfhaus,38700,37444 apply for Harz55 rule, we use zone 3 before applying the rule",*Harz55
 38678,"Clausthal-Zellerfeld, Oberschulenberg",03153,> 3,"covered by Harz55 rule: ZIP codes 38667 Torfhaus,38700,37444 apply for Harz55 rule, we use zone 3 before applying the rule",*Harz55
 38685,Langelsheim,03153,> 3,"covered by Harz55 rule: ZIP codes 38667 Torfhaus,38700,37444 apply for Harz55 rule, we use zone 3 before applying the rule",*Harz55
-38690,Goslar,03153,2,"covered by Harz55 rule: ZIP codes 38667 Torfhaus,38700,37444 apply for Harz55 rule, we use zone 3 before applying the rule",*Harz55
+38690,Goslar,03153,> 3,"covered by Harz55 rule: ZIP codes 38667 Torfhaus,38700,37444 apply for Harz55 rule, we use zone 3 before applying the rule",*Harz55
 38700,Braunlage,03153,> 3,"covered by Harz55 rule: ZIP codes 38667 Torfhaus,38700,37444 apply for Harz55 rule, we use zone 3 before applying the rule",*Harz55
 38704,Liebenburg,03153,> 3,"covered by Harz55 rule: ZIP codes 38667 Torfhaus,38700,37444 apply for Harz55 rule, we use zone 3 before applying the rule",*Harz55
 38707,Clausthal-Zellerfeld,03153,> 3,"covered by Harz55 rule: ZIP codes 38667 Torfhaus,38700,37444 apply for Harz55 rule, we use zone 3 before applying the rule",*Harz55
@@ -3383,24 +3383,24 @@ zipcode,city,dc,snowload,comment,note
 49086,Osnabrück,03404,2,,
 49088,Osnabrück,03404,2,,
 49090,Osnabrück,03404,2,,
-49124,Georgsmarienhütte,03459,,,
-49134,Wallenhorst,03459,,,
-49143,Bissendorf,03459,,,
-49152,Bad Essen,03459,,,
-49163,Bohmte,03459,,,
-49170,Hagen am Teutoburger Wald,03459,,,
-49176,Hilter,03459,,,
-49179,Ostercappeln,03459,,,
-49186,Bad Iburg,03459,,,
-49191,Belm,03459,,,
-49196,Bad Laer,03459,,,
-49201,Dissen,03459,,,
-49205,Hasbergen,03459,,,
-49214,Bad Rothenfelde,03459,,,
-49219,Glandorf,03459,,,
-49324,Melle,03459,,,
-49326,Melle,03459,,,
-49328,Melle,03459,,,
+49124,Georgsmarienhütte,03459,2,,
+49134,Wallenhorst,03459,2,,
+49143,Bissendorf,03459,2,,
+49152,Bad Essen,03459,2,,
+49163,Bohmte,03459,2,,
+49170,Hagen am Teutoburger Wald,03459,2,,
+49176,Hilter,03459,2,,
+49179,Ostercappeln,03459,2,,
+49186,Bad Iburg,03459,2,,
+49191,Belm,03459,2,,
+49196,Bad Laer,03459,2,,
+49201,Dissen,03459,2,,
+49205,Hasbergen,03459,2,,
+49214,Bad Rothenfelde,03459,2,,
+49219,Glandorf,03459,2,,
+49324,Melle,03459,2,,
+49326,Melle,03459,2,,
+49328,Melle,03459,2,,
 49356,Diepholz,03251,2,,*Nord. Tiefld
 49377,Vechta,03460,2,,*Nord. Tiefld
 49393,Lohne,03460,2,,*Nord. Tiefld
@@ -3428,22 +3428,22 @@ zipcode,city,dc,snowload,comment,note
 49536,Lienen,05566,2,covered by DC rule!,
 49545,Tecklenburg,05566,1,covered by DC rule!,
 49549,Ladbergen,05566,1,covered by DC rule!,
-49565,Bramsche,03459,,,
-49577,"Kettenkamp, Eggermühlen, Ankum",03459,,,
-49584,Fürstenau,03459,,,
-49586,"Merzen, Neuenkirchen",03459,,,
-49593,Bersenbrück,03459,,,
-49594,Alfhausen,03459,,,
-49596,Gehrde,03459,,,
-49597,Rieste,03459,,,
-49599,Voltlage,03459,,,
-49610,Quakenbrück,03459,,,
+49565,Bramsche,03459,2,,
+49577,"Kettenkamp, Eggermühlen, Ankum",03459,2,,
+49584,Fürstenau,03459,2,,
+49586,"Merzen, Neuenkirchen",03459,2,,
+49593,Bersenbrück,03459,2,,
+49594,Alfhausen,03459,2,,
+49596,Gehrde,03459,2,,
+49597,Rieste,03459,2,,
+49599,Voltlage,03459,2,,
+49610,Quakenbrück,03459,2,,
 49624,Löningen,03453,2,,*Nord. Tiefld
-49626,"Berge, Bippen",03459,,,
+49626,"Berge, Bippen",03459,2,,
 49632,Essen (Oldenburg),03453,2,,*Nord. Tiefld
-49635,Badbergen,03459,,,
-49637,Menslage,03459,,,
-49638,Nortrup,03459,,,
+49635,Badbergen,03459,2,,
+49637,Menslage,03459,2,,
+49638,Nortrup,03459,2,,
 49661,Cloppenburg,03453,2,,*Nord. Tiefld
 49681,Garrel,03453,2,,*Nord. Tiefld
 49685,Emstek,03453,2,,*Nord. Tiefld

@@ -7,7 +7,7 @@ NI,Stadt Osnabrück,2,,03404,,
 NI,Stadt Salzgitter,2,*Nord. Tiefld,03102,,
 NI,Stadt Wilhelmshaven,1,*Nord. Tiefld,03405,,
 NI,Stadt Wolfsburg,2,*Nord. Tiefld,03103,,
-NI,"Hannover, außer Wennigsen",2,,03241,,DC rule (DC 03241): ZIP code 30974 is zone 3
+NI,"Hannover, außer Wennigsen",2,,03241,,ZIP code 30974 is zone 3
 NI,LK Ammerland,1,*Nord. Tiefld,03451,,
 NI,LK Aurich,1,*Nord. Tiefld,03452,,
 NI,LK Celle,2,*Nord. Tiefld,03351,,
@@ -17,13 +17,13 @@ NI,LK Diepholz,2,*Nord. Tiefld,03251,,
 NI,LK Emsland,1,*Nord. Tiefld,03454,,
 NI,LK Friesland,1,*Nord. Tiefld,03455,,
 NI,LK Gifhorn,2,*Nord. Tiefld,03151,,
-NI,LK Goslar,3,,03153,,DC rule (DC 03153)
-NI,"außer den Gemeinden Stadt Langelsheim, Stadt Bad Harzburg, Stadt Goslar, Stadt Seesen, Liebenburg und der Samtgemeinde Lutter am Barenberge",2,*Harz300,03153,,"covered by DC rule: ZIP codes 38685,38667 Bad Harzburg,38640,38642,38644,38690,38723,38704,38729 are zone 2 , apply Harz300 afterwards"
-NI,"außer den Ortsteilen Torfhaus und Bastesiedlung der Gemeinde Altenau, Stadt Braunlage mit Ortsteilen Königskrug, St. Andreasberg, Sonnenberg, Oderbrück, Oderberg und Hohegeiß",> 3,*Harz55,03153,,"covered by Harz55 rule: ZIP codes 38667 Torfhaus,38700,37444 apply for Harz55 rule, we use zone 3 before applying the rule"
-NI,LK Göttingen,2,*Harz300,03159,,"DC rule (DC 03159): ZIP codes 37441,37445 are zone 3 (w/o Harz300 rule!), all others need to be checked by Harz300"
-NI,"außer der Stadt Bad Sachsa und den Gemeinden Walkenried, Wieda, Zorge",3,,03159,,covered by DC rule!
+NI,LK Goslar,3,,03153,,
+NI,"außer den Gemeinden 38685 Stadt Langelsheim, 38667 Stadt Bad Harzburg, 38640-38690 Stadt Goslar, 38723 Stadt Seesen, 38704 Liebenburg und der Samtgemeinde 38729 Lutter am Barenberge",2,*Harz300,03153,,"covered by zip2zone, check for Harz300 afterwards"
+NI,"außer den Ortsteilen 38667 Torfhaus und 38667 Bastesiedlung der Gemeinde Altenau, Stadt Braunlage mit Ortsteilen 38700 Königskrug, 37444 St. Andreasberg, 37444 Sonnenberg, 37444 Oderbrück, 37444 Oderberg und 38700 Hohegeiß",> 3,*Harz55,03153,,"covered by Harz55 rule: ZIP codes 38667 Torfhaus,38700,37444 apply for Harz55 rule, we use zone 3 as the defauöt zone (see above) before applying the rule"
+NI,LK Göttingen,2,*Harz300,03159,,
+NI,"außer der 37441 Stadt Bad Sachsa und den Gemeinden 37445 Walkenried, 37445 Wieda, 37445 Zorge",3,,03159,,covered by zip2zone
 NI,LK Grafschaft Bentheim,1,*Nord. Tiefld,03456,,
-NI,"LK Hameln-Pyrmont, außer der Gemeinde Stadt Bad Münder",2,,03252,,DC rule (DC 03252): ZIP code 31848 is zone 3
+NI,"LK Hameln-Pyrmont, außer der Gemeinde Stadt Bad Münder",2,,03252,,ZIP code 31848 is zone 3
 NI,LK Harburg,2,*Nord. Tiefld,03353,,
 NI,LK Heidekreis,2,*Nord. Tiefld,03358,,
 NI,LK Helmstedt,2,*Nord. Tiefld,03154,,
@@ -34,8 +34,8 @@ NI,LK Lüchow-Dannenberg,2,*Nord. Tiefld,03354,,
 NI,LK Lüneburg,2,*Nord. Tiefld,03355,,
 NI,LK Nienburg (Weser),2,*Nord. Tiefld,03256,,
 NI,LK Northeim,2,,03155,,
-NI,LK Oldenburg,2,*Nord. Tiefld,03403,,
-NI,LK Osnabrück,2,,03404,,
+NI,LK Oldenburg,2,*Nord. Tiefld,03458,,
+NI,LK Osnabrück,2,,03459,,
 NI,LK Osterholz,2,*Nord. Tiefld,03356,,
 NI,LK Peine,2,*Nord. Tiefld,03157,,
 NI,LK Rotenburg (Wümme),2,*Nord. Tiefld,03357,,
@@ -47,7 +47,3 @@ NI,LK Verden,2,*Nord. Tiefld,03361,,
 NI,LK Wesermarsch,2,*Nord. Tiefld,03461,,
 NI,LK Wittmund,1,*Nord. Tiefld,03462,,
 NI,LK Wolfenbüttel,2,*Nord. Tiefld,03158,,
-,,,,,,
-1) Norddeutsches Tiefland,,,,,,
-"2) In den Gemeinden, die der Schneelastzone 2 zugeordnet sind, ist unabhängig von dieser Zuordnung die Schneelastzone 3 anzusetzen, wenn sich das Bauvorhaben nördlich der Bundesstraße 243 oberhalb der 300 m Höhenlinie befindet.",,,,,,
-"3) Anzusetzende Schneelast: sk = 5,5 KN/m².",,,,,,
