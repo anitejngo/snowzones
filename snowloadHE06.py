@@ -1,7 +1,7 @@
 import csv
 
 def updateSnowload(input_filename, snowload_filename, output_filename):
-    print("Start")
+    print("Start importing HE06")
 
     snowload_data = {}
 
@@ -11,6 +11,8 @@ def updateSnowload(input_filename, snowload_filename, output_filename):
         for row in reader:
             snowload_data[row['DC']] = {
                 'snowzone': row['Schneelastzone'],
+                'note': row['Fußnote(n)'],
+                'comments': row['comments'],
             }
 
     print("Snowzone data loaded:", len(snowload_data))
@@ -25,6 +27,8 @@ def updateSnowload(input_filename, snowload_filename, output_filename):
             if dc in snowload_data:
                 snowload_info = snowload_data[dc]
                 row['snowzone'] = snowload_info['snowzone']
+                row['note'] = snowload_info['note']
+                row['comments'] = snowload_info['comments']
             result.append(row)
 
     print(len(result), "rows processed")

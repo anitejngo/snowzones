@@ -17,7 +17,7 @@ def is_within_comma_separated_range(number, range_string):
     return False
 
 def updateSnowload(input_filename, snowload_filename, output_filename):
-    print("Start")
+    print("Start imporintg zip2zone")
 
     snowload_data = []
 

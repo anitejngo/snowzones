@@ -5,6 +5,19 @@ Scripts that populate snow zones from Snow load zones 2023-02-07 file sheets.
 
 
 ## how to use:
+
+easy way:
+
+update csvData files with changes (dont change the names of files)
+
+run (it will run scripts in correct order):
+
+```
+python runall.py
+```
+
+
+
 Every script starts with snowload and ends with sheet code (for example SH01)
 
 Paste latest csv data from google-sheet to corresponding csv file and run the script with that name.
