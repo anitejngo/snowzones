@@ -5,8 +5,16 @@ def is_within_range(number, range_string):
     return start <= number <= end
 
 def is_within_comma_separated_range(number, range_string):
-    numbers = range_string.split(',')
-    return number in numbers
+    ranges = range_string.split(',')
+    for r in ranges:
+        if '-' in r:
+            sub_ranges = r.split('-')
+            start, end = int(sub_ranges[0]), int(sub_ranges[-1])
+            if start <= number <= end:
+                return True
+        elif int(r) == number:
+            return True
+    return False
 
 def updateSnowload(input_filename, snowload_filename, output_filename):
     print("Start")
@@ -32,11 +40,12 @@ def updateSnowload(input_filename, snowload_filename, output_filename):
 
             for zipRow in snowload_data:
                 zipCodeInData = zipRow['ZIP code']
-                if '-' in zipCodeInData:
-                    if is_within_range(zipcode,zipCodeInData):
+                if ',' in zipCodeInData:
+                    if is_within_comma_separated_range(int(zipcode), zipCodeInData):
                         row['snowload'] = zipRow['snow zone']
-                elif ',' in zipCodeInData:
-                    if is_within_comma_separated_range(zipcode,zipCodeInData):
+                        break  # Break after finding a match in comma-separated ranges
+                elif '-' in zipCodeInData:
+                    if is_within_range(zipcode,zipCodeInData):
                         row['snowload'] = zipRow['snow zone']
                 else:
                     if zipcode == zipRow['ZIP code']:
