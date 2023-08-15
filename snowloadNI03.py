@@ -5,26 +5,26 @@ def updateSnowload(input_filename, snowload_filename, output_filename):
 
     snowload_data = {}
 
-    # Read the snowload data from the snowload file
+    # Read the snowzone data from the snowzone file
     with open(snowload_filename, 'r', newline='', encoding="utf-8") as csvfile:
         reader = csv.DictReader(csvfile, delimiter=',')
         for row in reader:
             snowload_data[row['DC']] = {
-                'snowload': row['Schneelastzone'],
+                'snowzone': row['Schneelastzone'],
             }
 
-    print("Snowload data loaded:", len(snowload_data))
+    print("Snowzone data loaded:", len(snowload_data))
 
     result = []
 
-    # Read the input data and update snowload values
+    # Read the input data and update snowzone values
     with open(input_filename, 'r', encoding="utf-8") as csvfile:
         reader = csv.DictReader(csvfile, delimiter=',')
         for row in reader:
             dc = row['dc']
             if dc in snowload_data:
                 snowload_info = snowload_data[dc]
-                row['snowload'] = snowload_info['snowload']
+                row['snowzone'] = snowload_info['snowzone']
             result.append(row)
 
     print(len(result), "rows processed")
@@ -42,5 +42,5 @@ _zipcode_city_dc_snowload = "_zipcode_city_dc_snowload.csv"
 _snowload_data = "csvData/NI03.csv"
 _result = "_zipcode_city_dc_snowload.csv"
 
-# Call the function to update the snowload values
+# Call the function to update the snowzone values
 updateSnowload(_zipcode_city_dc_snowload, _snowload_data, _result)

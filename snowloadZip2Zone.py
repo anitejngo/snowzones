@@ -21,18 +21,18 @@ def updateSnowload(input_filename, snowload_filename, output_filename):
 
     snowload_data = []
 
-    # Read the snowload data from the snowload file
+    # Read the snowzone data from the snowzone file
     with open(snowload_filename, 'r', newline='', encoding="utf-8") as csvfile:
         reader = csv.DictReader(csvfile, delimiter=',')
         for row in reader:
             snowload_data.append(row)
 
-    print("Snowload data loaded:", len(snowload_data))
+    print("Snowzone data loaded:", len(snowload_data))
 
 
     result = []
 
-    # Read the input data and update snowload values
+    # Read the input data and update snowzone values
     with open(input_filename, 'r', encoding="utf-8") as csvfile:
         reader = csv.DictReader(csvfile, delimiter=',')
         for row in reader:
@@ -42,14 +42,14 @@ def updateSnowload(input_filename, snowload_filename, output_filename):
                 zipCodeInData = zipRow['ZIP code']
                 if ',' in zipCodeInData:
                     if is_within_comma_separated_range(int(zipcode), zipCodeInData):
-                        row['snowload'] = zipRow['snow zone']
+                        row['snowzone'] = zipRow['snow zone']
                         break  # Break after finding a match in comma-separated ranges
                 elif '-' in zipCodeInData:
                     if is_within_range(zipcode,zipCodeInData):
-                        row['snowload'] = zipRow['snow zone']
+                        row['snowzone'] = zipRow['snow zone']
                 else:
                     if zipcode == zipRow['ZIP code']:
-                        row['snowload'] = zipRow['snow zone']
+                        row['snowzone'] = zipRow['snow zone']
 
 
             result.append(row)
@@ -69,5 +69,5 @@ _zipcode_city_dc_snowload = "_zipcode_city_dc_snowload.csv"
 _snowload_data = "csvData/zip2zone.csv"
 _result = "_zipcode_city_dc_snowload.csv"
 
-# Call the function to update the snowload values
+# Call the function to update the snowzone values
 updateSnowload(_zipcode_city_dc_snowload, _snowload_data, _result)

@@ -8,10 +8,10 @@ def filterAndExport(input_filename, prefix):
         reader = csv.DictReader(csvfile, delimiter=',')
         for row in reader:
             if row['dc'].startswith(prefix):
-                if not row['snowload']:
+                if not row['snowzone']:
                     no_snow_results.append(row)
 
-    # Export rows without snowload to a new CSV file
+    # Export rows without snowzone to a new CSV file
     output_filename = "_no_snow_results.csv"
 
     if no_snow_results:
@@ -21,9 +21,9 @@ def filterAndExport(input_filename, prefix):
             writer.writeheader()
             writer.writerows(no_snow_results)
 
-        print("Rows without snowload exported to:", output_filename)
+        print("Rows without snowzone exported to:", output_filename)
     else:
-        print("No rows without snowload found")
+        print("No rows without snowzone found")
 
 # Provide the input filename and prefix
 _zipcode_city_dc_snowload = "_zipcode_city_dc_snowload.csv"

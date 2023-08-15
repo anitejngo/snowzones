@@ -8,7 +8,7 @@ def checkSnowloadData(input_filename):
     with open(input_filename, 'r', encoding="utf-8") as csvfile:
         reader = csv.DictReader(csvfile, delimiter=',')
         for row in reader:
-            if row['snowload']:
+            if row['snowzone']:
                 cities_with_snowload += 1
             else:
                 cities_without_snowload += 1
