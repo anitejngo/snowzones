@@ -1,0 +1,163 @@
+Land,Landkreis,Gemeinde-schlüssel,Gemeinde,Schneelastzone,Fußnote(n),DC,ZIP,comments
+HE,Darmstadt,06411000,Darmstadt,1,,06411,,
+HE,Frankfurt am Main,06412000,Frankfurt am Main,1,,06412,,
+HE,Offenbach am Main,06413000,Offenbach am Main,1,,06413,,
+HE,Wiesbaden,06414000,Wiesbaden,1,,06414,,
+HE,Bergstraße,06431001,Abtsteinach,2,,06431,,indicated ZIP codes are zone 1
+HE,Bergstraße,06431002,Bensheim,1,,06431,64625,covered by DC rule!
+HE,Bergstraße,06431003,Biblis,1,,06431,68647,covered by DC rule!
+HE,Bergstraße,06431004,Birkenau,2,,06431,,covered by DC rule!
+HE,Bergstraße,06431005,Bürstadt,1,,06431,68642,covered by DC rule!
+HE,Bergstraße,06431006,Einhausen,1,,06431,64683,covered by DC rule!
+HE,Bergstraße,06431007,Fürth,2,,06431,,covered by DC rule!
+HE,Bergstraße,06431008,Gorxheimertal,2,,06431,,covered by DC rule!
+HE,Bergstraße,06431009,Grasellenbach,2,,06431,,covered by DC rule!
+HE,Bergstraße,06431010,Groß-Rohrheim,1,,06431,68649,covered by DC rule!
+HE,Bergstraße,06431011,Heppenheim (Bergstraße),2,,06431,,covered by DC rule!
+HE,Bergstraße,06431012,Hirschhorn (Neckar),2,,06431,,covered by DC rule!
+HE,Bergstraße,06431013,Lampertheim,1,,06431,68623,covered by DC rule!
+HE,Bergstraße,06431014,Lautertal (Odenwald),2,,06431,,covered by DC rule!
+HE,Bergstraße,06431015,Lindenfels,2,,06431,,covered by DC rule!
+HE,Bergstraße,06431016,Lorsch,1,,06431,64653,covered by DC rule!
+HE,Bergstraße,06431017,Mörlenbach,2,,06431,,covered by DC rule!
+HE,Bergstraße,06431018,Neckarsteinach,2,,06431,,covered by DC rule!
+HE,Bergstraße,06431019,Rimbach,2,,06431,,covered by DC rule!
+HE,Bergstraße,06431020,Viernheim,1,,06431,68519,covered by DC rule!
+HE,Bergstraße,06431021,Wald-Michelbach,2,,06431,,covered by DC rule!
+HE,Bergstraße,06431022,Zwingenberg,1,,06431,64673,covered by DC rule!
+HE,Bergstraße,06431200,"Michelbuch, gemfr. Gebiet",2,,06431,,covered by DC rule!
+HE,Darmstadt-Dieburg,06432001,Alsbach-Hähnlein,1,,06432,64665,covered by DC rule!
+HE,Darmstadt-Dieburg,06432002,Babenhausen,1,,06432,64832,covered by DC rule!
+HE,Darmstadt-Dieburg,06432003,Bickenbach,1,,06432,64404,covered by DC rule!
+HE,Darmstadt-Dieburg,06432004,Dieburg,2,,06432,,indicated ZIP codes are zone 1
+HE,Darmstadt-Dieburg,06432005,Eppertshausen,1,,06432,64859,covered by DC rule!
+HE,Darmstadt-Dieburg,06432006,Erzhausen,1,,06432,64390,covered by DC rule!
+HE,Darmstadt-Dieburg,06432007,Fischbachtal,2,,06432,,covered by DC rule!
+HE,Darmstadt-Dieburg,06432008,Griesheim,1,,06432,64347,covered by DC rule!
+HE,Darmstadt-Dieburg,06432009,Groß-Bieberau,2,,06432,,covered by DC rule!
+HE,Darmstadt-Dieburg,06432010,Groß-Umstadt,2,,06432,,covered by DC rule!
+HE,Darmstadt-Dieburg,06432011,Groß-Zimmern,2,,06432,,covered by DC rule!
+HE,Darmstadt-Dieburg,06432012,Messel,1,,06432,64409,covered by DC rule!
+HE,Darmstadt-Dieburg,06432013,Modautal,2,,06432,,covered by DC rule!
+HE,Darmstadt-Dieburg,06432014,Mühltal,2,,06432,,covered by DC rule!
+HE,Darmstadt-Dieburg,06432015,Münster,1,,06432,64839,covered by DC rule!
+HE,Darmstadt-Dieburg,06432016,Ober-Ramstadt,2,,06432,,covered by DC rule!
+HE,Darmstadt-Dieburg,06432017,Otzberg,2,,06432,,covered by DC rule!
+HE,Darmstadt-Dieburg,06432018,Pfungstadt,1,,06432,64319,covered by DC rule!
+HE,Darmstadt-Dieburg,06432019,Reinheim,2,,06432,,covered by DC rule!
+HE,Darmstadt-Dieburg,06432020,Roßdorf,2,,06432,,covered by DC rule!
+HE,Darmstadt-Dieburg,06432021,Schaafheim,1,,06432,64850,covered by DC rule!
+HE,Darmstadt-Dieburg,06432022,Seeheim-Jugenheim,2,,06432,,covered by DC rule!
+HE,Darmstadt-Dieburg,06432023,Weiterstadt,1,,06432,64331,covered by DC rule!
+HE,Groß-Gerau,alle,alle,1,,06433,,
+HE,Hochtaunuskreis,06434001,Bad Homburg v.d. Höhe,2,,06434,,indicated ZIP codes are zone 1
+HE,Hochtaunuskreis,06434002,Friedrichsdorf,2,,06434,,covered by DC rule!
+HE,Hochtaunuskreis,06434003,Glashütten,2,,06434,,covered by DC rule!
+HE,Hochtaunuskreis,06434004,Grävenwiesbach,2,,06434,,covered by DC rule!
+HE,Hochtaunuskreis,06434005,Königstein im Taunus,2,,06434,,covered by DC rule!
+HE,Hochtaunuskreis,06434006,Kronberg im Taunus,1,,06434,61476,covered by DC rule!
+HE,Hochtaunuskreis,06434007,Neu-Anspach,2,,06434,,covered by DC rule!
+HE,Hochtaunuskreis,06434008,Oberursel (Taunus),2,,06434,,covered by DC rule!
+HE,Hochtaunuskreis,06434009,Schmitten,2,,06434,,covered by DC rule!
+HE,Hochtaunuskreis,06434010,Steinbach (Taunus),1,,06434,61449,covered by DC rule!
+HE,Hochtaunuskreis,06434011,Usingen,2,,06434,,covered by DC rule!
+HE,Hochtaunuskreis,06434012,Wehrheim,2,,06434,,covered by DC rule!
+HE,Hochtaunuskreis,06434013,Weilrod,2,,06434,,covered by DC rule!
+HE,Main-Kinzig-Kreis,06435001,Bad Orb,2,,06435,63619,covered by DC rule!
+HE,Main-Kinzig-Kreis,06435002,Bad Soden-Salmünster,2,,06435,63628,covered by DC rule!
+HE,Main-Kinzig-Kreis,06435003,Biebergemünd,2,,06435,63599,covered by DC rule!
+HE,Main-Kinzig-Kreis,06435004,Birstein,2a,,06435,63633,covered by DC rule!
+HE,Main-Kinzig-Kreis,06435005,Brachttal,2,,06435,63636,covered by DC rule!
+HE,Main-Kinzig-Kreis,06435006,Bruchköbel,1,,06435,,indicated ZIP codes are zone 2 or 2a
+HE,Main-Kinzig-Kreis,06435007,Erlensee,1,,06435,,covered by DC rule!
+HE,Main-Kinzig-Kreis,06435008,Flörsbachtal,2,,06435,63639,covered by DC rule!
+HE,Main-Kinzig-Kreis,06435009,Freigericht,1,,06435,,covered by DC rule!
+HE,Main-Kinzig-Kreis,06435010,Gelnhausen,2,,06435,63571,covered by DC rule!
+HE,Main-Kinzig-Kreis,06435011,Großkrotzenburg,1,,06435,,covered by DC rule!
+HE,Main-Kinzig-Kreis,06435012,Gründau,2,,06435,63584,covered by DC rule!
+HE,Main-Kinzig-Kreis,06435013,Hammersbach,1,,06435,,covered by DC rule!
+HE,Main-Kinzig-Kreis,06435014,Hanau,1,,06435,,covered by DC rule!
+HE,Main-Kinzig-Kreis,06435015,Hasselroth,1,,06435,,covered by DC rule!
+HE,Main-Kinzig-Kreis,06435016,Jossgrund,2,,06435,63637,covered by DC rule!
+HE,Main-Kinzig-Kreis,06435017,Langenselbold,1,,06435,,covered by DC rule!
+HE,Main-Kinzig-Kreis,06435018,Linsengericht,2,,06435,63589,covered by DC rule!
+HE,Main-Kinzig-Kreis,06435019,Maintal,1,,06435,,covered by DC rule!
+HE,Main-Kinzig-Kreis,06435020,Neuberg,1,,06435,,covered by DC rule!
+HE,Main-Kinzig-Kreis,06435021,Nidderau,1,,06435,,covered by DC rule!
+HE,Main-Kinzig-Kreis,06435022,Niederdorfelden,1,,06435,,covered by DC rule!
+HE,Main-Kinzig-Kreis,06435023,Rodenbach,1,,06435,,covered by DC rule!
+HE,Main-Kinzig-Kreis,06435024,Ronneburg,1,,06435,,covered by DC rule!
+HE,Main-Kinzig-Kreis,06435025,Schlüchtern,2a,,06435,36381,covered by DC rule!
+HE,Main-Kinzig-Kreis,06435026,Schöneck,1,,06435,,covered by DC rule!
+HE,Main-Kinzig-Kreis,06435027,Sinntal,2a,,06435,36391,covered by DC rule!
+HE,Main-Kinzig-Kreis,06435028,Steinau an der Straße,2a,,06435,36396,covered by DC rule!
+HE,Main-Kinzig-Kreis,06435029,Wächtersbach,2,,06435,63607,covered by DC rule!
+HE,Main-Kinzig-Kreis,06435200,"Gutsbezirk Spessart, gemfr. Gebiet",2,,06435,none,covered by DC rule!
+HE,Main-Taunus-Kreis,alle,alle ,1,,06436,,
+HE,Odenwaldkreis,alle,alle,2,,06437,,
+HE,Offenbach,alle,alle,1,,06438,,
+HE,Rheingau-Taunus-Kreis,06439001,Aarbergen,2,,06439,,indicated ZIP codes are zone 1
+HE,Rheingau-Taunus-Kreis,06439002,Bad Schwalbach,2,,06439,,covered by DC rule!
+HE,Rheingau-Taunus-Kreis,06439003,Eltville am Rhein,2,,06439,,covered by DC rule!
+HE,Rheingau-Taunus-Kreis,06439004,Geisenheim,1,,06439,65366,covered by DC rule!
+HE,Rheingau-Taunus-Kreis,06439005,Heidenrod,2,,06439,,covered by DC rule!
+HE,Rheingau-Taunus-Kreis,06439006,Hohenstein,2,,06439,,covered by DC rule!
+HE,Rheingau-Taunus-Kreis,06439007,Hünstetten,2,,06439,,covered by DC rule!
+HE,Rheingau-Taunus-Kreis,06439008,Idstein,2,,06439,,covered by DC rule!
+HE,Rheingau-Taunus-Kreis,06439009,Kiedrich,2,,06439,,covered by DC rule!
+HE,Rheingau-Taunus-Kreis,06439010,Lorch,1,,06439,65391,covered by DC rule!
+HE,Rheingau-Taunus-Kreis,06439011,Niedernhausen,2,,06439,,covered by DC rule!
+HE,Rheingau-Taunus-Kreis,06439012,Oestrich-Winkel,2,,06439,,covered by DC rule!
+HE,Rheingau-Taunus-Kreis,06439013,Rüdesheim am Rhein,1,,06439,65385,covered by DC rule!
+HE,Rheingau-Taunus-Kreis,06439014,Schlangenbad,2,,06439,,covered by DC rule!
+HE,Rheingau-Taunus-Kreis,06439015,Taunusstein,2,,06439,,covered by DC rule!
+HE,Rheingau-Taunus-Kreis,06439016,Waldems,2,,06439,,covered by DC rule!
+HE,Rheingau-Taunus-Kreis,06439017,Walluf,1,,06439,65396,covered by DC rule!
+HE,Wetteraukreis,06440001,Altenstadt,2,,06440,,indicated ZIP codes are zone 1
+HE,Wetteraukreis,06440002,Bad Nauheim,2,,06440,,covered by DC rule!
+HE,Wetteraukreis,06440003,Bad Vilbel,1,,06440,61118,covered by DC rule!
+HE,Wetteraukreis,06440004,Büdingen,2,,06440,,covered by DC rule!
+HE,Wetteraukreis,06440005,Butzbach,2,,06440,,covered by DC rule!
+HE,Wetteraukreis,06440006,Echzell,2,,06440,,covered by DC rule!
+HE,Wetteraukreis,06440007,Florstadt,2,,06440,,covered by DC rule!
+HE,Wetteraukreis,06440008,Friedberg (Hessen),2,,06440,,covered by DC rule!
+HE,Wetteraukreis,06440009,Gedern,2,,06440,,covered by DC rule!
+HE,Wetteraukreis,06440010,Glauburg,2,,06440,,covered by DC rule!
+HE,Wetteraukreis,06440011,Hirzenhain,2,,06440,,covered by DC rule!
+HE,Wetteraukreis,06440012,Karben,1,,06440,61184,covered by DC rule!
+HE,Wetteraukreis,06440013,Kefenrod,2,,06440,,covered by DC rule!
+HE,Wetteraukreis,06440014,Limeshain,1,,06440,63694,covered by DC rule!
+HE,Wetteraukreis,06440015,Münzenberg,2,,06440,,covered by DC rule!
+HE,Wetteraukreis,06440016,Nidda,2,,06440,,covered by DC rule!
+HE,Wetteraukreis,06440017,Niddatal,1,,06440,61194,covered by DC rule!
+HE,Wetteraukreis,06440018,Ober-Mörlen,2,,06440,,covered by DC rule!
+HE,Wetteraukreis,06440019,Ortenberg,2,,06440,,covered by DC rule!
+HE,Wetteraukreis,06440020,Ranstadt,2,,06440,,covered by DC rule!
+HE,Wetteraukreis,06440021,Reichelsheim (Wetterau),2,,06440,,covered by DC rule!
+HE,Wetteraukreis,06440022,Rockenberg,2,,06440,,covered by DC rule!
+HE,Wetteraukreis,06440023,Rosbach v.d. Höhe,2,,06440,,covered by DC rule!
+HE,Wetteraukreis,06440024,Wölfersheim,2,,06440,,covered by DC rule!
+HE,Wetteraukreis,06440025,Wöllstadt,2,,06440,,covered by DC rule!
+HE,Gießen,alle,alle,2,,06531,,
+HE,Lahn-Dill-Kreis,alle,"alle außer:
+Dietzhölztal, Dillenburg, Eschenburg und Haiger =  SLZ 2a ",2,,06532,,"ZIP codes 35716,35863-356890,35713,35708 are zone 2a "
+HE,Limburg-Weilburg,alle,alle,2,,06533,,
+HE,Marburg-Biedenkopf,alle,"alle außer:
+Biedenkopf, Breidenbach und
+Münchhausen= SLZ 2a",2,,06534,,"ZIP codes 35216,35236,35117 are zone 2a"
+HE,Vogelsbergkreis,alle,"alle außer:
+Freiensteinau, Grebenhain, Herbstein, Lauterbach (Hessen), Schlitz und Wartenberg = SLZ 2a",2,,06535,,"ZIP codes 36399,36355,36358,36341,36110,36367 are zone 2a"
+HE,Fulda,alle,"alle außer:
+Burghaun, Eiterfeld und Rasdorf = SLZ 2",2a,,06631,,"ZIP codes 36132,36151,36169 are zone 2"
+HE,Hersfeld-Rotenburg,alle,alle,2,,06632,,
+HE,Kassel,alle,"alle außer 
+Grebenstein und 
+Hofgeismar= SLZ 2a",2,,06611,,
+HE,Kassel,alle,"alle außer 
+Grebenstein und 
+Hofgeismar= SLZ 2a",2,,06633,,ZIP codes 34369 and 34393 are zone 2a
+HE,Schwalm-Eder-Kreis,alle,alle,2,,06634,,
+HE,Waldeck-Frankenberg,alle ,"alle außer:
+Bad Wildungen, Diemelstadt, Gemünden (Wohra), Haina (Kloster), Rosenthal, Volkmarsen = SLZ 2",2a,,06635,,"ZIP codes 34537,34474,35285,35114,35119,34471 are zone 2"
+HE,Werra-Meißner-Kreis,alle,"alle außer:
+Großalmerode, Hessisch Lichtenau, Neu-Eichenberg, Sontra, Waldkappel und Gutsbezirk Kaufunger Wald = SLZ 2",3,,06636,,"ZIP codes 37247,37235,37249,36205,37284,37216 are zone 2"

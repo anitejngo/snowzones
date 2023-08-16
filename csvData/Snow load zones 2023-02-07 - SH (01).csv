@@ -1,0 +1,16 @@
+Land,Landkreis,Gemeinde-schlüssel,Gemeinde,Schneelastzone,Fußnote(n),DC,ZIP,comments
+SH,Dithmarschen,alle,alle,2,*Nordd. Tiefl.,01051,,
+SH,Herzogtum Lauenburg,alle,alle,2,*Nordd. Tiefl.,01053,,
+SH,Nordfriesland,alle,alle,2,*Nordd. Tiefl.,01054,,
+SH,Ostholstein,alle,alle,2,*Nordd. Tiefl.,01055,,
+SH,Pinneberg,alle,alle außer Helgoland= SLZ 1,2,*Nordd. Tiefl.,01056,,ZIP code 27498 is zone 1
+SH,Plön,alle,alle,2,*Nordd. Tiefl.,01057,,
+SH,Rendsburg-Eckernförde,alle,alle,2,*Nordd. Tiefl.,01058,,
+SH,Schleswig-Flensburg,alle,alle,2,*Nordd. Tiefl.,01059,,
+SH,Segeberg,alle,alle,2,*Nordd. Tiefl.,01060,,
+SH,Steinburg,alle,alle,2,*Nordd. Tiefl.,01061,,
+SH,Stormarn,alle,alle,2,*Nordd. Tiefl.,01062,,
+SH,Flensburg,01001000,Flensburg,2,*Nordd. Tiefl.,01001,,
+SH,Kiel,01002000,Kiel,2,*Nordd. Tiefl.,01002,,
+SH,Lübeck,01003000,Lübeck,2,*Nordd. Tiefl.,01003,,
+SH,Neumünster,01004000,Neumünster,2,*Nordd. Tiefl.,01004,,

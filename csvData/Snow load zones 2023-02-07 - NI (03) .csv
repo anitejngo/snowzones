@@ -1,0 +1,53 @@
+Land,"Stadt, Region, Landkreis (LK)",Schneelastzone,Fußnote(n),DC,ZIP,comments
+NI,Stadt Braunschweig,2,*Nordd. Tiefl.,03101,,
+NI,Stadt Delmenhorst,2,*Nordd. Tiefl.,03401,,
+NI,Stadt Emden,1,*Nordd. Tiefl.,03402,,
+NI,Stadt Oldenburg (Oldenburg),2,*Nordd. Tiefl.,03403,,
+NI,Stadt Osnabrück,2,,03404,,
+NI,Stadt Salzgitter,2,*Nordd. Tiefl.,03102,,
+NI,Stadt Wilhelmshaven,1,*Nordd. Tiefl.,03405,,
+NI,Stadt Wolfsburg,2,*Nordd. Tiefl.,03103,,
+NI,"Hannover, außer Wennigsen",2,,03241,,ZIP code 30974 is zone 3
+NI,LK Ammerland,1,*Nordd. Tiefl.,03451,,
+NI,LK Aurich,1,*Nordd. Tiefl.,03452,,
+NI,LK Celle,2,*Nordd. Tiefl.,03351,,
+Ni,LK Cloppenburg,2,*Nordd. Tiefl.,03453,,
+NI,LK Cuxhaven,2,*Nordd. Tiefl.,03352,,
+NI,LK Diepholz,2,*Nordd. Tiefl.,03251,,
+NI,LK Emsland,1,*Nordd. Tiefl.,03454,,
+NI,LK Friesland,1,*Nordd. Tiefl.,03455,,
+NI,LK Gifhorn,2,*Nordd. Tiefl.,03151,,
+NI,LK Goslar,3,,03153,,
+NI,"außer den Gemeinden 38685 Stadt Langelsheim, 38667 Stadt Bad Harzburg, 38640/38642/38644/38690 Stadt Goslar, 38723 Stadt Seesen, 38704 Liebenburg und der Samtgemeinde 38729 Lutter am Barenberge",2,*Harz300,03153,,"covered by zip2zone, check for Harz300 afterwards"
+NI,"außer den Ortsteilen 38667 Torfhaus und 38667 Bastesiedlung der Gemeinde Altenau, Stadt Braunlage mit Ortsteilen 38700 Königskrug, 37444 St. Andreasberg, 37444 Sonnenberg, 37444 Oderbrück, 37444 Oderberg und 38700 Hohegeiß",> 3,*Harz55,03153,,"covered by Harz55 rule: ZIP codes 38667 Torfhaus,38700,37444 apply for Harz55 rule, we use zone 3 as the default zone (see above) before applying the rule"
+NI,LK Göttingen,2,*Harz300,03159,,
+NI,"außer der 37441 Stadt Bad Sachsa und den Gemeinden 37445 Walkenried, 37445 Wieda, 37445 Zorge",3,,03159,,covered by zip2zone
+NI,LK Grafschaft Bentheim,1,*Nordd. Tiefl.,03456,,
+NI,"LK Hameln-Pyrmont, außer der Gemeinde Stadt Bad Münder",2,,03252,,ZIP code 31848 is zone 3
+NI,LK Harburg,2,*Nordd. Tiefl.,03353,,
+NI,LK Heidekreis,2,*Nordd. Tiefl.,03358,,
+NI,LK Helmstedt,2,*Nordd. Tiefl.,03154,,
+NI,LK Hildesheim,2,,03254,,
+NI,LK Holzminden,2,,03255,,
+NI,LK Leer,1,*Nordd. Tiefl.,03457,,
+NI,LK Lüchow-Dannenberg,2,*Nordd. Tiefl.,03354,,
+NI,LK Lüneburg,2,*Nordd. Tiefl.,03355,,
+NI,LK Nienburg (Weser),2,*Nordd. Tiefl.,03256,,
+NI,LK Northeim,2,,03155,,
+NI,LK Oldenburg,2,*Nordd. Tiefl.,03458,,
+NI,LK Osnabrück,2,,03459,,
+NI,LK Osterholz,2,*Nordd. Tiefl.,03356,,
+NI,LK Peine,2,*Nordd. Tiefl.,03157,,
+NI,LK Rotenburg (Wümme),2,*Nordd. Tiefl.,03357,,
+NI,LK Schaumburg,2,,03257,,
+NI,LK Stade,2,*Nordd. Tiefl.,03359,,
+NI,LK Uelzen,2,*Nordd. Tiefl.,03360,,
+NI,LK Vechta,2,*Nordd. Tiefl.,03460,,
+NI,LK Verden,2,*Nordd. Tiefl.,03361,,
+NI,LK Wesermarsch,2,*Nordd. Tiefl.,03461,,
+NI,LK Wittmund,1,*Nordd. Tiefl.,03462,,
+NI,LK Wolfenbüttel,2,*Nordd. Tiefl.,03158,,
+,,,,,,
+,,,,,,1) Norddeutsches Tiefland
+,,,,,,"2) In den Gemeinden, die der Schneelastzone 2 zugeordnet sind, ist unabhängig von dieser Zuordnung die Schneelastzone 3 anzusetzen, wenn sich das Bauvorhaben nördlich der Bundesstraße 243 oberhalb der 300 m Höhenlinie befindet."
+,,,,,,"3) Anzusetzende Schneelast: sk = 5,5 KN/m²."

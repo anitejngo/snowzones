@@ -28,12 +28,12 @@ zipcode,city,dc,snowzone,note,comments
 01326,Dresden,14612,2,,
 01328,Dresden,14612,2,,
 01445,Radebeul,14627,2,,
-01454,"Radeberg, Wachau",14625,,,
-01458,Ottendorf-Okrilla,14625,,,
+01454,"Radeberg, Wachau",14625,3,,covered by DC rule
+01458,Ottendorf-Okrilla,14625,3,,covered by DC rule
 01465,Dresden,14612,2,,
 01468,Moritzburg,14627,2,,
 01471,Radeburg,14627,2,,
-01477,Arnsdorf b. Dresden,14625,,,
+01477,Arnsdorf b. Dresden,14625,3,,covered by DC rule
 01558,Großenhain,14627,2,,
 01561,"Großenhain, Ebersbach u.a.",14627,2,,
 01587,Riesa,14627,2,,
@@ -77,15 +77,15 @@ zipcode,city,dc,snowzone,note,comments
 01847,Lohmen,14628,2,,covered by DC rule!
 01848,Hohnstein,14628,2,,covered by DC rule!
 01855,Sebnitz,14628,2,,covered by DC rule!
-01877,Bischofswerda u.a.,14625,3,,
-01896,Pulsnitz,14625,,,
-01900,"Großröhrsdorf, Bretnig-Hauswalde",14625,,,
-01904,Neukirch/Lausitz,14625,3,,
-01906,Burkau,14625,,,
-01909,"Großharthau, Frankenthal",14625,,,
-01917,Kamenz,14625,,,
-01920,"Elstra, Oßling u.a.",14625,,,
-01936,Königsbrück u.a.,14625,,,
+01877,Bischofswerda u.a.,14625,3,,covered by DC rule
+01896,Pulsnitz,14625,3,,covered by DC rule
+01900,"Großröhrsdorf, Bretnig-Hauswalde",14625,3,,covered by DC rule
+01904,Neukirch/Lausitz,14625,3,,covered by DC rule
+01906,Burkau,14625,3,,covered by DC rule
+01909,"Großharthau, Frankenthal",14625,3,,covered by DC rule
+01917,Kamenz,14625,3,,covered by DC rule
+01920,"Elstra, Oßling u.a.",14625,3,,covered by DC rule
+01936,Königsbrück u.a.,14625,3,,covered by DC rule
 01945,Ruhland,12066,2,,
 01968,Senftenberg,12066,2,,
 01979,Lauchhammer,12066,2,,
@@ -96,53 +96,53 @@ zipcode,city,dc,snowzone,note,comments
 01994,Schipkau,12066,2,,
 01996,Senftenberg,12066,2,,
 01998,Schipkau,12066,2,,
-02625,Bautzen,14625,3,,
-02627,"Weißenberg, Hochkirch u.a.",14625,3,,
-02633,Göda,14625,3,,
-02681,Wilthen,14625,3,,
-02689,Sohland a. d. Spree,14625,3,,
-02692,"Doberschau-Gaußig, Großpostwitz, Obergurig",14625,3,,
-02694,"Großdubrau, Malschwitz",14625,3,,
-02699,Königswartha,14625,,,
-02708,"Löbau, Kottmar u.a.",14626,,,
-02727,Ebersbach-Neugersdorf,14626,,,
-02730,Ebersbach-Neugersdorf,14626,,,
-02733,Cunewalde,14625,3,,
-02736,"Beiersdorf, Oppach",14626,,,
-02739,Kottmar,14626,,,
-02742,Neusalza-Spremberg,14626,,,
-02747,Herrnhut,14626,,,
-02748,Bernstadt a. d. Eigen,14626,,,
-02763,Zittau u.a.,14626,,,
-02779,Großschönau,14626,,,
-02782,Seifhennersdorf,14626,,,
-02785,Olbersdorf,14626,,,
-02788,Zittau,14626,,,
-02791,Oderwitz,14626,,,
-02794,"Leutersdorf, Spitzkunnersdorf",14626,,,
-02796,Jonsdorf,14626,,,
-02797,Oybin,14626,,,
-02799,Großschönau,14626,,,
-02826,Görlitz,14626,,,
-02827,Görlitz,14626,,,
-02828,Görlitz,14626,,,
-02829,"Markersdorf, Neißeaue u.a.",14626,,,
-02894,"Reichenbach, Vierkirchen",14626,,,
-02899,"Ostritz, Schönau-Berzdorf",14626,,,
-02906,"Niesky, Hohendubrau u.a.",14626,,,
-02923,"Hähnichen, Horka, Kodersdorf",14626,,,
-02929,Rothenburg/O.L.,14626,,,
-02943,"Weißwasser, Boxberg",14626,,,
-02953,"Bad Muskau, Groß Düben, Gablenz",14626,2,,
-02956,Rietschen,14626,2,,
-02957,"Krauschwitz, Weißkeißel",14626,2,,
-02959,Schleife,14626,2,,
-02977,Hoyerswerda,14625,,,
-02979,"Spreetal, Elsterheide",14625,,,
-02991,Lauta,14625,,,
-02994,Bernsdorf,14625,,,
-02997,Wittichenau,14625,,,
-02999,Lohsa,14625,,,
+02625,Bautzen,14625,3,,covered by DC rule
+02627,"Weißenberg, Hochkirch u.a.",14625,3,,covered by DC rule
+02633,Göda,14625,3,,covered by DC rule
+02681,Wilthen,14625,3,,covered by DC rule
+02689,Sohland a. d. Spree,14625,3,,covered by DC rule
+02692,"Doberschau-Gaußig, Großpostwitz, Obergurig",14625,3,,covered by DC rule
+02694,"Großdubrau, Malschwitz",14625,3,,covered by DC rule
+02699,Königswartha,14625,3,,covered by DC rule
+02708,"Löbau, Kottmar u.a.",14626,3,,covered by DC rule
+02727,Ebersbach-Neugersdorf,14626,3,,covered by DC rule
+02730,Ebersbach-Neugersdorf,14626,3,,covered by DC rule
+02733,Cunewalde,14625,3,,covered by DC rule
+02736,"Beiersdorf, Oppach",14626,3,,covered by DC rule
+02739,Kottmar,14626,3,,covered by DC rule
+02742,Neusalza-Spremberg,14626,3,,covered by DC rule
+02747,Herrnhut,14626,3,,covered by DC rule
+02748,Bernstadt a. d. Eigen,14626,3,,covered by DC rule
+02763,Zittau u.a.,14626,3,,covered by DC rule
+02779,Großschönau,14626,3,,covered by DC rule
+02782,Seifhennersdorf,14626,3,,covered by DC rule
+02785,Olbersdorf,14626,3,,covered by DC rule
+02788,Zittau,14626,3,,covered by DC rule
+02791,Oderwitz,14626,3,,covered by DC rule
+02794,"Leutersdorf, Spitzkunnersdorf",14626,3,,covered by DC rule
+02796,Jonsdorf,14626,3,,covered by DC rule
+02797,Oybin,14626,3,,covered by DC rule
+02799,Großschönau,14626,3,,covered by DC rule
+02826,Görlitz,14626,3,,covered by DC rule
+02827,Görlitz,14626,3,,covered by DC rule
+02828,Görlitz,14626,3,,covered by DC rule
+02829,"Markersdorf, Neißeaue u.a.",14626,3,,covered by DC rule
+02894,"Reichenbach, Vierkirchen",14626,3,,covered by DC rule
+02899,"Ostritz, Schönau-Berzdorf",14626,3,,covered by DC rule
+02906,"Niesky, Hohendubrau u.a.",14626,3,,covered by DC rule
+02923,"Hähnichen, Horka, Kodersdorf",14626,3,,covered by DC rule
+02929,Rothenburg/O.L.,14626,3,,covered by DC rule
+02943,"Weißwasser, Boxberg",14626,3,,covered by DC rule
+02953,"Bad Muskau, Groß Düben, Gablenz",14626,2,,covered by DC rule
+02956,Rietschen,14626,2,,covered by DC rule
+02957,"Krauschwitz, Weißkeißel",14626,2,,covered by DC rule
+02959,Schleife,14626,2,,covered by DC rule
+02977,Hoyerswerda,14625,3,,covered by DC rule
+02979,"Spreetal, Elsterheide",14625,3,,covered by DC rule
+02991,Lauta,14625,3,,covered by DC rule
+02994,Bernsdorf,14625,3,,covered by DC rule
+02997,Wittichenau,14625,3,,covered by DC rule
+02999,Lohsa,14625,3,,covered by DC rule
 03042,Cottbus,12052,2,,
 03044,Cottbus,12052,2,,
 03046,Cottbus,12052,2,,
@@ -239,12 +239,12 @@ zipcode,city,dc,snowzone,note,comments
 04680,Colditz,14729,,,
 04683,Naunhof,14729,,,
 04687,Trebsen/Mulde,14729,,,
-04703,Leisnig,14522,,,
-04720,"Döbeln, Großweitzschen u.a.",14522,,,
-04736,Waldheim,14522,,,
-04741,Roßwein,14522,,,
-04746,Hartha,14522,,,
-04749,Ostrau,14522,,,
+04703,Leisnig,14522,3,,covered by DC rule
+04720,"Döbeln, Großweitzschen u.a.",14522,3,,covered by DC rule
+04736,Waldheim,14522,3,,covered by DC rule
+04741,Roßwein,14522,3,,covered by DC rule
+04746,Hartha,14522,3,,covered by DC rule
+04749,Ostrau,14522,3,,covered by DC rule
 04758,Oschatz u.a.,14730,2,,
 04769,"Mügeln, Naundorf",14730,2,,
 04774,Dahlen,14730,2,,
@@ -310,24 +310,24 @@ zipcode,city,dc,snowzone,note,comments
 06333,"Hettstedt, Endorf",15087,2,,
 06343,Mansfeld,15087,2,,
 06347,Gerbstedt,15087,2,,
-06366,Köthen,15082,2,"*Nordd. Tiefld.  von Zerbst/Anhalt die Ortsteile Buhlendorf, Deetz, Dobritz, Gehrden, Grimme, Lindau, Moritz, Nedlitz, Polenzko, Reuden, Straguth, und Zernitz","NGP rule (NGP15082): 39264 partially applies to NGP rule , see https://www.suche-postleitzahl.org/zerbst-plz-39261-39264.67d8 "
-06369,Südliches Anhalt u.a.,15082,2,"*Nordd. Tiefld.  von Zerbst/Anhalt die Ortsteile Buhlendorf, Deetz, Dobritz, Gehrden, Grimme, Lindau, Moritz, Nedlitz, Polenzko, Reuden, Straguth, und Zernitz","NGP rule (NGP15082): 39264 partially applies to NGP rule , see https://www.suche-postleitzahl.org/zerbst-plz-39261-39264.67d8 "
-06385,Aken (Elbe),15082,2,"*Nordd. Tiefld.  von Zerbst/Anhalt die Ortsteile Buhlendorf, Deetz, Dobritz, Gehrden, Grimme, Lindau, Moritz, Nedlitz, Polenzko, Reuden, Straguth, und Zernitz","NGP rule (NGP15082): 39264 partially applies to NGP rule , see https://www.suche-postleitzahl.org/zerbst-plz-39261-39264.67d8 "
-06386,Osternienburger Land,15082,2,"*Nordd. Tiefld.  von Zerbst/Anhalt die Ortsteile Buhlendorf, Deetz, Dobritz, Gehrden, Grimme, Lindau, Moritz, Nedlitz, Polenzko, Reuden, Straguth, und Zernitz","NGP rule (NGP15082): 39264 partially applies to NGP rule , see https://www.suche-postleitzahl.org/zerbst-plz-39261-39264.67d8 "
-06388,"Südliches Anhalt, Köthen",15082,2,"*Nordd. Tiefld.  von Zerbst/Anhalt die Ortsteile Buhlendorf, Deetz, Dobritz, Gehrden, Grimme, Lindau, Moritz, Nedlitz, Polenzko, Reuden, Straguth, und Zernitz","NGP rule (NGP15082): 39264 partially applies to NGP rule , see https://www.suche-postleitzahl.org/zerbst-plz-39261-39264.67d8 "
-06406,Bernburg (Saale),15089,2,*Nordd. Tiefld. von Barby der Ortsteil Glinde sowie Schönebeck (Elbe) und von Bördeland der Ortsteil Welsleben,"NGP rule (NGP15089): partially 39249, 39218, partially 39221"
-06408,Ilberstedt,15089,2,*Nordd. Tiefld. von Barby der Ortsteil Glinde sowie Schönebeck (Elbe) und von Bördeland der Ortsteil Welsleben,"NGP rule (NGP15089): partially 39249, 39218, partially 39221"
-06420,Könnern,15089,2,*Nordd. Tiefld. von Barby der Ortsteil Glinde sowie Schönebeck (Elbe) und von Bördeland der Ortsteil Welsleben,"NGP rule (NGP15089): partially 39249, 39218, partially 39221"
-06425,"Alsleben/Saale, Plötzkau",15089,2,*Nordd. Tiefld. von Barby der Ortsteil Glinde sowie Schönebeck (Elbe) und von Bördeland der Ortsteil Welsleben,"NGP rule (NGP15089): partially 39249, 39218, partially 39221"
-06429,Nienburg (Saale),15089,2,*Nordd. Tiefld. von Barby der Ortsteil Glinde sowie Schönebeck (Elbe) und von Bördeland der Ortsteil Welsleben,"NGP rule (NGP15089): partially 39249, 39218, partially 39221"
-06449,Aschersleben,15089,2,*Nordd. Tiefld. von Barby der Ortsteil Glinde sowie Schönebeck (Elbe) und von Bördeland der Ortsteil Welsleben,"NGP rule (NGP15089): partially 39249, 39218, partially 39221"
+06366,Köthen,15082,2,"*Nordd. Tiefld.  von Zerbst/Anhalt die Ortsteile Buhlendorf, Deetz, Dobritz, Gehrden, Grimme, Lindau, Moritz, Nedlitz, Polenzko, Reuden, Straguth, und Zernitz","NGP rule: 39264 Zerbst, Ortsteile as listed on the left"
+06369,Südliches Anhalt u.a.,15082,2,"*Nordd. Tiefld.  von Zerbst/Anhalt die Ortsteile Buhlendorf, Deetz, Dobritz, Gehrden, Grimme, Lindau, Moritz, Nedlitz, Polenzko, Reuden, Straguth, und Zernitz","NGP rule: 39264 Zerbst, Ortsteile as listed on the left"
+06385,Aken (Elbe),15082,2,"*Nordd. Tiefld.  von Zerbst/Anhalt die Ortsteile Buhlendorf, Deetz, Dobritz, Gehrden, Grimme, Lindau, Moritz, Nedlitz, Polenzko, Reuden, Straguth, und Zernitz","NGP rule: 39264 Zerbst, Ortsteile as listed on the left"
+06386,Osternienburger Land,15082,2,"*Nordd. Tiefld.  von Zerbst/Anhalt die Ortsteile Buhlendorf, Deetz, Dobritz, Gehrden, Grimme, Lindau, Moritz, Nedlitz, Polenzko, Reuden, Straguth, und Zernitz","NGP rule: 39264 Zerbst, Ortsteile as listed on the left"
+06388,"Südliches Anhalt, Köthen",15082,2,"*Nordd. Tiefld.  von Zerbst/Anhalt die Ortsteile Buhlendorf, Deetz, Dobritz, Gehrden, Grimme, Lindau, Moritz, Nedlitz, Polenzko, Reuden, Straguth, und Zernitz","NGP rule: 39264 Zerbst, Ortsteile as listed on the left"
+06406,Bernburg (Saale),15089,2,*Nordd. Tiefld. von Barby der Ortsteil 39249 Glinde sowie 39217/39218 Schönebeck (Elbe) und von Bördeland der Ortsteil 39221 Welsleben,"NGP rule: partially 39249, 39218, partially 39221"
+06408,Ilberstedt,15089,2,*Nordd. Tiefld. von Barby der Ortsteil 39249 Glinde sowie 39217/39218 Schönebeck (Elbe) und von Bördeland der Ortsteil 39221 Welsleben,"NGP rule: partially 39249, 39218, partially 39221"
+06420,Könnern,15089,2,*Nordd. Tiefld. von Barby der Ortsteil 39249 Glinde sowie 39217/39218 Schönebeck (Elbe) und von Bördeland der Ortsteil 39221 Welsleben,"NGP rule: partially 39249, 39218, partially 39221"
+06425,"Alsleben/Saale, Plötzkau",15089,2,*Nordd. Tiefld. von Barby der Ortsteil 39249 Glinde sowie 39217/39218 Schönebeck (Elbe) und von Bördeland der Ortsteil 39221 Welsleben,"NGP rule: partially 39249, 39218, partially 39221"
+06429,Nienburg (Saale),15089,2,*Nordd. Tiefld. von Barby der Ortsteil 39249 Glinde sowie 39217/39218 Schönebeck (Elbe) und von Bördeland der Ortsteil 39221 Welsleben,"NGP rule: partially 39249, 39218, partially 39221"
+06449,Aschersleben,15089,2,*Nordd. Tiefld. von Barby der Ortsteil 39249 Glinde sowie 39217/39218 Schönebeck (Elbe) und von Bördeland der Ortsteil 39221 Welsleben,"NGP rule: partially 39249, 39218, partially 39221"
 06456,Arnstein,15087,2,,
 06458,Hedersleben,15085,3,,covered by DC rule!
 06463,Falkenstein,15085,3,,covered by DC rule!
-06464,Seeland,15089,2,*Nordd. Tiefld. von Barby der Ortsteil Glinde sowie Schönebeck (Elbe) und von Bördeland der Ortsteil Welsleben,"NGP rule (NGP15089): partially 39249, 39218, partially 39221"
-06466,Seeland,15089,2,*Nordd. Tiefld. von Barby der Ortsteil Glinde sowie Schönebeck (Elbe) und von Bördeland der Ortsteil Welsleben,"NGP rule (NGP15089): partially 39249, 39218, partially 39221"
-06467,Seeland,15089,2,*Nordd. Tiefld. von Barby der Ortsteil Glinde sowie Schönebeck (Elbe) und von Bördeland der Ortsteil Welsleben,"NGP rule (NGP15089): partially 39249, 39218, partially 39221"
-06469,Seeland,15089,2,*Nordd. Tiefld. von Barby der Ortsteil Glinde sowie Schönebeck (Elbe) und von Bördeland der Ortsteil Welsleben,"NGP rule (NGP15089): partially 39249, 39218, partially 39221"
+06464,Seeland,15089,2,*Nordd. Tiefld. von Barby der Ortsteil 39249 Glinde sowie 39217/39218 Schönebeck (Elbe) und von Bördeland der Ortsteil 39221 Welsleben,"NGP rule: partially 39249, 39218, partially 39221"
+06466,Seeland,15089,2,*Nordd. Tiefld. von Barby der Ortsteil 39249 Glinde sowie 39217/39218 Schönebeck (Elbe) und von Bördeland der Ortsteil 39221 Welsleben,"NGP rule: partially 39249, 39218, partially 39221"
+06467,Seeland,15089,2,*Nordd. Tiefld. von Barby der Ortsteil 39249 Glinde sowie 39217/39218 Schönebeck (Elbe) und von Bördeland der Ortsteil 39221 Welsleben,"NGP rule: partially 39249, 39218, partially 39221"
+06469,Seeland,15089,2,*Nordd. Tiefld. von Barby der Ortsteil 39249 Glinde sowie 39217/39218 Schönebeck (Elbe) und von Bördeland der Ortsteil 39221 Welsleben,"NGP rule: partially 39249, 39218, partially 39221"
 06484,Quedlinburg,15085,3,,covered by DC rule!
 06485,"Quedlinburg, Ballenstedt",15085,3,,covered by DC rule!
 06493,"Ballenstedt, Harzgerode",15085,3,,covered by DC rule!
@@ -361,21 +361,21 @@ zipcode,city,dc,snowzone,note,comments
 06721,"Meineweh, Osterfeld",15084,2,,
 06722,"Droyßig, Wetterzeube",15084,2,,
 06729,Elsteraue,15084,2,,
-06749,Bitterfeld-Wolfen,15082,2,"*Nordd. Tiefld.  von Zerbst/Anhalt die Ortsteile Buhlendorf, Deetz, Dobritz, Gehrden, Grimme, Lindau, Moritz, Nedlitz, Polenzko, Reuden, Straguth, und Zernitz","NGP rule (NGP15082): 39264 partially applies to NGP rule , see https://www.suche-postleitzahl.org/zerbst-plz-39261-39264.67d8 "
-06766,Bitterfeld-Wolfen,15082,2,"*Nordd. Tiefld.  von Zerbst/Anhalt die Ortsteile Buhlendorf, Deetz, Dobritz, Gehrden, Grimme, Lindau, Moritz, Nedlitz, Polenzko, Reuden, Straguth, und Zernitz","NGP rule (NGP15082): 39264 partially applies to NGP rule , see https://www.suche-postleitzahl.org/zerbst-plz-39261-39264.67d8 "
-06772,Gräfenhainichen,15091,2,*Nordd. Tiefld. von Coswig (Anhalt) die Ortsteile Serno und Stackelitz,NGP rule (NGP15091): partially 06869
-06773,Gräfenhainichen,15091,2,*Nordd. Tiefld. von Coswig (Anhalt) die Ortsteile Serno und Stackelitz,NGP rule (NGP15091): partially 06869
-06774,Muldestausee,15082,2,"*Nordd. Tiefld.  von Zerbst/Anhalt die Ortsteile Buhlendorf, Deetz, Dobritz, Gehrden, Grimme, Lindau, Moritz, Nedlitz, Polenzko, Reuden, Straguth, und Zernitz","NGP rule (NGP15082): 39264 partially applies to NGP rule , see https://www.suche-postleitzahl.org/zerbst-plz-39261-39264.67d8 "
-06779,Raguhn-Jeßnitz,15082,2,"*Nordd. Tiefld.  von Zerbst/Anhalt die Ortsteile Buhlendorf, Deetz, Dobritz, Gehrden, Grimme, Lindau, Moritz, Nedlitz, Polenzko, Reuden, Straguth, und Zernitz","NGP rule (NGP15082): 39264 partially applies to NGP rule , see https://www.suche-postleitzahl.org/zerbst-plz-39261-39264.67d8 "
-06780,Zörbig,15082,2,"*Nordd. Tiefld.  von Zerbst/Anhalt die Ortsteile Buhlendorf, Deetz, Dobritz, Gehrden, Grimme, Lindau, Moritz, Nedlitz, Polenzko, Reuden, Straguth, und Zernitz","NGP rule (NGP15082): 39264 partially applies to NGP rule , see https://www.suche-postleitzahl.org/zerbst-plz-39261-39264.67d8 "
-06785,Oranienbaum-Wörlitz,15091,2,*Nordd. Tiefld. von Coswig (Anhalt) die Ortsteile Serno und Stackelitz,NGP rule (NGP15091): partially 06869
-06792,Sandersdorf-Brehna,15082,2,"*Nordd. Tiefld.  von Zerbst/Anhalt die Ortsteile Buhlendorf, Deetz, Dobritz, Gehrden, Grimme, Lindau, Moritz, Nedlitz, Polenzko, Reuden, Straguth, und Zernitz","NGP rule (NGP15082): 39264 partially applies to NGP rule , see https://www.suche-postleitzahl.org/zerbst-plz-39261-39264.67d8 "
-06794,Sandersdorf-Brehna,15082,2,"*Nordd. Tiefld.  von Zerbst/Anhalt die Ortsteile Buhlendorf, Deetz, Dobritz, Gehrden, Grimme, Lindau, Moritz, Nedlitz, Polenzko, Reuden, Straguth, und Zernitz","NGP rule (NGP15082): 39264 partially applies to NGP rule , see https://www.suche-postleitzahl.org/zerbst-plz-39261-39264.67d8 "
-06796,Sandersdorf-Brehna,15082,2,"*Nordd. Tiefld.  von Zerbst/Anhalt die Ortsteile Buhlendorf, Deetz, Dobritz, Gehrden, Grimme, Lindau, Moritz, Nedlitz, Polenzko, Reuden, Straguth, und Zernitz","NGP rule (NGP15082): 39264 partially applies to NGP rule , see https://www.suche-postleitzahl.org/zerbst-plz-39261-39264.67d8 "
-06800,Raguhn-Jeßnitz,15082,2,"*Nordd. Tiefld.  von Zerbst/Anhalt die Ortsteile Buhlendorf, Deetz, Dobritz, Gehrden, Grimme, Lindau, Moritz, Nedlitz, Polenzko, Reuden, Straguth, und Zernitz","NGP rule (NGP15082): 39264 partially applies to NGP rule , see https://www.suche-postleitzahl.org/zerbst-plz-39261-39264.67d8 "
-06803,Bitterfeld-Wolfen,15082,2,"*Nordd. Tiefld.  von Zerbst/Anhalt die Ortsteile Buhlendorf, Deetz, Dobritz, Gehrden, Grimme, Lindau, Moritz, Nedlitz, Polenzko, Reuden, Straguth, und Zernitz","NGP rule (NGP15082): 39264 partially applies to NGP rule , see https://www.suche-postleitzahl.org/zerbst-plz-39261-39264.67d8 "
-06808,Bitterfeld-Wolfen,15082,2,"*Nordd. Tiefld.  von Zerbst/Anhalt die Ortsteile Buhlendorf, Deetz, Dobritz, Gehrden, Grimme, Lindau, Moritz, Nedlitz, Polenzko, Reuden, Straguth, und Zernitz","NGP rule (NGP15082): 39264 partially applies to NGP rule , see https://www.suche-postleitzahl.org/zerbst-plz-39261-39264.67d8 "
-06809,"Roitzsch, Petersroda",15082,2,"*Nordd. Tiefld.  von Zerbst/Anhalt die Ortsteile Buhlendorf, Deetz, Dobritz, Gehrden, Grimme, Lindau, Moritz, Nedlitz, Polenzko, Reuden, Straguth, und Zernitz","NGP rule (NGP15082): 39264 partially applies to NGP rule , see https://www.suche-postleitzahl.org/zerbst-plz-39261-39264.67d8 "
+06749,Bitterfeld-Wolfen,15082,2,"*Nordd. Tiefld.  von Zerbst/Anhalt die Ortsteile Buhlendorf, Deetz, Dobritz, Gehrden, Grimme, Lindau, Moritz, Nedlitz, Polenzko, Reuden, Straguth, und Zernitz","NGP rule: 39264 Zerbst, Ortsteile as listed on the left"
+06766,Bitterfeld-Wolfen,15082,2,"*Nordd. Tiefld.  von Zerbst/Anhalt die Ortsteile Buhlendorf, Deetz, Dobritz, Gehrden, Grimme, Lindau, Moritz, Nedlitz, Polenzko, Reuden, Straguth, und Zernitz","NGP rule: 39264 Zerbst, Ortsteile as listed on the left"
+06772,Gräfenhainichen,15091,2,*Nordd. Tiefld. von 06868-06869 Coswig (Anhalt) die Ortsteile 06868 Serno und 06868 Stackelitz,NGP rule (NGP15091): partially 06868
+06773,Gräfenhainichen,15091,2,*Nordd. Tiefld. von 06868-06869 Coswig (Anhalt) die Ortsteile 06868 Serno und 06868 Stackelitz,NGP rule (NGP15091): partially 06868
+06774,Muldestausee,15082,2,"*Nordd. Tiefld.  von Zerbst/Anhalt die Ortsteile Buhlendorf, Deetz, Dobritz, Gehrden, Grimme, Lindau, Moritz, Nedlitz, Polenzko, Reuden, Straguth, und Zernitz","NGP rule: 39264 Zerbst, Ortsteile as listed on the left"
+06779,Raguhn-Jeßnitz,15082,2,"*Nordd. Tiefld.  von Zerbst/Anhalt die Ortsteile Buhlendorf, Deetz, Dobritz, Gehrden, Grimme, Lindau, Moritz, Nedlitz, Polenzko, Reuden, Straguth, und Zernitz","NGP rule: 39264 Zerbst, Ortsteile as listed on the left"
+06780,Zörbig,15082,2,"*Nordd. Tiefld.  von Zerbst/Anhalt die Ortsteile Buhlendorf, Deetz, Dobritz, Gehrden, Grimme, Lindau, Moritz, Nedlitz, Polenzko, Reuden, Straguth, und Zernitz","NGP rule: 39264 Zerbst, Ortsteile as listed on the left"
+06785,Oranienbaum-Wörlitz,15091,2,*Nordd. Tiefld. von 06868-06869 Coswig (Anhalt) die Ortsteile 06868 Serno und 06868 Stackelitz,NGP rule (NGP15091): partially 06868
+06792,Sandersdorf-Brehna,15082,2,"*Nordd. Tiefld.  von Zerbst/Anhalt die Ortsteile Buhlendorf, Deetz, Dobritz, Gehrden, Grimme, Lindau, Moritz, Nedlitz, Polenzko, Reuden, Straguth, und Zernitz","NGP rule: 39264 Zerbst, Ortsteile as listed on the left"
+06794,Sandersdorf-Brehna,15082,2,"*Nordd. Tiefld.  von Zerbst/Anhalt die Ortsteile Buhlendorf, Deetz, Dobritz, Gehrden, Grimme, Lindau, Moritz, Nedlitz, Polenzko, Reuden, Straguth, und Zernitz","NGP rule: 39264 Zerbst, Ortsteile as listed on the left"
+06796,Sandersdorf-Brehna,15082,2,"*Nordd. Tiefld.  von Zerbst/Anhalt die Ortsteile Buhlendorf, Deetz, Dobritz, Gehrden, Grimme, Lindau, Moritz, Nedlitz, Polenzko, Reuden, Straguth, und Zernitz","NGP rule: 39264 Zerbst, Ortsteile as listed on the left"
+06800,Raguhn-Jeßnitz,15082,2,"*Nordd. Tiefld.  von Zerbst/Anhalt die Ortsteile Buhlendorf, Deetz, Dobritz, Gehrden, Grimme, Lindau, Moritz, Nedlitz, Polenzko, Reuden, Straguth, und Zernitz","NGP rule: 39264 Zerbst, Ortsteile as listed on the left"
+06803,Bitterfeld-Wolfen,15082,2,"*Nordd. Tiefld.  von Zerbst/Anhalt die Ortsteile Buhlendorf, Deetz, Dobritz, Gehrden, Grimme, Lindau, Moritz, Nedlitz, Polenzko, Reuden, Straguth, und Zernitz","NGP rule: 39264 Zerbst, Ortsteile as listed on the left"
+06808,Bitterfeld-Wolfen,15082,2,"*Nordd. Tiefld.  von Zerbst/Anhalt die Ortsteile Buhlendorf, Deetz, Dobritz, Gehrden, Grimme, Lindau, Moritz, Nedlitz, Polenzko, Reuden, Straguth, und Zernitz","NGP rule: 39264 Zerbst, Ortsteile as listed on the left"
+06809,"Roitzsch, Petersroda",15082,2,"*Nordd. Tiefld.  von Zerbst/Anhalt die Ortsteile Buhlendorf, Deetz, Dobritz, Gehrden, Grimme, Lindau, Moritz, Nedlitz, Polenzko, Reuden, Straguth, und Zernitz","NGP rule: 39264 Zerbst, Ortsteile as listed on the left"
 06842,Dessau-Roßlau,15001,2,,
 06844,Dessau-Roßlau,15001,2,,
 06846,Dessau-Roßlau,15001,2,,
@@ -383,16 +383,16 @@ zipcode,city,dc,snowzone,note,comments
 06849,Dessau-Roßlau,15001,2,,
 06861,Dessau-Roßlau,15001,2,,
 06862,Dessau-Roßlau,15001,2,,
-06868,Coswig (Anhalt),15091,2,*Nordd. Tiefld. von Coswig (Anhalt) die Ortsteile Serno und Stackelitz,NGP rule (NGP15091): partially 06869
-06869,Coswig (Anhalt),15091,2,*Nordd. Tiefld. von Coswig (Anhalt) die Ortsteile Serno und Stackelitz,NGP rule (NGP15091): partially 06869
-06886,Wittenberg,15091,2,*Nordd. Tiefld. von Coswig (Anhalt) die Ortsteile Serno und Stackelitz,NGP rule (NGP15091): partially 06869
-06888,Wittenberg,15091,2,*Nordd. Tiefld. von Coswig (Anhalt) die Ortsteile Serno und Stackelitz,NGP rule (NGP15091): partially 06869
-06889,Wittenberg,15091,2,*Nordd. Tiefld. von Coswig (Anhalt) die Ortsteile Serno und Stackelitz,NGP rule (NGP15091): partially 06869
-06895,Zahna-Elster,15091,2,*Nordd. Tiefld. von Coswig (Anhalt) die Ortsteile Serno und Stackelitz,NGP rule (NGP15091): partially 06869
-06901,Kemberg,15091,2,*Nordd. Tiefld. von Coswig (Anhalt) die Ortsteile Serno und Stackelitz,NGP rule (NGP15091): partially 06869
-06905,Bad Schmiedeberg,15091,2,*Nordd. Tiefld. von Coswig (Anhalt) die Ortsteile Serno und Stackelitz,NGP rule (NGP15091): partially 06869
-06917,Jessen (Elster),15091,2,*Nordd. Tiefld. von Coswig (Anhalt) die Ortsteile Serno und Stackelitz,NGP rule (NGP15091): partially 06869
-06925,Annaburg,15091,2,*Nordd. Tiefld. von Coswig (Anhalt) die Ortsteile Serno und Stackelitz,NGP rule (NGP15091): partially 06869
+06868,Coswig (Anhalt),15091,2,*Nordd. Tiefld. von 06868-06869 Coswig (Anhalt) die Ortsteile 06868 Serno und 06868 Stackelitz,NGP rule (NGP15091): partially 06868
+06869,Coswig (Anhalt),15091,2,*Nordd. Tiefld. von 06868-06869 Coswig (Anhalt) die Ortsteile 06868 Serno und 06868 Stackelitz,NGP rule (NGP15091): partially 06868
+06886,Wittenberg,15091,2,*Nordd. Tiefld. von 06868-06869 Coswig (Anhalt) die Ortsteile 06868 Serno und 06868 Stackelitz,NGP rule (NGP15091): partially 06868
+06888,Wittenberg,15091,2,*Nordd. Tiefld. von 06868-06869 Coswig (Anhalt) die Ortsteile 06868 Serno und 06868 Stackelitz,NGP rule (NGP15091): partially 06868
+06889,Wittenberg,15091,2,*Nordd. Tiefld. von 06868-06869 Coswig (Anhalt) die Ortsteile 06868 Serno und 06868 Stackelitz,NGP rule (NGP15091): partially 06868
+06895,Zahna-Elster,15091,2,*Nordd. Tiefld. von 06868-06869 Coswig (Anhalt) die Ortsteile 06868 Serno und 06868 Stackelitz,NGP rule (NGP15091): partially 06868
+06901,Kemberg,15091,2,*Nordd. Tiefld. von 06868-06869 Coswig (Anhalt) die Ortsteile 06868 Serno und 06868 Stackelitz,NGP rule (NGP15091): partially 06868
+06905,Bad Schmiedeberg,15091,2,*Nordd. Tiefld. von 06868-06869 Coswig (Anhalt) die Ortsteile 06868 Serno und 06868 Stackelitz,NGP rule (NGP15091): partially 06868
+06917,Jessen (Elster),15091,2,*Nordd. Tiefld. von 06868-06869 Coswig (Anhalt) die Ortsteile 06868 Serno und 06868 Stackelitz,NGP rule (NGP15091): partially 06868
+06925,Annaburg,15091,2,*Nordd. Tiefld. von 06868-06869 Coswig (Anhalt) die Ortsteile 06868 Serno und 06868 Stackelitz,NGP rule (NGP15091): partially 06868
 07318,Saalfeld/Saale,16073,3,,covered by DC rule!
 07330,Probstzella,16073,3,,covered by DC rule!
 07333,Unterwellenborn,16073,3,,covered by DC rule!
@@ -448,179 +448,179 @@ zipcode,city,dc,snowzone,note,comments
 07929,Saalburg-Ebersdorf,16075,3,,covered by DC rule!
 07937,"Zeulenroda-Triebes, Langenwolschendorf",16076,2,,
 07950,"Zeulenroda-Triebes, Weißendorf",16076,2,,
-07952,Pausa-Mühltroff,14523,,,
+07952,Pausa-Mühltroff,14523,3,,covered by DC rule
 07955,Auma-Weidatal,16076,2,,
 07957,Langenwetzendorf,16076,2,,
 07958,Hohenleuben,16076,2,,
 07973,Greiz,16076,2,,
 07980,Berga/Elster u.a.,16076,2,,
-07985,Elsterberg,14523,,,
+07985,Elsterberg,14523,3,,covered by DC rule
 07987,Mohlsdorf-Teichwolframsdorf,16076,2,,
-08056,Zwickau,14524,,,
-08058,Zwickau,14524,,,
-08060,Zwickau,14524,,,
-08062,Zwickau,14524,,,
-08064,Zwickau,14524,,,
-08066,Zwickau,14524,,,
-08107,Kirchberg,14524,3,,
-08112,Wilkau-Haßlau,14524,3,,
-08115,Lichtentanne,14524,,,
-08118,Hartenstein,14524,3,,
-08132,Mülsen,14524,,,
-08134,"Langenweißbach, Wildenfels",14524,3,,
-08141,Reinsdorf,14524,,,
-08144,Hirschfeld,14524,3,,
-08147,Crinitzberg,14524,3,,
-08209,Auerbach/Vogtl.,14523,3,,
-08223,Falkenstein/Vogtl.,14523,3,,
-08228,Rodewisch,14523,3,,
-08233,Treuen,14523,,,
-08236,Ellefeld,14523,3,,
-08237,Steinberg,14523,3,,
-08239,Bergen,14523,,,
-08248,Klingenthal/Sa.,14523,3,,
-08258,Markneukirchen,14523,3,,
-08261,Schöneck/Vogtl.,14523,3,,
-08262,Muldenhammer,14523,3,,
-08267,Klingenthal,14523,,,
-08280,Aue,14521,,,
-08289,Schneeberg,14521,,,
-08294,Lößnitz,14521,,,
-08297,Zwönitz,14521,,,
-08301,Schlema,14521,,,
-08304,Schönheide,14521,,,
-08309,Eibenstock,14521,,,
-08315,Lauter-Bernsbach,14521,,,
-08321,Zschorlau,14521,,,
-08324,Bockau,14521,,,
-08328,Stützengrün,14521,,,
-08340,Schwarzenberg/Erzgeb.,14521,,,
-08344,Grünhain-Beierfeld,14521,,,
-08349,Johanngeorgenstadt,14521,,,
-08352,Raschau,14521,,,
-08359,Breitenbrunn/Erzgeb.,14521,,,
-08371,Glauchau,14524,,,
-08373,Remse,14524,,,
-08393,Meerane,14524,,,
-08396,Waldenburg,14524,,,
-08412,Werdau,14524,,,
-08427,Fraureuth,14524,,,
-08428,Langenbernsdorf,14524,,,
-08451,Crimmitschau,14524,,,
-08459,Neukirchen/Pleiße,14524,,,
-08468,Reichenbach im Vogtand,14523,,,
-08485,Lengenfeld,14523,,,
-08491,"Netzschkau, Limbach",14523,,,
-08496,Neumark,14523,,,
-08499,Mylau,14523,,,
-08523,Plauen,14523,,,
-08525,Plauen,14523,,,
-08527,"Plauen, Rößnitz",14523,,,
-08529,Plauen,14523,,,
-08538,Weischlitz u.a.,14523,3,,
-08539,Rosenbach,14523,,,
-08541,Neuensalz,14523,,,
-08543,Pöhl,14523,,,
-08547,Jößnitz,14523,,,
-08548,Rosenbach,14523,,,
-08606,Oelsnitz,14523,3,,
-08626,Adorf,14523,3,,
-08645,Bad Elster,14523,,,
-08648,Bad Brambach,14523,,,
-09111,Chemnitz,14511,,,
-09112,Chemnitz,14511,,,
-09113,Chemnitz,14511,,,
-09114,Chemnitz,14511,,,
-09116,Chemnitz,14511,,,
-09117,Chemnitz,14511,,,
-09119,Chemnitz,14511,,,
-09120,Chemnitz,14511,,,
-09122,Chemnitz,14511,,,
-09123,Chemnitz,14511,,,
-09125,Chemnitz,14511,,,
-09126,Chemnitz,14511,,,
-09127,Chemnitz,14511,,,
-09128,Chemnitz,14511,,,
-09130,Chemnitz,14511,,,
-09131,Chemnitz,14511,,,
-09212,Limbach-Oberfrohna,14524,,,
-09217,Burgstädt,14522,,,
-09221,Neukirchen/Erzgeb.,14521,,,
-09224,Chemnitz,14511,,,
-09228,Chemnitz,14511,,,
-09232,Hartmannsdorf,14522,,,
-09235,Burkhardtsdorf,14521,,,
-09236,Claußnitz,14522,,,
-09241,Mühlau,14522,,,
-09243,Niederfrohna,14524,,,
-09244,Lichtenau,14522,,,
-09247,Röhrsdorf,14511,,,
-09249,Taura b. Burgstädt,14522,,,
-09306,Rochlitz,14522,,,
-09322,Penig,14522,,,
-09326,Geringswalde,14522,,,
-09328,Lunzenau,14522,,,
-09337,"Callenberg, Hohenstein-Ernstthal, Bernsdorf",14524,,,
-09350,Lichtenstein,14524,,,
-09353,Oberlungwitz,14524,,,
-09355,Gersdorf,14524,,,
-09356,St. Egidien,14524,,,
-09366,Stollberg/Erzgeb.,14521,,,
-09376,Oelsnitz/Erzgebirge,14521,,,
-09380,Thalheim/Erzgebirge,14521,,,
-09385,Lugau/Erzgeb.,14521,,,
-09387,Jahnsdorf,14521,,,
-09390,Gornsdorf,14521,,,
-09392,Auerbach,14521,,,
-09394,Hohndorf,14521,,,
-09399,Niederwürschnitz,14521,,,
-09405,"Zschopau, Gornau",14521,,,
-09419,Thum,14521,,,
-09423,Gelenau/Erzgeb.,14521,,,
-09427,Ehrenfriedersdorf,14521,,,
-09429,Wolkenstein,14521,,,
-09430,Drebach,14521,,,
-09432,Großolbersdorf,14521,,,
-09434,Zschopau,14521,,,
-09437,"Börnichen, Gornau",14521,,,
-09439,Amtsberg,14521,,,
-09456,"Annaberg-Buchholz, Mildenau",14521,,,
-09465,Sehma,14521,,,
-09468,Geyer,14521,,,
-09471,Bärenstein,14521,,,
-09474,Crottendorf,14521,,,
-09477,Jöhstadt,14521,,,
-09481,Scheibenberg,14521,,,
-09484,Oberwiesenthal,14521,,,
-09487,Schlettau,14521,,,
-09488,Wiesa,14521,,,
-09496,Marienberg,14521,,,
-09509,Pockau-Lengefeld (Pockau),14521,,,
-09514,Pockau-Lengefeld (Lengefeld),14521,,,
-09518,Großrückerswalde,14521,,,
-09526,"Olbernhau, Pfaffroda, Heidersdorf",14521,,,
-09544,Neuhausen/Erzgeb.,14522,3,,
-09548,Seiffen/Erzgeb.,14521,,,
-09557,Flöha,14522,3,,
-09569,Oederan,14522,3,,
-09573,"Leubsdorf, Gornau, Augustusburg",14522,3,,
-09575,Eppendorf,14522,3,,
-09577,Niederwiesa,14522,,,
-09579,Grünhainichen,14521,,,
-09599,Freiberg,14522,3,,
-09600,"Weißenborn, Oberschöna",14522,3,,
-09603,Großschirma,14522,3,,
-09618,"Brand-Erbisdorf, Großhartmannsdorf",14522,3,,
-09619,"Dorfchemnitz, Mulda, Sayda",14522,3,,
-09623,Frauenstein,14522,3,,
-09627,Bobritzsch,14522,3,,
-09629,Reinsberg,14522,,,
-09633,Halsbrücke,14522,3,,
-09634,Reinsberg,14522,,,
-09638,Lichtenberg/Erzgeb.,14522,3,,
-09648,"Mittweida, Kriebstein",14522,,,
-09661,"Hainichen, Rossau, Striegistal",14522,,,
-09669,Frankenberg,14522,,,
+08056,Zwickau,14524,3,,covered by DC rule
+08058,Zwickau,14524,3,,covered by DC rule
+08060,Zwickau,14524,3,,covered by DC rule
+08062,Zwickau,14524,3,,covered by DC rule
+08064,Zwickau,14524,3,,covered by DC rule
+08066,Zwickau,14524,3,,covered by DC rule
+08107,Kirchberg,14524,3,,covered by DC rule
+08112,Wilkau-Haßlau,14524,3,,covered by DC rule
+08115,Lichtentanne,14524,3,,covered by DC rule
+08118,Hartenstein,14524,3,,covered by DC rule
+08132,Mülsen,14524,3,,covered by DC rule
+08134,"Langenweißbach, Wildenfels",14524,3,,covered by DC rule
+08141,Reinsdorf,14524,3,,covered by DC rule
+08144,Hirschfeld,14524,3,,covered by DC rule
+08147,Crinitzberg,14524,3,,covered by DC rule
+08209,Auerbach/Vogtl.,14523,3,,covered by DC rule
+08223,Falkenstein/Vogtl.,14523,3,,covered by DC rule
+08228,Rodewisch,14523,3,,covered by DC rule
+08233,Treuen,14523,3,,covered by DC rule
+08236,Ellefeld,14523,3,,covered by DC rule
+08237,Steinberg,14523,3,,covered by DC rule
+08239,Bergen,14523,3,,covered by DC rule
+08248,Klingenthal/Sa.,14523,3,,covered by DC rule
+08258,Markneukirchen,14523,3,,covered by DC rule
+08261,Schöneck/Vogtl.,14523,3,,covered by DC rule
+08262,Muldenhammer,14523,3,,covered by DC rule
+08267,Klingenthal,14523,3,,covered by DC rule
+08280,Aue,14521,3,,
+08289,Schneeberg,14521,3,,
+08294,Lößnitz,14521,3,,
+08297,Zwönitz,14521,3,,
+08301,Schlema,14521,3,,
+08304,Schönheide,14521,3,,
+08309,Eibenstock,14521,3,,
+08315,Lauter-Bernsbach,14521,3,,
+08321,Zschorlau,14521,3,,
+08324,Bockau,14521,3,,
+08328,Stützengrün,14521,3,,
+08340,Schwarzenberg/Erzgeb.,14521,3,,
+08344,Grünhain-Beierfeld,14521,3,,
+08349,Johanngeorgenstadt,14521,3,,
+08352,Raschau,14521,3,,
+08359,Breitenbrunn/Erzgeb.,14521,3,,
+08371,Glauchau,14524,3,,covered by DC rule
+08373,Remse,14524,3,,covered by DC rule
+08393,Meerane,14524,3,,covered by DC rule
+08396,Waldenburg,14524,3,,covered by DC rule
+08412,Werdau,14524,3,,covered by DC rule
+08427,Fraureuth,14524,3,,covered by DC rule
+08428,Langenbernsdorf,14524,3,,covered by DC rule
+08451,Crimmitschau,14524,3,,covered by DC rule
+08459,Neukirchen/Pleiße,14524,3,,covered by DC rule
+08468,Reichenbach im Vogtand,14523,3,,covered by DC rule
+08485,Lengenfeld,14523,3,,covered by DC rule
+08491,"Netzschkau, Limbach",14523,3,,covered by DC rule
+08496,Neumark,14523,3,,covered by DC rule
+08499,Mylau,14523,3,,covered by DC rule
+08523,Plauen,14523,3,,covered by DC rule
+08525,Plauen,14523,3,,covered by DC rule
+08527,"Plauen, Rößnitz",14523,3,,covered by DC rule
+08529,Plauen,14523,3,,covered by DC rule
+08538,Weischlitz u.a.,14523,3,,covered by DC rule
+08539,Rosenbach,14523,3,,covered by DC rule
+08541,Neuensalz,14523,3,,covered by DC rule
+08543,Pöhl,14523,3,,covered by DC rule
+08547,Jößnitz,14523,3,,covered by DC rule
+08548,Rosenbach,14523,3,,covered by DC rule
+08606,Oelsnitz,14523,3,,covered by DC rule
+08626,Adorf,14523,3,,covered by DC rule
+08645,Bad Elster,14523,3,,covered by DC rule
+08648,Bad Brambach,14523,3,,covered by DC rule
+09111,Chemnitz,14511,3,,
+09112,Chemnitz,14511,3,,
+09113,Chemnitz,14511,3,,
+09114,Chemnitz,14511,3,,
+09116,Chemnitz,14511,3,,
+09117,Chemnitz,14511,3,,
+09119,Chemnitz,14511,3,,
+09120,Chemnitz,14511,3,,
+09122,Chemnitz,14511,3,,
+09123,Chemnitz,14511,3,,
+09125,Chemnitz,14511,3,,
+09126,Chemnitz,14511,3,,
+09127,Chemnitz,14511,3,,
+09128,Chemnitz,14511,3,,
+09130,Chemnitz,14511,3,,
+09131,Chemnitz,14511,3,,
+09212,Limbach-Oberfrohna,14524,3,,covered by DC rule
+09217,Burgstädt,14522,3,,covered by DC rule
+09221,Neukirchen/Erzgeb.,14521,3,,
+09224,Chemnitz,14511,3,,
+09228,Chemnitz,14511,3,,
+09232,Hartmannsdorf,14522,3,,covered by DC rule
+09235,Burkhardtsdorf,14521,3,,
+09236,Claußnitz,14522,3,,covered by DC rule
+09241,Mühlau,14522,3,,covered by DC rule
+09243,Niederfrohna,14524,3,,covered by DC rule
+09244,Lichtenau,14522,3,,covered by DC rule
+09247,Röhrsdorf,14511,3,,
+09249,Taura b. Burgstädt,14522,3,,covered by DC rule
+09306,Rochlitz,14522,3,,covered by DC rule
+09322,Penig,14522,3,,covered by DC rule
+09326,Geringswalde,14522,3,,covered by DC rule
+09328,Lunzenau,14522,3,,covered by DC rule
+09337,"Callenberg, Hohenstein-Ernstthal, Bernsdorf",14524,3,,covered by DC rule
+09350,Lichtenstein,14524,3,,covered by DC rule
+09353,Oberlungwitz,14524,3,,covered by DC rule
+09355,Gersdorf,14524,3,,covered by DC rule
+09356,St. Egidien,14524,3,,covered by DC rule
+09366,Stollberg/Erzgeb.,14521,3,,
+09376,Oelsnitz/Erzgebirge,14521,3,,
+09380,Thalheim/Erzgebirge,14521,3,,
+09385,Lugau/Erzgeb.,14521,3,,
+09387,Jahnsdorf,14521,3,,
+09390,Gornsdorf,14521,3,,
+09392,Auerbach,14521,3,,
+09394,Hohndorf,14521,3,,
+09399,Niederwürschnitz,14521,3,,
+09405,"Zschopau, Gornau",14521,3,,
+09419,Thum,14521,3,,
+09423,Gelenau/Erzgeb.,14521,3,,
+09427,Ehrenfriedersdorf,14521,3,,
+09429,Wolkenstein,14521,3,,
+09430,Drebach,14521,3,,
+09432,Großolbersdorf,14521,3,,
+09434,Zschopau,14521,3,,
+09437,"Börnichen, Gornau",14521,3,,
+09439,Amtsberg,14521,3,,
+09456,"Annaberg-Buchholz, Mildenau",14521,3,,
+09465,Sehma,14521,3,,
+09468,Geyer,14521,3,,
+09471,Bärenstein,14521,3,,
+09474,Crottendorf,14521,3,,
+09477,Jöhstadt,14521,3,,
+09481,Scheibenberg,14521,3,,
+09484,Oberwiesenthal,14521,3,,
+09487,Schlettau,14521,3,,
+09488,Wiesa,14521,3,,
+09496,Marienberg,14521,3,,
+09509,Pockau-Lengefeld (Pockau),14521,3,,
+09514,Pockau-Lengefeld (Lengefeld),14521,3,,
+09518,Großrückerswalde,14521,3,,
+09526,"Olbernhau, Pfaffroda, Heidersdorf",14521,3,,
+09544,Neuhausen/Erzgeb.,14522,3,,covered by DC rule
+09548,Seiffen/Erzgeb.,14521,3,,
+09557,Flöha,14522,3,,covered by DC rule
+09569,Oederan,14522,3,,covered by DC rule
+09573,"Leubsdorf, Gornau, Augustusburg",14522,3,,covered by DC rule
+09575,Eppendorf,14522,3,,covered by DC rule
+09577,Niederwiesa,14522,3,,covered by DC rule
+09579,Grünhainichen,14521,3,,
+09599,Freiberg,14522,3,,covered by DC rule
+09600,"Weißenborn, Oberschöna",14522,3,,covered by DC rule
+09603,Großschirma,14522,3,,covered by DC rule
+09618,"Brand-Erbisdorf, Großhartmannsdorf",14522,3,,covered by DC rule
+09619,"Dorfchemnitz, Mulda, Sayda",14522,3,,covered by DC rule
+09623,Frauenstein,14522,3,,covered by DC rule
+09627,Bobritzsch,14522,3,,covered by DC rule
+09629,Reinsberg,14522,3,,covered by DC rule
+09633,Halsbrücke,14522,3,,covered by DC rule
+09634,Reinsberg,14522,3,,covered by DC rule
+09638,Lichtenberg/Erzgeb.,14522,3,,covered by DC rule
+09648,"Mittweida, Kriebstein",14522,3,,covered by DC rule
+09661,"Hainichen, Rossau, Striegistal",14522,3,,covered by DC rule
+09669,Frankenberg,14522,3,,covered by DC rule
 10115,Berlin Mitte,11000,2,,
 10117,Berlin Mitte,11000,2,,
 10119,Berlin Mitte,11000,2,,
@@ -1131,7 +1131,7 @@ zipcode,city,dc,snowzone,note,comments
 19249,Lübtheen,13076,2,,
 19258,"Boizenburg, Gresse, Greven u.a.",13076,2,,
 19260,Vellahn,13076,2,,
-19273,"Amt Neuhaus, Stapel",03355,2,*Nord. Tiefld,
+19273,"Amt Neuhaus, Stapel",03355,2,*Nordd. Tiefl.,
 19288,Ludwigslust,13076,2,,
 19294,Neu Kaliß,13076,2,,
 19300,Grabow u.a.,13076,2,,
@@ -1153,323 +1153,323 @@ zipcode,city,dc,snowzone,note,comments
 19406,Sternberg,13076,2,,
 19412,Brüel,13076,2,,
 19417,Warin,13074,2,,
-20095,Hamburg,02000,2,*Nord. Tiefld,
-20097,Hamburg,02000,2,*Nord. Tiefld,
-20099,Hamburg,02000,2,*Nord. Tiefld,
-20144,Hamburg,02000,2,*Nord. Tiefld,
-20146,Hamburg,02000,2,*Nord. Tiefld,
-20148,Hamburg,02000,2,*Nord. Tiefld,
-20149,Hamburg,02000,2,*Nord. Tiefld,
-20249,Hamburg,02000,2,*Nord. Tiefld,
-20251,Hamburg,02000,2,*Nord. Tiefld,
-20253,Hamburg,02000,2,*Nord. Tiefld,
-20255,Hamburg,02000,2,*Nord. Tiefld,
-20257,Hamburg,02000,2,*Nord. Tiefld,
-20259,Hamburg,02000,2,*Nord. Tiefld,
-20354,Hamburg,02000,2,*Nord. Tiefld,
-20355,Hamburg,02000,2,*Nord. Tiefld,
-20357,Hamburg,02000,2,*Nord. Tiefld,
-20359,Hamburg,02000,2,*Nord. Tiefld,
-20457,Hamburg,02000,2,*Nord. Tiefld,
-20459,Hamburg,02000,2,*Nord. Tiefld,
-20535,Hamburg,02000,2,*Nord. Tiefld,
-20537,Hamburg,02000,2,*Nord. Tiefld,
-20539,Hamburg,02000,2,*Nord. Tiefld,
-21029,Hamburg,02000,2,*Nord. Tiefld,
-21031,Hamburg,02000,2,*Nord. Tiefld,
-21033,Hamburg,02000,2,*Nord. Tiefld,
-21035,Hamburg,02000,2,*Nord. Tiefld,
-21037,Hamburg,02000,2,*Nord. Tiefld,
-21039,Hamburg,01053,2,*Nord. Tiefld,
-21073,Hamburg,02000,2,*Nord. Tiefld,
-21075,Hamburg,02000,2,*Nord. Tiefld,
-21077,Hamburg,02000,2,*Nord. Tiefld,
-21079,Hamburg,02000,2,*Nord. Tiefld,
-21107,Hamburg,02000,2,*Nord. Tiefld,
-21109,Hamburg,02000,2,*Nord. Tiefld,
-21129,Hamburg,02000,2,*Nord. Tiefld,
-21147,Hamburg,02000,2,*Nord. Tiefld,
-21149,Hamburg,02000,2,*Nord. Tiefld,
-21217,Seevetal,03353,2,*Nord. Tiefld,
-21218,Seevetal,03353,2,*Nord. Tiefld,
-21220,Seevetal,03353,2,*Nord. Tiefld,
-21224,Rosengarten,03353,2,*Nord. Tiefld,
-21227,Bendestorf,03353,2,*Nord. Tiefld,
-21228,Harmstorf,03353,2,*Nord. Tiefld,
-21244,Buchholz in der Nordheide,03353,2,*Nord. Tiefld,
-21255,"Tostedt, Kakenstorf u.a.",03353,2,*Nord. Tiefld,
-21256,Handeloh,03353,2,*Nord. Tiefld,
-21258,Heidenau,03353,2,*Nord. Tiefld,
-21259,Otter,03353,2,*Nord. Tiefld,
-21261,Welle,03353,2,*Nord. Tiefld,
-21266,Jesteburg,03353,2,*Nord. Tiefld,
-21271,"Hanstedt, Asendorf",03353,2,*Nord. Tiefld,
-21272,Egestorf,03353,2,*Nord. Tiefld,
-21274,Undeloh,03353,2,*Nord. Tiefld,
-21279,"Hollenstedt, Drestedt u.a.",03353,2,*Nord. Tiefld,
-21335,Lüneburg,03355,2,*Nord. Tiefld,
-21337,Lüneburg,03355,2,*Nord. Tiefld,
-21339,Lüneburg,03355,2,*Nord. Tiefld,
-21354,Bleckede,03355,2,*Nord. Tiefld,
-21357,"Bardowick, Wittorf, Barum",03355,2,*Nord. Tiefld,
-21358,Mechtersen,03355,2,*Nord. Tiefld,
-21360,Vögelsen,03355,2,*Nord. Tiefld,
-21365,Adendorf,03355,2,*Nord. Tiefld,
-21368,Dahlenburg,03355,2,*Nord. Tiefld,
-21369,Nahrendorf,03355,2,*Nord. Tiefld,
-21371,Tosterglope,03355,2,*Nord. Tiefld,
-21376,Salzhausen,03353,2,*Nord. Tiefld,
-21379,"Scharnebeck, Echem, Lüdersburg, Rullstorf",03355,2,*Nord. Tiefld,
-21380,Artlenburg,03355,2,*Nord. Tiefld,
-21382,Brietlingen,03355,2,*Nord. Tiefld,
-21385,"Oldendorf (Luhe), Amelinghausen, Rehlingen",03355,2,*Nord. Tiefld,
-21386,Betzendorf,03355,2,*Nord. Tiefld,
-21388,Soderstorf,03355,2,*Nord. Tiefld,
-21391,"Reppenstedt, Lüneburg",03355,2,*Nord. Tiefld,
-21394,"Kirchgellersen, Westergellersen, Südergellersen",03355,2,*Nord. Tiefld,
-21395,Tespe,03353,2,*Nord. Tiefld,
-21397,"Barendorf, Vastorf",03355,2,*Nord. Tiefld,
-21398,Neetze,03355,2,*Nord. Tiefld,
-21400,Reinstorf,03355,2,*Nord. Tiefld,
-21401,Thomasburg,03355,2,*Nord. Tiefld,
-21403,Wendisch Evern,03355,2,*Nord. Tiefld,
-21406,"Melbeck, Barnstedt",03355,2,*Nord. Tiefld,
-21407,Deutsch Evern,03355,2,*Nord. Tiefld,
-21409,Embsen,03355,2,*Nord. Tiefld,
-21423,Winsen,03353,2,*Nord. Tiefld,
-21435,Stelle,03353,2,*Nord. Tiefld,
-21436,Marschacht,03353,2,*Nord. Tiefld,
-21438,Brackel,03353,2,*Nord. Tiefld,
-21439,Marxen,03353,2,*Nord. Tiefld,
-21441,Garstedt,03353,2,*Nord. Tiefld,
-21442,Toppenstedt,03353,2,*Nord. Tiefld,
-21444,Vierhöfen,03353,2,*Nord. Tiefld,
-21445,Wulfsen,03353,2,*Nord. Tiefld,
-21447,Handorf,03355,2,*Nord. Tiefld,
-21449,Radbruch,03355,2,*Nord. Tiefld,
-21465,Reinbek,01062,2,*Nord. Tiefld,
-21481,Lauenburg/Elbe,01053,2,*Nord. Tiefld,
-21483,Gülzow,01053,2,*Nord. Tiefld,
-21493,Schwarzenbek u.a.,01053,2,*Nord. Tiefld,
-21502,Geesthacht,01053,2,*Nord. Tiefld,
-21509,Glinde,01062,2,*Nord. Tiefld,
-21514,Bröthen,01053,2,*Nord. Tiefld,
-21516,"Woltersdorf, Müssen u.a.",01053,2,*Nord. Tiefld,
-21521,Aumühle,01053,2,*Nord. Tiefld,
-21522,"Hohnstorf (Elbe), Hittbergen",03355,2,*Nord. Tiefld,
-21524,Brunstorf,01053,2,*Nord. Tiefld,
-21526,Hohenhorn,01053,2,*Nord. Tiefld,
-21527,Kollow,01053,2,*Nord. Tiefld,
-21529,Kröppelshagen-Fahrendorf,01053,2,*Nord. Tiefld,
-21614,Buxtehude,03359,2,*Nord. Tiefld,
-21629,Neu Wulmstorf,03353,2,*Nord. Tiefld,
-21635,Jork,03359,2,*Nord. Tiefld,
-21640,Horneburg,03359,2,*Nord. Tiefld,
-21641,Apensen,03359,2,*Nord. Tiefld,
-21643,Beckdorf,03359,2,*Nord. Tiefld,
-21644,Sauensiek,03359,2,*Nord. Tiefld,
-21646,Halvesbostel,03353,2,*Nord. Tiefld,
-21647,Moisburg,03353,2,*Nord. Tiefld,
-21649,Regesbostel,03353,2,*Nord. Tiefld,
-21680,Stade,03359,2,*Nord. Tiefld,
-21682,Stade,03359,2,*Nord. Tiefld,
-21683,Stade,03359,2,*Nord. Tiefld,
-21684,Stade,03359,2,*Nord. Tiefld,
-21698,Harsefeld,03359,2,*Nord. Tiefld,
-21702,Ahlerstedt,03359,2,*Nord. Tiefld,
-21706,Drochtersen,03359,2,*Nord. Tiefld,
-21709,Himmelpforten,03359,2,*Nord. Tiefld,
-21710,Engelschoff,03359,2,*Nord. Tiefld,
-21712,Großenwörden,03359,2,*Nord. Tiefld,
-21714,Hammah,03359,2,*Nord. Tiefld,
-21717,Fredenbeck,03359,2,*Nord. Tiefld,
-21720,Grünendeich,03359,2,*Nord. Tiefld,
-21723,Hollern-Twielenfleth,03359,2,*Nord. Tiefld,
-21726,Oldendorf,03359,2,*Nord. Tiefld,
-21727,Estorf,03359,2,*Nord. Tiefld,
-21729,Freiburg (Elbe),03359,2,*Nord. Tiefld,
-21730,Balje,03359,2,*Nord. Tiefld,
-21732,Krummendeich,03359,2,*Nord. Tiefld,
-21734,Oederquart,03359,2,*Nord. Tiefld,
-21737,Wischhafen,03359,2,*Nord. Tiefld,
-21739,Dollern,03359,2,*Nord. Tiefld,
-21745,Hemmoor,03352,2,*Nord. Tiefld,
-21755,Hechthausen,03352,2,*Nord. Tiefld,
-21756,Osten,03352,2,*Nord. Tiefld,
-21762,Otterndorf,03352,2,*Nord. Tiefld,
-21763,Neuenkirchen,03352,2,*Nord. Tiefld,
-21765,Nordleda,03352,2,*Nord. Tiefld,
-21769,Lamstedt,03352,2,*Nord. Tiefld,
-21770,Mittelstenahe,03352,2,*Nord. Tiefld,
-21772,Stinstedt,03352,2,*Nord. Tiefld,
-21775,Ihlienworth,03352,2,*Nord. Tiefld,
-21776,Wanna,03352,2,*Nord. Tiefld,
-21781,Cadenberge,03352,2,*Nord. Tiefld,
-21782,Bülkau,03352,2,*Nord. Tiefld,
-21785,Neuhaus (Oste),03352,2,*Nord. Tiefld,
-21787,Oberndorf,03352,2,*Nord. Tiefld,
-21789,Wingst,03352,2,*Nord. Tiefld,
-22041,Hamburg,02000,2,*Nord. Tiefld,
-22043,Hamburg,02000,2,*Nord. Tiefld,
-22045,Hamburg,02000,2,*Nord. Tiefld,
-22047,Hamburg,02000,2,*Nord. Tiefld,
-22049,Hamburg,02000,2,*Nord. Tiefld,
-22081,Hamburg,02000,2,*Nord. Tiefld,
-22083,Hamburg,02000,2,*Nord. Tiefld,
-22085,Hamburg,02000,2,*Nord. Tiefld,
-22087,Hamburg,02000,2,*Nord. Tiefld,
-22089,Hamburg,02000,2,*Nord. Tiefld,
-22111,Hamburg,02000,2,*Nord. Tiefld,
-22113,"Hamburg, Oststeinbek",01062,2,*Nord. Tiefld,
-22115,Hamburg,02000,2,*Nord. Tiefld,
-22117,Hamburg,02000,2,*Nord. Tiefld,
-22119,Hamburg,02000,2,*Nord. Tiefld,
-22143,Hamburg,02000,2,*Nord. Tiefld,
-22145,Hamburg,01062,2,*Nord. Tiefld,
-22147,Hamburg,02000,2,*Nord. Tiefld,
-22149,Hamburg,02000,2,*Nord. Tiefld,
-22159,Hamburg,02000,2,*Nord. Tiefld,
-22175,Hamburg,02000,2,*Nord. Tiefld,
-22177,Hamburg,02000,2,*Nord. Tiefld,
-22179,Hamburg,02000,2,*Nord. Tiefld,
-22297,Hamburg,02000,2,*Nord. Tiefld,
-22299,Hamburg,02000,2,*Nord. Tiefld,
-22301,Hamburg,02000,2,*Nord. Tiefld,
-22303,Hamburg,02000,2,*Nord. Tiefld,
-22305,Hamburg,02000,2,*Nord. Tiefld,
-22307,Hamburg,02000,2,*Nord. Tiefld,
-22309,Hamburg,02000,2,*Nord. Tiefld,
-22335,Hamburg,02000,2,*Nord. Tiefld,
-22337,Hamburg,02000,2,*Nord. Tiefld,
-22339,Hamburg,02000,2,*Nord. Tiefld,
-22359,Hamburg,02000,2,*Nord. Tiefld,
-22391,Hamburg,02000,2,*Nord. Tiefld,
-22393,Hamburg,02000,2,*Nord. Tiefld,
-22395,Hamburg,02000,2,*Nord. Tiefld,
-22397,Hamburg,02000,2,*Nord. Tiefld,
-22399,Hamburg,02000,2,*Nord. Tiefld,
-22415,Hamburg,02000,2,*Nord. Tiefld,
-22417,Hamburg,02000,2,*Nord. Tiefld,
-22419,Hamburg,02000,2,*Nord. Tiefld,
-22453,Hamburg,02000,2,*Nord. Tiefld,
-22455,Hamburg,02000,2,*Nord. Tiefld,
-22457,Hamburg,02000,2,*Nord. Tiefld,
-22459,Hamburg,02000,2,*Nord. Tiefld,
-22523,Hamburg,02000,2,*Nord. Tiefld,
-22525,Hamburg,02000,2,*Nord. Tiefld,
-22527,Hamburg,02000,2,*Nord. Tiefld,
-22529,Hamburg,02000,2,*Nord. Tiefld,
-22547,Hamburg,02000,2,*Nord. Tiefld,
-22549,Hamburg,02000,2,*Nord. Tiefld,
-22559,Hamburg,02000,2,*Nord. Tiefld,
-22587,Hamburg,02000,2,*Nord. Tiefld,
-22589,Hamburg,02000,2,*Nord. Tiefld,
-22605,Hamburg,02000,2,*Nord. Tiefld,
-22607,Hamburg,02000,2,*Nord. Tiefld,
-22609,Hamburg,02000,2,*Nord. Tiefld,
-22761,Hamburg,02000,2,*Nord. Tiefld,
-22763,Hamburg,02000,2,*Nord. Tiefld,
-22765,Hamburg,02000,2,*Nord. Tiefld,
-22767,Hamburg,02000,2,*Nord. Tiefld,
-22769,Hamburg,02000,2,*Nord. Tiefld,
-22844,Norderstedt,01060,2,*Nord. Tiefld,
-22846,Norderstedt,01060,2,*Nord. Tiefld,
-22848,Norderstedt,01060,2,*Nord. Tiefld,
-22850,Norderstedt,01060,2,*Nord. Tiefld,
-22851,Norderstedt,01060,2,*Nord. Tiefld,
-22869,Schenefeld,01056,2,*Nord. Tiefld,DC rule (DC 01056): ZIP code 27498 is zone 1
-22880,Wedel,01056,2,*Nord. Tiefld,DC rule (DC 01056): ZIP code 27498 is zone 1
-22885,Barsbüttel,01062,2,*Nord. Tiefld,
-22889,Tangstedt,01062,2,*Nord. Tiefld,
-22926,Ahrensburg,01062,2,*Nord. Tiefld,
-22927,Großhansdorf,01062,2,*Nord. Tiefld,
-22929,"Hamfelde, Kasseburg, Köthel, Rausdorf, Schönberg",01053,2,*Nord. Tiefld,
-22941,"Bargteheide, Delingsdorf u.a.",01062,2,*Nord. Tiefld,
-22946,Trittau,01053,2,*Nord. Tiefld,
-22949,Ammersbek,01062,2,*Nord. Tiefld,
-22952,Lütjensee,01062,2,*Nord. Tiefld,
-22955,Hoisdorf,01062,2,*Nord. Tiefld,
-22956,Grönwohld,01062,2,*Nord. Tiefld,
-22958,Kuddewörde,01053,2,*Nord. Tiefld,
-22959,Linau,01053,2,*Nord. Tiefld,
-22961,Hoisdorf,01062,2,*Nord. Tiefld,
-22962,Siek,01062,2,*Nord. Tiefld,
-22964,Steinburg,01062,2,*Nord. Tiefld,
-22965,Todendorf,01062,2,*Nord. Tiefld,
-22967,Tremsbüttel,01062,2,*Nord. Tiefld,
-22969,Witzhave,01062,2,*Nord. Tiefld,
-23552,Lübeck,01003,2,*Nord. Tiefld,
-23554,Lübeck St. Lorenz Nord,01003,2,*Nord. Tiefld,
-23556,Lübeck,01003,2,*Nord. Tiefld,
-23558,Lübeck,01003,2,*Nord. Tiefld,
-23560,Lübeck,01003,2,*Nord. Tiefld,
-23562,Lübeck,01003,2,*Nord. Tiefld,
-23564,Lübeck,01003,2,*Nord. Tiefld,
-23566,Lübeck,01003,2,*Nord. Tiefld,
-23568,Lübeck Schlutup/St. Gertrud,01003,2,*Nord. Tiefld,
-23569,Lübeck,01003,2,*Nord. Tiefld,
-23570,Lübeck,01003,2,*Nord. Tiefld,
-23611,Bad Schwartau,01055,2,*Nord. Tiefld,
-23617,Stockelsdorf,01055,2,*Nord. Tiefld,
-23619,Zarpen,01062,2,*Nord. Tiefld,
-23623,Ahrensbök,01055,2,*Nord. Tiefld,
-23626,Ratekau,01055,2,*Nord. Tiefld,
-23627,Groß Grönau,01053,2,*Nord. Tiefld,
-23628,"Krummesse, Klempau",01053,2,*Nord. Tiefld,
-23629,Sarkwitz,01055,2,*Nord. Tiefld,
-23669,Timmendorfer Strand,01055,2,*Nord. Tiefld,
-23683,Scharbeutz,01055,2,*Nord. Tiefld,
-23684,"Scharbeutz, Süsel",01055,2,*Nord. Tiefld,
-23689,Pansdorf,01055,2,*Nord. Tiefld,
-23701,"Eutin, Süsel",01055,2,*Nord. Tiefld,
-23714,"Malente, Kirchnüchel",01055,2,*Nord. Tiefld,
-23715,Bosau,01055,2,*Nord. Tiefld,
-23717,Kasseedorf,01055,2,*Nord. Tiefld,
-23719,Glasau,01060,2,*Nord. Tiefld,
-23730,Neustadt,01055,2,*Nord. Tiefld,
-23738,Lensahn,01055,2,*Nord. Tiefld,
-23743,Grömitz,01055,2,*Nord. Tiefld,
-23744,Schönwalde am Bungsberg,01055,2,*Nord. Tiefld,
-23746,Kellenhusen,01055,2,*Nord. Tiefld,
-23747,Dahme,01055,2,*Nord. Tiefld,
-23749,Grube,01055,2,*Nord. Tiefld,
-23758,Oldenburg in Holstein,01055,2,*Nord. Tiefld,
-23769,Fehmarn,01055,2,*Nord. Tiefld,
-23774,Heiligenhafen,01055,2,*Nord. Tiefld,
-23775,Großenbrode,01055,2,*Nord. Tiefld,
-23777,Heringsdorf,01055,2,*Nord. Tiefld,
-23779,Neukirchen,01055,2,*Nord. Tiefld,
-23795,Bad Segeberg,01060,2,*Nord. Tiefld,
-23812,Wahlstedt,01060,2,*Nord. Tiefld,
-23813,Nehms,01060,2,*Nord. Tiefld,
-23815,Geschendorf,01060,2,*Nord. Tiefld,
-23816,Leezen,01060,2,*Nord. Tiefld,
-23818,Neuengörs,01060,2,*Nord. Tiefld,
-23820,Pronstorf,01060,2,*Nord. Tiefld,
-23821,Rohlstorf,01060,2,*Nord. Tiefld,
-23823,Seedorf,01060,2,*Nord. Tiefld,
-23824,Tensfeld,01060,2,*Nord. Tiefld,
-23826,Bark,01060,2,*Nord. Tiefld,
-23827,Wensin,01060,2,*Nord. Tiefld,
-23829,Wittenborn,01060,2,*Nord. Tiefld,
-23843,Bad Oldesloe,01062,2,*Nord. Tiefld,
-23845,Seth,01060,2,*Nord. Tiefld,
-23847,Lasbek,01053,2,*Nord. Tiefld,
-23858,Reinfeld (Holstein),01062,2,*Nord. Tiefld,
-23860,Klein Wesenberg,01062,2,*Nord. Tiefld,
-23863,Bargfeld-Stegen,01062,2,*Nord. Tiefld,
-23866,Nahe,01060,2,*Nord. Tiefld,
-23867,Sülfeld,01060,2,*Nord. Tiefld,
-23869,Elmenhorst,01062,2,*Nord. Tiefld,
-23879,Mölln,01053,2,*Nord. Tiefld,
-23881,"Breitenfelde, Lankau",01053,2,*Nord. Tiefld,
-23883,Sterley,01053,2,*Nord. Tiefld,
-23896,Nusse,01053,2,*Nord. Tiefld,
-23898,Sandesneben u.a.,01053,2,*Nord. Tiefld,
-23899,Gudow,01053,2,*Nord. Tiefld,
-23909,Ratzeburg,01053,2,*Nord. Tiefld,
-23911,Ziethen,01053,2,*Nord. Tiefld,
-23919,Berkenthin,01053,2,*Nord. Tiefld,
+20095,Hamburg,02000,2,*Nordd. Tiefl.,
+20097,Hamburg,02000,2,*Nordd. Tiefl.,
+20099,Hamburg,02000,2,*Nordd. Tiefl.,
+20144,Hamburg,02000,2,*Nordd. Tiefl.,
+20146,Hamburg,02000,2,*Nordd. Tiefl.,
+20148,Hamburg,02000,2,*Nordd. Tiefl.,
+20149,Hamburg,02000,2,*Nordd. Tiefl.,
+20249,Hamburg,02000,2,*Nordd. Tiefl.,
+20251,Hamburg,02000,2,*Nordd. Tiefl.,
+20253,Hamburg,02000,2,*Nordd. Tiefl.,
+20255,Hamburg,02000,2,*Nordd. Tiefl.,
+20257,Hamburg,02000,2,*Nordd. Tiefl.,
+20259,Hamburg,02000,2,*Nordd. Tiefl.,
+20354,Hamburg,02000,2,*Nordd. Tiefl.,
+20355,Hamburg,02000,2,*Nordd. Tiefl.,
+20357,Hamburg,02000,2,*Nordd. Tiefl.,
+20359,Hamburg,02000,2,*Nordd. Tiefl.,
+20457,Hamburg,02000,2,*Nordd. Tiefl.,
+20459,Hamburg,02000,2,*Nordd. Tiefl.,
+20535,Hamburg,02000,2,*Nordd. Tiefl.,
+20537,Hamburg,02000,2,*Nordd. Tiefl.,
+20539,Hamburg,02000,2,*Nordd. Tiefl.,
+21029,Hamburg,02000,2,*Nordd. Tiefl.,
+21031,Hamburg,02000,2,*Nordd. Tiefl.,
+21033,Hamburg,02000,2,*Nordd. Tiefl.,
+21035,Hamburg,02000,2,*Nordd. Tiefl.,
+21037,Hamburg,02000,2,*Nordd. Tiefl.,
+21039,Hamburg,01053,2,*Nordd. Tiefl.,
+21073,Hamburg,02000,2,*Nordd. Tiefl.,
+21075,Hamburg,02000,2,*Nordd. Tiefl.,
+21077,Hamburg,02000,2,*Nordd. Tiefl.,
+21079,Hamburg,02000,2,*Nordd. Tiefl.,
+21107,Hamburg,02000,2,*Nordd. Tiefl.,
+21109,Hamburg,02000,2,*Nordd. Tiefl.,
+21129,Hamburg,02000,2,*Nordd. Tiefl.,
+21147,Hamburg,02000,2,*Nordd. Tiefl.,
+21149,Hamburg,02000,2,*Nordd. Tiefl.,
+21217,Seevetal,03353,2,*Nordd. Tiefl.,
+21218,Seevetal,03353,2,*Nordd. Tiefl.,
+21220,Seevetal,03353,2,*Nordd. Tiefl.,
+21224,Rosengarten,03353,2,*Nordd. Tiefl.,
+21227,Bendestorf,03353,2,*Nordd. Tiefl.,
+21228,Harmstorf,03353,2,*Nordd. Tiefl.,
+21244,Buchholz in der Nordheide,03353,2,*Nordd. Tiefl.,
+21255,"Tostedt, Kakenstorf u.a.",03353,2,*Nordd. Tiefl.,
+21256,Handeloh,03353,2,*Nordd. Tiefl.,
+21258,Heidenau,03353,2,*Nordd. Tiefl.,
+21259,Otter,03353,2,*Nordd. Tiefl.,
+21261,Welle,03353,2,*Nordd. Tiefl.,
+21266,Jesteburg,03353,2,*Nordd. Tiefl.,
+21271,"Hanstedt, Asendorf",03353,2,*Nordd. Tiefl.,
+21272,Egestorf,03353,2,*Nordd. Tiefl.,
+21274,Undeloh,03353,2,*Nordd. Tiefl.,
+21279,"Hollenstedt, Drestedt u.a.",03353,2,*Nordd. Tiefl.,
+21335,Lüneburg,03355,2,*Nordd. Tiefl.,
+21337,Lüneburg,03355,2,*Nordd. Tiefl.,
+21339,Lüneburg,03355,2,*Nordd. Tiefl.,
+21354,Bleckede,03355,2,*Nordd. Tiefl.,
+21357,"Bardowick, Wittorf, Barum",03355,2,*Nordd. Tiefl.,
+21358,Mechtersen,03355,2,*Nordd. Tiefl.,
+21360,Vögelsen,03355,2,*Nordd. Tiefl.,
+21365,Adendorf,03355,2,*Nordd. Tiefl.,
+21368,Dahlenburg,03355,2,*Nordd. Tiefl.,
+21369,Nahrendorf,03355,2,*Nordd. Tiefl.,
+21371,Tosterglope,03355,2,*Nordd. Tiefl.,
+21376,Salzhausen,03353,2,*Nordd. Tiefl.,
+21379,"Scharnebeck, Echem, Lüdersburg, Rullstorf",03355,2,*Nordd. Tiefl.,
+21380,Artlenburg,03355,2,*Nordd. Tiefl.,
+21382,Brietlingen,03355,2,*Nordd. Tiefl.,
+21385,"Oldendorf (Luhe), Amelinghausen, Rehlingen",03355,2,*Nordd. Tiefl.,
+21386,Betzendorf,03355,2,*Nordd. Tiefl.,
+21388,Soderstorf,03355,2,*Nordd. Tiefl.,
+21391,"Reppenstedt, Lüneburg",03355,2,*Nordd. Tiefl.,
+21394,"Kirchgellersen, Westergellersen, Südergellersen",03355,2,*Nordd. Tiefl.,
+21395,Tespe,03353,2,*Nordd. Tiefl.,
+21397,"Barendorf, Vastorf",03355,2,*Nordd. Tiefl.,
+21398,Neetze,03355,2,*Nordd. Tiefl.,
+21400,Reinstorf,03355,2,*Nordd. Tiefl.,
+21401,Thomasburg,03355,2,*Nordd. Tiefl.,
+21403,Wendisch Evern,03355,2,*Nordd. Tiefl.,
+21406,"Melbeck, Barnstedt",03355,2,*Nordd. Tiefl.,
+21407,Deutsch Evern,03355,2,*Nordd. Tiefl.,
+21409,Embsen,03355,2,*Nordd. Tiefl.,
+21423,Winsen,03353,2,*Nordd. Tiefl.,
+21435,Stelle,03353,2,*Nordd. Tiefl.,
+21436,Marschacht,03353,2,*Nordd. Tiefl.,
+21438,Brackel,03353,2,*Nordd. Tiefl.,
+21439,Marxen,03353,2,*Nordd. Tiefl.,
+21441,Garstedt,03353,2,*Nordd. Tiefl.,
+21442,Toppenstedt,03353,2,*Nordd. Tiefl.,
+21444,Vierhöfen,03353,2,*Nordd. Tiefl.,
+21445,Wulfsen,03353,2,*Nordd. Tiefl.,
+21447,Handorf,03355,2,*Nordd. Tiefl.,
+21449,Radbruch,03355,2,*Nordd. Tiefl.,
+21465,Reinbek,01062,2,*Nordd. Tiefl.,
+21481,Lauenburg/Elbe,01053,2,*Nordd. Tiefl.,
+21483,Gülzow,01053,2,*Nordd. Tiefl.,
+21493,Schwarzenbek u.a.,01053,2,*Nordd. Tiefl.,
+21502,Geesthacht,01053,2,*Nordd. Tiefl.,
+21509,Glinde,01062,2,*Nordd. Tiefl.,
+21514,Bröthen,01053,2,*Nordd. Tiefl.,
+21516,"Woltersdorf, Müssen u.a.",01053,2,*Nordd. Tiefl.,
+21521,Aumühle,01053,2,*Nordd. Tiefl.,
+21522,"Hohnstorf (Elbe), Hittbergen",03355,2,*Nordd. Tiefl.,
+21524,Brunstorf,01053,2,*Nordd. Tiefl.,
+21526,Hohenhorn,01053,2,*Nordd. Tiefl.,
+21527,Kollow,01053,2,*Nordd. Tiefl.,
+21529,Kröppelshagen-Fahrendorf,01053,2,*Nordd. Tiefl.,
+21614,Buxtehude,03359,2,*Nordd. Tiefl.,
+21629,Neu Wulmstorf,03353,2,*Nordd. Tiefl.,
+21635,Jork,03359,2,*Nordd. Tiefl.,
+21640,Horneburg,03359,2,*Nordd. Tiefl.,
+21641,Apensen,03359,2,*Nordd. Tiefl.,
+21643,Beckdorf,03359,2,*Nordd. Tiefl.,
+21644,Sauensiek,03359,2,*Nordd. Tiefl.,
+21646,Halvesbostel,03353,2,*Nordd. Tiefl.,
+21647,Moisburg,03353,2,*Nordd. Tiefl.,
+21649,Regesbostel,03353,2,*Nordd. Tiefl.,
+21680,Stade,03359,2,*Nordd. Tiefl.,
+21682,Stade,03359,2,*Nordd. Tiefl.,
+21683,Stade,03359,2,*Nordd. Tiefl.,
+21684,Stade,03359,2,*Nordd. Tiefl.,
+21698,Harsefeld,03359,2,*Nordd. Tiefl.,
+21702,Ahlerstedt,03359,2,*Nordd. Tiefl.,
+21706,Drochtersen,03359,2,*Nordd. Tiefl.,
+21709,Himmelpforten,03359,2,*Nordd. Tiefl.,
+21710,Engelschoff,03359,2,*Nordd. Tiefl.,
+21712,Großenwörden,03359,2,*Nordd. Tiefl.,
+21714,Hammah,03359,2,*Nordd. Tiefl.,
+21717,Fredenbeck,03359,2,*Nordd. Tiefl.,
+21720,Grünendeich,03359,2,*Nordd. Tiefl.,
+21723,Hollern-Twielenfleth,03359,2,*Nordd. Tiefl.,
+21726,Oldendorf,03359,2,*Nordd. Tiefl.,
+21727,Estorf,03359,2,*Nordd. Tiefl.,
+21729,Freiburg (Elbe),03359,2,*Nordd. Tiefl.,
+21730,Balje,03359,2,*Nordd. Tiefl.,
+21732,Krummendeich,03359,2,*Nordd. Tiefl.,
+21734,Oederquart,03359,2,*Nordd. Tiefl.,
+21737,Wischhafen,03359,2,*Nordd. Tiefl.,
+21739,Dollern,03359,2,*Nordd. Tiefl.,
+21745,Hemmoor,03352,2,*Nordd. Tiefl.,
+21755,Hechthausen,03352,2,*Nordd. Tiefl.,
+21756,Osten,03352,2,*Nordd. Tiefl.,
+21762,Otterndorf,03352,2,*Nordd. Tiefl.,
+21763,Neuenkirchen,03352,2,*Nordd. Tiefl.,
+21765,Nordleda,03352,2,*Nordd. Tiefl.,
+21769,Lamstedt,03352,2,*Nordd. Tiefl.,
+21770,Mittelstenahe,03352,2,*Nordd. Tiefl.,
+21772,Stinstedt,03352,2,*Nordd. Tiefl.,
+21775,Ihlienworth,03352,2,*Nordd. Tiefl.,
+21776,Wanna,03352,2,*Nordd. Tiefl.,
+21781,Cadenberge,03352,2,*Nordd. Tiefl.,
+21782,Bülkau,03352,2,*Nordd. Tiefl.,
+21785,Neuhaus (Oste),03352,2,*Nordd. Tiefl.,
+21787,Oberndorf,03352,2,*Nordd. Tiefl.,
+21789,Wingst,03352,2,*Nordd. Tiefl.,
+22041,Hamburg,02000,2,*Nordd. Tiefl.,
+22043,Hamburg,02000,2,*Nordd. Tiefl.,
+22045,Hamburg,02000,2,*Nordd. Tiefl.,
+22047,Hamburg,02000,2,*Nordd. Tiefl.,
+22049,Hamburg,02000,2,*Nordd. Tiefl.,
+22081,Hamburg,02000,2,*Nordd. Tiefl.,
+22083,Hamburg,02000,2,*Nordd. Tiefl.,
+22085,Hamburg,02000,2,*Nordd. Tiefl.,
+22087,Hamburg,02000,2,*Nordd. Tiefl.,
+22089,Hamburg,02000,2,*Nordd. Tiefl.,
+22111,Hamburg,02000,2,*Nordd. Tiefl.,
+22113,"Hamburg, Oststeinbek",01062,2,*Nordd. Tiefl.,
+22115,Hamburg,02000,2,*Nordd. Tiefl.,
+22117,Hamburg,02000,2,*Nordd. Tiefl.,
+22119,Hamburg,02000,2,*Nordd. Tiefl.,
+22143,Hamburg,02000,2,*Nordd. Tiefl.,
+22145,Hamburg,01062,2,*Nordd. Tiefl.,
+22147,Hamburg,02000,2,*Nordd. Tiefl.,
+22149,Hamburg,02000,2,*Nordd. Tiefl.,
+22159,Hamburg,02000,2,*Nordd. Tiefl.,
+22175,Hamburg,02000,2,*Nordd. Tiefl.,
+22177,Hamburg,02000,2,*Nordd. Tiefl.,
+22179,Hamburg,02000,2,*Nordd. Tiefl.,
+22297,Hamburg,02000,2,*Nordd. Tiefl.,
+22299,Hamburg,02000,2,*Nordd. Tiefl.,
+22301,Hamburg,02000,2,*Nordd. Tiefl.,
+22303,Hamburg,02000,2,*Nordd. Tiefl.,
+22305,Hamburg,02000,2,*Nordd. Tiefl.,
+22307,Hamburg,02000,2,*Nordd. Tiefl.,
+22309,Hamburg,02000,2,*Nordd. Tiefl.,
+22335,Hamburg,02000,2,*Nordd. Tiefl.,
+22337,Hamburg,02000,2,*Nordd. Tiefl.,
+22339,Hamburg,02000,2,*Nordd. Tiefl.,
+22359,Hamburg,02000,2,*Nordd. Tiefl.,
+22391,Hamburg,02000,2,*Nordd. Tiefl.,
+22393,Hamburg,02000,2,*Nordd. Tiefl.,
+22395,Hamburg,02000,2,*Nordd. Tiefl.,
+22397,Hamburg,02000,2,*Nordd. Tiefl.,
+22399,Hamburg,02000,2,*Nordd. Tiefl.,
+22415,Hamburg,02000,2,*Nordd. Tiefl.,
+22417,Hamburg,02000,2,*Nordd. Tiefl.,
+22419,Hamburg,02000,2,*Nordd. Tiefl.,
+22453,Hamburg,02000,2,*Nordd. Tiefl.,
+22455,Hamburg,02000,2,*Nordd. Tiefl.,
+22457,Hamburg,02000,2,*Nordd. Tiefl.,
+22459,Hamburg,02000,2,*Nordd. Tiefl.,
+22523,Hamburg,02000,2,*Nordd. Tiefl.,
+22525,Hamburg,02000,2,*Nordd. Tiefl.,
+22527,Hamburg,02000,2,*Nordd. Tiefl.,
+22529,Hamburg,02000,2,*Nordd. Tiefl.,
+22547,Hamburg,02000,2,*Nordd. Tiefl.,
+22549,Hamburg,02000,2,*Nordd. Tiefl.,
+22559,Hamburg,02000,2,*Nordd. Tiefl.,
+22587,Hamburg,02000,2,*Nordd. Tiefl.,
+22589,Hamburg,02000,2,*Nordd. Tiefl.,
+22605,Hamburg,02000,2,*Nordd. Tiefl.,
+22607,Hamburg,02000,2,*Nordd. Tiefl.,
+22609,Hamburg,02000,2,*Nordd. Tiefl.,
+22761,Hamburg,02000,2,*Nordd. Tiefl.,
+22763,Hamburg,02000,2,*Nordd. Tiefl.,
+22765,Hamburg,02000,2,*Nordd. Tiefl.,
+22767,Hamburg,02000,2,*Nordd. Tiefl.,
+22769,Hamburg,02000,2,*Nordd. Tiefl.,
+22844,Norderstedt,01060,2,*Nordd. Tiefl.,
+22846,Norderstedt,01060,2,*Nordd. Tiefl.,
+22848,Norderstedt,01060,2,*Nordd. Tiefl.,
+22850,Norderstedt,01060,2,*Nordd. Tiefl.,
+22851,Norderstedt,01060,2,*Nordd. Tiefl.,
+22869,Schenefeld,01056,2,*Nordd. Tiefl.,ZIP code 27498 is zone 1
+22880,Wedel,01056,2,*Nordd. Tiefl.,ZIP code 27498 is zone 1
+22885,Barsbüttel,01062,2,*Nordd. Tiefl.,
+22889,Tangstedt,01062,2,*Nordd. Tiefl.,
+22926,Ahrensburg,01062,2,*Nordd. Tiefl.,
+22927,Großhansdorf,01062,2,*Nordd. Tiefl.,
+22929,"Hamfelde, Kasseburg, Köthel, Rausdorf, Schönberg",01053,2,*Nordd. Tiefl.,
+22941,"Bargteheide, Delingsdorf u.a.",01062,2,*Nordd. Tiefl.,
+22946,Trittau,01053,2,*Nordd. Tiefl.,
+22949,Ammersbek,01062,2,*Nordd. Tiefl.,
+22952,Lütjensee,01062,2,*Nordd. Tiefl.,
+22955,Hoisdorf,01062,2,*Nordd. Tiefl.,
+22956,Grönwohld,01062,2,*Nordd. Tiefl.,
+22958,Kuddewörde,01053,2,*Nordd. Tiefl.,
+22959,Linau,01053,2,*Nordd. Tiefl.,
+22961,Hoisdorf,01062,2,*Nordd. Tiefl.,
+22962,Siek,01062,2,*Nordd. Tiefl.,
+22964,Steinburg,01062,2,*Nordd. Tiefl.,
+22965,Todendorf,01062,2,*Nordd. Tiefl.,
+22967,Tremsbüttel,01062,2,*Nordd. Tiefl.,
+22969,Witzhave,01062,2,*Nordd. Tiefl.,
+23552,Lübeck,01003,2,*Nordd. Tiefl.,
+23554,Lübeck St. Lorenz Nord,01003,2,*Nordd. Tiefl.,
+23556,Lübeck,01003,2,*Nordd. Tiefl.,
+23558,Lübeck,01003,2,*Nordd. Tiefl.,
+23560,Lübeck,01003,2,*Nordd. Tiefl.,
+23562,Lübeck,01003,2,*Nordd. Tiefl.,
+23564,Lübeck,01003,2,*Nordd. Tiefl.,
+23566,Lübeck,01003,2,*Nordd. Tiefl.,
+23568,Lübeck Schlutup/St. Gertrud,01003,2,*Nordd. Tiefl.,
+23569,Lübeck,01003,2,*Nordd. Tiefl.,
+23570,Lübeck,01003,2,*Nordd. Tiefl.,
+23611,Bad Schwartau,01055,2,*Nordd. Tiefl.,
+23617,Stockelsdorf,01055,2,*Nordd. Tiefl.,
+23619,Zarpen,01062,2,*Nordd. Tiefl.,
+23623,Ahrensbök,01055,2,*Nordd. Tiefl.,
+23626,Ratekau,01055,2,*Nordd. Tiefl.,
+23627,Groß Grönau,01053,2,*Nordd. Tiefl.,
+23628,"Krummesse, Klempau",01053,2,*Nordd. Tiefl.,
+23629,Sarkwitz,01055,2,*Nordd. Tiefl.,
+23669,Timmendorfer Strand,01055,2,*Nordd. Tiefl.,
+23683,Scharbeutz,01055,2,*Nordd. Tiefl.,
+23684,"Scharbeutz, Süsel",01055,2,*Nordd. Tiefl.,
+23689,Pansdorf,01055,2,*Nordd. Tiefl.,
+23701,"Eutin, Süsel",01055,2,*Nordd. Tiefl.,
+23714,"Malente, Kirchnüchel",01055,2,*Nordd. Tiefl.,
+23715,Bosau,01055,2,*Nordd. Tiefl.,
+23717,Kasseedorf,01055,2,*Nordd. Tiefl.,
+23719,Glasau,01060,2,*Nordd. Tiefl.,
+23730,Neustadt,01055,2,*Nordd. Tiefl.,
+23738,Lensahn,01055,2,*Nordd. Tiefl.,
+23743,Grömitz,01055,2,*Nordd. Tiefl.,
+23744,Schönwalde am Bungsberg,01055,2,*Nordd. Tiefl.,
+23746,Kellenhusen,01055,2,*Nordd. Tiefl.,
+23747,Dahme,01055,2,*Nordd. Tiefl.,
+23749,Grube,01055,2,*Nordd. Tiefl.,
+23758,Oldenburg in Holstein,01055,2,*Nordd. Tiefl.,
+23769,Fehmarn,01055,2,*Nordd. Tiefl.,
+23774,Heiligenhafen,01055,2,*Nordd. Tiefl.,
+23775,Großenbrode,01055,2,*Nordd. Tiefl.,
+23777,Heringsdorf,01055,2,*Nordd. Tiefl.,
+23779,Neukirchen,01055,2,*Nordd. Tiefl.,
+23795,Bad Segeberg,01060,2,*Nordd. Tiefl.,
+23812,Wahlstedt,01060,2,*Nordd. Tiefl.,
+23813,Nehms,01060,2,*Nordd. Tiefl.,
+23815,Geschendorf,01060,2,*Nordd. Tiefl.,
+23816,Leezen,01060,2,*Nordd. Tiefl.,
+23818,Neuengörs,01060,2,*Nordd. Tiefl.,
+23820,Pronstorf,01060,2,*Nordd. Tiefl.,
+23821,Rohlstorf,01060,2,*Nordd. Tiefl.,
+23823,Seedorf,01060,2,*Nordd. Tiefl.,
+23824,Tensfeld,01060,2,*Nordd. Tiefl.,
+23826,Bark,01060,2,*Nordd. Tiefl.,
+23827,Wensin,01060,2,*Nordd. Tiefl.,
+23829,Wittenborn,01060,2,*Nordd. Tiefl.,
+23843,Bad Oldesloe,01062,2,*Nordd. Tiefl.,
+23845,Seth,01060,2,*Nordd. Tiefl.,
+23847,Lasbek,01053,2,*Nordd. Tiefl.,
+23858,Reinfeld (Holstein),01062,2,*Nordd. Tiefl.,
+23860,Klein Wesenberg,01062,2,*Nordd. Tiefl.,
+23863,Bargfeld-Stegen,01062,2,*Nordd. Tiefl.,
+23866,Nahe,01060,2,*Nordd. Tiefl.,
+23867,Sülfeld,01060,2,*Nordd. Tiefl.,
+23869,Elmenhorst,01062,2,*Nordd. Tiefl.,
+23879,Mölln,01053,2,*Nordd. Tiefl.,
+23881,"Breitenfelde, Lankau",01053,2,*Nordd. Tiefl.,
+23883,Sterley,01053,2,*Nordd. Tiefl.,
+23896,Nusse,01053,2,*Nordd. Tiefl.,
+23898,Sandesneben u.a.,01053,2,*Nordd. Tiefl.,
+23899,Gudow,01053,2,*Nordd. Tiefl.,
+23909,Ratzeburg,01053,2,*Nordd. Tiefl.,
+23911,Ziethen,01053,2,*Nordd. Tiefl.,
+23919,Berkenthin,01053,2,*Nordd. Tiefl.,
 23923,Schönberg,13074,2,,
 23936,"Grevesmühlen, Stepenitztal, Upahl u.a.",13074,2,,
 23942,Dassow,13074,2,,
@@ -1483,655 +1483,655 @@ zipcode,city,dc,snowzone,note,comments
 23992,Neukloster,13074,2,,
 23996,Bad Kleinen u.a.,13074,2,,
 23999,Insel Poel,13074,2,,
-24103,Kiel,01002,2,*Nord. Tiefld,
-24105,Kiel,01002,2,*Nord. Tiefld,
-24106,Kiel,01002,2,*Nord. Tiefld,
-24107,Kiel,01058,2,*Nord. Tiefld,
-24109,Melsdorf,01002,2,*Nord. Tiefld,
-24111,Kiel Russee,01002,2,*Nord. Tiefld,
-24113,Kiel,01058,2,*Nord. Tiefld,
-24114,Kiel,01002,2,*Nord. Tiefld,
-24116,Kiel,01002,2,*Nord. Tiefld,
-24118,Kiel,01002,2,*Nord. Tiefld,
-24119,Kronshagen,01058,2,*Nord. Tiefld,
-24143,Kiel,01002,2,*Nord. Tiefld,
-24145,Kiel,01002,2,*Nord. Tiefld,
-24146,Kiel,01002,2,*Nord. Tiefld,
-24147,Kiel,01002,2,*Nord. Tiefld,
-24148,Kiel,01002,2,*Nord. Tiefld,
-24149,Kiel,01002,2,*Nord. Tiefld,
-24159,Kiel,01002,2,*Nord. Tiefld,
-24161,Altenholz,01058,2,*Nord. Tiefld,
-24211,Preetz,01057,2,*Nord. Tiefld,
-24214,Gettorf u.a.,01058,2,*Nord. Tiefld,
-24217,Schönberg (Holstein),01057,2,*Nord. Tiefld,
-24220,Flintbek,01058,2,*Nord. Tiefld,
-24222,Schwentinental,01057,2,*Nord. Tiefld,
-24223,Schwentinetal,01057,2,*Nord. Tiefld,
-24226,Heikendorf,01057,2,*Nord. Tiefld,
-24229,Dänischenhagen,01058,2,*Nord. Tiefld,
-24232,Schönkirchen,01057,2,*Nord. Tiefld,
-24235,Laboe,01057,2,*Nord. Tiefld,
-24238,Selent,01057,2,*Nord. Tiefld,
-24239,Achterwehr,01058,2,*Nord. Tiefld,
-24241,Blumenthal,01058,2,*Nord. Tiefld,
-24242,Felde,01058,2,*Nord. Tiefld,
-24244,Felm,01058,2,*Nord. Tiefld,
-24245,Kirchbarkau,01057,2,*Nord. Tiefld,
-24247,Mielkendorf,01058,2,*Nord. Tiefld,
-24248,Mönkeberg,01057,2,*Nord. Tiefld,
-24250,Nettelsee,01057,2,*Nord. Tiefld,
-24251,Osdorf,01058,2,*Nord. Tiefld,
-24253,Probsteierhagen,01057,2,*Nord. Tiefld,
-24254,Rumohr,01058,2,*Nord. Tiefld,
-24256,Fargau-Pratjau,01057,2,*Nord. Tiefld,
-24257,Hohenfelde,01057,2,*Nord. Tiefld,
-24259,Westensee,01058,2,*Nord. Tiefld,
-24306,Plön,01057,2,*Nord. Tiefld,
-24321,Lütjenburg,01057,2,*Nord. Tiefld,
-24326,Ascheberg,01057,2,*Nord. Tiefld,
-24327,Blekendorf,01057,2,*Nord. Tiefld,
-24329,Grebin,01057,2,*Nord. Tiefld,
-24340,Eckernförde,01058,2,*Nord. Tiefld,
-24351,Damp,01058,2,*Nord. Tiefld,
-24354,"Kosel, Rieseby u.a.",01058,2,*Nord. Tiefld,
-24357,Fleckeby u.a.,01058,2,*Nord. Tiefld,
-24358,Ascheffel,01058,2,*Nord. Tiefld,
-24360,Barkelsby,01058,2,*Nord. Tiefld,
-24361,Groß Wittensee u.a.,01058,2,*Nord. Tiefld,
-24363,Holtsee,01058,2,*Nord. Tiefld,
-24364,Holzdorf,01058,2,*Nord. Tiefld,
-24366,Loose,01058,2,*Nord. Tiefld,
-24367,Osterby,01058,2,*Nord. Tiefld,
-24369,Waabs,01058,2,*Nord. Tiefld,
-24376,Kappeln,01059,2,*Nord. Tiefld,
-24392,Süderbrarup,01059,2,*Nord. Tiefld,
-24395,Gelting,01059,2,*Nord. Tiefld,
-24398,Dörphof,01058,2,*Nord. Tiefld,
-24399,"Arnis, Marienhof",01059,2,*Nord. Tiefld,
-24401,Böel,01059,2,*Nord. Tiefld,
-24402,Esgrus,01059,2,*Nord. Tiefld,
-24404,"Maasholm, Schleimünde",01059,2,*Nord. Tiefld,
-24405,"Mohrkirch, Rügge",01059,2,*Nord. Tiefld,
-24407,Rabenkirchen-Faulück,01059,2,*Nord. Tiefld,
-24409,Stoltebüll,01059,2,*Nord. Tiefld,
-24534,Neumünster,01004,2,*Nord. Tiefld,
-24536,Neumünster,01057,2,*Nord. Tiefld,
-24537,Neumünster,01004,2,*Nord. Tiefld,
-24539,Neumünster,01004,2,*Nord. Tiefld,
-24558,Henstedt-Ulzburg,01060,2,*Nord. Tiefld,
-24568,Kaltenkirchen,01060,2,*Nord. Tiefld,
-24576,Bad Bramstedt,01060,2,*Nord. Tiefld,
-24582,Bordesholm,01058,2,*Nord. Tiefld,
-24589,Nortorf,01058,2,*Nord. Tiefld,
-24594,Hohenwestedt,01058,2,*Nord. Tiefld,
-24598,Boostedt,01060,2,*Nord. Tiefld,
-24601,Wankendorf,01057,2,*Nord. Tiefld,
-24610,Trappenkamp,01060,2,*Nord. Tiefld,
-24613,"Aukrug, Wiedenborstel",01061,2,*Nord. Tiefld,
-24616,Brokstedt,01061,2,*Nord. Tiefld,
-24619,Börnhöved,01060,2,*Nord. Tiefld,
-24620,Bönebüttel,01057,2,*Nord. Tiefld,
-24622,Gnutz,01058,2,*Nord. Tiefld,
-24623,Großenaspe,01060,2,*Nord. Tiefld,
-24625,Großharrie,01058,2,*Nord. Tiefld,
-24626,Groß Kummerfeld,01060,2,*Nord. Tiefld,
-24628,Hartenholm,01060,2,*Nord. Tiefld,
-24629,Kisdorf,01060,2,*Nord. Tiefld,
-24631,Langwedel,01058,2,*Nord. Tiefld,
-24632,Lentföhrden,01060,2,*Nord. Tiefld,
-24634,Padenstedt,01058,2,*Nord. Tiefld,
-24635,Rickling,01060,2,*Nord. Tiefld,
-24637,Schillsdorf,01057,2,*Nord. Tiefld,
-24638,Schmalensee,01060,2,*Nord. Tiefld,
-24640,Schmalfeld,01060,2,*Nord. Tiefld,
-24641,Sievershütten,01060,2,*Nord. Tiefld,
-24643,Struvenhütten,01060,2,*Nord. Tiefld,
-24644,Timmaspe,01058,2,*Nord. Tiefld,
-24646,Warder,01058,2,*Nord. Tiefld,
-24647,Wasbek,01058,2,*Nord. Tiefld,
-24649,Wiemersdorf,01060,2,*Nord. Tiefld,
-24768,Rendsburg,01058,2,*Nord. Tiefld,
-24782,"Büdelsdorf, Rickert",01058,2,*Nord. Tiefld,
-24783,Osterrönfeld,01058,2,*Nord. Tiefld,
-24784,Westerrönfeld,01058,2,*Nord. Tiefld,
-24787,Fockbek,01058,2,*Nord. Tiefld,
-24790,Schacht-Audorf,01058,2,*Nord. Tiefld,
-24791,Alt Duvenstedt,01058,2,*Nord. Tiefld,
-24793,"Bargstedt, Brammer, Oldenbüttel",01058,2,*Nord. Tiefld,
-24794,Borgstedt,01058,2,*Nord. Tiefld,
-24796,Bredenbek,01058,2,*Nord. Tiefld,
-24797,Breiholz u.a.,01058,2,*Nord. Tiefld,
-24799,"Meggerdorf, Friedrichsholm, Friedrichsgraben u.a.",01058,2,*Nord. Tiefld,
-24800,Elsdorf-Westermühlen,01058,2,*Nord. Tiefld,
-24802,Emkendorf,01058,2,*Nord. Tiefld,
-24803,Erfde,01059,2,*Nord. Tiefld,
-24805,Hamdorf,01058,2,*Nord. Tiefld,
-24806,Hohn,01058,2,*Nord. Tiefld,
-24808,Jevenstedt,01058,2,*Nord. Tiefld,
-24809,Nübbel,01058,2,*Nord. Tiefld,
-24811,Owschlag u.a.,01058,2,*Nord. Tiefld,
-24813,Schülp bei Rendsburg,01058,2,*Nord. Tiefld,
-24814,Sehestedt,01058,2,*Nord. Tiefld,
-24816,Hamweddel,01058,2,*Nord. Tiefld,
-24817,Tetenhusen,01059,2,*Nord. Tiefld,
-24819,Todenbüttel,01058,2,*Nord. Tiefld,
-24837,Schleswig,01059,2,*Nord. Tiefld,
-24848,Kropp u.a.,01058,2,*Nord. Tiefld,
-24850,Schuby,01059,2,*Nord. Tiefld,
-24852,"Eggebek, Langstedt, Sollerup, Süderhackstedt",01059,2,*Nord. Tiefld,
-24855,"Bollingstedt, Jübek",01059,2,*Nord. Tiefld,
-24857,Fahrdorf,01059,2,*Nord. Tiefld,
-24860,Böklund u.a.,01059,2,*Nord. Tiefld,
-24861,Bergenhusen,01059,2,*Nord. Tiefld,
-24863,Börm,01059,2,*Nord. Tiefld,
-24864,"Brodersby, Goltoft",01059,2,*Nord. Tiefld,
-24866,Busdorf,01059,2,*Nord. Tiefld,
-24867,Dannewerk,01059,2,*Nord. Tiefld,
-24869,Dörpstedt,01059,2,*Nord. Tiefld,
-24870,Ellingstedt,01059,2,*Nord. Tiefld,
-24872,Groß Rheide,01059,2,*Nord. Tiefld,
-24873,Havetoft,01059,2,*Nord. Tiefld,
-24876,Hollingstedt,01059,2,*Nord. Tiefld,
-24878,"Jagel, Lottorf",01059,2,*Nord. Tiefld,
-24879,Idstedt,01059,2,*Nord. Tiefld,
-24881,Nübel,01059,2,*Nord. Tiefld,
-24882,"Schaalby, Geelbek",01059,2,*Nord. Tiefld,
-24884,"Selk, Geltdorf, Hahnekrug",01059,2,*Nord. Tiefld,
-24885,Sieverstedt,01059,2,*Nord. Tiefld,
-24887,"Silberstedt, Schwittschau",01059,2,*Nord. Tiefld,
-24888,"Steinfeld, Loit",01059,2,*Nord. Tiefld,
-24890,Stolk,01059,2,*Nord. Tiefld,
-24891,"Struxdorf, Schnarup-Thumby",01059,2,*Nord. Tiefld,
-24893,Taarstedt,01059,2,*Nord. Tiefld,
-24894,"Tolk, Twedt",01059,2,*Nord. Tiefld,
-24896,"Treia, Ahrenviölfeld",01059,2,*Nord. Tiefld,
-24897,Ulsnis,01059,2,*Nord. Tiefld,
-24899,Wohlde,01059,2,*Nord. Tiefld,
-24937,Flensburg,01001,2,*Nord. Tiefld,
-24939,Flensburg,01001,2,*Nord. Tiefld,
-24941,Flensburg,01001,2,*Nord. Tiefld,
-24943,"Flensburg, Tastrup",01001,2,*Nord. Tiefld,
-24944,Flensburg,01001,2,*Nord. Tiefld,
-24955,Harrislee,01059,2,*Nord. Tiefld,
-24960,"Glücksburg, Munkbrarup",01059,2,*Nord. Tiefld,
-24963,Tarp,01059,2,*Nord. Tiefld,
-24966,Sörup,01059,2,*Nord. Tiefld,
-24969,"Großenwiehe, Lindewitt",01059,2,*Nord. Tiefld,
-24972,"Steinberg, Steinbergkirche",01059,2,*Nord. Tiefld,
-24975,Husby,01059,2,*Nord. Tiefld,
-24976,Handewitt,01059,2,*Nord. Tiefld,
-24977,Langballig,01059,2,*Nord. Tiefld,
-24980,"Schafflund, Meyn u.a.",01059,2,*Nord. Tiefld,
-24983,Handewitt,01059,2,*Nord. Tiefld,
-24986,Mittelangeln,01059,2,*Nord. Tiefld,
-24988,Oeversee,01059,2,*Nord. Tiefld,
-24989,Dollerup,01059,2,*Nord. Tiefld,
-24991,Großsolt,01059,2,*Nord. Tiefld,
-24992,Jörl,01059,2,*Nord. Tiefld,
-24994,Medelby,01059,2,*Nord. Tiefld,
-24996,Sterup,01059,2,*Nord. Tiefld,
-24997,Wanderup,01059,2,*Nord. Tiefld,
-24999,Wees,01059,2,*Nord. Tiefld,
-25335,Elmshorn,01061,2,*Nord. Tiefld,
-25336,Elmshorn,01056,2,*Nord. Tiefld,DC rule (DC 01056): ZIP code 27498 is zone 1
-25337,Elmshorn,01056,2,*Nord. Tiefld,DC rule (DC 01056): ZIP code 27498 is zone 1
-25348,Glückstadt,01061,2,*Nord. Tiefld,
-25355,Barmstedt,01056,2,*Nord. Tiefld,DC rule (DC 01056): ZIP code 27498 is zone 1
-25358,Horst,01061,2,*Nord. Tiefld,
-25361,"Krempe, Grevenkop, Süderau, Muchelndorf",01061,2,*Nord. Tiefld,
-25364,Brande-Hörnerkirchen,01056,2,*Nord. Tiefld,DC rule (DC 01056): ZIP code 27498 is zone 1
-25365,Klein Offenseth-Sparrieshoop,01056,2,*Nord. Tiefld,DC rule (DC 01056): ZIP code 27498 is zone 1
-25368,Kiebitzreihe,01061,2,*Nord. Tiefld,
-25370,Seester,01056,2,*Nord. Tiefld,DC rule (DC 01056): ZIP code 27498 is zone 1
-25371,Seestermühe,01056,2,*Nord. Tiefld,DC rule (DC 01056): ZIP code 27498 is zone 1
-25373,Ellerhoop,01056,2,*Nord. Tiefld,DC rule (DC 01056): ZIP code 27498 is zone 1
-25376,Borsfleth,01061,2,*Nord. Tiefld,
-25377,"Kollmar, Pagensand",01061,2,*Nord. Tiefld,
-25379,"Herzhorn, Kamerlanderdeich",01061,2,*Nord. Tiefld,
-25421,Pinneberg,01056,2,*Nord. Tiefld,DC rule (DC 01056): ZIP code 27498 is zone 1
-25436,Uetersen,01056,2,*Nord. Tiefld,DC rule (DC 01056): ZIP code 27498 is zone 1
-25451,Quickborn,01056,2,*Nord. Tiefld,DC rule (DC 01056): ZIP code 27498 is zone 1
-25462,Rellingen,01056,2,*Nord. Tiefld,DC rule (DC 01056): ZIP code 27498 is zone 1
-25469,Halstenbek,01056,2,*Nord. Tiefld,DC rule (DC 01056): ZIP code 27498 is zone 1
-25474,Ellerbek,01056,2,*Nord. Tiefld,DC rule (DC 01056): ZIP code 27498 is zone 1
-25479,Ellerau,01060,2,*Nord. Tiefld,
-25482,Appen,01056,2,*Nord. Tiefld,DC rule (DC 01056): ZIP code 27498 is zone 1
-25485,Hemdingen,01056,2,*Nord. Tiefld,DC rule (DC 01056): ZIP code 27498 is zone 1
-25486,Alveslohe,01060,2,*Nord. Tiefld,
-25488,Holm,01056,2,*Nord. Tiefld,DC rule (DC 01056): ZIP code 27498 is zone 1
-25489,Haseldorf,01056,2,*Nord. Tiefld,DC rule (DC 01056): ZIP code 27498 is zone 1
-25491,Hetlingen,01056,2,*Nord. Tiefld,DC rule (DC 01056): ZIP code 27498 is zone 1
-25492,Heist,01056,2,*Nord. Tiefld,DC rule (DC 01056): ZIP code 27498 is zone 1
-25494,Borstel-Hohenraden,01056,2,*Nord. Tiefld,DC rule (DC 01056): ZIP code 27498 is zone 1
-25495,Kummerfeld,01056,2,*Nord. Tiefld,DC rule (DC 01056): ZIP code 27498 is zone 1
-25497,Prisdorf,01056,2,*Nord. Tiefld,DC rule (DC 01056): ZIP code 27498 is zone 1
-25499,Tangstedt,01056,2,*Nord. Tiefld,DC rule (DC 01056): ZIP code 27498 is zone 1
-25524,Itzehoe,01061,2,*Nord. Tiefld,
-25541,Brunsbüttel,01051,2,*Nord. Tiefld,
-25548,Kellinghusen,01061,2,*Nord. Tiefld,
-25551,Hohenlockstedt,01061,2,*Nord. Tiefld,
-25554,Wilster,01061,2,*Nord. Tiefld,
-25557,"Hanerau-Hademarschen, Seefeld u.a.",01058,2,*Nord. Tiefld,
-25560,Schenefeld,01061,2,*Nord. Tiefld,
-25563,Wrist,01060,2,*Nord. Tiefld,
-25566,Lägerdorf,01061,2,*Nord. Tiefld,
-25569,Kremperheide,01061,2,*Nord. Tiefld,
-25572,Sankt Margarethen,01061,2,*Nord. Tiefld,
-25573,"Beidenfleth, Klein Kampen",01061,2,*Nord. Tiefld,
-25575,Beringstedt,01058,2,*Nord. Tiefld,
-25576,Brokdorf,01061,2,*Nord. Tiefld,
-25578,"Dägeling, Neuenbrook",01061,2,*Nord. Tiefld,
-25579,Fitzbek,01061,2,*Nord. Tiefld,
-25581,Hennstedt,01061,2,*Nord. Tiefld,
-25582,Hohenaspe,01061,2,*Nord. Tiefld,
-25584,Holstenniendorf,01061,2,*Nord. Tiefld,
-25585,"Lütjenwestedt, Tackesdorf",01058,2,*Nord. Tiefld,
-25587,Münsterdorf,01061,2,*Nord. Tiefld,
-25588,Oldendorf,01061,2,*Nord. Tiefld,
-25590,Osterstedt,01058,2,*Nord. Tiefld,
-25591,Ottenbüttel,01061,2,*Nord. Tiefld,
-25593,Reher,01061,2,*Nord. Tiefld,
-25594,Vaale,01061,2,*Nord. Tiefld,
-25596,Wacken,01061,2,*Nord. Tiefld,
-25597,Westermoor,01061,2,*Nord. Tiefld,
-25599,Wewelsfleth,01061,2,*Nord. Tiefld,
-25693,"Sankt Michaelisdonn, Gudendorf, Volsemenhusen, Trennewurth",01051,2,*Nord. Tiefld,
-25704,Meldorf,01051,2,*Nord. Tiefld,
-25709,"Kronprinzenkoog, Marne u.a.",01051,2,*Nord. Tiefld,
-25712,Burg (Dithmarschen),01051,2,*Nord. Tiefld,
-25715,"Eddelak, Averlak, Dingen, Ramhusen",01051,2,*Nord. Tiefld,
-25718,Friedrichskoog,01051,2,*Nord. Tiefld,
-25719,"Barlt, Busenwurth",01051,2,*Nord. Tiefld,
-25721,Eggstedt,01051,2,*Nord. Tiefld,
-25724,"Neufeld, Schmedeswurth",01051,2,*Nord. Tiefld,
-25725,"Schafstedt, Weidenhof, Bornholt",01051,2,*Nord. Tiefld,
-25727,Süderhastedt,01051,2,*Nord. Tiefld,
-25729,Windbergen,01051,2,*Nord. Tiefld,
-25746,Heide u.a.,01051,2,*Nord. Tiefld,
-25761,Büsum,01051,2,*Nord. Tiefld,
-25764,Wesselburen,01051,2,*Nord. Tiefld,
-25767,Albersdorf,01051,2,*Nord. Tiefld,
-25770,Hemmingstedt,01051,2,*Nord. Tiefld,
-25774,Lunden,01051,2,*Nord. Tiefld,
-25776,"Sankt Annen, Rehm-Flehde-Bargen",01051,2,*Nord. Tiefld,
-25779,Hennstedt,01051,2,*Nord. Tiefld,
-25782,Tellingstedt,01051,2,*Nord. Tiefld,
-25785,Nordhastedt,01051,2,*Nord. Tiefld,
-25786,Dellstedt,01051,2,*Nord. Tiefld,
-25788,Delve,01051,2,*Nord. Tiefld,
-25791,"Linden, Barkenholm",01051,2,*Nord. Tiefld,
-25792,Neuenkirchen,01051,2,*Nord. Tiefld,
-25794,Pahlen,01051,2,*Nord. Tiefld,
-25795,Weddingstedt,01051,2,*Nord. Tiefld,
-25797,Wöhrden,01051,2,*Nord. Tiefld,
-25799,Wrohm,01051,2,*Nord. Tiefld,
-25813,"Husum, Schwesing u.a.",01054,2,*Nord. Tiefld,
-25821,"Bredstedt, Breklum u.a.",01054,2,*Nord. Tiefld,
-25826,Sankt Peter-Ording,01054,2,*Nord. Tiefld,
-25832,Tönning,01054,2,*Nord. Tiefld,
-25836,"Garding, Osterhever, Poppenbüll u.a.",01054,2,*Nord. Tiefld,
-25840,"Friedrichstadt, Koldenbüttel u.a.",01054,2,*Nord. Tiefld,
-25842,"Langenhorn, Ockholm u.a.",01054,2,*Nord. Tiefld,
-25845,"Nordstrand, Elisabeth-Sophien-Koog, Südfall",01054,2,*Nord. Tiefld,
-25849,"Süderoog, Pellworm",01054,2,*Nord. Tiefld,
-25850,"Behrendorf, Bondelum",01054,2,*Nord. Tiefld,
-25852,Bordelum,01054,2,*Nord. Tiefld,
-25853,Ahrenshöft,01054,2,*Nord. Tiefld,
-25855,Haselund,01054,2,*Nord. Tiefld,
-25856,Hattstedt u.a.,01054,2,*Nord. Tiefld,
-25858,Högel,01054,2,*Nord. Tiefld,
-25859,Hallig Hooge,01054,2,*Nord. Tiefld,
-25860,Horstedt,01054,2,*Nord. Tiefld,
-25862,Joldelund,01054,2,*Nord. Tiefld,
-25863,Langeneß,01054,2,*Nord. Tiefld,
-25864,Löwenstedt,01054,2,*Nord. Tiefld,
-25866,Mildstedt,01054,2,*Nord. Tiefld,
-25867,Oland,01054,2,*Nord. Tiefld,
-25869,"Habel, Gröde",01054,2,*Nord. Tiefld,
-25870,Oldenswort,01054,2,*Nord. Tiefld,
-25872,Ostenfeld,01054,2,*Nord. Tiefld,
-25873,Rantrum,01054,2,*Nord. Tiefld,
-25876,Schwabstedt,01054,2,*Nord. Tiefld,
-25878,"Drage, Seeth",01054,2,*Nord. Tiefld,
-25879,Stapel,01059,2,*Nord. Tiefld,
-25881,"Tating, Westerhever, Tümlauer Koog",01054,2,*Nord. Tiefld,
-25882,Tetenbüll,01054,2,*Nord. Tiefld,
-25884,Viöl,01054,2,*Nord. Tiefld,
-25885,Wester-Ohrstedt,01054,2,*Nord. Tiefld,
-25887,Winnert,01054,2,*Nord. Tiefld,
-25889,"Uelvesbüll, Witzwort",01054,2,*Nord. Tiefld,
-25899,Niebüll,01054,2,*Nord. Tiefld,
-25917,Leck,01054,2,*Nord. Tiefld,
-25920,"Risum-Lindholm, Stedesand",01054,2,*Nord. Tiefld,
-25923,"Süderlügum, Braderup u.a.",01054,2,*Nord. Tiefld,
-25924,Rodenäs,01054,2,*Nord. Tiefld,
-25926,Ladelund,01054,2,*Nord. Tiefld,
-25927,"Neukirchen, Aventoft",01054,2,*Nord. Tiefld,
-25938,Föhr,01054,2,*Nord. Tiefld,
-25946,Amrum,01054,2,*Nord. Tiefld,
-25980,Sylt,01054,2,*Nord. Tiefld,
-25992,List,01054,2,*Nord. Tiefld,
-25996,Wenningstedt-Braderup (Sylt),01054,2,*Nord. Tiefld,
-25997,Hörnum (Sylt),01054,2,*Nord. Tiefld,
-25999,Kampen (Sylt),01054,2,*Nord. Tiefld,
-26121,Oldenburg (Oldenburg),03403,2,*Nord. Tiefld,
-26122,Oldenburg,03403,2,*Nord. Tiefld,
-26123,Oldenburg (Oldenburg),03403,2,*Nord. Tiefld,
-26125,Oldenburg (Oldenburg),03403,2,*Nord. Tiefld,
-26127,Oldenburg (Oldenburg),03403,2,*Nord. Tiefld,
-26129,Oldenburg (Oldenburg),03403,2,*Nord. Tiefld,
-26131,Oldenburg (Oldenburg),03403,2,*Nord. Tiefld,
-26133,Oldenburg (Oldenburg),03403,2,*Nord. Tiefld,
-26135,Oldenburg (Oldenburg),03403,2,*Nord. Tiefld,
-26160,Bad Zwischenahn,03451,1,*Nord. Tiefld,
-26169,Friesoythe,03453,2,*Nord. Tiefld,
-26180,Rastede,03451,1,*Nord. Tiefld,
-26188,Edewecht,03451,1,*Nord. Tiefld,
-26197,Großenkneten,03458,2,*Nord. Tiefld,
-26203,Wardenburg,03458,2,*Nord. Tiefld,
-26209,Hatten,03458,2,*Nord. Tiefld,
-26215,Wiefelstede,03451,1,*Nord. Tiefld,
-26219,Bösel,03453,2,*Nord. Tiefld,
-26316,Varel,03455,1,*Nord. Tiefld,
-26340,Zetel,03455,1,*Nord. Tiefld,
-26345,Bockhorn,03455,1,*Nord. Tiefld,
-26349,Jade,03461,2,*Nord. Tiefld,
-26382,Wilhelmshaven,03405,1,*Nord. Tiefld,
-26384,Wilhelmshaven,03405,1,*Nord. Tiefld,
-26386,Wilhelmshaven,03405,1,*Nord. Tiefld,
-26388,Wilhelmshaven,03405,1,*Nord. Tiefld,
-26389,Wilhelmshaven,03405,1,*Nord. Tiefld,
-26409,Wittmund,03462,1,*Nord. Tiefld,
-26419,Schortens,03455,1,*Nord. Tiefld,
-26427,"Esens, Neuharlingersiel u.a.",03462,1,*Nord. Tiefld,
-26434,Wangerland,03455,1,*Nord. Tiefld,
-26441,Jever,03455,1,*Nord. Tiefld,
-26446,Friedeburg,03462,1,*Nord. Tiefld,
-26452,Sande,03455,1,*Nord. Tiefld,
-26465,Langeoog,03462,1,*Nord. Tiefld,
-26474,Spiekeroog,03462,1,*Nord. Tiefld,
-26486,Wangerooge,03455,1,*Nord. Tiefld,
-26487,"Blomberg, Neuschoo",03462,1,*Nord. Tiefld,
-26489,Ochtersum,03462,1,*Nord. Tiefld,
-26506,Norden,03452,1,*Nord. Tiefld,
-26524,"Hage, Halbemond u.a.",03452,1,*Nord. Tiefld,
-26529,"Upgant-Schott, Osteel u.a.",03452,1,*Nord. Tiefld,
-26532,Großheide,03452,1,*Nord. Tiefld,
-26548,Norderney,03452,1,*Nord. Tiefld,
-26553,Dornum,03452,1,*Nord. Tiefld,
-26556,"Westerholt, Schweindorf u.a.",03462,1,*Nord. Tiefld,
-26571,"Juist, Memmert",03452,1,*Nord. Tiefld,
-26579,Baltrum,03452,1,*Nord. Tiefld,
-26603,Aurich,03452,1,*Nord. Tiefld,
-26605,Aurich,03452,1,*Nord. Tiefld,
-26607,Aurich,03452,1,*Nord. Tiefld,
-26624,Südbrookmerland,03452,1,*Nord. Tiefld,
-26629,Großefehn,03452,1,*Nord. Tiefld,
-26632,Ihlow,03452,1,*Nord. Tiefld,
-26639,Wiesmoor,03452,1,*Nord. Tiefld,
-26655,Westerstede,03451,1,*Nord. Tiefld,
-26670,Uplengen,03457,1,*Nord. Tiefld,
-26676,Barßel,03453,2,*Nord. Tiefld,
-26683,Saterland,03453,2,*Nord. Tiefld,
-26689,Apen,03451,1,*Nord. Tiefld,
-26721,Emden,03402,1,*Nord. Tiefld,
-26723,Emden,03402,1,*Nord. Tiefld,
-26725,Emden,03402,1,*Nord. Tiefld,
-26736,Krummhörn,03452,1,*Nord. Tiefld,
-26757,Borkum,03457,1,*Nord. Tiefld,
-26759,Hinte,03452,1,*Nord. Tiefld,
-26789,Leer,03457,1,*Nord. Tiefld,
-26802,Moormerland,03457,1,*Nord. Tiefld,
-26810,Westoverledingen,03457,1,*Nord. Tiefld,
-26817,Rhauderfehn,03457,1,*Nord. Tiefld,
-26826,Weener,03457,1,*Nord. Tiefld,
-26831,Bunde,03457,1,*Nord. Tiefld,
-26835,"Hesel, Neukamperfehn u.a.",03457,1,*Nord. Tiefld,
-26842,Ostrhauderfehn,03457,1,*Nord. Tiefld,
-26844,Jemgum,03457,1,*Nord. Tiefld,
-26845,Nortmoor,03457,1,*Nord. Tiefld,
-26847,Detern,03457,1,*Nord. Tiefld,
-26849,Filsum,03457,1,*Nord. Tiefld,
-26871,Papenburg,03454,1,*Nord. Tiefld,
-26892,"Dörpen, Lehe, u.a.",03454,1,*Nord. Tiefld,
-26897,Esterwegen u.a.,03454,1,*Nord. Tiefld,
-26899,Rhede (Ems),03454,1,*Nord. Tiefld,
-26901,"Lorup, Rastdorf",03454,1,*Nord. Tiefld,
-26903,Surwold,03454,1,*Nord. Tiefld,
-26904,Börger,03454,1,*Nord. Tiefld,
-26906,Dersum,03454,1,*Nord. Tiefld,
-26907,Walchum,03454,1,*Nord. Tiefld,
-26909,"Neubörger, Neulehe",03454,1,*Nord. Tiefld,
-26919,Brake,03461,2,*Nord. Tiefld,
-26931,Elsfleth,03461,2,*Nord. Tiefld,
-26935,Stadland,03461,2,*Nord. Tiefld,
-26936,Stadland,03461,2,*Nord. Tiefld,
-26937,Stadland,03461,2,*Nord. Tiefld,
-26939,Ovelgönne,03461,2,*Nord. Tiefld,
-26954,Nordenham,03461,2,*Nord. Tiefld,
-26969,Butjadingen,03461,2,*Nord. Tiefld,
-27211,Bassum,03251,2,*Nord. Tiefld,
-27232,Sulingen,03251,2,*Nord. Tiefld,
-27239,Twistringen,03251,2,*Nord. Tiefld,
-27243,"Harpstedt, Groß Ippener, Colnrade u.a.",03458,2,*Nord. Tiefld,
-27245,"Bahrenborstel, Barenburg, Kirchdorf",03251,2,*Nord. Tiefld,
-27246,Borstel,03251,2,*Nord. Tiefld,
-27248,Ehrenburg,03251,2,*Nord. Tiefld,
-27249,"Maasen, Mellinghausen",03251,2,*Nord. Tiefld,
-27251,"Neuenkirchen, Scholen",03251,2,*Nord. Tiefld,
-27252,Schwaförden,03251,2,*Nord. Tiefld,
-27254,"Siedenburg, Staffhorst",03251,2,*Nord. Tiefld,
-27257,Affinghausen und Sudwalde,03251,2,*Nord. Tiefld,
-27259,"Freistatt, Varrel, Wehrbleck",03251,2,*Nord. Tiefld,
-27283,Verden,03361,2,*Nord. Tiefld,
-27299,Langwedel,03361,2,*Nord. Tiefld,
-27305,Bruchhausen-Vilsen,03251,2,*Nord. Tiefld,
-27308,Kirchlinteln,03361,2,*Nord. Tiefld,
-27313,Dörverden,03361,2,*Nord. Tiefld,
-27318,"Hoya, Hoyerhagen, Hilgermissen",03256,2,*Nord. Tiefld,
-27321,"Thedinghausen, Emtinghausen",03361,2,*Nord. Tiefld,
-27324,"Eystrup, Hassel u.a.",03256,2,*Nord. Tiefld,
-27327,"Martfeld, Schwarme",03251,2,*Nord. Tiefld,
-27330,Asendorf,03251,2,*Nord. Tiefld,
-27333,"Schweringen, Warpe, Bücken",03256,2,*Nord. Tiefld,
-27336,"Rethem (Aller), Häuslingen, Frankenfeld",03358,2,*Nord. Tiefld,
-27337,Blender,03361,2,*Nord. Tiefld,
-27339,Riede,03361,2,*Nord. Tiefld,
-27356,Rotenburg,03357,2,*Nord. Tiefld,
-27367,"Sottrum, Reeßum, Bötersen u.a.",03357,2,*Nord. Tiefld,
-27374,Visselhövede,03357,2,*Nord. Tiefld,
-27383,Scheeßel,03357,2,*Nord. Tiefld,
-27386,"Bothel, Kirchwalsede u.a.",03357,2,*Nord. Tiefld,
-27389,"Fintel, Lauenbrück u.a.",03357,2,*Nord. Tiefld,
-27404,"Zeven, Elsdorf",03357,2,*Nord. Tiefld,
-27412,"Tarmstedt, Breddorf u.a.",03357,2,*Nord. Tiefld,
-27419,Sittensen u.a.,03357,2,*Nord. Tiefld,
-27432,Bremervörde,03357,2,*Nord. Tiefld,
-27442,Gnarrenburg,03357,2,*Nord. Tiefld,
-27446,Selsingen,03357,2,*Nord. Tiefld,
-27449,Kutenholz,03359,2,*Nord. Tiefld,
-27472,Cuxhaven,03352,2,*Nord. Tiefld,
-27474,Cuxhaven,03352,2,*Nord. Tiefld,
-27476,Cuxhaven,03352,2,*Nord. Tiefld,
-27478,Cuxhaven,03352,2,*Nord. Tiefld,
-27498,Helgoland,01056,2,*Nord. Tiefld,DC rule (DC 01056): ZIP code 27498 is zone 1
-27499,Neuwerk,02000,2,*Nord. Tiefld,
-27568,"Bremerhaven, Bremen",04012,2,*Nord. Tiefld,
-27570,Bremerhaven,04012,2,*Nord. Tiefld,
-27572,Bremerhaven,04012,2,*Nord. Tiefld,
-27574,Bremerhaven,04012,2,*Nord. Tiefld,
-27576,Bremerhaven,04012,2,*Nord. Tiefld,
-27578,Bremerhaven,04012,2,*Nord. Tiefld,
-27580,Bremerhaven,04012,2,*Nord. Tiefld,
-27607,Geestland,03352,2,*Nord. Tiefld,
-27612,Loxstedt,03352,2,*Nord. Tiefld,
-27616,Beverstedt,03352,2,*Nord. Tiefld,
-27619,Schiffdorf,03352,2,*Nord. Tiefld,
-27624,Geestland,03352,2,*Nord. Tiefld,
-27628,Hagen,03352,2,*Nord. Tiefld,
-27639,Wurster Nordseeküste,03352,2,*Nord. Tiefld,
-27711,Osterholz-Scharmbeck,03356,2,*Nord. Tiefld,
-27721,Ritterhude,03356,2,*Nord. Tiefld,
-27726,Worpswede,03356,2,*Nord. Tiefld,
-27729,"Hambergen, Holste u.a.",03356,2,*Nord. Tiefld,
-27749,Delmenhorst,03401,2,*Nord. Tiefld,
-27751,Delmenhorst,03401,2,*Nord. Tiefld,
-27753,Delmenhorst,03401,2,*Nord. Tiefld,
-27755,Delmenhorst,03401,2,*Nord. Tiefld,
-27777,Ganderkesee,03458,2,*Nord. Tiefld,
-27793,Wildeshausen,03458,2,*Nord. Tiefld,
-27798,Hude (Oldenburg),03458,2,*Nord. Tiefld,
-27801,Dötlingen,03458,2,*Nord. Tiefld,
-27804,Berne,03461,2,*Nord. Tiefld,
-27809,Lemwerder,03461,2,*Nord. Tiefld,
-28195,Bremen,04011,2,*Nord. Tiefld,
-28197,Bremen,04011,2,*Nord. Tiefld,
-28199,Bremen,04011,2,*Nord. Tiefld,
-28201,Bremen,04011,2,*Nord. Tiefld,
-28203,Bremen,04011,2,*Nord. Tiefld,
-28205,Bremen,04011,2,*Nord. Tiefld,
-28207,Bremen,04011,2,*Nord. Tiefld,
-28209,Bremen,04011,2,*Nord. Tiefld,
-28211,Bremen,04011,2,*Nord. Tiefld,
-28213,Bremen,04011,2,*Nord. Tiefld,
-28215,Bremen,04011,2,*Nord. Tiefld,
-28217,Bremen,04011,2,*Nord. Tiefld,
-28219,Bremen,04011,2,*Nord. Tiefld,
-28237,Bremen,04011,2,*Nord. Tiefld,
-28239,Bremen,04011,2,*Nord. Tiefld,
-28259,Bremen,04011,2,*Nord. Tiefld,
-28277,Bremen,04011,2,*Nord. Tiefld,
-28279,Bremen,04011,2,*Nord. Tiefld,
-28307,Bremen,04011,2,*Nord. Tiefld,
-28309,Bremen,04011,2,*Nord. Tiefld,
-28325,Bremen,04011,2,*Nord. Tiefld,
-28327,Bremen,04011,2,*Nord. Tiefld,
-28329,Bremen,04011,2,*Nord. Tiefld,
-28355,Bremen,04011,2,*Nord. Tiefld,
-28357,Bremen,04011,2,*Nord. Tiefld,
-28359,Bremen,04011,2,*Nord. Tiefld,
-28717,Bremen,04011,2,*Nord. Tiefld,
-28719,Bremen,04011,2,*Nord. Tiefld,
-28755,Bremen,04011,2,*Nord. Tiefld,
-28757,Bremen,04011,2,*Nord. Tiefld,
-28759,Bremen,04011,2,*Nord. Tiefld,
-28777,Bremen,04011,2,*Nord. Tiefld,
-28779,Bremen,04011,2,*Nord. Tiefld,
-28790,Schwanewede,03356,2,*Nord. Tiefld,
-28816,Stuhr,03251,2,*Nord. Tiefld,
-28832,Achim,03361,2,*Nord. Tiefld,
-28844,Weyhe,03251,2,*Nord. Tiefld,
-28857,Syke,03251,2,*Nord. Tiefld,
-28865,Lilienthal,03356,2,*Nord. Tiefld,
-28870,Ottersberg,03361,2,*Nord. Tiefld,
-28876,Oyten,03361,2,*Nord. Tiefld,
-28879,Grasberg,03356,2,*Nord. Tiefld,
-29221,Celle,03351,2,*Nord. Tiefld,
-29223,Celle,03351,2,*Nord. Tiefld,
-29225,Celle,03351,2,*Nord. Tiefld,
-29227,Celle,03351,2,*Nord. Tiefld,
-29229,"Celle, Wittbeck",03351,2,*Nord. Tiefld,
-29303,"Bergen, Lohheide u.a.",03351,2,*Nord. Tiefld,
-29308,Winsen (Aller),03351,2,*Nord. Tiefld,
-29313,Hambühren,03351,2,*Nord. Tiefld,
-29320,Hermannsburg,03351,2,*Nord. Tiefld,
-29323,Wietze,03351,2,*Nord. Tiefld,
-29328,Faßberg,03351,2,*Nord. Tiefld,
-29331,Lachendorf,03351,2,*Nord. Tiefld,
-29336,Nienhagen,03351,2,*Nord. Tiefld,
-29339,Wathlingen,03351,2,*Nord. Tiefld,
-29342,Wienhausen,03351,2,*Nord. Tiefld,
-29345,Unterlüß,03351,2,*Nord. Tiefld,
-29348,Eschede,03351,2,*Nord. Tiefld,
-29351,Eldingen,03351,2,*Nord. Tiefld,
-29352,Adelheidsdorf,03351,2,*Nord. Tiefld,
-29353,Ahnsbeck,03351,2,*Nord. Tiefld,
-29355,Beedenbostel,03351,2,*Nord. Tiefld,
-29356,Bröckel,03351,2,*Nord. Tiefld,
-29358,Eicklingen,03351,2,*Nord. Tiefld,
-29359,Habighorst,03351,2,*Nord. Tiefld,
-29361,Höfer,03351,2,*Nord. Tiefld,
-29362,Hohne,03351,2,*Nord. Tiefld,
-29364,Langlingen,03351,2,*Nord. Tiefld,
-29365,Sprakensehl,03151,2,*Nord. Tiefld,
-29367,Steinhorst,03151,2,*Nord. Tiefld,
-29369,Ummern,03151,2,*Nord. Tiefld,
-29378,Wittingen,03151,2,*Nord. Tiefld,
-29379,Wittingen,03151,2,*Nord. Tiefld,
-29386,"Hankensbüttel, Obernholz, Dedelstorf",03151,2,*Nord. Tiefld,
-29389,Bad Bodenteich,03360,2,*Nord. Tiefld,
-29392,Wesendorf,03151,2,*Nord. Tiefld,
-29393,Groß Oesingen,03151,2,*Nord. Tiefld,
-29394,Lüder,03360,2,*Nord. Tiefld,
-29396,Schönewörde,03151,2,*Nord. Tiefld,
-29399,Wahrenholz,03151,2,*Nord. Tiefld,
+24103,Kiel,01002,2,*Nordd. Tiefl.,
+24105,Kiel,01002,2,*Nordd. Tiefl.,
+24106,Kiel,01002,2,*Nordd. Tiefl.,
+24107,Kiel,01058,2,*Nordd. Tiefl.,
+24109,Melsdorf,01002,2,*Nordd. Tiefl.,
+24111,Kiel Russee,01002,2,*Nordd. Tiefl.,
+24113,Kiel,01058,2,*Nordd. Tiefl.,
+24114,Kiel,01002,2,*Nordd. Tiefl.,
+24116,Kiel,01002,2,*Nordd. Tiefl.,
+24118,Kiel,01002,2,*Nordd. Tiefl.,
+24119,Kronshagen,01058,2,*Nordd. Tiefl.,
+24143,Kiel,01002,2,*Nordd. Tiefl.,
+24145,Kiel,01002,2,*Nordd. Tiefl.,
+24146,Kiel,01002,2,*Nordd. Tiefl.,
+24147,Kiel,01002,2,*Nordd. Tiefl.,
+24148,Kiel,01002,2,*Nordd. Tiefl.,
+24149,Kiel,01002,2,*Nordd. Tiefl.,
+24159,Kiel,01002,2,*Nordd. Tiefl.,
+24161,Altenholz,01058,2,*Nordd. Tiefl.,
+24211,Preetz,01057,2,*Nordd. Tiefl.,
+24214,Gettorf u.a.,01058,2,*Nordd. Tiefl.,
+24217,Schönberg (Holstein),01057,2,*Nordd. Tiefl.,
+24220,Flintbek,01058,2,*Nordd. Tiefl.,
+24222,Schwentinental,01057,2,*Nordd. Tiefl.,
+24223,Schwentinetal,01057,2,*Nordd. Tiefl.,
+24226,Heikendorf,01057,2,*Nordd. Tiefl.,
+24229,Dänischenhagen,01058,2,*Nordd. Tiefl.,
+24232,Schönkirchen,01057,2,*Nordd. Tiefl.,
+24235,Laboe,01057,2,*Nordd. Tiefl.,
+24238,Selent,01057,2,*Nordd. Tiefl.,
+24239,Achterwehr,01058,2,*Nordd. Tiefl.,
+24241,Blumenthal,01058,2,*Nordd. Tiefl.,
+24242,Felde,01058,2,*Nordd. Tiefl.,
+24244,Felm,01058,2,*Nordd. Tiefl.,
+24245,Kirchbarkau,01057,2,*Nordd. Tiefl.,
+24247,Mielkendorf,01058,2,*Nordd. Tiefl.,
+24248,Mönkeberg,01057,2,*Nordd. Tiefl.,
+24250,Nettelsee,01057,2,*Nordd. Tiefl.,
+24251,Osdorf,01058,2,*Nordd. Tiefl.,
+24253,Probsteierhagen,01057,2,*Nordd. Tiefl.,
+24254,Rumohr,01058,2,*Nordd. Tiefl.,
+24256,Fargau-Pratjau,01057,2,*Nordd. Tiefl.,
+24257,Hohenfelde,01057,2,*Nordd. Tiefl.,
+24259,Westensee,01058,2,*Nordd. Tiefl.,
+24306,Plön,01057,2,*Nordd. Tiefl.,
+24321,Lütjenburg,01057,2,*Nordd. Tiefl.,
+24326,Ascheberg,01057,2,*Nordd. Tiefl.,
+24327,Blekendorf,01057,2,*Nordd. Tiefl.,
+24329,Grebin,01057,2,*Nordd. Tiefl.,
+24340,Eckernförde,01058,2,*Nordd. Tiefl.,
+24351,Damp,01058,2,*Nordd. Tiefl.,
+24354,"Kosel, Rieseby u.a.",01058,2,*Nordd. Tiefl.,
+24357,Fleckeby u.a.,01058,2,*Nordd. Tiefl.,
+24358,Ascheffel,01058,2,*Nordd. Tiefl.,
+24360,Barkelsby,01058,2,*Nordd. Tiefl.,
+24361,Groß Wittensee u.a.,01058,2,*Nordd. Tiefl.,
+24363,Holtsee,01058,2,*Nordd. Tiefl.,
+24364,Holzdorf,01058,2,*Nordd. Tiefl.,
+24366,Loose,01058,2,*Nordd. Tiefl.,
+24367,Osterby,01058,2,*Nordd. Tiefl.,
+24369,Waabs,01058,2,*Nordd. Tiefl.,
+24376,Kappeln,01059,2,*Nordd. Tiefl.,
+24392,Süderbrarup,01059,2,*Nordd. Tiefl.,
+24395,Gelting,01059,2,*Nordd. Tiefl.,
+24398,Dörphof,01058,2,*Nordd. Tiefl.,
+24399,"Arnis, Marienhof",01059,2,*Nordd. Tiefl.,
+24401,Böel,01059,2,*Nordd. Tiefl.,
+24402,Esgrus,01059,2,*Nordd. Tiefl.,
+24404,"Maasholm, Schleimünde",01059,2,*Nordd. Tiefl.,
+24405,"Mohrkirch, Rügge",01059,2,*Nordd. Tiefl.,
+24407,Rabenkirchen-Faulück,01059,2,*Nordd. Tiefl.,
+24409,Stoltebüll,01059,2,*Nordd. Tiefl.,
+24534,Neumünster,01004,2,*Nordd. Tiefl.,
+24536,Neumünster,01057,2,*Nordd. Tiefl.,
+24537,Neumünster,01004,2,*Nordd. Tiefl.,
+24539,Neumünster,01004,2,*Nordd. Tiefl.,
+24558,Henstedt-Ulzburg,01060,2,*Nordd. Tiefl.,
+24568,Kaltenkirchen,01060,2,*Nordd. Tiefl.,
+24576,Bad Bramstedt,01060,2,*Nordd. Tiefl.,
+24582,Bordesholm,01058,2,*Nordd. Tiefl.,
+24589,Nortorf,01058,2,*Nordd. Tiefl.,
+24594,Hohenwestedt,01058,2,*Nordd. Tiefl.,
+24598,Boostedt,01060,2,*Nordd. Tiefl.,
+24601,Wankendorf,01057,2,*Nordd. Tiefl.,
+24610,Trappenkamp,01060,2,*Nordd. Tiefl.,
+24613,"Aukrug, Wiedenborstel",01061,2,*Nordd. Tiefl.,
+24616,Brokstedt,01061,2,*Nordd. Tiefl.,
+24619,Börnhöved,01060,2,*Nordd. Tiefl.,
+24620,Bönebüttel,01057,2,*Nordd. Tiefl.,
+24622,Gnutz,01058,2,*Nordd. Tiefl.,
+24623,Großenaspe,01060,2,*Nordd. Tiefl.,
+24625,Großharrie,01058,2,*Nordd. Tiefl.,
+24626,Groß Kummerfeld,01060,2,*Nordd. Tiefl.,
+24628,Hartenholm,01060,2,*Nordd. Tiefl.,
+24629,Kisdorf,01060,2,*Nordd. Tiefl.,
+24631,Langwedel,01058,2,*Nordd. Tiefl.,
+24632,Lentföhrden,01060,2,*Nordd. Tiefl.,
+24634,Padenstedt,01058,2,*Nordd. Tiefl.,
+24635,Rickling,01060,2,*Nordd. Tiefl.,
+24637,Schillsdorf,01057,2,*Nordd. Tiefl.,
+24638,Schmalensee,01060,2,*Nordd. Tiefl.,
+24640,Schmalfeld,01060,2,*Nordd. Tiefl.,
+24641,Sievershütten,01060,2,*Nordd. Tiefl.,
+24643,Struvenhütten,01060,2,*Nordd. Tiefl.,
+24644,Timmaspe,01058,2,*Nordd. Tiefl.,
+24646,Warder,01058,2,*Nordd. Tiefl.,
+24647,Wasbek,01058,2,*Nordd. Tiefl.,
+24649,Wiemersdorf,01060,2,*Nordd. Tiefl.,
+24768,Rendsburg,01058,2,*Nordd. Tiefl.,
+24782,"Büdelsdorf, Rickert",01058,2,*Nordd. Tiefl.,
+24783,Osterrönfeld,01058,2,*Nordd. Tiefl.,
+24784,Westerrönfeld,01058,2,*Nordd. Tiefl.,
+24787,Fockbek,01058,2,*Nordd. Tiefl.,
+24790,Schacht-Audorf,01058,2,*Nordd. Tiefl.,
+24791,Alt Duvenstedt,01058,2,*Nordd. Tiefl.,
+24793,"Bargstedt, Brammer, Oldenbüttel",01058,2,*Nordd. Tiefl.,
+24794,Borgstedt,01058,2,*Nordd. Tiefl.,
+24796,Bredenbek,01058,2,*Nordd. Tiefl.,
+24797,Breiholz u.a.,01058,2,*Nordd. Tiefl.,
+24799,"Meggerdorf, Friedrichsholm, Friedrichsgraben u.a.",01058,2,*Nordd. Tiefl.,
+24800,Elsdorf-Westermühlen,01058,2,*Nordd. Tiefl.,
+24802,Emkendorf,01058,2,*Nordd. Tiefl.,
+24803,Erfde,01059,2,*Nordd. Tiefl.,
+24805,Hamdorf,01058,2,*Nordd. Tiefl.,
+24806,Hohn,01058,2,*Nordd. Tiefl.,
+24808,Jevenstedt,01058,2,*Nordd. Tiefl.,
+24809,Nübbel,01058,2,*Nordd. Tiefl.,
+24811,Owschlag u.a.,01058,2,*Nordd. Tiefl.,
+24813,Schülp bei Rendsburg,01058,2,*Nordd. Tiefl.,
+24814,Sehestedt,01058,2,*Nordd. Tiefl.,
+24816,Hamweddel,01058,2,*Nordd. Tiefl.,
+24817,Tetenhusen,01059,2,*Nordd. Tiefl.,
+24819,Todenbüttel,01058,2,*Nordd. Tiefl.,
+24837,Schleswig,01059,2,*Nordd. Tiefl.,
+24848,Kropp u.a.,01058,2,*Nordd. Tiefl.,
+24850,Schuby,01059,2,*Nordd. Tiefl.,
+24852,"Eggebek, Langstedt, Sollerup, Süderhackstedt",01059,2,*Nordd. Tiefl.,
+24855,"Bollingstedt, Jübek",01059,2,*Nordd. Tiefl.,
+24857,Fahrdorf,01059,2,*Nordd. Tiefl.,
+24860,Böklund u.a.,01059,2,*Nordd. Tiefl.,
+24861,Bergenhusen,01059,2,*Nordd. Tiefl.,
+24863,Börm,01059,2,*Nordd. Tiefl.,
+24864,"Brodersby, Goltoft",01059,2,*Nordd. Tiefl.,
+24866,Busdorf,01059,2,*Nordd. Tiefl.,
+24867,Dannewerk,01059,2,*Nordd. Tiefl.,
+24869,Dörpstedt,01059,2,*Nordd. Tiefl.,
+24870,Ellingstedt,01059,2,*Nordd. Tiefl.,
+24872,Groß Rheide,01059,2,*Nordd. Tiefl.,
+24873,Havetoft,01059,2,*Nordd. Tiefl.,
+24876,Hollingstedt,01059,2,*Nordd. Tiefl.,
+24878,"Jagel, Lottorf",01059,2,*Nordd. Tiefl.,
+24879,Idstedt,01059,2,*Nordd. Tiefl.,
+24881,Nübel,01059,2,*Nordd. Tiefl.,
+24882,"Schaalby, Geelbek",01059,2,*Nordd. Tiefl.,
+24884,"Selk, Geltdorf, Hahnekrug",01059,2,*Nordd. Tiefl.,
+24885,Sieverstedt,01059,2,*Nordd. Tiefl.,
+24887,"Silberstedt, Schwittschau",01059,2,*Nordd. Tiefl.,
+24888,"Steinfeld, Loit",01059,2,*Nordd. Tiefl.,
+24890,Stolk,01059,2,*Nordd. Tiefl.,
+24891,"Struxdorf, Schnarup-Thumby",01059,2,*Nordd. Tiefl.,
+24893,Taarstedt,01059,2,*Nordd. Tiefl.,
+24894,"Tolk, Twedt",01059,2,*Nordd. Tiefl.,
+24896,"Treia, Ahrenviölfeld",01059,2,*Nordd. Tiefl.,
+24897,Ulsnis,01059,2,*Nordd. Tiefl.,
+24899,Wohlde,01059,2,*Nordd. Tiefl.,
+24937,Flensburg,01001,2,*Nordd. Tiefl.,
+24939,Flensburg,01001,2,*Nordd. Tiefl.,
+24941,Flensburg,01001,2,*Nordd. Tiefl.,
+24943,"Flensburg, Tastrup",01001,2,*Nordd. Tiefl.,
+24944,Flensburg,01001,2,*Nordd. Tiefl.,
+24955,Harrislee,01059,2,*Nordd. Tiefl.,
+24960,"Glücksburg, Munkbrarup",01059,2,*Nordd. Tiefl.,
+24963,Tarp,01059,2,*Nordd. Tiefl.,
+24966,Sörup,01059,2,*Nordd. Tiefl.,
+24969,"Großenwiehe, Lindewitt",01059,2,*Nordd. Tiefl.,
+24972,"Steinberg, Steinbergkirche",01059,2,*Nordd. Tiefl.,
+24975,Husby,01059,2,*Nordd. Tiefl.,
+24976,Handewitt,01059,2,*Nordd. Tiefl.,
+24977,Langballig,01059,2,*Nordd. Tiefl.,
+24980,"Schafflund, Meyn u.a.",01059,2,*Nordd. Tiefl.,
+24983,Handewitt,01059,2,*Nordd. Tiefl.,
+24986,Mittelangeln,01059,2,*Nordd. Tiefl.,
+24988,Oeversee,01059,2,*Nordd. Tiefl.,
+24989,Dollerup,01059,2,*Nordd. Tiefl.,
+24991,Großsolt,01059,2,*Nordd. Tiefl.,
+24992,Jörl,01059,2,*Nordd. Tiefl.,
+24994,Medelby,01059,2,*Nordd. Tiefl.,
+24996,Sterup,01059,2,*Nordd. Tiefl.,
+24997,Wanderup,01059,2,*Nordd. Tiefl.,
+24999,Wees,01059,2,*Nordd. Tiefl.,
+25335,Elmshorn,01061,2,*Nordd. Tiefl.,
+25336,Elmshorn,01056,2,*Nordd. Tiefl.,ZIP code 27498 is zone 1
+25337,Elmshorn,01056,2,*Nordd. Tiefl.,ZIP code 27498 is zone 1
+25348,Glückstadt,01061,2,*Nordd. Tiefl.,
+25355,Barmstedt,01056,2,*Nordd. Tiefl.,ZIP code 27498 is zone 1
+25358,Horst,01061,2,*Nordd. Tiefl.,
+25361,"Krempe, Grevenkop, Süderau, Muchelndorf",01061,2,*Nordd. Tiefl.,
+25364,Brande-Hörnerkirchen,01056,2,*Nordd. Tiefl.,ZIP code 27498 is zone 1
+25365,Klein Offenseth-Sparrieshoop,01056,2,*Nordd. Tiefl.,ZIP code 27498 is zone 1
+25368,Kiebitzreihe,01061,2,*Nordd. Tiefl.,
+25370,Seester,01056,2,*Nordd. Tiefl.,ZIP code 27498 is zone 1
+25371,Seestermühe,01056,2,*Nordd. Tiefl.,ZIP code 27498 is zone 1
+25373,Ellerhoop,01056,2,*Nordd. Tiefl.,ZIP code 27498 is zone 1
+25376,Borsfleth,01061,2,*Nordd. Tiefl.,
+25377,"Kollmar, Pagensand",01061,2,*Nordd. Tiefl.,
+25379,"Herzhorn, Kamerlanderdeich",01061,2,*Nordd. Tiefl.,
+25421,Pinneberg,01056,2,*Nordd. Tiefl.,ZIP code 27498 is zone 1
+25436,Uetersen,01056,2,*Nordd. Tiefl.,ZIP code 27498 is zone 1
+25451,Quickborn,01056,2,*Nordd. Tiefl.,ZIP code 27498 is zone 1
+25462,Rellingen,01056,2,*Nordd. Tiefl.,ZIP code 27498 is zone 1
+25469,Halstenbek,01056,2,*Nordd. Tiefl.,ZIP code 27498 is zone 1
+25474,Ellerbek,01056,2,*Nordd. Tiefl.,ZIP code 27498 is zone 1
+25479,Ellerau,01060,2,*Nordd. Tiefl.,
+25482,Appen,01056,2,*Nordd. Tiefl.,ZIP code 27498 is zone 1
+25485,Hemdingen,01056,2,*Nordd. Tiefl.,ZIP code 27498 is zone 1
+25486,Alveslohe,01060,2,*Nordd. Tiefl.,
+25488,Holm,01056,2,*Nordd. Tiefl.,ZIP code 27498 is zone 1
+25489,Haseldorf,01056,2,*Nordd. Tiefl.,ZIP code 27498 is zone 1
+25491,Hetlingen,01056,2,*Nordd. Tiefl.,ZIP code 27498 is zone 1
+25492,Heist,01056,2,*Nordd. Tiefl.,ZIP code 27498 is zone 1
+25494,Borstel-Hohenraden,01056,2,*Nordd. Tiefl.,ZIP code 27498 is zone 1
+25495,Kummerfeld,01056,2,*Nordd. Tiefl.,ZIP code 27498 is zone 1
+25497,Prisdorf,01056,2,*Nordd. Tiefl.,ZIP code 27498 is zone 1
+25499,Tangstedt,01056,2,*Nordd. Tiefl.,ZIP code 27498 is zone 1
+25524,Itzehoe,01061,2,*Nordd. Tiefl.,
+25541,Brunsbüttel,01051,2,*Nordd. Tiefl.,
+25548,Kellinghusen,01061,2,*Nordd. Tiefl.,
+25551,Hohenlockstedt,01061,2,*Nordd. Tiefl.,
+25554,Wilster,01061,2,*Nordd. Tiefl.,
+25557,"Hanerau-Hademarschen, Seefeld u.a.",01058,2,*Nordd. Tiefl.,
+25560,Schenefeld,01061,2,*Nordd. Tiefl.,
+25563,Wrist,01060,2,*Nordd. Tiefl.,
+25566,Lägerdorf,01061,2,*Nordd. Tiefl.,
+25569,Kremperheide,01061,2,*Nordd. Tiefl.,
+25572,Sankt Margarethen,01061,2,*Nordd. Tiefl.,
+25573,"Beidenfleth, Klein Kampen",01061,2,*Nordd. Tiefl.,
+25575,Beringstedt,01058,2,*Nordd. Tiefl.,
+25576,Brokdorf,01061,2,*Nordd. Tiefl.,
+25578,"Dägeling, Neuenbrook",01061,2,*Nordd. Tiefl.,
+25579,Fitzbek,01061,2,*Nordd. Tiefl.,
+25581,Hennstedt,01061,2,*Nordd. Tiefl.,
+25582,Hohenaspe,01061,2,*Nordd. Tiefl.,
+25584,Holstenniendorf,01061,2,*Nordd. Tiefl.,
+25585,"Lütjenwestedt, Tackesdorf",01058,2,*Nordd. Tiefl.,
+25587,Münsterdorf,01061,2,*Nordd. Tiefl.,
+25588,Oldendorf,01061,2,*Nordd. Tiefl.,
+25590,Osterstedt,01058,2,*Nordd. Tiefl.,
+25591,Ottenbüttel,01061,2,*Nordd. Tiefl.,
+25593,Reher,01061,2,*Nordd. Tiefl.,
+25594,Vaale,01061,2,*Nordd. Tiefl.,
+25596,Wacken,01061,2,*Nordd. Tiefl.,
+25597,Westermoor,01061,2,*Nordd. Tiefl.,
+25599,Wewelsfleth,01061,2,*Nordd. Tiefl.,
+25693,"Sankt Michaelisdonn, Gudendorf, Volsemenhusen, Trennewurth",01051,2,*Nordd. Tiefl.,
+25704,Meldorf,01051,2,*Nordd. Tiefl.,
+25709,"Kronprinzenkoog, Marne u.a.",01051,2,*Nordd. Tiefl.,
+25712,Burg (Dithmarschen),01051,2,*Nordd. Tiefl.,
+25715,"Eddelak, Averlak, Dingen, Ramhusen",01051,2,*Nordd. Tiefl.,
+25718,Friedrichskoog,01051,2,*Nordd. Tiefl.,
+25719,"Barlt, Busenwurth",01051,2,*Nordd. Tiefl.,
+25721,Eggstedt,01051,2,*Nordd. Tiefl.,
+25724,"Neufeld, Schmedeswurth",01051,2,*Nordd. Tiefl.,
+25725,"Schafstedt, Weidenhof, Bornholt",01051,2,*Nordd. Tiefl.,
+25727,Süderhastedt,01051,2,*Nordd. Tiefl.,
+25729,Windbergen,01051,2,*Nordd. Tiefl.,
+25746,Heide u.a.,01051,2,*Nordd. Tiefl.,
+25761,Büsum,01051,2,*Nordd. Tiefl.,
+25764,Wesselburen,01051,2,*Nordd. Tiefl.,
+25767,Albersdorf,01051,2,*Nordd. Tiefl.,
+25770,Hemmingstedt,01051,2,*Nordd. Tiefl.,
+25774,Lunden,01051,2,*Nordd. Tiefl.,
+25776,"Sankt Annen, Rehm-Flehde-Bargen",01051,2,*Nordd. Tiefl.,
+25779,Hennstedt,01051,2,*Nordd. Tiefl.,
+25782,Tellingstedt,01051,2,*Nordd. Tiefl.,
+25785,Nordhastedt,01051,2,*Nordd. Tiefl.,
+25786,Dellstedt,01051,2,*Nordd. Tiefl.,
+25788,Delve,01051,2,*Nordd. Tiefl.,
+25791,"Linden, Barkenholm",01051,2,*Nordd. Tiefl.,
+25792,Neuenkirchen,01051,2,*Nordd. Tiefl.,
+25794,Pahlen,01051,2,*Nordd. Tiefl.,
+25795,Weddingstedt,01051,2,*Nordd. Tiefl.,
+25797,Wöhrden,01051,2,*Nordd. Tiefl.,
+25799,Wrohm,01051,2,*Nordd. Tiefl.,
+25813,"Husum, Schwesing u.a.",01054,2,*Nordd. Tiefl.,
+25821,"Bredstedt, Breklum u.a.",01054,2,*Nordd. Tiefl.,
+25826,Sankt Peter-Ording,01054,2,*Nordd. Tiefl.,
+25832,Tönning,01054,2,*Nordd. Tiefl.,
+25836,"Garding, Osterhever, Poppenbüll u.a.",01054,2,*Nordd. Tiefl.,
+25840,"Friedrichstadt, Koldenbüttel u.a.",01054,2,*Nordd. Tiefl.,
+25842,"Langenhorn, Ockholm u.a.",01054,2,*Nordd. Tiefl.,
+25845,"Nordstrand, Elisabeth-Sophien-Koog, Südfall",01054,2,*Nordd. Tiefl.,
+25849,"Süderoog, Pellworm",01054,2,*Nordd. Tiefl.,
+25850,"Behrendorf, Bondelum",01054,2,*Nordd. Tiefl.,
+25852,Bordelum,01054,2,*Nordd. Tiefl.,
+25853,Ahrenshöft,01054,2,*Nordd. Tiefl.,
+25855,Haselund,01054,2,*Nordd. Tiefl.,
+25856,Hattstedt u.a.,01054,2,*Nordd. Tiefl.,
+25858,Högel,01054,2,*Nordd. Tiefl.,
+25859,Hallig Hooge,01054,2,*Nordd. Tiefl.,
+25860,Horstedt,01054,2,*Nordd. Tiefl.,
+25862,Joldelund,01054,2,*Nordd. Tiefl.,
+25863,Langeneß,01054,2,*Nordd. Tiefl.,
+25864,Löwenstedt,01054,2,*Nordd. Tiefl.,
+25866,Mildstedt,01054,2,*Nordd. Tiefl.,
+25867,Oland,01054,2,*Nordd. Tiefl.,
+25869,"Habel, Gröde",01054,2,*Nordd. Tiefl.,
+25870,Oldenswort,01054,2,*Nordd. Tiefl.,
+25872,Ostenfeld,01054,2,*Nordd. Tiefl.,
+25873,Rantrum,01054,2,*Nordd. Tiefl.,
+25876,Schwabstedt,01054,2,*Nordd. Tiefl.,
+25878,"Drage, Seeth",01054,2,*Nordd. Tiefl.,
+25879,Stapel,01059,2,*Nordd. Tiefl.,
+25881,"Tating, Westerhever, Tümlauer Koog",01054,2,*Nordd. Tiefl.,
+25882,Tetenbüll,01054,2,*Nordd. Tiefl.,
+25884,Viöl,01054,2,*Nordd. Tiefl.,
+25885,Wester-Ohrstedt,01054,2,*Nordd. Tiefl.,
+25887,Winnert,01054,2,*Nordd. Tiefl.,
+25889,"Uelvesbüll, Witzwort",01054,2,*Nordd. Tiefl.,
+25899,Niebüll,01054,2,*Nordd. Tiefl.,
+25917,Leck,01054,2,*Nordd. Tiefl.,
+25920,"Risum-Lindholm, Stedesand",01054,2,*Nordd. Tiefl.,
+25923,"Süderlügum, Braderup u.a.",01054,2,*Nordd. Tiefl.,
+25924,Rodenäs,01054,2,*Nordd. Tiefl.,
+25926,Ladelund,01054,2,*Nordd. Tiefl.,
+25927,"Neukirchen, Aventoft",01054,2,*Nordd. Tiefl.,
+25938,Föhr,01054,2,*Nordd. Tiefl.,
+25946,Amrum,01054,2,*Nordd. Tiefl.,
+25980,Sylt,01054,2,*Nordd. Tiefl.,
+25992,List,01054,2,*Nordd. Tiefl.,
+25996,Wenningstedt-Braderup (Sylt),01054,2,*Nordd. Tiefl.,
+25997,Hörnum (Sylt),01054,2,*Nordd. Tiefl.,
+25999,Kampen (Sylt),01054,2,*Nordd. Tiefl.,
+26121,Oldenburg (Oldenburg),03403,2,*Nordd. Tiefl.,
+26122,Oldenburg,03403,2,*Nordd. Tiefl.,
+26123,Oldenburg (Oldenburg),03403,2,*Nordd. Tiefl.,
+26125,Oldenburg (Oldenburg),03403,2,*Nordd. Tiefl.,
+26127,Oldenburg (Oldenburg),03403,2,*Nordd. Tiefl.,
+26129,Oldenburg (Oldenburg),03403,2,*Nordd. Tiefl.,
+26131,Oldenburg (Oldenburg),03403,2,*Nordd. Tiefl.,
+26133,Oldenburg (Oldenburg),03403,2,*Nordd. Tiefl.,
+26135,Oldenburg (Oldenburg),03403,2,*Nordd. Tiefl.,
+26160,Bad Zwischenahn,03451,1,*Nordd. Tiefl.,
+26169,Friesoythe,03453,2,*Nordd. Tiefl.,
+26180,Rastede,03451,1,*Nordd. Tiefl.,
+26188,Edewecht,03451,1,*Nordd. Tiefl.,
+26197,Großenkneten,03458,2,*Nordd. Tiefl.,
+26203,Wardenburg,03458,2,*Nordd. Tiefl.,
+26209,Hatten,03458,2,*Nordd. Tiefl.,
+26215,Wiefelstede,03451,1,*Nordd. Tiefl.,
+26219,Bösel,03453,2,*Nordd. Tiefl.,
+26316,Varel,03455,1,*Nordd. Tiefl.,
+26340,Zetel,03455,1,*Nordd. Tiefl.,
+26345,Bockhorn,03455,1,*Nordd. Tiefl.,
+26349,Jade,03461,2,*Nordd. Tiefl.,
+26382,Wilhelmshaven,03405,1,*Nordd. Tiefl.,
+26384,Wilhelmshaven,03405,1,*Nordd. Tiefl.,
+26386,Wilhelmshaven,03405,1,*Nordd. Tiefl.,
+26388,Wilhelmshaven,03405,1,*Nordd. Tiefl.,
+26389,Wilhelmshaven,03405,1,*Nordd. Tiefl.,
+26409,Wittmund,03462,1,*Nordd. Tiefl.,
+26419,Schortens,03455,1,*Nordd. Tiefl.,
+26427,"Esens, Neuharlingersiel u.a.",03462,1,*Nordd. Tiefl.,
+26434,Wangerland,03455,1,*Nordd. Tiefl.,
+26441,Jever,03455,1,*Nordd. Tiefl.,
+26446,Friedeburg,03462,1,*Nordd. Tiefl.,
+26452,Sande,03455,1,*Nordd. Tiefl.,
+26465,Langeoog,03462,1,*Nordd. Tiefl.,
+26474,Spiekeroog,03462,1,*Nordd. Tiefl.,
+26486,Wangerooge,03455,1,*Nordd. Tiefl.,
+26487,"Blomberg, Neuschoo",03462,1,*Nordd. Tiefl.,
+26489,Ochtersum,03462,1,*Nordd. Tiefl.,
+26506,Norden,03452,1,*Nordd. Tiefl.,
+26524,"Hage, Halbemond u.a.",03452,1,*Nordd. Tiefl.,
+26529,"Upgant-Schott, Osteel u.a.",03452,1,*Nordd. Tiefl.,
+26532,Großheide,03452,1,*Nordd. Tiefl.,
+26548,Norderney,03452,1,*Nordd. Tiefl.,
+26553,Dornum,03452,1,*Nordd. Tiefl.,
+26556,"Westerholt, Schweindorf u.a.",03462,1,*Nordd. Tiefl.,
+26571,"Juist, Memmert",03452,1,*Nordd. Tiefl.,
+26579,Baltrum,03452,1,*Nordd. Tiefl.,
+26603,Aurich,03452,1,*Nordd. Tiefl.,
+26605,Aurich,03452,1,*Nordd. Tiefl.,
+26607,Aurich,03452,1,*Nordd. Tiefl.,
+26624,Südbrookmerland,03452,1,*Nordd. Tiefl.,
+26629,Großefehn,03452,1,*Nordd. Tiefl.,
+26632,Ihlow,03452,1,*Nordd. Tiefl.,
+26639,Wiesmoor,03452,1,*Nordd. Tiefl.,
+26655,Westerstede,03451,1,*Nordd. Tiefl.,
+26670,Uplengen,03457,1,*Nordd. Tiefl.,
+26676,Barßel,03453,2,*Nordd. Tiefl.,
+26683,Saterland,03453,2,*Nordd. Tiefl.,
+26689,Apen,03451,1,*Nordd. Tiefl.,
+26721,Emden,03402,1,*Nordd. Tiefl.,
+26723,Emden,03402,1,*Nordd. Tiefl.,
+26725,Emden,03402,1,*Nordd. Tiefl.,
+26736,Krummhörn,03452,1,*Nordd. Tiefl.,
+26757,Borkum,03457,1,*Nordd. Tiefl.,
+26759,Hinte,03452,1,*Nordd. Tiefl.,
+26789,Leer,03457,1,*Nordd. Tiefl.,
+26802,Moormerland,03457,1,*Nordd. Tiefl.,
+26810,Westoverledingen,03457,1,*Nordd. Tiefl.,
+26817,Rhauderfehn,03457,1,*Nordd. Tiefl.,
+26826,Weener,03457,1,*Nordd. Tiefl.,
+26831,Bunde,03457,1,*Nordd. Tiefl.,
+26835,"Hesel, Neukamperfehn u.a.",03457,1,*Nordd. Tiefl.,
+26842,Ostrhauderfehn,03457,1,*Nordd. Tiefl.,
+26844,Jemgum,03457,1,*Nordd. Tiefl.,
+26845,Nortmoor,03457,1,*Nordd. Tiefl.,
+26847,Detern,03457,1,*Nordd. Tiefl.,
+26849,Filsum,03457,1,*Nordd. Tiefl.,
+26871,Papenburg,03454,1,*Nordd. Tiefl.,
+26892,"Dörpen, Lehe, u.a.",03454,1,*Nordd. Tiefl.,
+26897,Esterwegen u.a.,03454,1,*Nordd. Tiefl.,
+26899,Rhede (Ems),03454,1,*Nordd. Tiefl.,
+26901,"Lorup, Rastdorf",03454,1,*Nordd. Tiefl.,
+26903,Surwold,03454,1,*Nordd. Tiefl.,
+26904,Börger,03454,1,*Nordd. Tiefl.,
+26906,Dersum,03454,1,*Nordd. Tiefl.,
+26907,Walchum,03454,1,*Nordd. Tiefl.,
+26909,"Neubörger, Neulehe",03454,1,*Nordd. Tiefl.,
+26919,Brake,03461,2,*Nordd. Tiefl.,
+26931,Elsfleth,03461,2,*Nordd. Tiefl.,
+26935,Stadland,03461,2,*Nordd. Tiefl.,
+26936,Stadland,03461,2,*Nordd. Tiefl.,
+26937,Stadland,03461,2,*Nordd. Tiefl.,
+26939,Ovelgönne,03461,2,*Nordd. Tiefl.,
+26954,Nordenham,03461,2,*Nordd. Tiefl.,
+26969,Butjadingen,03461,2,*Nordd. Tiefl.,
+27211,Bassum,03251,2,*Nordd. Tiefl.,
+27232,Sulingen,03251,2,*Nordd. Tiefl.,
+27239,Twistringen,03251,2,*Nordd. Tiefl.,
+27243,"Harpstedt, Groß Ippener, Colnrade u.a.",03458,2,*Nordd. Tiefl.,
+27245,"Bahrenborstel, Barenburg, Kirchdorf",03251,2,*Nordd. Tiefl.,
+27246,Borstel,03251,2,*Nordd. Tiefl.,
+27248,Ehrenburg,03251,2,*Nordd. Tiefl.,
+27249,"Maasen, Mellinghausen",03251,2,*Nordd. Tiefl.,
+27251,"Neuenkirchen, Scholen",03251,2,*Nordd. Tiefl.,
+27252,Schwaförden,03251,2,*Nordd. Tiefl.,
+27254,"Siedenburg, Staffhorst",03251,2,*Nordd. Tiefl.,
+27257,Affinghausen und Sudwalde,03251,2,*Nordd. Tiefl.,
+27259,"Freistatt, Varrel, Wehrbleck",03251,2,*Nordd. Tiefl.,
+27283,Verden,03361,2,*Nordd. Tiefl.,
+27299,Langwedel,03361,2,*Nordd. Tiefl.,
+27305,Bruchhausen-Vilsen,03251,2,*Nordd. Tiefl.,
+27308,Kirchlinteln,03361,2,*Nordd. Tiefl.,
+27313,Dörverden,03361,2,*Nordd. Tiefl.,
+27318,"Hoya, Hoyerhagen, Hilgermissen",03256,2,*Nordd. Tiefl.,
+27321,"Thedinghausen, Emtinghausen",03361,2,*Nordd. Tiefl.,
+27324,"Eystrup, Hassel u.a.",03256,2,*Nordd. Tiefl.,
+27327,"Martfeld, Schwarme",03251,2,*Nordd. Tiefl.,
+27330,Asendorf,03251,2,*Nordd. Tiefl.,
+27333,"Schweringen, Warpe, Bücken",03256,2,*Nordd. Tiefl.,
+27336,"Rethem (Aller), Häuslingen, Frankenfeld",03358,2,*Nordd. Tiefl.,
+27337,Blender,03361,2,*Nordd. Tiefl.,
+27339,Riede,03361,2,*Nordd. Tiefl.,
+27356,Rotenburg,03357,2,*Nordd. Tiefl.,
+27367,"Sottrum, Reeßum, Bötersen u.a.",03357,2,*Nordd. Tiefl.,
+27374,Visselhövede,03357,2,*Nordd. Tiefl.,
+27383,Scheeßel,03357,2,*Nordd. Tiefl.,
+27386,"Bothel, Kirchwalsede u.a.",03357,2,*Nordd. Tiefl.,
+27389,"Fintel, Lauenbrück u.a.",03357,2,*Nordd. Tiefl.,
+27404,"Zeven, Elsdorf",03357,2,*Nordd. Tiefl.,
+27412,"Tarmstedt, Breddorf u.a.",03357,2,*Nordd. Tiefl.,
+27419,Sittensen u.a.,03357,2,*Nordd. Tiefl.,
+27432,Bremervörde,03357,2,*Nordd. Tiefl.,
+27442,Gnarrenburg,03357,2,*Nordd. Tiefl.,
+27446,Selsingen,03357,2,*Nordd. Tiefl.,
+27449,Kutenholz,03359,2,*Nordd. Tiefl.,
+27472,Cuxhaven,03352,2,*Nordd. Tiefl.,
+27474,Cuxhaven,03352,2,*Nordd. Tiefl.,
+27476,Cuxhaven,03352,2,*Nordd. Tiefl.,
+27478,Cuxhaven,03352,2,*Nordd. Tiefl.,
+27498,Helgoland,01056,2,*Nordd. Tiefl.,ZIP code 27498 is zone 1
+27499,Neuwerk,02000,2,*Nordd. Tiefl.,
+27568,"Bremerhaven, Bremen",04012,2,*Nordd. Tiefl.,
+27570,Bremerhaven,04012,2,*Nordd. Tiefl.,
+27572,Bremerhaven,04012,2,*Nordd. Tiefl.,
+27574,Bremerhaven,04012,2,*Nordd. Tiefl.,
+27576,Bremerhaven,04012,2,*Nordd. Tiefl.,
+27578,Bremerhaven,04012,2,*Nordd. Tiefl.,
+27580,Bremerhaven,04012,2,*Nordd. Tiefl.,
+27607,Geestland,03352,2,*Nordd. Tiefl.,
+27612,Loxstedt,03352,2,*Nordd. Tiefl.,
+27616,Beverstedt,03352,2,*Nordd. Tiefl.,
+27619,Schiffdorf,03352,2,*Nordd. Tiefl.,
+27624,Geestland,03352,2,*Nordd. Tiefl.,
+27628,Hagen,03352,2,*Nordd. Tiefl.,
+27639,Wurster Nordseeküste,03352,2,*Nordd. Tiefl.,
+27711,Osterholz-Scharmbeck,03356,2,*Nordd. Tiefl.,
+27721,Ritterhude,03356,2,*Nordd. Tiefl.,
+27726,Worpswede,03356,2,*Nordd. Tiefl.,
+27729,"Hambergen, Holste u.a.",03356,2,*Nordd. Tiefl.,
+27749,Delmenhorst,03401,2,*Nordd. Tiefl.,
+27751,Delmenhorst,03401,2,*Nordd. Tiefl.,
+27753,Delmenhorst,03401,2,*Nordd. Tiefl.,
+27755,Delmenhorst,03401,2,*Nordd. Tiefl.,
+27777,Ganderkesee,03458,2,*Nordd. Tiefl.,
+27793,Wildeshausen,03458,2,*Nordd. Tiefl.,
+27798,Hude (Oldenburg),03458,2,*Nordd. Tiefl.,
+27801,Dötlingen,03458,2,*Nordd. Tiefl.,
+27804,Berne,03461,2,*Nordd. Tiefl.,
+27809,Lemwerder,03461,2,*Nordd. Tiefl.,
+28195,Bremen,04011,2,*Nordd. Tiefl.,
+28197,Bremen,04011,2,*Nordd. Tiefl.,
+28199,Bremen,04011,2,*Nordd. Tiefl.,
+28201,Bremen,04011,2,*Nordd. Tiefl.,
+28203,Bremen,04011,2,*Nordd. Tiefl.,
+28205,Bremen,04011,2,*Nordd. Tiefl.,
+28207,Bremen,04011,2,*Nordd. Tiefl.,
+28209,Bremen,04011,2,*Nordd. Tiefl.,
+28211,Bremen,04011,2,*Nordd. Tiefl.,
+28213,Bremen,04011,2,*Nordd. Tiefl.,
+28215,Bremen,04011,2,*Nordd. Tiefl.,
+28217,Bremen,04011,2,*Nordd. Tiefl.,
+28219,Bremen,04011,2,*Nordd. Tiefl.,
+28237,Bremen,04011,2,*Nordd. Tiefl.,
+28239,Bremen,04011,2,*Nordd. Tiefl.,
+28259,Bremen,04011,2,*Nordd. Tiefl.,
+28277,Bremen,04011,2,*Nordd. Tiefl.,
+28279,Bremen,04011,2,*Nordd. Tiefl.,
+28307,Bremen,04011,2,*Nordd. Tiefl.,
+28309,Bremen,04011,2,*Nordd. Tiefl.,
+28325,Bremen,04011,2,*Nordd. Tiefl.,
+28327,Bremen,04011,2,*Nordd. Tiefl.,
+28329,Bremen,04011,2,*Nordd. Tiefl.,
+28355,Bremen,04011,2,*Nordd. Tiefl.,
+28357,Bremen,04011,2,*Nordd. Tiefl.,
+28359,Bremen,04011,2,*Nordd. Tiefl.,
+28717,Bremen,04011,2,*Nordd. Tiefl.,
+28719,Bremen,04011,2,*Nordd. Tiefl.,
+28755,Bremen,04011,2,*Nordd. Tiefl.,
+28757,Bremen,04011,2,*Nordd. Tiefl.,
+28759,Bremen,04011,2,*Nordd. Tiefl.,
+28777,Bremen,04011,2,*Nordd. Tiefl.,
+28779,Bremen,04011,2,*Nordd. Tiefl.,
+28790,Schwanewede,03356,2,*Nordd. Tiefl.,
+28816,Stuhr,03251,2,*Nordd. Tiefl.,
+28832,Achim,03361,2,*Nordd. Tiefl.,
+28844,Weyhe,03251,2,*Nordd. Tiefl.,
+28857,Syke,03251,2,*Nordd. Tiefl.,
+28865,Lilienthal,03356,2,*Nordd. Tiefl.,
+28870,Ottersberg,03361,2,*Nordd. Tiefl.,
+28876,Oyten,03361,2,*Nordd. Tiefl.,
+28879,Grasberg,03356,2,*Nordd. Tiefl.,
+29221,Celle,03351,2,*Nordd. Tiefl.,
+29223,Celle,03351,2,*Nordd. Tiefl.,
+29225,Celle,03351,2,*Nordd. Tiefl.,
+29227,Celle,03351,2,*Nordd. Tiefl.,
+29229,"Celle, Wittbeck",03351,2,*Nordd. Tiefl.,
+29303,"Bergen, Lohheide u.a.",03351,2,*Nordd. Tiefl.,
+29308,Winsen (Aller),03351,2,*Nordd. Tiefl.,
+29313,Hambühren,03351,2,*Nordd. Tiefl.,
+29320,Hermannsburg,03351,2,*Nordd. Tiefl.,
+29323,Wietze,03351,2,*Nordd. Tiefl.,
+29328,Faßberg,03351,2,*Nordd. Tiefl.,
+29331,Lachendorf,03351,2,*Nordd. Tiefl.,
+29336,Nienhagen,03351,2,*Nordd. Tiefl.,
+29339,Wathlingen,03351,2,*Nordd. Tiefl.,
+29342,Wienhausen,03351,2,*Nordd. Tiefl.,
+29345,Unterlüß,03351,2,*Nordd. Tiefl.,
+29348,Eschede,03351,2,*Nordd. Tiefl.,
+29351,Eldingen,03351,2,*Nordd. Tiefl.,
+29352,Adelheidsdorf,03351,2,*Nordd. Tiefl.,
+29353,Ahnsbeck,03351,2,*Nordd. Tiefl.,
+29355,Beedenbostel,03351,2,*Nordd. Tiefl.,
+29356,Bröckel,03351,2,*Nordd. Tiefl.,
+29358,Eicklingen,03351,2,*Nordd. Tiefl.,
+29359,Habighorst,03351,2,*Nordd. Tiefl.,
+29361,Höfer,03351,2,*Nordd. Tiefl.,
+29362,Hohne,03351,2,*Nordd. Tiefl.,
+29364,Langlingen,03351,2,*Nordd. Tiefl.,
+29365,Sprakensehl,03151,2,*Nordd. Tiefl.,
+29367,Steinhorst,03151,2,*Nordd. Tiefl.,
+29369,Ummern,03151,2,*Nordd. Tiefl.,
+29378,Wittingen,03151,2,*Nordd. Tiefl.,
+29379,Wittingen,03151,2,*Nordd. Tiefl.,
+29386,"Hankensbüttel, Obernholz, Dedelstorf",03151,2,*Nordd. Tiefl.,
+29389,Bad Bodenteich,03360,2,*Nordd. Tiefl.,
+29392,Wesendorf,03151,2,*Nordd. Tiefl.,
+29393,Groß Oesingen,03151,2,*Nordd. Tiefl.,
+29394,Lüder,03360,2,*Nordd. Tiefl.,
+29396,Schönewörde,03151,2,*Nordd. Tiefl.,
+29399,Wahrenholz,03151,2,*Nordd. Tiefl.,
 29410,Salzwedel,15081,2,*Nordd. Tiefld.,
 29413,"Dähre, Diesdorf, Wallstawe",15081,2,*Nordd. Tiefld.,
 29416,Kuhfelde,15081,2,*Nordd. Tiefld.,
-29439,Lüchow,03354,2,*Nord. Tiefld,
-29451,Dannenberg,03354,2,*Nord. Tiefld,
-29456,Hitzacker (Elbe),03354,2,*Nord. Tiefld,
-29459,Clenze,03354,2,*Nord. Tiefld,
-29462,Wustrow,03354,2,*Nord. Tiefld,
-29465,Schnega,03354,2,*Nord. Tiefld,
-29468,Bergen,03354,2,*Nord. Tiefld,
-29471,Gartow,03354,2,*Nord. Tiefld,
-29472,Damnatz,03354,2,*Nord. Tiefld,
-29473,Göhrde,03354,2,*Nord. Tiefld,
-29475,Gorleben,03354,2,*Nord. Tiefld,
-29476,Gusborn,03354,2,*Nord. Tiefld,
-29478,Höhbeck,03354,2,*Nord. Tiefld,
-29479,Jameln,03354,2,*Nord. Tiefld,
-29481,Karwitz,03354,2,*Nord. Tiefld,
-29482,Küsten,03354,2,*Nord. Tiefld,
-29484,Langendorf,03354,2,*Nord. Tiefld,
-29485,Lemgow,03354,2,*Nord. Tiefld,
-29487,Luckau (Wendland),03354,2,*Nord. Tiefld,
-29488,Lübbow,03354,2,*Nord. Tiefld,
-29490,Neu Darchau,03354,2,*Nord. Tiefld,
-29491,Prezelle,03354,2,*Nord. Tiefld,
-29493,Schnackenburg,03354,2,*Nord. Tiefld,
-29494,Trebel,03354,2,*Nord. Tiefld,
-29496,Waddeweitz,03354,2,*Nord. Tiefld,
-29497,Woltersdorf,03354,2,*Nord. Tiefld,
-29499,Zernien,03354,2,*Nord. Tiefld,
-29525,Uelzen,03360,2,*Nord. Tiefld,
-29549,Bad Bevensen,03360,2,*Nord. Tiefld,
-29553,Bienenbüttel,03360,2,*Nord. Tiefld,
-29556,Suderburg,03360,2,*Nord. Tiefld,
-29559,Wrestedt,03360,2,*Nord. Tiefld,
-29562,Suhlendorf,03360,2,*Nord. Tiefld,
-29565,Wriedel,03360,2,*Nord. Tiefld,
-29571,Rosche,03360,2,*Nord. Tiefld,
-29574,Ebstorf,03360,2,*Nord. Tiefld,
-29575,Altenmedingen,03360,2,*Nord. Tiefld,
-29576,Barum,03360,2,*Nord. Tiefld,
-29578,Eimke,03360,2,*Nord. Tiefld,
-29579,Emmendorf,03360,2,*Nord. Tiefld,
-29581,Gerdau,03360,2,*Nord. Tiefld,
-29582,Hanstedt,03360,2,*Nord. Tiefld,
-29584,Himbergen,03360,2,*Nord. Tiefld,
-29585,Jelmstorf,03360,2,*Nord. Tiefld,
-29587,Natendorf,03360,2,*Nord. Tiefld,
-29588,Oetzen,03360,2,*Nord. Tiefld,
-29590,Rätzlingen,03360,2,*Nord. Tiefld,
-29591,Römstedt,03360,2,*Nord. Tiefld,
-29593,Schwienau,03360,2,*Nord. Tiefld,
-29594,Soltendiek,03360,2,*Nord. Tiefld,
-29597,Stoetze,03360,2,*Nord. Tiefld,
-29599,Weste,03360,2,*Nord. Tiefld,
-29614,Soltau,03358,2,*Nord. Tiefld,
-29633,Munster,03358,2,*Nord. Tiefld,
-29640,"Schneverdingen, Heimbuch",03358,2,*Nord. Tiefld,
-29643,Neuenkirchen,03358,2,*Nord. Tiefld,
-29646,Bispingen,03358,2,*Nord. Tiefld,
-29649,Wietzendorf,03358,2,*Nord. Tiefld,
-29664,"Walsrode, Ostenholz",03358,2,*Nord. Tiefld,
-29683,"Bad Fallingbostel, Osterheide",03358,2,*Nord. Tiefld,
-29690,Schwarmstedt u.a.,03358,2,*Nord. Tiefld,
-29693,Hodenhagen u.a.,03358,2,*Nord. Tiefld,
-29699,Bomlitz,03358,2,*Nord. Tiefld,
+29439,Lüchow,03354,2,*Nordd. Tiefl.,
+29451,Dannenberg,03354,2,*Nordd. Tiefl.,
+29456,Hitzacker (Elbe),03354,2,*Nordd. Tiefl.,
+29459,Clenze,03354,2,*Nordd. Tiefl.,
+29462,Wustrow,03354,2,*Nordd. Tiefl.,
+29465,Schnega,03354,2,*Nordd. Tiefl.,
+29468,Bergen,03354,2,*Nordd. Tiefl.,
+29471,Gartow,03354,2,*Nordd. Tiefl.,
+29472,Damnatz,03354,2,*Nordd. Tiefl.,
+29473,Göhrde,03354,2,*Nordd. Tiefl.,
+29475,Gorleben,03354,2,*Nordd. Tiefl.,
+29476,Gusborn,03354,2,*Nordd. Tiefl.,
+29478,Höhbeck,03354,2,*Nordd. Tiefl.,
+29479,Jameln,03354,2,*Nordd. Tiefl.,
+29481,Karwitz,03354,2,*Nordd. Tiefl.,
+29482,Küsten,03354,2,*Nordd. Tiefl.,
+29484,Langendorf,03354,2,*Nordd. Tiefl.,
+29485,Lemgow,03354,2,*Nordd. Tiefl.,
+29487,Luckau (Wendland),03354,2,*Nordd. Tiefl.,
+29488,Lübbow,03354,2,*Nordd. Tiefl.,
+29490,Neu Darchau,03354,2,*Nordd. Tiefl.,
+29491,Prezelle,03354,2,*Nordd. Tiefl.,
+29493,Schnackenburg,03354,2,*Nordd. Tiefl.,
+29494,Trebel,03354,2,*Nordd. Tiefl.,
+29496,Waddeweitz,03354,2,*Nordd. Tiefl.,
+29497,Woltersdorf,03354,2,*Nordd. Tiefl.,
+29499,Zernien,03354,2,*Nordd. Tiefl.,
+29525,Uelzen,03360,2,*Nordd. Tiefl.,
+29549,Bad Bevensen,03360,2,*Nordd. Tiefl.,
+29553,Bienenbüttel,03360,2,*Nordd. Tiefl.,
+29556,Suderburg,03360,2,*Nordd. Tiefl.,
+29559,Wrestedt,03360,2,*Nordd. Tiefl.,
+29562,Suhlendorf,03360,2,*Nordd. Tiefl.,
+29565,Wriedel,03360,2,*Nordd. Tiefl.,
+29571,Rosche,03360,2,*Nordd. Tiefl.,
+29574,Ebstorf,03360,2,*Nordd. Tiefl.,
+29575,Altenmedingen,03360,2,*Nordd. Tiefl.,
+29576,Barum,03360,2,*Nordd. Tiefl.,
+29578,Eimke,03360,2,*Nordd. Tiefl.,
+29579,Emmendorf,03360,2,*Nordd. Tiefl.,
+29581,Gerdau,03360,2,*Nordd. Tiefl.,
+29582,Hanstedt,03360,2,*Nordd. Tiefl.,
+29584,Himbergen,03360,2,*Nordd. Tiefl.,
+29585,Jelmstorf,03360,2,*Nordd. Tiefl.,
+29587,Natendorf,03360,2,*Nordd. Tiefl.,
+29588,Oetzen,03360,2,*Nordd. Tiefl.,
+29590,Rätzlingen,03360,2,*Nordd. Tiefl.,
+29591,Römstedt,03360,2,*Nordd. Tiefl.,
+29593,Schwienau,03360,2,*Nordd. Tiefl.,
+29594,Soltendiek,03360,2,*Nordd. Tiefl.,
+29597,Stoetze,03360,2,*Nordd. Tiefl.,
+29599,Weste,03360,2,*Nordd. Tiefl.,
+29614,Soltau,03358,2,*Nordd. Tiefl.,
+29633,Munster,03358,2,*Nordd. Tiefl.,
+29640,"Schneverdingen, Heimbuch",03358,2,*Nordd. Tiefl.,
+29643,Neuenkirchen,03358,2,*Nordd. Tiefl.,
+29646,Bispingen,03358,2,*Nordd. Tiefl.,
+29649,Wietzendorf,03358,2,*Nordd. Tiefl.,
+29664,"Walsrode, Ostenholz",03358,2,*Nordd. Tiefl.,
+29683,"Bad Fallingbostel, Osterheide",03358,2,*Nordd. Tiefl.,
+29690,Schwarmstedt u.a.,03358,2,*Nordd. Tiefl.,
+29693,Hodenhagen u.a.,03358,2,*Nordd. Tiefl.,
+29699,Bomlitz,03358,2,*Nordd. Tiefl.,
 30159,Hannover,03241,2,,ZIP code 30974 is zone 3
 30161,Hannover,03241,2,,ZIP code 30974 is zone 3
 30163,Hannover,03241,2,,ZIP code 30974 is zone 3
@@ -2204,13 +2204,13 @@ zipcode,city,dc,snowzone,note,comments
 31191,Algermissen,03254,2,,
 31195,Lamspringe,03254,2,,
 31199,Diekholzen,03254,2,,
-31224,Peine,03157,2,*Nord. Tiefld,
-31226,Peine,03157,2,*Nord. Tiefld,
-31228,Peine,03157,2,*Nord. Tiefld,
-31234,Edemissen,03157,2,*Nord. Tiefld,
-31241,Ilsede,03157,2,*Nord. Tiefld,
-31246,Lahstedt,03157,2,*Nord. Tiefld,
-31249,Hohenhameln,03157,2,*Nord. Tiefld,
+31224,Peine,03157,2,*Nordd. Tiefl.,
+31226,Peine,03157,2,*Nordd. Tiefl.,
+31228,Peine,03157,2,*Nordd. Tiefl.,
+31234,Edemissen,03157,2,*Nordd. Tiefl.,
+31241,Ilsede,03157,2,*Nordd. Tiefl.,
+31246,Lahstedt,03157,2,*Nordd. Tiefl.,
+31249,Hohenhameln,03157,2,*Nordd. Tiefl.,
 31275,Lehrte,03241,2,,ZIP code 30974 is zone 3
 31303,Burgdorf,03241,2,,ZIP code 30974 is zone 3
 31311,Uetze,03241,2,,ZIP code 30974 is zone 3
@@ -2218,38 +2218,38 @@ zipcode,city,dc,snowzone,note,comments
 31515,Wunstorf,03241,2,,ZIP code 30974 is zone 3
 31535,Neustadt am Rübenberge,03241,2,,ZIP code 30974 is zone 3
 31542,Bad Nenndorf,03257,2,,
-31547,Rehburg-Loccum,03256,2,*Nord. Tiefld,
+31547,Rehburg-Loccum,03256,2,*Nordd. Tiefl.,
 31552,"Apelern, Rodenberg",03257,2,,
 31553,"Auhagen, Sachsenhagen",03257,2,,
 31555,Suthfeld,03257,2,,
 31556,Wölpinghausen,03257,2,,
 31558,Hagenburg,03257,2,,
 31559,"Haste, Hohnhorst",03257,2,,
-31582,Nienburg/Weser,03256,2,*Nord. Tiefld,
-31592,Stolzenau,03256,2,*Nord. Tiefld,
-31595,Steyerberg,03256,2,*Nord. Tiefld,
-31600,Uchte,03256,2,*Nord. Tiefld,
-31603,Diepenau,03256,2,*Nord. Tiefld,
-31604,Raddestorf,03256,2,*Nord. Tiefld,
-31606,Warmsen,03256,2,*Nord. Tiefld,
-31608,Marklohe,03256,2,*Nord. Tiefld,
-31609,Balge,03256,2,*Nord. Tiefld,
-31613,Wietzen,03256,2,*Nord. Tiefld,
-31618,Liebenau,03256,2,*Nord. Tiefld,
-31619,Binnen,03256,2,*Nord. Tiefld,
-31621,Pennigsehl,03256,2,*Nord. Tiefld,
-31622,Heemsen,03256,2,*Nord. Tiefld,
-31623,Drakenburg,03256,2,*Nord. Tiefld,
-31626,Haßbergen,03256,2,*Nord. Tiefld,
-31627,Rohrsen,03256,2,*Nord. Tiefld,
-31628,Landesbergen,03256,2,*Nord. Tiefld,
-31629,Estorf,03256,2,*Nord. Tiefld,
-31632,Husum,03256,2,*Nord. Tiefld,
-31633,Leese,03256,2,*Nord. Tiefld,
-31634,Steimbke,03256,2,*Nord. Tiefld,
-31636,Linsburg,03256,2,*Nord. Tiefld,
-31637,Rodewald,03256,2,*Nord. Tiefld,
-31638,Stöckse,03256,2,*Nord. Tiefld,
+31582,Nienburg/Weser,03256,2,*Nordd. Tiefl.,
+31592,Stolzenau,03256,2,*Nordd. Tiefl.,
+31595,Steyerberg,03256,2,*Nordd. Tiefl.,
+31600,Uchte,03256,2,*Nordd. Tiefl.,
+31603,Diepenau,03256,2,*Nordd. Tiefl.,
+31604,Raddestorf,03256,2,*Nordd. Tiefl.,
+31606,Warmsen,03256,2,*Nordd. Tiefl.,
+31608,Marklohe,03256,2,*Nordd. Tiefl.,
+31609,Balge,03256,2,*Nordd. Tiefl.,
+31613,Wietzen,03256,2,*Nordd. Tiefl.,
+31618,Liebenau,03256,2,*Nordd. Tiefl.,
+31619,Binnen,03256,2,*Nordd. Tiefl.,
+31621,Pennigsehl,03256,2,*Nordd. Tiefl.,
+31622,Heemsen,03256,2,*Nordd. Tiefl.,
+31623,Drakenburg,03256,2,*Nordd. Tiefl.,
+31626,Haßbergen,03256,2,*Nordd. Tiefl.,
+31627,Rohrsen,03256,2,*Nordd. Tiefl.,
+31628,Landesbergen,03256,2,*Nordd. Tiefl.,
+31629,Estorf,03256,2,*Nordd. Tiefl.,
+31632,Husum,03256,2,*Nordd. Tiefl.,
+31633,Leese,03256,2,*Nordd. Tiefl.,
+31634,Steimbke,03256,2,*Nordd. Tiefl.,
+31636,Linsburg,03256,2,*Nordd. Tiefl.,
+31637,Rodewald,03256,2,*Nordd. Tiefl.,
+31638,Stöckse,03256,2,*Nordd. Tiefl.,
 31655,Stadthagen,03257,2,,
 31675,Bückeburg,03257,2,,
 31683,Obernkirchen,03257,2,,
@@ -2389,66 +2389,66 @@ zipcode,city,dc,snowzone,note,comments
 34121,Kassel,06611,2,,
 34123,Kassel,06611,2,,
 34125,Kassel,06611,2,,
-34127,Kassel,06633,2,,DC rule (DC 06633): ZIP codes 34369 and 34393 are zone 2a
+34127,Kassel,06633,2,,ZIP codes 34369 and 34393 are zone 2a
 34128,Kassel,06611,2,,
 34130,Kassel,06611,2,,
 34131,Kassel,06611,2,,
 34132,Kassel,06611,2,,
 34134,Kassel,06611,2,,
 34212,Melsungen,06634,2,,
-34225,Baunatal,06633,2,,DC rule (DC 06633): ZIP codes 34369 and 34393 are zone 2a
+34225,Baunatal,06633,2,,ZIP codes 34369 and 34393 are zone 2a
 34233,"Kassel, Fuldatal",06611,2,,
-34246,Vellmar,06633,2,,DC rule (DC 06633): ZIP codes 34369 and 34393 are zone 2a
-34253,Lohfelden,06633,2,,DC rule (DC 06633): ZIP codes 34369 and 34393 are zone 2a
-34260,Kaufungen,06633,2,,DC rule (DC 06633): ZIP codes 34369 and 34393 are zone 2a
-34266,Niestetal,06633,2,,DC rule (DC 06633): ZIP codes 34369 and 34393 are zone 2a
-34270,Schauenburg,06633,2,,DC rule (DC 06633): ZIP codes 34369 and 34393 are zone 2a
-34277,Fuldabrück,06633,2,,DC rule (DC 06633): ZIP codes 34369 and 34393 are zone 2a
+34246,Vellmar,06633,2,,ZIP codes 34369 and 34393 are zone 2a
+34253,Lohfelden,06633,2,,ZIP codes 34369 and 34393 are zone 2a
+34260,Kaufungen,06633,2,,ZIP codes 34369 and 34393 are zone 2a
+34266,Niestetal,06633,2,,ZIP codes 34369 and 34393 are zone 2a
+34270,Schauenburg,06633,2,,ZIP codes 34369 and 34393 are zone 2a
+34277,Fuldabrück,06633,2,,ZIP codes 34369 and 34393 are zone 2a
 34281,Gudensberg,06634,2,,
 34286,Spangenberg,06634,2,,
-34289,Zierenberg,06633,2,,DC rule (DC 06633): ZIP codes 34369 and 34393 are zone 2a
-34292,Ahnatal,06633,2,,DC rule (DC 06633): ZIP codes 34369 and 34393 are zone 2a
+34289,Zierenberg,06633,2,,ZIP codes 34369 and 34393 are zone 2a
+34292,Ahnatal,06633,2,,ZIP codes 34369 and 34393 are zone 2a
 34295,Edermünde,06634,2,,
-34298,Helsa,06633,2,,DC rule (DC 06633): ZIP codes 34369 and 34393 are zone 2a
+34298,Helsa,06633,2,,ZIP codes 34369 and 34393 are zone 2a
 34302,Guxhagen,06634,2,,
 34305,Niedenstein,06634,2,,
-34308,Bad Emstal,06633,2,,DC rule (DC 06633): ZIP codes 34369 and 34393 are zone 2a
-34311,Naumburg,06633,2,,DC rule (DC 06633): ZIP codes 34369 and 34393 are zone 2a
-34314,Espenau,06633,2,,DC rule (DC 06633): ZIP codes 34369 and 34393 are zone 2a
-34317,Habichtswald,06633,2,,DC rule (DC 06633): ZIP codes 34369 and 34393 are zone 2a
-34320,Söhrewald,06633,2,,DC rule (DC 06633): ZIP codes 34369 and 34393 are zone 2a
+34308,Bad Emstal,06633,2,,ZIP codes 34369 and 34393 are zone 2a
+34311,Naumburg,06633,2,,ZIP codes 34369 and 34393 are zone 2a
+34314,Espenau,06633,2,,ZIP codes 34369 and 34393 are zone 2a
+34317,Habichtswald,06633,2,,ZIP codes 34369 and 34393 are zone 2a
+34320,Söhrewald,06633,2,,ZIP codes 34369 and 34393 are zone 2a
 34323,Malsfeld,06634,2,,
 34326,Morschen,06634,2,,
 34327,Körle,06634,2,,
-34329,Nieste,06633,2,,DC rule (DC 06633): ZIP codes 34369 and 34393 are zone 2a
+34329,Nieste,06633,2,,ZIP codes 34369 and 34393 are zone 2a
 34346,"Hann. Münden, Gutsbezirk Reinhardswald",03159,3,,covered by zip2zone
 34355,Staufenberg,03159,3,,covered by zip2zone
-34359,Reinhardshagen,06633,2,,DC rule (DC 06633): ZIP codes 34369 and 34393 are zone 2a
-34369,Hofgeismar,06633,2a,,DC rule (DC 06633): ZIP codes 34369 and 34393 are zone 2a
-34376,Immenhausen,06633,2,,DC rule (DC 06633): ZIP codes 34369 and 34393 are zone 2a
-34379,Calden,06633,2,,DC rule (DC 06633): ZIP codes 34369 and 34393 are zone 2a
-34385,Bad Karlshafen,06633,2,,DC rule (DC 06633): ZIP codes 34369 and 34393 are zone 2a
-34388,Trendelburg,06633,2,,DC rule (DC 06633): ZIP codes 34369 and 34393 are zone 2a
-34393,Grebenstein,06633,2a,,DC rule (DC 06633): ZIP codes 34369 and 34393 are zone 2a
-34396,Liebenau (Hessen),06633,2,,DC rule (DC 06633): ZIP codes 34369 and 34393 are zone 2a
-34399,Wesertal,06633,2,,DC rule (DC 06633): ZIP codes 34369 and 34393 are zone 2a
+34359,Reinhardshagen,06633,2,,ZIP codes 34369 and 34393 are zone 2a
+34369,Hofgeismar,06633,2a,,ZIP codes 34369 and 34393 are zone 2a
+34376,Immenhausen,06633,2,,ZIP codes 34369 and 34393 are zone 2a
+34379,Calden,06633,2,,ZIP codes 34369 and 34393 are zone 2a
+34385,Bad Karlshafen,06633,2,,ZIP codes 34369 and 34393 are zone 2a
+34388,Trendelburg,06633,2,,ZIP codes 34369 and 34393 are zone 2a
+34393,Grebenstein,06633,2a,,ZIP codes 34369 and 34393 are zone 2a
+34396,Liebenau (Hessen),06633,2,,ZIP codes 34369 and 34393 are zone 2a
+34399,Wesertal,06633,2,,ZIP codes 34369 and 34393 are zone 2a
 34414,Warburg,05762,2,,
 34431,Marsberg,05958,3,,covered by DC rule!
 34434,Borgentreich,05762,2,,
 34439,Willebadessen,05762,2,,
-34454,Bad Arolsen,06635,2a,,"DC rule (DC 06635): ZIP codes 34537,34474,35285,35114,35119,34471 are zone 2"
-34466,Wolfhagen,06633,2,,DC rule (DC 06633): ZIP codes 34369 and 34393 are zone 2a
-34471,Volkmarsen,06635,2,,"DC rule (DC 06635): ZIP codes 34537,34474,35285,35114,35119,34471 are zone 2"
-34474,Diemelstadt,06635,2,,"DC rule (DC 06635): ZIP codes 34537,34474,35285,35114,35119,34471 are zone 2"
-34477,Twistetal,06635,2a,,"DC rule (DC 06635): ZIP codes 34537,34474,35285,35114,35119,34471 are zone 2"
-34479,Breuna,06633,2,,DC rule (DC 06633): ZIP codes 34369 and 34393 are zone 2a
-34497,Korbach,06635,2a,,"DC rule (DC 06635): ZIP codes 34537,34474,35285,35114,35119,34471 are zone 2"
-34508,Willingen (Upland),06635,2a,,"DC rule (DC 06635): ZIP codes 34537,34474,35285,35114,35119,34471 are zone 2"
-34513,Waldeck,06635,2a,,"DC rule (DC 06635): ZIP codes 34537,34474,35285,35114,35119,34471 are zone 2"
-34516,Vöhl,06635,2a,,"DC rule (DC 06635): ZIP codes 34537,34474,35285,35114,35119,34471 are zone 2"
-34519,Diemelsee,06635,2a,,"DC rule (DC 06635): ZIP codes 34537,34474,35285,35114,35119,34471 are zone 2"
-34537,Bad Wildungen,06635,2,,"DC rule (DC 06635): ZIP codes 34537,34474,35285,35114,35119,34471 are zone 2"
-34549,Edertal,06635,2a,,"DC rule (DC 06635): ZIP codes 34537,34474,35285,35114,35119,34471 are zone 2"
+34454,Bad Arolsen,06635,2a,,"ZIP codes 34537,34474,35285,35114,35119,34471 are zone 2"
+34466,Wolfhagen,06633,2,,ZIP codes 34369 and 34393 are zone 2a
+34471,Volkmarsen,06635,2,,"ZIP codes 34537,34474,35285,35114,35119,34471 are zone 2"
+34474,Diemelstadt,06635,2,,"ZIP codes 34537,34474,35285,35114,35119,34471 are zone 2"
+34477,Twistetal,06635,2a,,"ZIP codes 34537,34474,35285,35114,35119,34471 are zone 2"
+34479,Breuna,06633,2,,ZIP codes 34369 and 34393 are zone 2a
+34497,Korbach,06635,2a,,"ZIP codes 34537,34474,35285,35114,35119,34471 are zone 2"
+34508,Willingen (Upland),06635,2a,,"ZIP codes 34537,34474,35285,35114,35119,34471 are zone 2"
+34513,Waldeck,06635,2a,,"ZIP codes 34537,34474,35285,35114,35119,34471 are zone 2"
+34516,Vöhl,06635,2a,,"ZIP codes 34537,34474,35285,35114,35119,34471 are zone 2"
+34519,Diemelsee,06635,2a,,"ZIP codes 34537,34474,35285,35114,35119,34471 are zone 2"
+34537,Bad Wildungen,06635,2,,"ZIP codes 34537,34474,35285,35114,35119,34471 are zone 2"
+34549,Edertal,06635,2a,,"ZIP codes 34537,34474,35285,35114,35119,34471 are zone 2"
 34560,Fritzlar,06634,2,,
 34576,Homberg,06634,2,,
 34582,Borken,06634,2,,
@@ -2466,46 +2466,46 @@ zipcode,city,dc,snowzone,note,comments
 34633,Ottrau,06634,2,,
 34637,Schrecksbach,06634,2,,
 34639,Schwarzenborn,06634,2,,
-35037,Marburg,06534,2,,"DC rule (DC 06534): ZIP codes 35216,35236,35117 are zone 2a"
-35039,Marburg,06534,2,,"DC rule (DC 06534): ZIP codes 35216,35236,35117 are zone 2a"
-35041,Marburg,06534,2,,"DC rule (DC 06534): ZIP codes 35216,35236,35117 are zone 2a"
-35043,Marburg,06534,2,,"DC rule (DC 06534): ZIP codes 35216,35236,35117 are zone 2a"
-35066,Frankenberg,06635,2a,,"DC rule (DC 06635): ZIP codes 34537,34474,35285,35114,35119,34471 are zone 2"
-35075,Gladenbach,06534,2,,"DC rule (DC 06534): ZIP codes 35216,35236,35117 are zone 2a"
-35080,Bad Endbach,06534,2,,"DC rule (DC 06534): ZIP codes 35216,35236,35117 are zone 2a"
-35083,Wetter,06534,2,,"DC rule (DC 06534): ZIP codes 35216,35236,35117 are zone 2a"
-35085,Ebsdorfergrund,06534,2,,"DC rule (DC 06534): ZIP codes 35216,35236,35117 are zone 2a"
-35088,Battenberg,06635,2a,,"DC rule (DC 06635): ZIP codes 34537,34474,35285,35114,35119,34471 are zone 2"
-35091,Cölbe,06534,2,,"DC rule (DC 06534): ZIP codes 35216,35236,35117 are zone 2a"
-35094,Lahntal,06534,2,,"DC rule (DC 06534): ZIP codes 35216,35236,35117 are zone 2a"
-35096,Weimar (Lahn),06534,2,,"DC rule (DC 06534): ZIP codes 35216,35236,35117 are zone 2a"
-35099,Burgwald,06635,2a,,"DC rule (DC 06635): ZIP codes 34537,34474,35285,35114,35119,34471 are zone 2"
-35102,Lohra,06534,2,,"DC rule (DC 06534): ZIP codes 35216,35236,35117 are zone 2a"
-35104,Lichtenfels,06635,2a,,"DC rule (DC 06635): ZIP codes 34537,34474,35285,35114,35119,34471 are zone 2"
-35108,Allendorf,06635,2a,,"DC rule (DC 06635): ZIP codes 34537,34474,35285,35114,35119,34471 are zone 2"
-35110,Frankenau,06635,2a,,"DC rule (DC 06635): ZIP codes 34537,34474,35285,35114,35119,34471 are zone 2"
-35112,Fronhausen,06534,2,,"DC rule (DC 06534): ZIP codes 35216,35236,35117 are zone 2a"
-35114,Haina,06635,2,,"DC rule (DC 06635): ZIP codes 34537,34474,35285,35114,35119,34471 are zone 2"
-35116,Hatzfeld,06635,2a,,"DC rule (DC 06635): ZIP codes 34537,34474,35285,35114,35119,34471 are zone 2"
-35117,Münchhausen,06534,2a,,"DC rule (DC 06534): ZIP codes 35216,35236,35117 are zone 2a"
-35119,Rosenthal,06635,2,,"DC rule (DC 06635): ZIP codes 34537,34474,35285,35114,35119,34471 are zone 2"
-35216,Biedenkopf,06534,2a,,"DC rule (DC 06534): ZIP codes 35216,35236,35117 are zone 2a"
-35232,Dautphetal,06534,2,,"DC rule (DC 06534): ZIP codes 35216,35236,35117 are zone 2a"
-35236,Breidenbach,06534,2a,,"DC rule (DC 06534): ZIP codes 35216,35236,35117 are zone 2a"
-35239,Steffenberg,06534,2,,"DC rule (DC 06534): ZIP codes 35216,35236,35117 are zone 2a"
-35260,Stadtallendorf,06534,2,,"DC rule (DC 06534): ZIP codes 35216,35236,35117 are zone 2a"
-35274,Kirchhain,06534,2,,"DC rule (DC 06534): ZIP codes 35216,35236,35117 are zone 2a"
-35279,Neustadt,06534,2,,"DC rule (DC 06534): ZIP codes 35216,35236,35117 are zone 2a"
-35282,Rauschenberg,06534,2,,"DC rule (DC 06534): ZIP codes 35216,35236,35117 are zone 2a"
-35285,Gemünden,06635,2,,"DC rule (DC 06635): ZIP codes 34537,34474,35285,35114,35119,34471 are zone 2"
-35287,Amöneburg,06534,2,,"DC rule (DC 06534): ZIP codes 35216,35236,35117 are zone 2a"
-35288,Wohratal,06534,2,,"DC rule (DC 06534): ZIP codes 35216,35236,35117 are zone 2a"
+35037,Marburg,06534,2,,"ZIP codes 35216,35236,35117 are zone 2a"
+35039,Marburg,06534,2,,"ZIP codes 35216,35236,35117 are zone 2a"
+35041,Marburg,06534,2,,"ZIP codes 35216,35236,35117 are zone 2a"
+35043,Marburg,06534,2,,"ZIP codes 35216,35236,35117 are zone 2a"
+35066,Frankenberg,06635,2a,,"ZIP codes 34537,34474,35285,35114,35119,34471 are zone 2"
+35075,Gladenbach,06534,2,,"ZIP codes 35216,35236,35117 are zone 2a"
+35080,Bad Endbach,06534,2,,"ZIP codes 35216,35236,35117 are zone 2a"
+35083,Wetter,06534,2,,"ZIP codes 35216,35236,35117 are zone 2a"
+35085,Ebsdorfergrund,06534,2,,"ZIP codes 35216,35236,35117 are zone 2a"
+35088,Battenberg,06635,2a,,"ZIP codes 34537,34474,35285,35114,35119,34471 are zone 2"
+35091,Cölbe,06534,2,,"ZIP codes 35216,35236,35117 are zone 2a"
+35094,Lahntal,06534,2,,"ZIP codes 35216,35236,35117 are zone 2a"
+35096,Weimar (Lahn),06534,2,,"ZIP codes 35216,35236,35117 are zone 2a"
+35099,Burgwald,06635,2a,,"ZIP codes 34537,34474,35285,35114,35119,34471 are zone 2"
+35102,Lohra,06534,2,,"ZIP codes 35216,35236,35117 are zone 2a"
+35104,Lichtenfels,06635,2a,,"ZIP codes 34537,34474,35285,35114,35119,34471 are zone 2"
+35108,Allendorf,06635,2a,,"ZIP codes 34537,34474,35285,35114,35119,34471 are zone 2"
+35110,Frankenau,06635,2a,,"ZIP codes 34537,34474,35285,35114,35119,34471 are zone 2"
+35112,Fronhausen,06534,2,,"ZIP codes 35216,35236,35117 are zone 2a"
+35114,Haina,06635,2,,"ZIP codes 34537,34474,35285,35114,35119,34471 are zone 2"
+35116,Hatzfeld,06635,2a,,"ZIP codes 34537,34474,35285,35114,35119,34471 are zone 2"
+35117,Münchhausen,06534,2a,,"ZIP codes 35216,35236,35117 are zone 2a"
+35119,Rosenthal,06635,2,,"ZIP codes 34537,34474,35285,35114,35119,34471 are zone 2"
+35216,Biedenkopf,06534,2a,,"ZIP codes 35216,35236,35117 are zone 2a"
+35232,Dautphetal,06534,2,,"ZIP codes 35216,35236,35117 are zone 2a"
+35236,Breidenbach,06534,2a,,"ZIP codes 35216,35236,35117 are zone 2a"
+35239,Steffenberg,06534,2,,"ZIP codes 35216,35236,35117 are zone 2a"
+35260,Stadtallendorf,06534,2,,"ZIP codes 35216,35236,35117 are zone 2a"
+35274,Kirchhain,06534,2,,"ZIP codes 35216,35236,35117 are zone 2a"
+35279,Neustadt,06534,2,,"ZIP codes 35216,35236,35117 are zone 2a"
+35282,Rauschenberg,06534,2,,"ZIP codes 35216,35236,35117 are zone 2a"
+35285,Gemünden,06635,2,,"ZIP codes 34537,34474,35285,35114,35119,34471 are zone 2"
+35287,Amöneburg,06534,2,,"ZIP codes 35216,35236,35117 are zone 2a"
+35288,Wohratal,06534,2,,"ZIP codes 35216,35236,35117 are zone 2a"
 35305,Grünberg,06531,2,,
-35315,Homberg (Ohm),06535,2,,"DC rule (DC 06535): ZIP codes 36399,36355,36358,36341,36110,36367 are zone 2a"
+35315,Homberg (Ohm),06535,2,,"ZIP codes 36399,36355,36358,36341,36110,36367 are zone 2a"
 35321,Laubach,06531,2,,
-35325,Mücke,06535,2,,"DC rule (DC 06535): ZIP codes 36399,36355,36358,36341,36110,36367 are zone 2a"
-35327,Ulrichstein,06535,2,,"DC rule (DC 06535): ZIP codes 36399,36355,36358,36341,36110,36367 are zone 2a"
-35329,Gemünden (Felda),06535,2,,"DC rule (DC 06535): ZIP codes 36399,36355,36358,36341,36110,36367 are zone 2a"
+35325,Mücke,06535,2,,"ZIP codes 36399,36355,36358,36341,36110,36367 are zone 2a"
+35327,Ulrichstein,06535,2,,"ZIP codes 36399,36355,36358,36341,36110,36367 are zone 2a"
+35329,Gemünden (Felda),06535,2,,"ZIP codes 36399,36355,36358,36341,36110,36367 are zone 2a"
 35390,Gießen,06531,2,,
 35392,Gießen,06531,2,,
 35394,Gießen,06531,2,,
@@ -2529,81 +2529,81 @@ zipcode,city,dc,snowzone,note,comments
 35510,Butzbach,06440,2,,covered by DC rule!
 35516,Münzenberg,06440,2,,covered by DC rule!
 35519,Rockenberg,06440,2,,covered by DC rule!
-35576,Wetzlar,06532,2,,"DC rule (DC 06532): ZIP codes 35716,35863-356890,35713,35708 are zone 2a "
-35578,Wetzlar,06532,2,,"DC rule (DC 06532): ZIP codes 35716,35863-356890,35713,35708 are zone 2a "
-35579,Wetzlar,06532,2,,"DC rule (DC 06532): ZIP codes 35716,35863-356890,35713,35708 are zone 2a "
-35580,Wetzlar,06532,2,,"DC rule (DC 06532): ZIP codes 35716,35863-356890,35713,35708 are zone 2a "
-35581,Wetzlar,06532,2,,"DC rule (DC 06532): ZIP codes 35716,35863-356890,35713,35708 are zone 2a "
-35582,Wetzlar,06532,2,,"DC rule (DC 06532): ZIP codes 35716,35863-356890,35713,35708 are zone 2a "
-35583,Wetzlar Garbeinheim,06532,2,,"DC rule (DC 06532): ZIP codes 35716,35863-356890,35713,35708 are zone 2a "
-35584,Wetzlar,06532,2,,"DC rule (DC 06532): ZIP codes 35716,35863-356890,35713,35708 are zone 2a "
-35585,Wetzlar,06532,2,,"DC rule (DC 06532): ZIP codes 35716,35863-356890,35713,35708 are zone 2a "
-35586,Wetzlar,06532,2,,"DC rule (DC 06532): ZIP codes 35716,35863-356890,35713,35708 are zone 2a "
-35606,Solms,06532,2,,"DC rule (DC 06532): ZIP codes 35716,35863-356890,35713,35708 are zone 2a "
-35614,Aßlar,06532,2,,"DC rule (DC 06532): ZIP codes 35716,35863-356890,35713,35708 are zone 2a "
-35619,Braunfels,06532,2,,"DC rule (DC 06532): ZIP codes 35716,35863-356890,35713,35708 are zone 2a "
-35625,Hüttenberg,06532,2,,"DC rule (DC 06532): ZIP codes 35716,35863-356890,35713,35708 are zone 2a "
-35630,Ehringshausen,06532,2,,"DC rule (DC 06532): ZIP codes 35716,35863-356890,35713,35708 are zone 2a "
-35633,Lahnau,06532,2,,"DC rule (DC 06532): ZIP codes 35716,35863-356890,35713,35708 are zone 2a "
-35638,Leun,06532,2,,"DC rule (DC 06532): ZIP codes 35716,35863-356890,35713,35708 are zone 2a "
-35641,Schöffengrund,06532,2,,"DC rule (DC 06532): ZIP codes 35716,35863-356890,35713,35708 are zone 2a "
-35644,Hohenahr,06532,2,,"DC rule (DC 06532): ZIP codes 35716,35863-356890,35713,35708 are zone 2a "
-35647,Waldolms,06532,2,,"DC rule (DC 06532): ZIP codes 35716,35863-356890,35713,35708 are zone 2a "
-35649,Bischoffen,06532,2,,"DC rule (DC 06532): ZIP codes 35716,35863-356890,35713,35708 are zone 2a "
-35683,Dillenburg,06532,2,,"DC rule (DC 06532): ZIP codes 35716,35863-356890,35713,35708 are zone 2a "
-35684,Dillenburg,06532,2,,"DC rule (DC 06532): ZIP codes 35716,35863-356890,35713,35708 are zone 2a "
-35685,Dillenburg,06532,2,,"DC rule (DC 06532): ZIP codes 35716,35863-356890,35713,35708 are zone 2a "
-35686,Dillenburg,06532,2,,"DC rule (DC 06532): ZIP codes 35716,35863-356890,35713,35708 are zone 2a "
-35687,Dillenburg,06532,2,,"DC rule (DC 06532): ZIP codes 35716,35863-356890,35713,35708 are zone 2a "
-35688,Dillenburg,06532,2,,"DC rule (DC 06532): ZIP codes 35716,35863-356890,35713,35708 are zone 2a "
-35689,Dillenburg,06532,2,,"DC rule (DC 06532): ZIP codes 35716,35863-356890,35713,35708 are zone 2a "
-35690,Dillenburg,06532,2,,"DC rule (DC 06532): ZIP codes 35716,35863-356890,35713,35708 are zone 2a "
-35708,Haiger,06532,2a,,"DC rule (DC 06532): ZIP codes 35716,35863-356890,35713,35708 are zone 2a "
-35713,Eschenburg,06532,2a,,"DC rule (DC 06532): ZIP codes 35716,35863-356890,35713,35708 are zone 2a "
-35716,Dietzhölztal,06532,2a,,"DC rule (DC 06532): ZIP codes 35716,35863-356890,35713,35708 are zone 2a "
-35719,Angelburg,06534,2,,"DC rule (DC 06534): ZIP codes 35216,35236,35117 are zone 2a"
-35745,Herborn,06532,2,,"DC rule (DC 06532): ZIP codes 35716,35863-356890,35713,35708 are zone 2a "
-35753,Greifenstein,06532,2,,"DC rule (DC 06532): ZIP codes 35716,35863-356890,35713,35708 are zone 2a "
-35756,Mittenaar,06532,2,,"DC rule (DC 06532): ZIP codes 35716,35863-356890,35713,35708 are zone 2a "
-35759,Driedorf,06532,2,,"DC rule (DC 06532): ZIP codes 35716,35863-356890,35713,35708 are zone 2a "
-35764,Sinn,06532,2,,"DC rule (DC 06532): ZIP codes 35716,35863-356890,35713,35708 are zone 2a "
-35767,Breitscheid,06532,2,,"DC rule (DC 06532): ZIP codes 35716,35863-356890,35713,35708 are zone 2a "
-35768,Siegbach,06532,2,,"DC rule (DC 06532): ZIP codes 35716,35863-356890,35713,35708 are zone 2a "
+35576,Wetzlar,06532,2,,"ZIP codes 35716,35863-356890,35713,35708 are zone 2a "
+35578,Wetzlar,06532,2,,"ZIP codes 35716,35863-356890,35713,35708 are zone 2a "
+35579,Wetzlar,06532,2,,"ZIP codes 35716,35863-356890,35713,35708 are zone 2a "
+35580,Wetzlar,06532,2,,"ZIP codes 35716,35863-356890,35713,35708 are zone 2a "
+35581,Wetzlar,06532,2,,"ZIP codes 35716,35863-356890,35713,35708 are zone 2a "
+35582,Wetzlar,06532,2,,"ZIP codes 35716,35863-356890,35713,35708 are zone 2a "
+35583,Wetzlar Garbeinheim,06532,2,,"ZIP codes 35716,35863-356890,35713,35708 are zone 2a "
+35584,Wetzlar,06532,2,,"ZIP codes 35716,35863-356890,35713,35708 are zone 2a "
+35585,Wetzlar,06532,2,,"ZIP codes 35716,35863-356890,35713,35708 are zone 2a "
+35586,Wetzlar,06532,2,,"ZIP codes 35716,35863-356890,35713,35708 are zone 2a "
+35606,Solms,06532,2,,"ZIP codes 35716,35863-356890,35713,35708 are zone 2a "
+35614,Aßlar,06532,2,,"ZIP codes 35716,35863-356890,35713,35708 are zone 2a "
+35619,Braunfels,06532,2,,"ZIP codes 35716,35863-356890,35713,35708 are zone 2a "
+35625,Hüttenberg,06532,2,,"ZIP codes 35716,35863-356890,35713,35708 are zone 2a "
+35630,Ehringshausen,06532,2,,"ZIP codes 35716,35863-356890,35713,35708 are zone 2a "
+35633,Lahnau,06532,2,,"ZIP codes 35716,35863-356890,35713,35708 are zone 2a "
+35638,Leun,06532,2,,"ZIP codes 35716,35863-356890,35713,35708 are zone 2a "
+35641,Schöffengrund,06532,2,,"ZIP codes 35716,35863-356890,35713,35708 are zone 2a "
+35644,Hohenahr,06532,2,,"ZIP codes 35716,35863-356890,35713,35708 are zone 2a "
+35647,Waldolms,06532,2,,"ZIP codes 35716,35863-356890,35713,35708 are zone 2a "
+35649,Bischoffen,06532,2,,"ZIP codes 35716,35863-356890,35713,35708 are zone 2a "
+35683,Dillenburg,06532,2,,"ZIP codes 35716,35863-356890,35713,35708 are zone 2a "
+35684,Dillenburg,06532,2,,"ZIP codes 35716,35863-356890,35713,35708 are zone 2a "
+35685,Dillenburg,06532,2,,"ZIP codes 35716,35863-356890,35713,35708 are zone 2a "
+35686,Dillenburg,06532,2,,"ZIP codes 35716,35863-356890,35713,35708 are zone 2a "
+35687,Dillenburg,06532,2,,"ZIP codes 35716,35863-356890,35713,35708 are zone 2a "
+35688,Dillenburg,06532,2,,"ZIP codes 35716,35863-356890,35713,35708 are zone 2a "
+35689,Dillenburg,06532,2,,"ZIP codes 35716,35863-356890,35713,35708 are zone 2a "
+35690,Dillenburg,06532,2,,"ZIP codes 35716,35863-356890,35713,35708 are zone 2a "
+35708,Haiger,06532,2a,,"ZIP codes 35716,35863-356890,35713,35708 are zone 2a "
+35713,Eschenburg,06532,2a,,"ZIP codes 35716,35863-356890,35713,35708 are zone 2a "
+35716,Dietzhölztal,06532,2a,,"ZIP codes 35716,35863-356890,35713,35708 are zone 2a "
+35719,Angelburg,06534,2,,"ZIP codes 35216,35236,35117 are zone 2a"
+35745,Herborn,06532,2,,"ZIP codes 35716,35863-356890,35713,35708 are zone 2a "
+35753,Greifenstein,06532,2,,"ZIP codes 35716,35863-356890,35713,35708 are zone 2a "
+35756,Mittenaar,06532,2,,"ZIP codes 35716,35863-356890,35713,35708 are zone 2a "
+35759,Driedorf,06532,2,,"ZIP codes 35716,35863-356890,35713,35708 are zone 2a "
+35764,Sinn,06532,2,,"ZIP codes 35716,35863-356890,35713,35708 are zone 2a "
+35767,Breitscheid,06532,2,,"ZIP codes 35716,35863-356890,35713,35708 are zone 2a "
+35768,Siegbach,06532,2,,"ZIP codes 35716,35863-356890,35713,35708 are zone 2a "
 35781,Weilburg,06533,2,,
 35789,Weilmünster,06533,2,,
 35792,Löhnberg,06533,2,,
 35794,Mengerskirchen,06533,2,,
 35796,Weinbach,06533,2,,
 35799,Merenberg,06533,2,,
-36037,Fulda,06631,2a,,"DC rule (DC 06631): ZIP codes 36132,36151,36169 are zone 2"
-36039,Fulda,06631,2a,,"DC rule (DC 06631): ZIP codes 36132,36151,36169 are zone 2"
-36041,Fulda,06631,2a,,"DC rule (DC 06631): ZIP codes 36132,36151,36169 are zone 2"
-36043,Fulda,06631,2a,,"DC rule (DC 06631): ZIP codes 36132,36151,36169 are zone 2"
-36088,Hünfeld,06631,2a,,"DC rule (DC 06631): ZIP codes 36132,36151,36169 are zone 2"
-36093,Künzell,06631,2a,,"DC rule (DC 06631): ZIP codes 36132,36151,36169 are zone 2"
-36100,Petersberg,06631,2a,,"DC rule (DC 06631): ZIP codes 36132,36151,36169 are zone 2"
-36103,Flieden,06631,2a,,"DC rule (DC 06631): ZIP codes 36132,36151,36169 are zone 2"
-36110,Schlitz,06535,2a,,"DC rule (DC 06535): ZIP codes 36399,36355,36358,36341,36110,36367 are zone 2a"
-36115,"Hilders, Ehrenberg",06631,2a,,"DC rule (DC 06631): ZIP codes 36132,36151,36169 are zone 2"
-36119,Neuhof,06631,2a,,"DC rule (DC 06631): ZIP codes 36132,36151,36169 are zone 2"
-36124,Eichenzell,06631,2a,,"DC rule (DC 06631): ZIP codes 36132,36151,36169 are zone 2"
-36129,Gersfeld,06631,2a,,"DC rule (DC 06631): ZIP codes 36132,36151,36169 are zone 2"
-36132,Eiterfeld,06631,2,,"DC rule (DC 06631): ZIP codes 36132,36151,36169 are zone 2"
-36137,Großenlüder,06631,2a,,"DC rule (DC 06631): ZIP codes 36132,36151,36169 are zone 2"
-36142,Tann,06631,2a,,"DC rule (DC 06631): ZIP codes 36132,36151,36169 are zone 2"
-36145,Hofbieber,06631,2a,,"DC rule (DC 06631): ZIP codes 36132,36151,36169 are zone 2"
-36148,Kalbach,06631,2a,,"DC rule (DC 06631): ZIP codes 36132,36151,36169 are zone 2"
-36151,Burghaun,06631,2,,"DC rule (DC 06631): ZIP codes 36132,36151,36169 are zone 2"
-36154,Hosenfeld,06631,2a,,"DC rule (DC 06631): ZIP codes 36132,36151,36169 are zone 2"
-36157,Ebersburg,06631,2a,,"DC rule (DC 06631): ZIP codes 36132,36151,36169 are zone 2"
-36160,Dipperz,06631,2a,,"DC rule (DC 06631): ZIP codes 36132,36151,36169 are zone 2"
-36163,Poppenhausen,06631,2a,,"DC rule (DC 06631): ZIP codes 36132,36151,36169 are zone 2"
+36037,Fulda,06631,2a,,"ZIP codes 36132,36151,36169 are zone 2"
+36039,Fulda,06631,2a,,"ZIP codes 36132,36151,36169 are zone 2"
+36041,Fulda,06631,2a,,"ZIP codes 36132,36151,36169 are zone 2"
+36043,Fulda,06631,2a,,"ZIP codes 36132,36151,36169 are zone 2"
+36088,Hünfeld,06631,2a,,"ZIP codes 36132,36151,36169 are zone 2"
+36093,Künzell,06631,2a,,"ZIP codes 36132,36151,36169 are zone 2"
+36100,Petersberg,06631,2a,,"ZIP codes 36132,36151,36169 are zone 2"
+36103,Flieden,06631,2a,,"ZIP codes 36132,36151,36169 are zone 2"
+36110,Schlitz,06535,2a,,"ZIP codes 36399,36355,36358,36341,36110,36367 are zone 2a"
+36115,"Hilders, Ehrenberg",06631,2a,,"ZIP codes 36132,36151,36169 are zone 2"
+36119,Neuhof,06631,2a,,"ZIP codes 36132,36151,36169 are zone 2"
+36124,Eichenzell,06631,2a,,"ZIP codes 36132,36151,36169 are zone 2"
+36129,Gersfeld,06631,2a,,"ZIP codes 36132,36151,36169 are zone 2"
+36132,Eiterfeld,06631,2,,"ZIP codes 36132,36151,36169 are zone 2"
+36137,Großenlüder,06631,2a,,"ZIP codes 36132,36151,36169 are zone 2"
+36142,Tann,06631,2a,,"ZIP codes 36132,36151,36169 are zone 2"
+36145,Hofbieber,06631,2a,,"ZIP codes 36132,36151,36169 are zone 2"
+36148,Kalbach,06631,2a,,"ZIP codes 36132,36151,36169 are zone 2"
+36151,Burghaun,06631,2,,"ZIP codes 36132,36151,36169 are zone 2"
+36154,Hosenfeld,06631,2a,,"ZIP codes 36132,36151,36169 are zone 2"
+36157,Ebersburg,06631,2a,,"ZIP codes 36132,36151,36169 are zone 2"
+36160,Dipperz,06631,2a,,"ZIP codes 36132,36151,36169 are zone 2"
+36163,Poppenhausen,06631,2a,,"ZIP codes 36132,36151,36169 are zone 2"
 36166,Haunetal,06632,2a,,
-36167,Nüsttal,06631,2a,,"DC rule (DC 06631): ZIP codes 36132,36151,36169 are zone 2"
-36169,Rasdorf,06631,2,,"DC rule (DC 06631): ZIP codes 36132,36151,36169 are zone 2"
+36167,Nüsttal,06631,2a,,"ZIP codes 36132,36151,36169 are zone 2"
+36169,Rasdorf,06631,2,,"ZIP codes 36132,36151,36169 are zone 2"
 36179,Bebra,06632,2a,,
 36199,Rotenburg an der Fulda,06632,2a,,
-36205,Sontra,06636,2,,"DC rule (DC 06636): ZIP codes 37247,37235,37249,36205,37284,37216 are zone 2"
+36205,Sontra,06636,2,,"ZIP codes 37247,37235,37249,36205,37284,37216 are zone 2"
 36208,Wildeck,06632,2a,,
 36211,Alheim,06632,2a,,
 36214,Nentershausen,06632,2a,,
@@ -2621,23 +2621,23 @@ zipcode,city,dc,snowzone,note,comments
 36286,Neuenstein (Hessen),06632,2a,,
 36287,Breitenbach am Herzberg,06632,2a,,
 36289,Friedewald,06632,2a,,
-36304,Alsfeld,06535,2a,,"DC rule (DC 06535): ZIP codes 36399,36355,36358,36341,36110,36367 are zone 2a"
-36318,Schwalmtal,06535,2a,,"DC rule (DC 06535): ZIP codes 36399,36355,36358,36341,36110,36367 are zone 2a"
-36320,Kirtorf,06535,2a,,"DC rule (DC 06535): ZIP codes 36399,36355,36358,36341,36110,36367 are zone 2a"
-36323,Grebenau,06535,2a,,"DC rule (DC 06535): ZIP codes 36399,36355,36358,36341,36110,36367 are zone 2a"
-36325,Feldatal,06535,2a,,"DC rule (DC 06535): ZIP codes 36399,36355,36358,36341,36110,36367 are zone 2a"
-36326,Antrifttal,06535,2a,,"DC rule (DC 06535): ZIP codes 36399,36355,36358,36341,36110,36367 are zone 2a"
-36329,Romrod,06535,2a,,"DC rule (DC 06535): ZIP codes 36399,36355,36358,36341,36110,36367 are zone 2a"
-36341,Lauterbach,06535,2a,,"DC rule (DC 06535): ZIP codes 36399,36355,36358,36341,36110,36367 are zone 2a"
-36355,Grebenhain,06535,2a,,"DC rule (DC 06535): ZIP codes 36399,36355,36358,36341,36110,36367 are zone 2a"
-36358,Herbstein,06535,2a,,"DC rule (DC 06535): ZIP codes 36399,36355,36358,36341,36110,36367 are zone 2a"
-36364,Bad Salzschlirf,06631,2a,,"DC rule (DC 06631): ZIP codes 36132,36151,36169 are zone 2"
-36367,Wartenberg,06535,2a,,"DC rule (DC 06535): ZIP codes 36399,36355,36358,36341,36110,36367 are zone 2a"
-36369,Lautertal,06535,2a,,"DC rule (DC 06535): ZIP codes 36399,36355,36358,36341,36110,36367 are zone 2a"
+36304,Alsfeld,06535,2a,,"ZIP codes 36399,36355,36358,36341,36110,36367 are zone 2a"
+36318,Schwalmtal,06535,2a,,"ZIP codes 36399,36355,36358,36341,36110,36367 are zone 2a"
+36320,Kirtorf,06535,2a,,"ZIP codes 36399,36355,36358,36341,36110,36367 are zone 2a"
+36323,Grebenau,06535,2a,,"ZIP codes 36399,36355,36358,36341,36110,36367 are zone 2a"
+36325,Feldatal,06535,2a,,"ZIP codes 36399,36355,36358,36341,36110,36367 are zone 2a"
+36326,Antrifttal,06535,2a,,"ZIP codes 36399,36355,36358,36341,36110,36367 are zone 2a"
+36329,Romrod,06535,2a,,"ZIP codes 36399,36355,36358,36341,36110,36367 are zone 2a"
+36341,Lauterbach,06535,2a,,"ZIP codes 36399,36355,36358,36341,36110,36367 are zone 2a"
+36355,Grebenhain,06535,2a,,"ZIP codes 36399,36355,36358,36341,36110,36367 are zone 2a"
+36358,Herbstein,06535,2a,,"ZIP codes 36399,36355,36358,36341,36110,36367 are zone 2a"
+36364,Bad Salzschlirf,06631,2a,,"ZIP codes 36132,36151,36169 are zone 2"
+36367,Wartenberg,06535,2a,,"ZIP codes 36399,36355,36358,36341,36110,36367 are zone 2a"
+36369,Lautertal,06535,2a,,"ZIP codes 36399,36355,36358,36341,36110,36367 are zone 2a"
 36381,Schlüchtern,06435,2a,,covered by DC rule!
 36391,Sinntal,06435,2a,,covered by DC rule!
 36396,Steinau an der Straße,06435,2a,,covered by DC rule!
-36399,Freiensteinau,06535,2a,,"DC rule (DC 06535): ZIP codes 36399,36355,36358,36341,36110,36367 are zone 2a"
+36399,Freiensteinau,06535,2a,,"ZIP codes 36399,36355,36358,36341,36110,36367 are zone 2a"
 36404,"Vacha, Oechsen",16063,2a,,covered by DC rule!
 36414,Unterbreizbach,16063,2a,,covered by DC rule!
 36419,Geisa,16063,2a,,covered by DC rule!
@@ -2670,29 +2670,29 @@ zipcode,city,dc,snowzone,note,comments
 37181,Hardegsen,03155,2a,,
 37186,Moringen,03155,2a,,
 37191,Katlenburg-Lindau,03155,2a,,
-37194,Bodenfelde,06633,2a,,DC rule (DC 06633): ZIP codes 34369 and 34393 are zone 2a
+37194,Bodenfelde,06633,2a,,ZIP codes 34369 and 34393 are zone 2a
 37197,Hattorf,03159,2a,,covered by zip2zone
 37199,Wulften,03159,2a,,covered by zip2zone
-37213,Witzenhausen,06636,2a,,"DC rule (DC 06636): ZIP codes 37247,37235,37249,36205,37284,37216 are zone 2"
-37214,Witzenhausen,06636,2a,,"DC rule (DC 06636): ZIP codes 37247,37235,37249,36205,37284,37216 are zone 2"
-37215,Witzenhausen,06636,2a,,"DC rule (DC 06636): ZIP codes 37247,37235,37249,36205,37284,37216 are zone 2"
-37216,"Witzenhausen, Gutsbezirk",06636,2,,"DC rule (DC 06636): ZIP codes 37247,37235,37249,36205,37284,37216 are zone 2"
-37217,Witzenhausen,06636,2a,,"DC rule (DC 06636): ZIP codes 37247,37235,37249,36205,37284,37216 are zone 2"
-37218,Witzenhausen,06636,2a,,"DC rule (DC 06636): ZIP codes 37247,37235,37249,36205,37284,37216 are zone 2"
-37235,Hessisch Lichtenau,06636,2,,"DC rule (DC 06636): ZIP codes 37247,37235,37249,36205,37284,37216 are zone 2"
-37242,Bad Sooden-Allendorf,06636,2a,,"DC rule (DC 06636): ZIP codes 37247,37235,37249,36205,37284,37216 are zone 2"
-37247,Großalmerode,06636,2,,"DC rule (DC 06636): ZIP codes 37247,37235,37249,36205,37284,37216 are zone 2"
-37249,Neu-Eichenberg,06636,2,,"DC rule (DC 06636): ZIP codes 37247,37235,37249,36205,37284,37216 are zone 2"
-37269,Eschwege,06636,2a,,"DC rule (DC 06636): ZIP codes 37247,37235,37249,36205,37284,37216 are zone 2"
-37276,Meinhard,06636,2a,,"DC rule (DC 06636): ZIP codes 37247,37235,37249,36205,37284,37216 are zone 2"
-37281,Wanfried,06636,2a,,"DC rule (DC 06636): ZIP codes 37247,37235,37249,36205,37284,37216 are zone 2"
-37284,Waldkappel,06636,2,,"DC rule (DC 06636): ZIP codes 37247,37235,37249,36205,37284,37216 are zone 2"
-37287,Wehretal,06636,2a,,"DC rule (DC 06636): ZIP codes 37247,37235,37249,36205,37284,37216 are zone 2"
-37290,Meißner,06636,2a,,"DC rule (DC 06636): ZIP codes 37247,37235,37249,36205,37284,37216 are zone 2"
-37293,Herleshausen,06636,2a,,"DC rule (DC 06636): ZIP codes 37247,37235,37249,36205,37284,37216 are zone 2"
-37296,Ringgau,06636,2a,,"DC rule (DC 06636): ZIP codes 37247,37235,37249,36205,37284,37216 are zone 2"
-37297,Berkatal,06636,2a,,"DC rule (DC 06636): ZIP codes 37247,37235,37249,36205,37284,37216 are zone 2"
-37299,Weißenborn,06636,2a,,"DC rule (DC 06636): ZIP codes 37247,37235,37249,36205,37284,37216 are zone 2"
+37213,Witzenhausen,06636,2a,,"ZIP codes 37247,37235,37249,36205,37284,37216 are zone 2"
+37214,Witzenhausen,06636,2a,,"ZIP codes 37247,37235,37249,36205,37284,37216 are zone 2"
+37215,Witzenhausen,06636,2a,,"ZIP codes 37247,37235,37249,36205,37284,37216 are zone 2"
+37216,"Witzenhausen, Gutsbezirk",06636,2,,"ZIP codes 37247,37235,37249,36205,37284,37216 are zone 2"
+37217,Witzenhausen,06636,2a,,"ZIP codes 37247,37235,37249,36205,37284,37216 are zone 2"
+37218,Witzenhausen,06636,2a,,"ZIP codes 37247,37235,37249,36205,37284,37216 are zone 2"
+37235,Hessisch Lichtenau,06636,2,,"ZIP codes 37247,37235,37249,36205,37284,37216 are zone 2"
+37242,Bad Sooden-Allendorf,06636,2a,,"ZIP codes 37247,37235,37249,36205,37284,37216 are zone 2"
+37247,Großalmerode,06636,2,,"ZIP codes 37247,37235,37249,36205,37284,37216 are zone 2"
+37249,Neu-Eichenberg,06636,2,,"ZIP codes 37247,37235,37249,36205,37284,37216 are zone 2"
+37269,Eschwege,06636,2a,,"ZIP codes 37247,37235,37249,36205,37284,37216 are zone 2"
+37276,Meinhard,06636,2a,,"ZIP codes 37247,37235,37249,36205,37284,37216 are zone 2"
+37281,Wanfried,06636,2a,,"ZIP codes 37247,37235,37249,36205,37284,37216 are zone 2"
+37284,Waldkappel,06636,2,,"ZIP codes 37247,37235,37249,36205,37284,37216 are zone 2"
+37287,Wehretal,06636,2a,,"ZIP codes 37247,37235,37249,36205,37284,37216 are zone 2"
+37290,Meißner,06636,2a,,"ZIP codes 37247,37235,37249,36205,37284,37216 are zone 2"
+37293,Herleshausen,06636,2a,,"ZIP codes 37247,37235,37249,36205,37284,37216 are zone 2"
+37296,Ringgau,06636,2a,,"ZIP codes 37247,37235,37249,36205,37284,37216 are zone 2"
+37297,Berkatal,06636,2a,,"ZIP codes 37247,37235,37249,36205,37284,37216 are zone 2"
+37299,Weißenborn,06636,2a,,"ZIP codes 37247,37235,37249,36205,37284,37216 are zone 2"
 37308,Heiligenstadt,16061,2a,,covered by DC rule!
 37318,"Arenshausen, Uder u.a.",16061,2a,,covered by DC rule!
 37327,"Leinefelde-Worbis, Wingerode",16061,2a,,covered by DC rule!
@@ -2705,7 +2705,7 @@ zipcode,city,dc,snowzone,note,comments
 37431,Bad Lauterberg,03159,2a,,covered by zip2zone
 37434,"Gieboldehausen, Rhumequelle",03159,2a,,covered by zip2zone
 37441,Bad Sachsa,03159,2a,,covered by zip2zone
-37444,Braunlage,03153,2a,*Harz55,"covered by Harz55 rule: ZIP codes 38667 Torfhaus,38700,37444 apply for Harz55 rule, we use zone 3 as the defauöt zone (see above) before applying the rule"
+37444,Braunlage,03153,2a,*Harz55,"covered by Harz55 rule: ZIP codes 38667 Torfhaus,38700,37444 apply for Harz55 rule, we use zone 3 as the default zone (see above) before applying the rule"
 37445,Walkenried,03159,2a,,covered by zip2zone
 37520,Osterode am Harz,03159,2a,,covered by zip2zone
 37539,Bad Grund,03159,2a,,covered by zip2zone
@@ -2732,119 +2732,119 @@ zipcode,city,dc,snowzone,note,comments
 37696,Marienmünster,05762,2a,,
 37697,Lauenförde,03255,2a,,
 37699,Fürstenberg,03255,2a,,
-38100,Braunschweig,03101,2a,*Nord. Tiefld,
-38102,Braunschweig,03101,2a,*Nord. Tiefld,
-38104,Braunschweig,03101,2a,*Nord. Tiefld,
-38106,Braunschweig,03101,2a,*Nord. Tiefld,
-38108,Braunschweig,03101,2a,*Nord. Tiefld,
-38110,Braunschweig,03101,2a,*Nord. Tiefld,
-38112,Braunschweig,03101,2a,*Nord. Tiefld,
-38114,Braunschweig,03101,2a,*Nord. Tiefld,
-38116,Braunschweig,03101,2a,*Nord. Tiefld,
-38118,Braunschweig,03101,2a,*Nord. Tiefld,
-38120,Braunschweig,03101,2a,*Nord. Tiefld,
-38122,Braunschweig,03101,2a,*Nord. Tiefld,
-38124,Braunschweig,03101,2a,*Nord. Tiefld,
-38126,Braunschweig,03101,2a,*Nord. Tiefld,
-38154,Königslutter am Elm,03154,2a,*Nord. Tiefld,
-38159,Vechelde,03157,2a,*Nord. Tiefld,
-38162,Cremlingen,03158,2a,*Nord. Tiefld,
-38165,Lehre,03154,2a,*Nord. Tiefld,
-38170,Schöppenstedt,03158,2a,*Nord. Tiefld,
-38173,"Sickte, Dettum u.a.",03158,2a,*Nord. Tiefld,
-38176,Wendeburg,03157,2a,*Nord. Tiefld,
-38179,Schwülper,03151,2a,*Nord. Tiefld,
-38226,Salzgitter,03102,2a,*Nord. Tiefld,
-38228,Salzgitter,03102,2a,*Nord. Tiefld,
-38229,Salzgitter,03102,2a,*Nord. Tiefld,
-38239,Salzgitter,03102,2a,*Nord. Tiefld,
-38259,Salzgitter,03102,2a,*Nord. Tiefld,
-38268,Lengede,03157,2a,*Nord. Tiefld,
-38271,Baddeckenstedt,03158,2a,*Nord. Tiefld,
-38272,Burgdorf,03158,2a,*Nord. Tiefld,
-38274,Elbe,03158,2a,*Nord. Tiefld,
-38275,Haverlah,03158,2a,*Nord. Tiefld,
-38277,Heere,03158,2a,*Nord. Tiefld,
-38279,Sehlde,03158,2a,*Nord. Tiefld,
-38300,Wolfenbüttel,03158,2a,*Nord. Tiefld,
-38302,Wolfenbüttel,03158,2a,*Nord. Tiefld,
-38304,Wolfenbüttel,03158,2a,*Nord. Tiefld,
-38312,"Dorstadt, Flöthe, Börßum u.a.",03158,2a,*Nord. Tiefld,
-38315,Schladen-Werla,03158,2a,*Nord. Tiefld,
-38319,Remlingen,03158,2a,*Nord. Tiefld,
-38321,Denkte,03158,2a,*Nord. Tiefld,
-38322,Hedeper,03158,2a,*Nord. Tiefld,
-38324,Kissenbrück,03158,2a,*Nord. Tiefld,
-38325,Roklum,03158,2a,*Nord. Tiefld,
-38327,Semmenstedt,03158,2a,*Nord. Tiefld,
-38329,Wittmar,03158,2a,*Nord. Tiefld,
-38350,Helmstedt,03154,2a,*Nord. Tiefld,
-38364,Schöningen,03154,2a,*Nord. Tiefld,
-38368,"Rennau, Querenhorst, Mariental, Grasleben",03154,2a,*Nord. Tiefld,
-38372,Büddenstedt,03154,2a,*Nord. Tiefld,
-38373,"Süpplingen, Frellstedt",03154,2a,*Nord. Tiefld,
-38375,Räbke,03154,2a,*Nord. Tiefld,
-38376,Süpplingenburg,03154,2a,*Nord. Tiefld,
-38378,Warberg,03154,2a,*Nord. Tiefld,
-38379,Wolsdorf,03154,2a,*Nord. Tiefld,
-38381,Jerxheim,03154,2a,*Nord. Tiefld,
-38382,Beierstedt,03154,2a,*Nord. Tiefld,
-38384,Gevensleben,03154,2a,*Nord. Tiefld,
-38387,Söllingen,03154,2a,*Nord. Tiefld,
-38440,Wolfsburg,03103,2a,*Nord. Tiefld,
-38442,Wolfsburg,03103,2a,*Nord. Tiefld,
-38444,Wolfsburg,03103,2a,*Nord. Tiefld,
-38446,Wolfsburg,03103,2a,*Nord. Tiefld,
-38448,Wolfsburg,03103,2a,*Nord. Tiefld,
-38458,Velpke,03154,2a,*Nord. Tiefld,
-38459,Bahrdorf,03154,2a,*Nord. Tiefld,
-38461,Danndorf,03154,2a,*Nord. Tiefld,
-38462,Grafhorst,03154,2a,*Nord. Tiefld,
-38464,Groß Twülpstedt,03154,2a,*Nord. Tiefld,
-38465,Brome,03151,2a,*Nord. Tiefld,
-38467,Bergfeld,03151,2a,*Nord. Tiefld,
-38468,Ehra-Lessien,03151,2a,*Nord. Tiefld,
-38470,Parsau,03151,2a,*Nord. Tiefld,
-38471,Rühen,03151,2a,*Nord. Tiefld,
-38473,Tiddische,03151,2a,*Nord. Tiefld,
-38474,Tülau,03151,2a,*Nord. Tiefld,
-38476,Barwedel,03151,2a,*Nord. Tiefld,
-38477,Jembke,03151,2a,*Nord. Tiefld,
-38479,Tappenbeck,03151,2a,*Nord. Tiefld,
+38100,Braunschweig,03101,2a,*Nordd. Tiefl.,
+38102,Braunschweig,03101,2a,*Nordd. Tiefl.,
+38104,Braunschweig,03101,2a,*Nordd. Tiefl.,
+38106,Braunschweig,03101,2a,*Nordd. Tiefl.,
+38108,Braunschweig,03101,2a,*Nordd. Tiefl.,
+38110,Braunschweig,03101,2a,*Nordd. Tiefl.,
+38112,Braunschweig,03101,2a,*Nordd. Tiefl.,
+38114,Braunschweig,03101,2a,*Nordd. Tiefl.,
+38116,Braunschweig,03101,2a,*Nordd. Tiefl.,
+38118,Braunschweig,03101,2a,*Nordd. Tiefl.,
+38120,Braunschweig,03101,2a,*Nordd. Tiefl.,
+38122,Braunschweig,03101,2a,*Nordd. Tiefl.,
+38124,Braunschweig,03101,2a,*Nordd. Tiefl.,
+38126,Braunschweig,03101,2a,*Nordd. Tiefl.,
+38154,Königslutter am Elm,03154,2a,*Nordd. Tiefl.,
+38159,Vechelde,03157,2a,*Nordd. Tiefl.,
+38162,Cremlingen,03158,2a,*Nordd. Tiefl.,
+38165,Lehre,03154,2a,*Nordd. Tiefl.,
+38170,Schöppenstedt,03158,2a,*Nordd. Tiefl.,
+38173,"Sickte, Dettum u.a.",03158,2a,*Nordd. Tiefl.,
+38176,Wendeburg,03157,2a,*Nordd. Tiefl.,
+38179,Schwülper,03151,2a,*Nordd. Tiefl.,
+38226,Salzgitter,03102,2a,*Nordd. Tiefl.,
+38228,Salzgitter,03102,2a,*Nordd. Tiefl.,
+38229,Salzgitter,03102,2a,*Nordd. Tiefl.,
+38239,Salzgitter,03102,2a,*Nordd. Tiefl.,
+38259,Salzgitter,03102,2a,*Nordd. Tiefl.,
+38268,Lengede,03157,2a,*Nordd. Tiefl.,
+38271,Baddeckenstedt,03158,2a,*Nordd. Tiefl.,
+38272,Burgdorf,03158,2a,*Nordd. Tiefl.,
+38274,Elbe,03158,2a,*Nordd. Tiefl.,
+38275,Haverlah,03158,2a,*Nordd. Tiefl.,
+38277,Heere,03158,2a,*Nordd. Tiefl.,
+38279,Sehlde,03158,2a,*Nordd. Tiefl.,
+38300,Wolfenbüttel,03158,2a,*Nordd. Tiefl.,
+38302,Wolfenbüttel,03158,2a,*Nordd. Tiefl.,
+38304,Wolfenbüttel,03158,2a,*Nordd. Tiefl.,
+38312,"Dorstadt, Flöthe, Börßum u.a.",03158,2a,*Nordd. Tiefl.,
+38315,Schladen-Werla,03158,2a,*Nordd. Tiefl.,
+38319,Remlingen,03158,2a,*Nordd. Tiefl.,
+38321,Denkte,03158,2a,*Nordd. Tiefl.,
+38322,Hedeper,03158,2a,*Nordd. Tiefl.,
+38324,Kissenbrück,03158,2a,*Nordd. Tiefl.,
+38325,Roklum,03158,2a,*Nordd. Tiefl.,
+38327,Semmenstedt,03158,2a,*Nordd. Tiefl.,
+38329,Wittmar,03158,2a,*Nordd. Tiefl.,
+38350,Helmstedt,03154,2a,*Nordd. Tiefl.,
+38364,Schöningen,03154,2a,*Nordd. Tiefl.,
+38368,"Rennau, Querenhorst, Mariental, Grasleben",03154,2a,*Nordd. Tiefl.,
+38372,Büddenstedt,03154,2a,*Nordd. Tiefl.,
+38373,"Süpplingen, Frellstedt",03154,2a,*Nordd. Tiefl.,
+38375,Räbke,03154,2a,*Nordd. Tiefl.,
+38376,Süpplingenburg,03154,2a,*Nordd. Tiefl.,
+38378,Warberg,03154,2a,*Nordd. Tiefl.,
+38379,Wolsdorf,03154,2a,*Nordd. Tiefl.,
+38381,Jerxheim,03154,2a,*Nordd. Tiefl.,
+38382,Beierstedt,03154,2a,*Nordd. Tiefl.,
+38384,Gevensleben,03154,2a,*Nordd. Tiefl.,
+38387,Söllingen,03154,2a,*Nordd. Tiefl.,
+38440,Wolfsburg,03103,2a,*Nordd. Tiefl.,
+38442,Wolfsburg,03103,2a,*Nordd. Tiefl.,
+38444,Wolfsburg,03103,2a,*Nordd. Tiefl.,
+38446,Wolfsburg,03103,2a,*Nordd. Tiefl.,
+38448,Wolfsburg,03103,2a,*Nordd. Tiefl.,
+38458,Velpke,03154,2a,*Nordd. Tiefl.,
+38459,Bahrdorf,03154,2a,*Nordd. Tiefl.,
+38461,Danndorf,03154,2a,*Nordd. Tiefl.,
+38462,Grafhorst,03154,2a,*Nordd. Tiefl.,
+38464,Groß Twülpstedt,03154,2a,*Nordd. Tiefl.,
+38465,Brome,03151,2a,*Nordd. Tiefl.,
+38467,Bergfeld,03151,2a,*Nordd. Tiefl.,
+38468,Ehra-Lessien,03151,2a,*Nordd. Tiefl.,
+38470,Parsau,03151,2a,*Nordd. Tiefl.,
+38471,Rühen,03151,2a,*Nordd. Tiefl.,
+38473,Tiddische,03151,2a,*Nordd. Tiefl.,
+38474,Tülau,03151,2a,*Nordd. Tiefl.,
+38476,Barwedel,03151,2a,*Nordd. Tiefl.,
+38477,Jembke,03151,2a,*Nordd. Tiefl.,
+38479,Tappenbeck,03151,2a,*Nordd. Tiefl.,
 38486,"Klötze, Apenburg-Winterfeld",15081,2a,*Nordd. Tiefld.,
 38489,"Beetzendorf, Rohrberg, Jübar",15081,2a,*Nordd. Tiefld.,
-38518,Gifhorn,03151,2a,*Nord. Tiefld,
-38524,Sassenburg,03151,2a,*Nord. Tiefld,
-38527,Meine,03151,2a,*Nord. Tiefld,
-38528,Adenbüttel,03151,2a,*Nord. Tiefld,
-38530,Didderse,03151,2a,*Nord. Tiefld,
-38531,Rötgesbüttel,03151,2a,*Nord. Tiefld,
-38533,Vordorf,03151,2a,*Nord. Tiefld,
-38536,Meinersen,03151,2a,*Nord. Tiefld,
-38539,Müden (Aller),03151,2a,*Nord. Tiefld,
-38542,Leiferde,03151,2a,*Nord. Tiefld,
-38543,Hillerse,03151,2a,*Nord. Tiefld,
-38547,Calberlah,03151,2a,*Nord. Tiefld,
-38550,Isenbüttel,03151,2a,*Nord. Tiefld,
-38551,Ribbesbüttel,03151,2a,*Nord. Tiefld,
-38553,Wasbüttel,03151,2a,*Nord. Tiefld,
-38554,Weyhausen,03151,2a,*Nord. Tiefld,
-38556,Bokensdorf,03151,2a,*Nord. Tiefld,
-38557,Osloß,03151,2a,*Nord. Tiefld,
-38559,"Wagenhoff, Ringelah",03151,2a,*Nord. Tiefld,
-38640,Goslar,03153,2a,*Harz55,"covered by Harz55 rule: ZIP codes 38667 Torfhaus,38700,37444 apply for Harz55 rule, we use zone 3 as the defauöt zone (see above) before applying the rule"
-38642,Goslar,03153,2a,*Harz55,"covered by Harz55 rule: ZIP codes 38667 Torfhaus,38700,37444 apply for Harz55 rule, we use zone 3 as the defauöt zone (see above) before applying the rule"
-38644,Goslar,03153,2a,*Harz55,"covered by Harz55 rule: ZIP codes 38667 Torfhaus,38700,37444 apply for Harz55 rule, we use zone 3 as the defauöt zone (see above) before applying the rule"
-38667,"Bad Harzburg, Torfhaus",03153,2a,*Harz55,"covered by Harz55 rule: ZIP codes 38667 Torfhaus,38700,37444 apply for Harz55 rule, we use zone 3 as the defauöt zone (see above) before applying the rule"
-38678,"Clausthal-Zellerfeld, Oberschulenberg",03153,2a,*Harz55,"covered by Harz55 rule: ZIP codes 38667 Torfhaus,38700,37444 apply for Harz55 rule, we use zone 3 as the defauöt zone (see above) before applying the rule"
-38685,Langelsheim,03153,2a,*Harz55,"covered by Harz55 rule: ZIP codes 38667 Torfhaus,38700,37444 apply for Harz55 rule, we use zone 3 as the defauöt zone (see above) before applying the rule"
-38690,Goslar,03153,2a,*Harz55,"covered by Harz55 rule: ZIP codes 38667 Torfhaus,38700,37444 apply for Harz55 rule, we use zone 3 as the defauöt zone (see above) before applying the rule"
-38700,Braunlage,03153,2a,*Harz55,"covered by Harz55 rule: ZIP codes 38667 Torfhaus,38700,37444 apply for Harz55 rule, we use zone 3 as the defauöt zone (see above) before applying the rule"
-38704,Liebenburg,03153,2a,*Harz55,"covered by Harz55 rule: ZIP codes 38667 Torfhaus,38700,37444 apply for Harz55 rule, we use zone 3 as the defauöt zone (see above) before applying the rule"
-38707,Clausthal-Zellerfeld,03153,2a,*Harz55,"covered by Harz55 rule: ZIP codes 38667 Torfhaus,38700,37444 apply for Harz55 rule, we use zone 3 as the defauöt zone (see above) before applying the rule"
-38709,Wildemann,03153,2a,*Harz55,"covered by Harz55 rule: ZIP codes 38667 Torfhaus,38700,37444 apply for Harz55 rule, we use zone 3 as the defauöt zone (see above) before applying the rule"
-38723,Seesen,03153,2a,*Harz55,"covered by Harz55 rule: ZIP codes 38667 Torfhaus,38700,37444 apply for Harz55 rule, we use zone 3 as the defauöt zone (see above) before applying the rule"
-38729,Langelsheim,03153,2a,*Harz55,"covered by Harz55 rule: ZIP codes 38667 Torfhaus,38700,37444 apply for Harz55 rule, we use zone 3 as the defauöt zone (see above) before applying the rule"
+38518,Gifhorn,03151,2a,*Nordd. Tiefl.,
+38524,Sassenburg,03151,2a,*Nordd. Tiefl.,
+38527,Meine,03151,2a,*Nordd. Tiefl.,
+38528,Adenbüttel,03151,2a,*Nordd. Tiefl.,
+38530,Didderse,03151,2a,*Nordd. Tiefl.,
+38531,Rötgesbüttel,03151,2a,*Nordd. Tiefl.,
+38533,Vordorf,03151,2a,*Nordd. Tiefl.,
+38536,Meinersen,03151,2a,*Nordd. Tiefl.,
+38539,Müden (Aller),03151,2a,*Nordd. Tiefl.,
+38542,Leiferde,03151,2a,*Nordd. Tiefl.,
+38543,Hillerse,03151,2a,*Nordd. Tiefl.,
+38547,Calberlah,03151,2a,*Nordd. Tiefl.,
+38550,Isenbüttel,03151,2a,*Nordd. Tiefl.,
+38551,Ribbesbüttel,03151,2a,*Nordd. Tiefl.,
+38553,Wasbüttel,03151,2a,*Nordd. Tiefl.,
+38554,Weyhausen,03151,2a,*Nordd. Tiefl.,
+38556,Bokensdorf,03151,2a,*Nordd. Tiefl.,
+38557,Osloß,03151,2a,*Nordd. Tiefl.,
+38559,"Wagenhoff, Ringelah",03151,2a,*Nordd. Tiefl.,
+38640,Goslar,03153,2a,*Harz55,"covered by Harz55 rule: ZIP codes 38667 Torfhaus,38700,37444 apply for Harz55 rule, we use zone 3 as the default zone (see above) before applying the rule"
+38642,Goslar,03153,2a,*Harz55,"covered by Harz55 rule: ZIP codes 38667 Torfhaus,38700,37444 apply for Harz55 rule, we use zone 3 as the default zone (see above) before applying the rule"
+38644,Goslar,03153,2a,*Harz55,"covered by Harz55 rule: ZIP codes 38667 Torfhaus,38700,37444 apply for Harz55 rule, we use zone 3 as the default zone (see above) before applying the rule"
+38667,"Bad Harzburg, Torfhaus",03153,2a,*Harz55,"covered by Harz55 rule: ZIP codes 38667 Torfhaus,38700,37444 apply for Harz55 rule, we use zone 3 as the default zone (see above) before applying the rule"
+38678,"Clausthal-Zellerfeld, Oberschulenberg",03153,2a,*Harz55,"covered by Harz55 rule: ZIP codes 38667 Torfhaus,38700,37444 apply for Harz55 rule, we use zone 3 as the default zone (see above) before applying the rule"
+38685,Langelsheim,03153,2a,*Harz55,"covered by Harz55 rule: ZIP codes 38667 Torfhaus,38700,37444 apply for Harz55 rule, we use zone 3 as the default zone (see above) before applying the rule"
+38690,Goslar,03153,2a,*Harz55,"covered by Harz55 rule: ZIP codes 38667 Torfhaus,38700,37444 apply for Harz55 rule, we use zone 3 as the default zone (see above) before applying the rule"
+38700,Braunlage,03153,2a,*Harz55,"covered by Harz55 rule: ZIP codes 38667 Torfhaus,38700,37444 apply for Harz55 rule, we use zone 3 as the default zone (see above) before applying the rule"
+38704,Liebenburg,03153,2a,*Harz55,"covered by Harz55 rule: ZIP codes 38667 Torfhaus,38700,37444 apply for Harz55 rule, we use zone 3 as the default zone (see above) before applying the rule"
+38707,Clausthal-Zellerfeld,03153,2a,*Harz55,"covered by Harz55 rule: ZIP codes 38667 Torfhaus,38700,37444 apply for Harz55 rule, we use zone 3 as the default zone (see above) before applying the rule"
+38709,Wildemann,03153,2a,*Harz55,"covered by Harz55 rule: ZIP codes 38667 Torfhaus,38700,37444 apply for Harz55 rule, we use zone 3 as the default zone (see above) before applying the rule"
+38723,Seesen,03153,2a,*Harz55,"covered by Harz55 rule: ZIP codes 38667 Torfhaus,38700,37444 apply for Harz55 rule, we use zone 3 as the default zone (see above) before applying the rule"
+38729,Langelsheim,03153,2a,*Harz55,"covered by Harz55 rule: ZIP codes 38667 Torfhaus,38700,37444 apply for Harz55 rule, we use zone 3 as the default zone (see above) before applying the rule"
 38820,Halberstadt,15085,2a,,covered by DC rule!
 38822,"Halberstadt, Groß Quenstedt",15085,2a,,covered by DC rule!
 38828,Wegeleben,15085,2a,,covered by DC rule!
@@ -2874,42 +2874,42 @@ zipcode,city,dc,snowzone,note,comments
 39126,Magdeburg,15003,2a,*Nordd. Tiefld.,
 39128,Magdeburg,15003,2a,*Nordd. Tiefld.,
 39130,Magdeburg,15003,2a,*Nordd. Tiefld.,
-39164,Wanzleben-Börde,15083,2a,"*Nordd. Tiefld. alle, außer Gröningen, Kroppenstedt, sowie die südlichen Teile von Oschersleben (Bode) und Sülzetal","NGP rule (NGP15083): all except 39397, 39387, 39171 apply to NGP rule"
-39167,"Eichenbarleben, Irxleben, Niederndodeleben u.a.",15083,2a,"*Nordd. Tiefld. alle, außer Gröningen, Kroppenstedt, sowie die südlichen Teile von Oschersleben (Bode) und Sülzetal","NGP rule (NGP15083): all except 39397, 39387, 39171 apply to NGP rule"
-39171,Sülzetal,15083,2a,"*Nordd. Tiefld. alle, außer Gröningen, Kroppenstedt, sowie die südlichen Teile von Oschersleben (Bode) und Sülzetal","NGP rule (NGP15083): all except 39397, 39387, 39171 apply to NGP rule"
+39164,Wanzleben-Börde,15083,2a,"*Nordd. Tiefld. alle, außer 39397 Gröningen, 39397 Kroppenstedt, sowie die südlichen Teile von 39387 Oschersleben (Bode) und 39171 Sülzetal","NGP rule: all except 39397, 39387, 39171 apply to NGP rule"
+39167,"Eichenbarleben, Irxleben, Niederndodeleben u.a.",15083,2a,"*Nordd. Tiefld. alle, außer 39397 Gröningen, 39397 Kroppenstedt, sowie die südlichen Teile von 39387 Oschersleben (Bode) und 39171 Sülzetal","NGP rule: all except 39397, 39387, 39171 apply to NGP rule"
+39171,Sülzetal,15083,2a,"*Nordd. Tiefld. alle, außer 39397 Gröningen, 39397 Kroppenstedt, sowie die südlichen Teile von 39387 Oschersleben (Bode) und 39171 Sülzetal","NGP rule: all except 39397, 39387, 39171 apply to NGP rule"
 39175,"Biederitz, Gerwisch, Menz u.a.",15086,2a,*Nordd. Tiefld.,
-39179,Barleben,15083,2a,"*Nordd. Tiefld. alle, außer Gröningen, Kroppenstedt, sowie die südlichen Teile von Oschersleben (Bode) und Sülzetal","NGP rule (NGP15083): all except 39397, 39387, 39171 apply to NGP rule"
-39217,Schönebeck (Elbe),15089,2a,*Nordd. Tiefld. von Barby der Ortsteil Glinde sowie Schönebeck (Elbe) und von Bördeland der Ortsteil Welsleben,"NGP rule (NGP15089): partially 39249, 39218, partially 39221"
-39218,Schönebeck,15089,2a,*Nordd. Tiefld. von Barby der Ortsteil Glinde sowie Schönebeck (Elbe) und von Bördeland der Ortsteil Welsleben,"NGP rule (NGP15089): partially 39249, 39218, partially 39221"
-39221,"Welsleben, Biere, Eickendorf u.a.",15089,2a,*Nordd. Tiefld. von Barby der Ortsteil Glinde sowie Schönebeck (Elbe) und von Bördeland der Ortsteil Welsleben,"NGP rule (NGP15089): partially 39249, 39218, partially 39221"
-39240,"Calbe, Rosenburg u.a.",15089,2a,*Nordd. Tiefld. von Barby der Ortsteil Glinde sowie Schönebeck (Elbe) und von Bördeland der Ortsteil Welsleben,"NGP rule (NGP15089): partially 39249, 39218, partially 39221"
+39179,Barleben,15083,2a,"*Nordd. Tiefld. alle, außer 39397 Gröningen, 39397 Kroppenstedt, sowie die südlichen Teile von 39387 Oschersleben (Bode) und 39171 Sülzetal","NGP rule: all except 39397, 39387, 39171 apply to NGP rule"
+39217,Schönebeck (Elbe),15089,2a,*Nordd. Tiefld. von Barby der Ortsteil 39249 Glinde sowie 39217/39218 Schönebeck (Elbe) und von Bördeland der Ortsteil 39221 Welsleben,"NGP rule: partially 39249, 39218, partially 39221"
+39218,Schönebeck,15089,2a,*Nordd. Tiefld. von Barby der Ortsteil 39249 Glinde sowie 39217/39218 Schönebeck (Elbe) und von Bördeland der Ortsteil 39221 Welsleben,"NGP rule: partially 39249, 39218, partially 39221"
+39221,"Welsleben, Biere, Eickendorf u.a.",15089,2a,*Nordd. Tiefld. von Barby der Ortsteil 39249 Glinde sowie 39217/39218 Schönebeck (Elbe) und von Bördeland der Ortsteil 39221 Welsleben,"NGP rule: partially 39249, 39218, partially 39221"
+39240,"Calbe, Rosenburg u.a.",15089,2a,*Nordd. Tiefld. von Barby der Ortsteil 39249 Glinde sowie 39217/39218 Schönebeck (Elbe) und von Bördeland der Ortsteil 39221 Welsleben,"NGP rule: partially 39249, 39218, partially 39221"
 39245,"Gommern, Dannigkow",15086,2a,*Nordd. Tiefld.,
-39249,Barby,15089,2a,*Nordd. Tiefld. von Barby der Ortsteil Glinde sowie Schönebeck (Elbe) und von Bördeland der Ortsteil Welsleben,"NGP rule (NGP15089): partially 39249, 39218, partially 39221"
-39261,Zerbst/Anhalt,15082,2a,"*Nordd. Tiefld.  von Zerbst/Anhalt die Ortsteile Buhlendorf, Deetz, Dobritz, Gehrden, Grimme, Lindau, Moritz, Nedlitz, Polenzko, Reuden, Straguth, und Zernitz","NGP rule (NGP15082): 39264 partially applies to NGP rule , see https://www.suche-postleitzahl.org/zerbst-plz-39261-39264.67d8 "
-39264,"Güterglück, Lindau, Deetz u.a.",15082,2a,"*Nordd. Tiefld.  von Zerbst/Anhalt die Ortsteile Buhlendorf, Deetz, Dobritz, Gehrden, Grimme, Lindau, Moritz, Nedlitz, Polenzko, Reuden, Straguth, und Zernitz","NGP rule (NGP15082): 39264 partially applies to NGP rule , see https://www.suche-postleitzahl.org/zerbst-plz-39261-39264.67d8 "
+39249,Barby,15089,2a,*Nordd. Tiefld. von Barby der Ortsteil 39249 Glinde sowie 39217/39218 Schönebeck (Elbe) und von Bördeland der Ortsteil 39221 Welsleben,"NGP rule: partially 39249, 39218, partially 39221"
+39261,Zerbst/Anhalt,15082,2a,"*Nordd. Tiefld.  von Zerbst/Anhalt die Ortsteile Buhlendorf, Deetz, Dobritz, Gehrden, Grimme, Lindau, Moritz, Nedlitz, Polenzko, Reuden, Straguth, und Zernitz","NGP rule: 39264 Zerbst, Ortsteile as listed on the left"
+39264,"Güterglück, Lindau, Deetz u.a.",15082,2a,"*Nordd. Tiefld.  von Zerbst/Anhalt die Ortsteile Buhlendorf, Deetz, Dobritz, Gehrden, Grimme, Lindau, Moritz, Nedlitz, Polenzko, Reuden, Straguth, und Zernitz","NGP rule: 39264 Zerbst, Ortsteile as listed on the left"
 39279,"Loburg, Leitzkau",15086,2a,*Nordd. Tiefld.,
 39288,Burg,15086,2a,*Nordd. Tiefld.,
 39291,"Möckern, Schermen, Nedlitz u.a.",15086,2a,*Nordd. Tiefld.,
 39307,"Genthin, Hohenseeden, Zabakuck u.a.",15086,2a,*Nordd. Tiefld.,
 39317,Elbe-Parey,15086,2a,*Nordd. Tiefld.,
 39319,Jerichow,15086,2a,*Nordd. Tiefld.,
-39326,Wolmirstedt u.a.,15083,2a,"*Nordd. Tiefld. alle, außer Gröningen, Kroppenstedt, sowie die südlichen Teile von Oschersleben (Bode) und Sülzetal","NGP rule (NGP15083): all except 39397, 39387, 39171 apply to NGP rule"
-39340,Haldensleben,15083,2a,"*Nordd. Tiefld. alle, außer Gröningen, Kroppenstedt, sowie die südlichen Teile von Oschersleben (Bode) und Sülzetal","NGP rule (NGP15083): all except 39397, 39387, 39171 apply to NGP rule"
-39343,"Erxleben, Nordgermersleben u.a.",15083,2a,"*Nordd. Tiefld. alle, außer Gröningen, Kroppenstedt, sowie die südlichen Teile von Oschersleben (Bode) und Sülzetal","NGP rule (NGP15083): all except 39397, 39387, 39171 apply to NGP rule"
-39345,"Haldensleben, Flechtingen, Bülstringen u.a.",15083,2a,"*Nordd. Tiefld. alle, außer Gröningen, Kroppenstedt, sowie die südlichen Teile von Oschersleben (Bode) und Sülzetal","NGP rule (NGP15083): all except 39397, 39387, 39171 apply to NGP rule"
-39356,"Weferlingen, Behnsdorf, Belsdorf u.a.",15083,2a,"*Nordd. Tiefld. alle, außer Gröningen, Kroppenstedt, sowie die südlichen Teile von Oschersleben (Bode) und Sülzetal","NGP rule (NGP15083): all except 39397, 39387, 39171 apply to NGP rule"
-39359,"Rätzlingen, Wegenstedt, Calvörde, Böddensell u.a.",15083,2a,"*Nordd. Tiefld. alle, außer Gröningen, Kroppenstedt, sowie die südlichen Teile von Oschersleben (Bode) und Sülzetal","NGP rule (NGP15083): all except 39397, 39387, 39171 apply to NGP rule"
-39365,"Harbke, Sommersdorf, Wefensleben, Ummendorf, Eilsleben",15083,2a,"*Nordd. Tiefld. alle, außer Gröningen, Kroppenstedt, sowie die südlichen Teile von Oschersleben (Bode) und Sülzetal","NGP rule (NGP15083): all except 39397, 39387, 39171 apply to NGP rule"
-39387,Oschersleben (Bode),15083,2a,"*Nordd. Tiefld. alle, außer Gröningen, Kroppenstedt, sowie die südlichen Teile von Oschersleben (Bode) und Sülzetal","NGP rule (NGP15083): all except 39397, 39387, 39171 apply to NGP rule"
-39393,"Hötensleben, Völpke, Ottleben u.a.",15083,2a,"*Nordd. Tiefld. alle, außer Gröningen, Kroppenstedt, sowie die südlichen Teile von Oschersleben (Bode) und Sülzetal","NGP rule (NGP15083): all except 39397, 39387, 39171 apply to NGP rule"
+39326,Wolmirstedt u.a.,15083,2a,"*Nordd. Tiefld. alle, außer 39397 Gröningen, 39397 Kroppenstedt, sowie die südlichen Teile von 39387 Oschersleben (Bode) und 39171 Sülzetal","NGP rule: all except 39397, 39387, 39171 apply to NGP rule"
+39340,Haldensleben,15083,2a,"*Nordd. Tiefld. alle, außer 39397 Gröningen, 39397 Kroppenstedt, sowie die südlichen Teile von 39387 Oschersleben (Bode) und 39171 Sülzetal","NGP rule: all except 39397, 39387, 39171 apply to NGP rule"
+39343,"Erxleben, Nordgermersleben u.a.",15083,2a,"*Nordd. Tiefld. alle, außer 39397 Gröningen, 39397 Kroppenstedt, sowie die südlichen Teile von 39387 Oschersleben (Bode) und 39171 Sülzetal","NGP rule: all except 39397, 39387, 39171 apply to NGP rule"
+39345,"Haldensleben, Flechtingen, Bülstringen u.a.",15083,2a,"*Nordd. Tiefld. alle, außer 39397 Gröningen, 39397 Kroppenstedt, sowie die südlichen Teile von 39387 Oschersleben (Bode) und 39171 Sülzetal","NGP rule: all except 39397, 39387, 39171 apply to NGP rule"
+39356,"Weferlingen, Behnsdorf, Belsdorf u.a.",15083,2a,"*Nordd. Tiefld. alle, außer 39397 Gröningen, 39397 Kroppenstedt, sowie die südlichen Teile von 39387 Oschersleben (Bode) und 39171 Sülzetal","NGP rule: all except 39397, 39387, 39171 apply to NGP rule"
+39359,"Rätzlingen, Wegenstedt, Calvörde, Böddensell u.a.",15083,2a,"*Nordd. Tiefld. alle, außer 39397 Gröningen, 39397 Kroppenstedt, sowie die südlichen Teile von 39387 Oschersleben (Bode) und 39171 Sülzetal","NGP rule: all except 39397, 39387, 39171 apply to NGP rule"
+39365,"Harbke, Sommersdorf, Wefensleben, Ummendorf, Eilsleben",15083,2a,"*Nordd. Tiefld. alle, außer 39397 Gröningen, 39397 Kroppenstedt, sowie die südlichen Teile von 39387 Oschersleben (Bode) und 39171 Sülzetal","NGP rule: all except 39397, 39387, 39171 apply to NGP rule"
+39387,Oschersleben (Bode),15083,2a,"*Nordd. Tiefld. alle, außer 39397 Gröningen, 39397 Kroppenstedt, sowie die südlichen Teile von 39387 Oschersleben (Bode) und 39171 Sülzetal","NGP rule: all except 39397, 39387, 39171 apply to NGP rule"
+39393,"Hötensleben, Völpke, Ottleben u.a.",15083,2a,"*Nordd. Tiefld. alle, außer 39397 Gröningen, 39397 Kroppenstedt, sowie die südlichen Teile von 39387 Oschersleben (Bode) und 39171 Sülzetal","NGP rule: all except 39397, 39387, 39171 apply to NGP rule"
 39397,"Schwanebeck, Gröningen, Kroppenstedt",15085,2a,,covered by DC rule!
-39418,Staßfurt,15089,2a,*Nordd. Tiefld. von Barby der Ortsteil Glinde sowie Schönebeck (Elbe) und von Bördeland der Ortsteil Welsleben,"NGP rule (NGP15089): partially 39249, 39218, partially 39221"
-39435,"Egeln, Borne, Wolmirsleben u.a.",15089,2a,*Nordd. Tiefld. von Barby der Ortsteil Glinde sowie Schönebeck (Elbe) und von Bördeland der Ortsteil Welsleben,"NGP rule (NGP15089): partially 39249, 39218, partially 39221"
-39439,Güsten,15089,2a,*Nordd. Tiefld. von Barby der Ortsteil Glinde sowie Schönebeck (Elbe) und von Bördeland der Ortsteil Welsleben,"NGP rule (NGP15089): partially 39249, 39218, partially 39221"
-39443,Staßfurt,15089,2a,*Nordd. Tiefld. von Barby der Ortsteil Glinde sowie Schönebeck (Elbe) und von Bördeland der Ortsteil Welsleben,"NGP rule (NGP15089): partially 39249, 39218, partially 39221"
-39444,Hecklingen,15089,2a,*Nordd. Tiefld. von Barby der Ortsteil Glinde sowie Schönebeck (Elbe) und von Bördeland der Ortsteil Welsleben,"NGP rule (NGP15089): partially 39249, 39218, partially 39221"
-39446,Staßfurt,15089,2a,*Nordd. Tiefld. von Barby der Ortsteil Glinde sowie Schönebeck (Elbe) und von Bördeland der Ortsteil Welsleben,"NGP rule (NGP15089): partially 39249, 39218, partially 39221"
-39448,Börde-Hakel,15089,2a,*Nordd. Tiefld. von Barby der Ortsteil Glinde sowie Schönebeck (Elbe) und von Bördeland der Ortsteil Welsleben,"NGP rule (NGP15089): partially 39249, 39218, partially 39221"
+39418,Staßfurt,15089,2a,*Nordd. Tiefld. von Barby der Ortsteil 39249 Glinde sowie 39217/39218 Schönebeck (Elbe) und von Bördeland der Ortsteil 39221 Welsleben,"NGP rule: partially 39249, 39218, partially 39221"
+39435,"Egeln, Borne, Wolmirsleben u.a.",15089,2a,*Nordd. Tiefld. von Barby der Ortsteil 39249 Glinde sowie 39217/39218 Schönebeck (Elbe) und von Bördeland der Ortsteil 39221 Welsleben,"NGP rule: partially 39249, 39218, partially 39221"
+39439,Güsten,15089,2a,*Nordd. Tiefld. von Barby der Ortsteil 39249 Glinde sowie 39217/39218 Schönebeck (Elbe) und von Bördeland der Ortsteil 39221 Welsleben,"NGP rule: partially 39249, 39218, partially 39221"
+39443,Staßfurt,15089,2a,*Nordd. Tiefld. von Barby der Ortsteil 39249 Glinde sowie 39217/39218 Schönebeck (Elbe) und von Bördeland der Ortsteil 39221 Welsleben,"NGP rule: partially 39249, 39218, partially 39221"
+39444,Hecklingen,15089,2a,*Nordd. Tiefld. von Barby der Ortsteil 39249 Glinde sowie 39217/39218 Schönebeck (Elbe) und von Bördeland der Ortsteil 39221 Welsleben,"NGP rule: partially 39249, 39218, partially 39221"
+39446,Staßfurt,15089,2a,*Nordd. Tiefld. von Barby der Ortsteil 39249 Glinde sowie 39217/39218 Schönebeck (Elbe) und von Bördeland der Ortsteil 39221 Welsleben,"NGP rule: partially 39249, 39218, partially 39221"
+39448,Börde-Hakel,15089,2a,*Nordd. Tiefld. von Barby der Ortsteil 39249 Glinde sowie 39217/39218 Schönebeck (Elbe) und von Bördeland der Ortsteil 39221 Welsleben,"NGP rule: partially 39249, 39218, partially 39221"
 39517,Tangerhütte u.a.,15090,2a,*Nordd. Tiefld.,
 39524,Sandau,15090,2a,*Nordd. Tiefld.,
 39539,Havelberg,15090,2a,*Nordd. Tiefld.,
@@ -2924,7 +2924,7 @@ zipcode,city,dc,snowzone,note,comments
 39628,Bismark,15090,2a,*Nordd. Tiefld.,
 39629,Bismark,15090,2a,*Nordd. Tiefld.,
 39638,Gardelegen,15081,2a,*Nordd. Tiefld.,
-39646,Oebisfelde,15083,2a,"*Nordd. Tiefld. alle, außer Gröningen, Kroppenstedt, sowie die südlichen Teile von Oschersleben (Bode) und Sülzetal","NGP rule (NGP15083): all except 39397, 39387, 39171 apply to NGP rule"
+39646,Oebisfelde,15083,2a,"*Nordd. Tiefld. alle, außer 39397 Gröningen, 39397 Kroppenstedt, sowie die südlichen Teile von 39387 Oschersleben (Bode) und 39171 Sülzetal","NGP rule: all except 39397, 39387, 39171 apply to NGP rule"
 39649,Gardelegen,15081,2a,*Nordd. Tiefld.,
 40210,Düsseldorf,05111,2a,,
 40211,Düsseldorf,05111,2a,,
@@ -3346,18 +3346,18 @@ zipcode,city,dc,snowzone,note,comments
 48429,Rheine,05566,2a,,covered by DC rule!
 48431,Rheine,05566,2a,,covered by DC rule!
 48432,Rheine,05566,2a,,covered by DC rule!
-48455,Bad Bentheim,03456,2a,*Nord. Tiefld,
-48465,"Engden, Isterberg, Schüttorf u.a.",03456,2a,*Nord. Tiefld,
+48455,Bad Bentheim,03456,2a,*Nordd. Tiefl.,
+48465,"Engden, Isterberg, Schüttorf u.a.",03456,2a,*Nordd. Tiefl.,
 48477,Hörstel,05566,2a,,covered by DC rule!
-48480,"Lünne, Schapen, Spelle",03454,2a,*Nord. Tiefld,
+48480,"Lünne, Schapen, Spelle",03454,2a,*Nordd. Tiefl.,
 48485,Neuenkirchen,05566,2a,,covered by DC rule!
-48488,Emsbüren,03454,2a,*Nord. Tiefld,
+48488,Emsbüren,03454,2a,*Nordd. Tiefl.,
 48493,Wettringen,05566,2a,,covered by DC rule!
 48496,Hopsten,05566,2a,,covered by DC rule!
-48499,Salzbergen,03454,2a,*Nord. Tiefld,
-48527,Nordhorn,03456,2a,*Nord. Tiefld,
-48529,Nordhorn,03456,2a,*Nord. Tiefld,
-48531,Nordhorn,03456,2a,*Nord. Tiefld,
+48499,Salzbergen,03454,2a,*Nordd. Tiefl.,
+48527,Nordhorn,03456,2a,*Nordd. Tiefl.,
+48529,Nordhorn,03456,2a,*Nordd. Tiefl.,
+48531,Nordhorn,03456,2a,*Nordd. Tiefl.,
 48565,Steinfurt,05566,2a,,covered by DC rule!
 48599,Gronau,05554,2a,,
 48607,Ochtrup,05566,2a,,covered by DC rule!
@@ -3401,23 +3401,23 @@ zipcode,city,dc,snowzone,note,comments
 49324,Melle,03459,2a,,
 49326,Melle,03459,2a,,
 49328,Melle,03459,2a,,
-49356,Diepholz,03251,2a,*Nord. Tiefld,
-49377,Vechta,03460,2a,*Nord. Tiefld,
-49393,Lohne,03460,2a,*Nord. Tiefld,
-49401,Damme,03460,2a,*Nord. Tiefld,
-49406,"Barnstorf, Eydelstedt, Drentwede",03251,2a,*Nord. Tiefld,
-49413,Dinklage,03460,2a,*Nord. Tiefld,
-49419,Wagenfeld,03251,2a,*Nord. Tiefld,
-49424,Goldenstedt,03460,2a,*Nord. Tiefld,
-49429,Visbek,03460,2a,*Nord. Tiefld,
-49434,Neuenkirchen-Vörden,03460,2a,*Nord. Tiefld,
-49439,Steinfeld,03460,2a,*Nord. Tiefld,
-49448,Lemförde u.a.,03251,2a,*Nord. Tiefld,
-49451,Holdorf,03460,2a,*Nord. Tiefld,
-49453,"Barver, Dickel, Hemsloh, Rehden, Wetschen, Wehrblecker Heide",03251,2a,*Nord. Tiefld,
-49456,Bakum,03460,2a,*Nord. Tiefld,
-49457,Drebber,03251,2a,*Nord. Tiefld,
-49459,"Lembruch, Burlage",03251,2a,*Nord. Tiefld,
+49356,Diepholz,03251,2a,*Nordd. Tiefl.,
+49377,Vechta,03460,2a,*Nordd. Tiefl.,
+49393,Lohne,03460,2a,*Nordd. Tiefl.,
+49401,Damme,03460,2a,*Nordd. Tiefl.,
+49406,"Barnstorf, Eydelstedt, Drentwede",03251,2a,*Nordd. Tiefl.,
+49413,Dinklage,03460,2a,*Nordd. Tiefl.,
+49419,Wagenfeld,03251,2a,*Nordd. Tiefl.,
+49424,Goldenstedt,03460,2a,*Nordd. Tiefl.,
+49429,Visbek,03460,2a,*Nordd. Tiefl.,
+49434,Neuenkirchen-Vörden,03460,2a,*Nordd. Tiefl.,
+49439,Steinfeld,03460,2a,*Nordd. Tiefl.,
+49448,Lemförde u.a.,03251,2a,*Nordd. Tiefl.,
+49451,Holdorf,03460,2a,*Nordd. Tiefl.,
+49453,"Barver, Dickel, Hemsloh, Rehden, Wetschen, Wehrblecker Heide",03251,2a,*Nordd. Tiefl.,
+49456,Bakum,03460,2a,*Nordd. Tiefl.,
+49457,Drebber,03251,2a,*Nordd. Tiefl.,
+49459,"Lembruch, Burlage",03251,2a,*Nordd. Tiefl.,
 49477,Ibbenbüren,05566,2a,,covered by DC rule!
 49479,Ibbenbüren,05566,2a,,covered by DC rule!
 49492,Westerkappeln,05566,2a,,covered by DC rule!
@@ -3438,44 +3438,44 @@ zipcode,city,dc,snowzone,note,comments
 49597,Rieste,03459,2a,,
 49599,Voltlage,03459,2a,,
 49610,Quakenbrück,03459,2a,,
-49624,Löningen,03453,2a,*Nord. Tiefld,
+49624,Löningen,03453,2a,*Nordd. Tiefl.,
 49626,"Berge, Bippen",03459,2a,,
-49632,Essen (Oldenburg),03453,2a,*Nord. Tiefld,
+49632,Essen (Oldenburg),03453,2a,*Nordd. Tiefl.,
 49635,Badbergen,03459,2a,,
 49637,Menslage,03459,2a,,
 49638,Nortrup,03459,2a,,
-49661,Cloppenburg,03453,2a,*Nord. Tiefld,
-49681,Garrel,03453,2a,*Nord. Tiefld,
-49685,Emstek,03453,2a,*Nord. Tiefld,
-49688,Lastrup,03453,2a,*Nord. Tiefld,
-49692,Cappeln (Oldenburg),03453,2a,*Nord. Tiefld,
-49696,Molbergen,03453,2a,*Nord. Tiefld,
-49699,Lindern (Oldenburg),03453,2a,*Nord. Tiefld,
-49716,Meppen,03454,2a,*Nord. Tiefld,
-49733,Haren,03454,2a,*Nord. Tiefld,
-49740,Haselünne,03454,2a,*Nord. Tiefld,
-49744,Geeste,03454,2a,*Nord. Tiefld,
-49751,Sögel u.a.,03454,2a,*Nord. Tiefld,
-49757,"Werlte, Vrees, Lahn",03454,2a,*Nord. Tiefld,
-49762,"Sustrum, Lathen u.a.",03454,2a,*Nord. Tiefld,
-49767,Twist,03454,2a,*Nord. Tiefld,
-49770,"Herzlake, Dohren",03454,2a,*Nord. Tiefld,
-49774,Lähden,03454,2a,*Nord. Tiefld,
-49777,Stavern,03454,2a,*Nord. Tiefld,
-49779,"Oberlangen, Niederlangen",03454,2a,*Nord. Tiefld,
-49808,Lingen,03454,2a,*Nord. Tiefld,
-49809,Lingen,03454,2a,*Nord. Tiefld,
-49811,Lingen,03454,2a,*Nord. Tiefld,
-49824,"Ringe, Laar, Emlichheim",03456,2a,*Nord. Tiefld,
-49828,"Esche, Georgsdorf, Lage, Neuenhaus, Osterwald",03456,2a,*Nord. Tiefld,
-49832,"Andervenne, Beesten, Freren, Messingen, Thuine",03454,2a,*Nord. Tiefld,
-49835,Wietmarschen,03456,2a,*Nord. Tiefld,
-49838,Lengerich u.a.,03454,2a,*Nord. Tiefld,
-49843,"Uelsen, Halle, Gölenkamp, Getelo",03456,2a,*Nord. Tiefld,
-49844,Bawinkel,03454,2a,*Nord. Tiefld,
-49846,Hoogstede,03456,2a,*Nord. Tiefld,
-49847,Itterbeck/Wielen,03456,2a,*Nord. Tiefld,
-49849,Wilsum,03456,2a,*Nord. Tiefld,
+49661,Cloppenburg,03453,2a,*Nordd. Tiefl.,
+49681,Garrel,03453,2a,*Nordd. Tiefl.,
+49685,Emstek,03453,2a,*Nordd. Tiefl.,
+49688,Lastrup,03453,2a,*Nordd. Tiefl.,
+49692,Cappeln (Oldenburg),03453,2a,*Nordd. Tiefl.,
+49696,Molbergen,03453,2a,*Nordd. Tiefl.,
+49699,Lindern (Oldenburg),03453,2a,*Nordd. Tiefl.,
+49716,Meppen,03454,2a,*Nordd. Tiefl.,
+49733,Haren,03454,2a,*Nordd. Tiefl.,
+49740,Haselünne,03454,2a,*Nordd. Tiefl.,
+49744,Geeste,03454,2a,*Nordd. Tiefl.,
+49751,Sögel u.a.,03454,2a,*Nordd. Tiefl.,
+49757,"Werlte, Vrees, Lahn",03454,2a,*Nordd. Tiefl.,
+49762,"Sustrum, Lathen u.a.",03454,2a,*Nordd. Tiefl.,
+49767,Twist,03454,2a,*Nordd. Tiefl.,
+49770,"Herzlake, Dohren",03454,2a,*Nordd. Tiefl.,
+49774,Lähden,03454,2a,*Nordd. Tiefl.,
+49777,Stavern,03454,2a,*Nordd. Tiefl.,
+49779,"Oberlangen, Niederlangen",03454,2a,*Nordd. Tiefl.,
+49808,Lingen,03454,2a,*Nordd. Tiefl.,
+49809,Lingen,03454,2a,*Nordd. Tiefl.,
+49811,Lingen,03454,2a,*Nordd. Tiefl.,
+49824,"Ringe, Laar, Emlichheim",03456,2a,*Nordd. Tiefl.,
+49828,"Esche, Georgsdorf, Lage, Neuenhaus, Osterwald",03456,2a,*Nordd. Tiefl.,
+49832,"Andervenne, Beesten, Freren, Messingen, Thuine",03454,2a,*Nordd. Tiefl.,
+49835,Wietmarschen,03456,2a,*Nordd. Tiefl.,
+49838,Lengerich u.a.,03454,2a,*Nordd. Tiefl.,
+49843,"Uelsen, Halle, Gölenkamp, Getelo",03456,2a,*Nordd. Tiefl.,
+49844,Bawinkel,03454,2a,*Nordd. Tiefl.,
+49846,Hoogstede,03456,2a,*Nordd. Tiefl.,
+49847,Itterbeck/Wielen,03456,2a,*Nordd. Tiefl.,
+49849,Wilsum,03456,2a,*Nordd. Tiefl.,
 50126,Bergheim,05362,2a,,
 50127,Bergheim,05362,2a,,
 50129,Bergheim,05362,2a,,
@@ -4192,10 +4192,10 @@ zipcode,city,dc,snowzone,note,comments
 60308,Frankfurt,06412,2a,,
 60310,Frankfurt am Main (Taunusturm),06412,2a,,
 60311,Frankfurt am Main,06412,2a,,
-60312,Frankfurt am Main (Omniturm),,2a,,
+60312,Frankfurt am Main (Omniturm),,2a,,Die Zuordnung bezieht sich auf den Gebietsstand 1. Dezember 2017
 60313,Frankfurt am Main,06412,2a,,
 60314,Frankfurt am Main,06412,2a,,
-60315,Frankfurt am Main (FOUR),,2a,,
+60315,Frankfurt am Main (FOUR),,2a,,Die Zuordnung bezieht sich auf den Gebietsstand 1. Dezember 2017
 60316,Frankfurt am Main,06412,2a,,
 60318,Frankfurt am Main,06412,2a,,
 60320,Frankfurt am Main,06412,2a,,
@@ -4305,7 +4305,7 @@ zipcode,city,dc,snowzone,note,comments
 63654,Büdingen,06440,2a,,covered by DC rule!
 63667,Nidda,06440,2a,,covered by DC rule!
 63674,Altenstadt,06440,2a,,covered by DC rule!
-63679,Schotten,06535,2a,,"DC rule (DC 06535): ZIP codes 36399,36355,36358,36341,36110,36367 are zone 2a"
+63679,Schotten,06535,2a,,"ZIP codes 36399,36355,36358,36341,36110,36367 are zone 2a"
 63683,Ortenberg,06440,2a,,covered by DC rule!
 63688,Gedern,06440,2a,,covered by DC rule!
 63691,Ranstadt,06440,2a,,covered by DC rule!
@@ -5900,7 +5900,7 @@ zipcode,city,dc,snowzone,note,comments
 81243,München,09162,2a,,
 81245,München,09162,2a,,
 81247,München,09162,2a,,
-81248,München,,2a,,
+81248,München,,2a,,Die Zuordnung bezieht sich auf den Gebietsstand 1. Dezember 2017
 81249,München,09162,2a,,
 81369,München,09162,2a,,
 81371,München,09162,2a,,
@@ -8107,7 +8107,7 @@ zipcode,city,dc,snowzone,note,comments
 99310,Arnstadt,16070,2a,,covered by DC rule!
 99326,"Stadtilm, Ilmtal",16070,2a,,covered by DC rule!
 99330,Geratal,16070,2a,,covered by DC rule!
-99331,Geratal,,2a,,
+99331,Geratal,,2a,,Die Zuordnung bezieht sich auf den Gebietsstand 1. Dezember 2017
 99334,"Elleben, Wachsenburg",16070,2a,,covered by DC rule!
 99338,"Plaue, Martinroda",16070,2a,,covered by DC rule!
 99423,Weimar,16055,2a,,

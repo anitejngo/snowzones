@@ -43,7 +43,7 @@ def updateSnowload(input_filename, snowload_filename, output_filename):
 
 # Provide the input and output filenames
 _zipcode_city_dc_snowload = "_zipcode_city_dc_snowload.csv"
-_snowload_data = "csvData/HH02.csv"
+_snowload_data = "csvData/Snow load zones 2023-02-07 - HH (02).csv"
 _result = "_zipcode_city_dc_snowload.csv"
 
 # Call the function to update the snowzone values
