@@ -42,9 +42,8 @@ def updateSnowload(input_filename, snowload_filename, output_filename):
 
 
 # Provide the input and output filenames
-_zipcode_city_dc_snowload = "_zipcode_city_dc_snowload.csv"
-_snowload_data = "csvData/Snow load zones 2023-02-07 - HB (04).csv"
-_result = "_zipcode_city_dc_snowload.csv"
+_zipcode_city_dc_snowload = "data/_zipcode_city_dc_snowload.csv"
+_snowload_data = "googleSheetData/Snow load zones 2023-02-07 - HB (04).csv"
 
 # Call the function to update the snowzone values
-updateSnowload(_zipcode_city_dc_snowload, _snowload_data, _result)
+updateSnowload(_zipcode_city_dc_snowload, _snowload_data, _zipcode_city_dc_snowload)

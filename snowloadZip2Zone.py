@@ -1,3 +1,4 @@
+import copy
 import csv
 
 def is_within_range(number, range_string):
@@ -47,10 +48,11 @@ def updateSnowload(input_filename, snowload_filename, output_filename):
                 elif '-' in zipCodeInData:
                     if is_within_range(zipcode,zipCodeInData):
                         row['snowzone'] = zipRow['snow zone']
+                        break
                 else:
                     if zipcode == zipRow['ZIP code']:
                         row['snowzone'] = zipRow['snow zone']
-
+                        break
 
             result.append(row)
 
@@ -65,9 +67,8 @@ def updateSnowload(input_filename, snowload_filename, output_filename):
 
 
 # Provide the input and output filenames
-_zipcode_city_dc_snowload = "_zipcode_city_dc_snowload.csv"
-_snowload_data = "csvData/Snow load zones 2023-02-07 - zip2zone.csv"
-_result = "_zipcode_city_dc_snowload.csv"
+_zipcode_city_dc_snowload = "data/_zipcode_city_dc_snowload.csv"
+_snowload_data = "googleSheetData/Snow load zones 2023-02-07 - zip2zone.csv"
 
 # Call the function to update the snowzone values
-updateSnowload(_zipcode_city_dc_snowload, _snowload_data, _result)
+updateSnowload(_zipcode_city_dc_snowload, _snowload_data, _zipcode_city_dc_snowload)

@@ -21,6 +21,7 @@ script_filenames = [
     "snowloadST15",
     "snowloadTH16",
     "snowloadZip2Zone",
+    "snowloadAmbiguousZIP",
 ]
 
 # Iterate through the script filenames and execute each script

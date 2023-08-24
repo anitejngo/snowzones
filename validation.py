@@ -12,7 +12,7 @@ def filterAndExport(input_filename, prefix):
                     no_snow_results.append(row)
 
     # Export rows without snowzone to a new CSV file
-    output_filename = "_no_snow_results.csv"
+    output_filename = "data/results/_no_snow_results.csv"
 
     if no_snow_results:
         with open(output_filename, 'w', newline='', encoding="utf-8") as csvfile:
@@ -26,7 +26,7 @@ def filterAndExport(input_filename, prefix):
         print("No rows without snowzone found")
 
 # Provide the input filename and prefix
-_zipcode_city_dc_snowload = "_zipcode_city_dc_snowload.csv"
+_zipcode_city_dc_snowload = "data/_zipcode_city_dc_snowload.csv"
 prefix = input("Enter the prefix for 'dc' value: ")
 
 # Call the function to filter and export

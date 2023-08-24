@@ -1,7 +1,7 @@
 import csv
 
 def updateSnowload(input_filename, snowload_filename, output_filename):
-    print("Start importing TH16")
+    print("Start importing AmbiguousZIP")
 
     snowload_data = {}
 
@@ -9,10 +9,8 @@ def updateSnowload(input_filename, snowload_filename, output_filename):
     with open(snowload_filename, 'r', newline='', encoding="utf-8") as csvfile:
         reader = csv.DictReader(csvfile, delimiter=',')
         for row in reader:
-            snowload_data[row['DC']] = {
-                'snowzone': row['Schneelastzone'],
-                'note': row['Fußnote(n)'],
-                'comments': row['comments'],
+            snowload_data[row['ZIP']] = {
+                'snowzone': row['SNOWZONE'],
             }
 
     print("Snowzone data loaded:", len(snowload_data))
@@ -23,12 +21,10 @@ def updateSnowload(input_filename, snowload_filename, output_filename):
     with open(input_filename, 'r', encoding="utf-8") as csvfile:
         reader = csv.DictReader(csvfile, delimiter=',')
         for row in reader:
-            dc = row['dc']
-            if dc in snowload_data:
-                snowload_info = snowload_data[dc]
+            zipcode = row['zipcode']
+            if zipcode in snowload_data:
+                snowload_info = snowload_data[zipcode]
                 row['snowzone'] = snowload_info['snowzone']
-                row['note'] = snowload_info['note']
-                row['comments'] = snowload_info['comments']
             result.append(row)
 
     print(len(result), "rows processed")
@@ -43,7 +39,7 @@ def updateSnowload(input_filename, snowload_filename, output_filename):
 
 # Provide the input and output filenames
 _zipcode_city_dc_snowload = "data/_zipcode_city_dc_snowload.csv"
-_snowload_data = "googleSheetData/Snow load zones 2023-02-07 - TH (16).csv"
+_snowload_data = "googleSheetData/Snow load zones 2023-02-07 - AmbiguousZIP.csv"
 
 # Call the function to update the snowzone values
 updateSnowload(_zipcode_city_dc_snowload, _snowload_data, _zipcode_city_dc_snowload)
