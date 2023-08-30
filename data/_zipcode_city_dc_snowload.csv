@@ -402,10 +402,10 @@ zipcode,city,dc,snowzone,note,comments
 07356,Lobenstein,16075,3,,covered by DC rule!
 07366,Rosenthal am Rennsteig,16075,3,,covered by DC rule!
 07368,Remptendorf,16075,3,,covered by DC rule!
-07381,Pößneck,16075,3,,covered by DC rule!
+07381,Pößneck,16075,2,,covered by DC rule!
 07387,Krölpa,16075,3,,covered by DC rule!
 07389,Ranis u.a.,16075,2,,covered by DC rule!
-07407,Rudolstadt,16073,3,,covered by DC rule!
+07407,Rudolstadt,16073,2,,covered by DC rule!
 07422,Bad Blankenburg,16073,3,,covered by DC rule!
 07426,Königsee-Rottenbach u.a.,16073,3,,covered by DC rule!
 07427,Schwarzburg,16073,3,,covered by DC rule!
@@ -439,7 +439,7 @@ zipcode,city,dc,snowzone,note,comments
 07778,Neuengönna u.a.,16074,2,,
 07806,"Neustadt an der Orla, Weira, u.a",16075,2,,covered by DC rule!
 07819,Triptis,16075,2,,covered by DC rule!
-07907,Schleiz,16075,3,,covered by DC rule!
+07907,Schleiz,16075,2,,covered by DC rule!
 07919,"Kirschkau, Pausa-Mühltroff",16075,2,,covered by DC rule!
 07922,Tanna,16075,3,,covered by DC rule!
 07924,Ziegenrück,16075,3,,covered by DC rule!
@@ -517,7 +517,7 @@ zipcode,city,dc,snowzone,note,comments
 08525,Plauen,14523,3,,covered by DC rule
 08527,"Plauen, Rößnitz",14523,3,,covered by DC rule
 08529,Plauen,14523,3,,covered by DC rule
-08538,Weischlitz u.a.,14523,2,,covered by DC rule
+08538,Weischlitz u.a.,14523,3,,covered by DC rule
 08539,Rosenbach,14523,3,,covered by DC rule
 08541,Neuensalz,14523,3,,covered by DC rule
 08543,Pöhl,14523,3,,covered by DC rule
@@ -2588,22 +2588,22 @@ zipcode,city,dc,snowzone,note,comments
 36119,Neuhof,06631,2a,,"ZIP codes 36132,36151,36169 are zone 2"
 36124,Eichenzell,06631,2a,,"ZIP codes 36132,36151,36169 are zone 2"
 36129,Gersfeld,06631,2a,,"ZIP codes 36132,36151,36169 are zone 2"
-36132,Eiterfeld,06631,2,,"ZIP codes 36132,36151,36169 are zone 2"
+36132,Eiterfeld,06631,2a,,"ZIP codes 36132,36151,36169 are zone 2"
 36137,Großenlüder,06631,2a,,"ZIP codes 36132,36151,36169 are zone 2"
 36142,Tann,06631,2a,,"ZIP codes 36132,36151,36169 are zone 2"
 36145,Hofbieber,06631,2a,,"ZIP codes 36132,36151,36169 are zone 2"
 36148,Kalbach,06631,2a,,"ZIP codes 36132,36151,36169 are zone 2"
-36151,Burghaun,06631,2,,"ZIP codes 36132,36151,36169 are zone 2"
+36151,Burghaun,06631,2a,,"ZIP codes 36132,36151,36169 are zone 2"
 36154,Hosenfeld,06631,2a,,"ZIP codes 36132,36151,36169 are zone 2"
 36157,Ebersburg,06631,2a,,"ZIP codes 36132,36151,36169 are zone 2"
 36160,Dipperz,06631,2a,,"ZIP codes 36132,36151,36169 are zone 2"
 36163,Poppenhausen,06631,2a,,"ZIP codes 36132,36151,36169 are zone 2"
 36166,Haunetal,06632,2a,,
 36167,Nüsttal,06631,2a,,"ZIP codes 36132,36151,36169 are zone 2"
-36169,Rasdorf,06631,2,,"ZIP codes 36132,36151,36169 are zone 2"
+36169,Rasdorf,06631,2a,,"ZIP codes 36132,36151,36169 are zone 2"
 36179,Bebra,06632,2a,,
 36199,Rotenburg an der Fulda,06632,2a,,
-36205,Sontra,06636,2,,"ZIP codes 37247,37235,37249,36205,37284,37216 are zone 2"
+36205,Sontra,06636,2a,,"ZIP codes 37247,37235,37249,36205,37284,37216 are zone 2"
 36208,Wildeck,06632,2a,,
 36211,Alheim,06632,2a,,
 36214,Nentershausen,06632,2a,,
@@ -2641,8 +2641,8 @@ zipcode,city,dc,snowzone,note,comments
 36404,"Vacha, Oechsen",16063,2a,,covered by DC rule!
 36414,Unterbreizbach,16063,2a,,covered by DC rule!
 36419,Geisa,16063,2a,,covered by DC rule!
-36433,Bad Salzungen,16063,3,,covered by DC rule!
-36448,Bad Liebenstein,16063,2a,,covered by DC rule!
+36433,Bad Salzungen,16063,2a,,covered by DC rule!
+36448,Bad Liebenstein,16063,3,,covered by DC rule!
 36452,Kaltennordheim,16066,2a,,covered by DC rule!
 36456,Barchfeld-Immelborn,16063,2a,,covered by DC rule!
 36457,Weilar,16063,2a,,covered by DC rule!
@@ -2676,37 +2676,37 @@ zipcode,city,dc,snowzone,note,comments
 37213,Witzenhausen,06636,2a,,"ZIP codes 37247,37235,37249,36205,37284,37216 are zone 2"
 37214,Witzenhausen,06636,2a,,"ZIP codes 37247,37235,37249,36205,37284,37216 are zone 2"
 37215,Witzenhausen,06636,2a,,"ZIP codes 37247,37235,37249,36205,37284,37216 are zone 2"
-37216,"Witzenhausen, Gutsbezirk",06636,2,,"ZIP codes 37247,37235,37249,36205,37284,37216 are zone 2"
+37216,"Witzenhausen, Gutsbezirk",06636,2a,,"ZIP codes 37247,37235,37249,36205,37284,37216 are zone 2"
 37217,Witzenhausen,06636,2a,,"ZIP codes 37247,37235,37249,36205,37284,37216 are zone 2"
 37218,Witzenhausen,06636,2a,,"ZIP codes 37247,37235,37249,36205,37284,37216 are zone 2"
-37235,Hessisch Lichtenau,06636,2,,"ZIP codes 37247,37235,37249,36205,37284,37216 are zone 2"
+37235,Hessisch Lichtenau,06636,2a,,"ZIP codes 37247,37235,37249,36205,37284,37216 are zone 2"
 37242,Bad Sooden-Allendorf,06636,2a,,"ZIP codes 37247,37235,37249,36205,37284,37216 are zone 2"
-37247,Großalmerode,06636,2,,"ZIP codes 37247,37235,37249,36205,37284,37216 are zone 2"
-37249,Neu-Eichenberg,06636,2,,"ZIP codes 37247,37235,37249,36205,37284,37216 are zone 2"
+37247,Großalmerode,06636,2a,,"ZIP codes 37247,37235,37249,36205,37284,37216 are zone 2"
+37249,Neu-Eichenberg,06636,2a,,"ZIP codes 37247,37235,37249,36205,37284,37216 are zone 2"
 37269,Eschwege,06636,2a,,"ZIP codes 37247,37235,37249,36205,37284,37216 are zone 2"
 37276,Meinhard,06636,2a,,"ZIP codes 37247,37235,37249,36205,37284,37216 are zone 2"
 37281,Wanfried,06636,2a,,"ZIP codes 37247,37235,37249,36205,37284,37216 are zone 2"
-37284,Waldkappel,06636,2,,"ZIP codes 37247,37235,37249,36205,37284,37216 are zone 2"
+37284,Waldkappel,06636,2a,,"ZIP codes 37247,37235,37249,36205,37284,37216 are zone 2"
 37287,Wehretal,06636,2a,,"ZIP codes 37247,37235,37249,36205,37284,37216 are zone 2"
 37290,Meißner,06636,2a,,"ZIP codes 37247,37235,37249,36205,37284,37216 are zone 2"
 37293,Herleshausen,06636,2a,,"ZIP codes 37247,37235,37249,36205,37284,37216 are zone 2"
 37296,Ringgau,06636,2a,,"ZIP codes 37247,37235,37249,36205,37284,37216 are zone 2"
 37297,Berkatal,06636,2a,,"ZIP codes 37247,37235,37249,36205,37284,37216 are zone 2"
 37299,Weißenborn,06636,2a,,"ZIP codes 37247,37235,37249,36205,37284,37216 are zone 2"
-37308,Heiligenstadt,16061,2,,covered by DC rule!
-37318,"Arenshausen, Uder u.a.",16061,2,,covered by DC rule!
-37327,"Leinefelde-Worbis, Wingerode",16061,2a,,covered by DC rule!
-37339,Worbis,16061,2a,,covered by DC rule!
-37345,"Am Ohmberg, Sonnenstein",16061,2a,,covered by DC rule!
-37351,Dingelstädt,16061,2a,,covered by DC rule!
-37355,Niederorschel u.a.,16061,2a,,covered by DC rule!
-37359,Küllstedt,16061,2a,,covered by DC rule!
+37308,Heiligenstadt,16061,2a,,covered by DC rule!
+37318,"Arenshausen, Uder u.a.",16061,2a,,covered by DC rule!
+37327,"Leinefelde-Worbis, Wingerode",16061,2,,covered by DC rule!
+37339,Worbis,16061,2,,covered by DC rule!
+37345,"Am Ohmberg, Sonnenstein",16061,2,,covered by DC rule!
+37351,Dingelstädt,16061,2,,covered by DC rule!
+37355,Niederorschel u.a.,16061,2,,covered by DC rule!
+37359,Küllstedt,16061,2,,covered by DC rule!
 37412,"Herzberg, Elbingerode, Hörden",03159,2a,,covered by zip2zone
 37431,Bad Lauterberg,03159,2a,,covered by zip2zone
 37434,"Gieboldehausen, Rhumequelle",03159,2a,,covered by zip2zone
-37441,Bad Sachsa,03159,2a,,covered by zip2zone
+37441,Bad Sachsa,03159,3,,covered by zip2zone
 37444,Braunlage,03153,2a,*Harz55,"covered by Harz55 rule: ZIP codes 38667 Torfhaus,38700,37444 apply for Harz55 rule, we use zone 3 as the default zone (see above) before applying the rule"
-37445,Walkenried,03159,2a,,covered by zip2zone
+37445,Walkenried,03159,3,,covered by zip2zone
 37520,Osterode am Harz,03159,2a,,covered by zip2zone
 37539,Bad Grund,03159,2a,,covered by zip2zone
 37574,"Einbeck, Kreiensen",03155,2a,,
@@ -2832,19 +2832,19 @@ zipcode,city,dc,snowzone,note,comments
 38556,Bokensdorf,03151,2a,*Nordd. Tiefl.,
 38557,Osloß,03151,2a,*Nordd. Tiefl.,
 38559,"Wagenhoff, Ringelah",03151,2a,*Nordd. Tiefl.,
-38640,Goslar,03153,2a,*Harz55,"covered by Harz55 rule: ZIP codes 38667 Torfhaus,38700,37444 apply for Harz55 rule, we use zone 3 as the default zone (see above) before applying the rule"
-38642,Goslar,03153,2a,*Harz55,"covered by Harz55 rule: ZIP codes 38667 Torfhaus,38700,37444 apply for Harz55 rule, we use zone 3 as the default zone (see above) before applying the rule"
-38644,Goslar,03153,2a,*Harz55,"covered by Harz55 rule: ZIP codes 38667 Torfhaus,38700,37444 apply for Harz55 rule, we use zone 3 as the default zone (see above) before applying the rule"
-38667,"Bad Harzburg, Torfhaus",03153,2a,*Harz55,"covered by Harz55 rule: ZIP codes 38667 Torfhaus,38700,37444 apply for Harz55 rule, we use zone 3 as the default zone (see above) before applying the rule"
+38640,Goslar,03153,2,*Harz55,"covered by Harz55 rule: ZIP codes 38667 Torfhaus,38700,37444 apply for Harz55 rule, we use zone 3 as the default zone (see above) before applying the rule"
+38642,Goslar,03153,2,*Harz55,"covered by Harz55 rule: ZIP codes 38667 Torfhaus,38700,37444 apply for Harz55 rule, we use zone 3 as the default zone (see above) before applying the rule"
+38644,Goslar,03153,2,*Harz55,"covered by Harz55 rule: ZIP codes 38667 Torfhaus,38700,37444 apply for Harz55 rule, we use zone 3 as the default zone (see above) before applying the rule"
+38667,"Bad Harzburg, Torfhaus",03153,2,*Harz55,"covered by Harz55 rule: ZIP codes 38667 Torfhaus,38700,37444 apply for Harz55 rule, we use zone 3 as the default zone (see above) before applying the rule"
 38678,"Clausthal-Zellerfeld, Oberschulenberg",03153,2a,*Harz55,"covered by Harz55 rule: ZIP codes 38667 Torfhaus,38700,37444 apply for Harz55 rule, we use zone 3 as the default zone (see above) before applying the rule"
-38685,Langelsheim,03153,2a,*Harz55,"covered by Harz55 rule: ZIP codes 38667 Torfhaus,38700,37444 apply for Harz55 rule, we use zone 3 as the default zone (see above) before applying the rule"
-38690,Goslar,03153,2a,*Harz55,"covered by Harz55 rule: ZIP codes 38667 Torfhaus,38700,37444 apply for Harz55 rule, we use zone 3 as the default zone (see above) before applying the rule"
+38685,Langelsheim,03153,2,*Harz55,"covered by Harz55 rule: ZIP codes 38667 Torfhaus,38700,37444 apply for Harz55 rule, we use zone 3 as the default zone (see above) before applying the rule"
+38690,Goslar,03153,2,*Harz55,"covered by Harz55 rule: ZIP codes 38667 Torfhaus,38700,37444 apply for Harz55 rule, we use zone 3 as the default zone (see above) before applying the rule"
 38700,Braunlage,03153,2a,*Harz55,"covered by Harz55 rule: ZIP codes 38667 Torfhaus,38700,37444 apply for Harz55 rule, we use zone 3 as the default zone (see above) before applying the rule"
-38704,Liebenburg,03153,2a,*Harz55,"covered by Harz55 rule: ZIP codes 38667 Torfhaus,38700,37444 apply for Harz55 rule, we use zone 3 as the default zone (see above) before applying the rule"
+38704,Liebenburg,03153,2,*Harz55,"covered by Harz55 rule: ZIP codes 38667 Torfhaus,38700,37444 apply for Harz55 rule, we use zone 3 as the default zone (see above) before applying the rule"
 38707,Clausthal-Zellerfeld,03153,2a,*Harz55,"covered by Harz55 rule: ZIP codes 38667 Torfhaus,38700,37444 apply for Harz55 rule, we use zone 3 as the default zone (see above) before applying the rule"
 38709,Wildemann,03153,2a,*Harz55,"covered by Harz55 rule: ZIP codes 38667 Torfhaus,38700,37444 apply for Harz55 rule, we use zone 3 as the default zone (see above) before applying the rule"
-38723,Seesen,03153,2a,*Harz55,"covered by Harz55 rule: ZIP codes 38667 Torfhaus,38700,37444 apply for Harz55 rule, we use zone 3 as the default zone (see above) before applying the rule"
-38729,Langelsheim,03153,2a,*Harz55,"covered by Harz55 rule: ZIP codes 38667 Torfhaus,38700,37444 apply for Harz55 rule, we use zone 3 as the default zone (see above) before applying the rule"
+38723,Seesen,03153,2,*Harz55,"covered by Harz55 rule: ZIP codes 38667 Torfhaus,38700,37444 apply for Harz55 rule, we use zone 3 as the default zone (see above) before applying the rule"
+38729,Langelsheim,03153,2,*Harz55,"covered by Harz55 rule: ZIP codes 38667 Torfhaus,38700,37444 apply for Harz55 rule, we use zone 3 as the default zone (see above) before applying the rule"
 38820,Halberstadt,15085,2a,,covered by DC rule!
 38822,"Halberstadt, Groß Quenstedt",15085,2a,,covered by DC rule!
 38828,Wegeleben,15085,2a,,covered by DC rule!
@@ -2852,14 +2852,14 @@ zipcode,city,dc,snowzone,note,comments
 38835,Osterwieck,15085,2a,,covered by DC rule!
 38836,Badersleben u.a.,15085,2a,,covered by DC rule!
 38838,Huy,15085,2a,,covered by DC rule!
-38855,"Wernigerode, Nordharz",15085,2a,,covered by DC rule!
-38871,"Ilsenburg, Nordharz",15085,2,,covered by DC rule!
-38875,Oberharz am Brocken,15085,2a,,covered by DC rule!
-38877,Oberharz am Brocken,15085,2a,,covered by DC rule!
-38879,Wernigerode,15085,2a,,covered by DC rule!
-38889,"Blankenburg, Oberharz am Brocken",15085,2a,,covered by DC rule!
-38895,"Langenstein, Derenburg",15085,2a,,covered by DC rule!
-38899,Oberharz am Brocken,15085,2a,,covered by DC rule!
+38855,"Wernigerode, Nordharz",15085,3,,covered by DC rule!
+38871,"Ilsenburg, Nordharz",15085,3,,covered by DC rule!
+38875,Oberharz am Brocken,15085,3,,covered by DC rule!
+38877,Oberharz am Brocken,15085,3,,covered by DC rule!
+38879,Wernigerode,15085,3,,covered by DC rule!
+38889,"Blankenburg, Oberharz am Brocken",15085,3,,covered by DC rule!
+38895,"Langenstein, Derenburg",15085,3,,covered by DC rule!
+38899,Oberharz am Brocken,15085,3,,covered by DC rule!
 39104,Magdeburg,15003,2a,*Nordd. Tiefld.,
 39106,Magdeburg,15003,2a,*Nordd. Tiefld.,
 39108,Magdeburg,15003,2a,*Nordd. Tiefld.,
@@ -3045,9 +3045,9 @@ zipcode,city,dc,snowzone,note,comments
 42369,Wuppertal,05124,2a,,
 42389,Wuppertal,05124,2a,,
 42399,Wuppertal,05124,2a,,
-42477,Radevormwald,05374,2,,covered by DC rule!
+42477,Radevormwald,05374,2a,,covered by DC rule!
 42489,Wülfrath,05158,2a,,
-42499,Hückeswagen,05374,2,,covered by DC rule!
+42499,Hückeswagen,05374,2a,,covered by DC rule!
 42549,Velbert,05158,2a,,
 42551,Velbert,05158,2a,,
 42553,Velbert,05158,2a,,
@@ -3069,7 +3069,7 @@ zipcode,city,dc,snowzone,note,comments
 42859,Remscheid,05120,2a,,
 42897,Remscheid,05120,2a,,
 42899,Remscheid,05120,2a,,
-42929,Wermelskirchen,05378,2,,covered by DC rule!
+42929,Wermelskirchen,05378,2a,,covered by DC rule!
 44135,Dortmund,05913,2a,,
 44137,Dortmund,05913,2a,,
 44139,Dortmund,05913,2a,,
@@ -3335,12 +3335,12 @@ zipcode,city,dc,snowzone,note,comments
 48317,Drensteinfurt,05570,2a,,covered by DC rule!
 48324,Sendenhorst,05570,2a,,covered by DC rule!
 48329,Havixbeck,05558,2a,,
-48336,Sassenberg,05570,2,,covered by DC rule!
+48336,Sassenberg,05570,2a,,covered by DC rule!
 48341,Altenberge,05566,2a,,covered by DC rule!
 48346,Ostbevern,05570,2a,,covered by DC rule!
 48351,Everswinkel,05570,2a,,covered by DC rule!
 48356,Nordwalde,05566,2a,,covered by DC rule!
-48361,Beelen,05570,2,,covered by DC rule!
+48361,Beelen,05570,2a,,covered by DC rule!
 48366,Laer,05566,2a,,covered by DC rule!
 48369,Saerbeck,05566,2a,,covered by DC rule!
 48429,Rheine,05566,2a,,covered by DC rule!
@@ -3422,10 +3422,10 @@ zipcode,city,dc,snowzone,note,comments
 49479,Ibbenbüren,05566,2a,,covered by DC rule!
 49492,Westerkappeln,05566,2a,,covered by DC rule!
 49497,Mettingen,05566,2a,,covered by DC rule!
-49504,Lotte,05566,2,,covered by DC rule!
+49504,Lotte,05566,2a,,covered by DC rule!
 49509,Recke,05566,2a,,covered by DC rule!
 49525,Lengerich,05566,2a,,covered by DC rule!
-49536,Lienen,05566,2,,covered by DC rule!
+49536,Lienen,05566,2a,,covered by DC rule!
 49545,Tecklenburg,05566,2a,,covered by DC rule!
 49549,Ladbergen,05566,2a,,covered by DC rule!
 49565,Bramsche,03459,2a,,
@@ -3547,12 +3547,12 @@ zipcode,city,dc,snowzone,note,comments
 51465,Bergisch Gladbach,05378,2a,,covered by DC rule!
 51467,Bergisch Gladbach,05378,2a,,covered by DC rule!
 51469,Bergisch Gladbach,05378,2a,,covered by DC rule!
-51491,Overath,05378,2,,covered by DC rule!
+51491,Overath,05378,2a,,covered by DC rule!
 51503,Rösrath,05378,2a,,covered by DC rule!
-51515,Kürten,05378,2,,covered by DC rule!
+51515,Kürten,05378,2a,,covered by DC rule!
 51519,Odenthal,05378,2a,,covered by DC rule!
 51545,Waldbröl,05374,2a,,covered by DC rule!
-51570,Windeck,05382,2,,covered by DC rule!
+51570,Windeck,05382,2a,,covered by DC rule!
 51580,Reichshof,05374,2a,,covered by DC rule!
 51588,Nümbrecht,05374,2a,,covered by DC rule!
 51597,Morsbach,05374,2a,,covered by DC rule!
@@ -3564,8 +3564,8 @@ zipcode,city,dc,snowzone,note,comments
 51688,Wipperfürth,05374,2a,,covered by DC rule!
 51702,Bergneustadt,05374,2a,,covered by DC rule!
 51709,Marienheide,05374,2a,,covered by DC rule!
-51766,Engelskirchen,05374,2,,covered by DC rule!
-51789,Lindlar,05374,2,,covered by DC rule!
+51766,Engelskirchen,05374,2a,,covered by DC rule!
+51789,Lindlar,05374,2a,,covered by DC rule!
 52062,Aachen,05334,2a,,covered by DC rule!
 52064,Aachen,05334,2a,,covered by DC rule!
 52066,Aachen,05334,2a,,covered by DC rule!
@@ -3585,18 +3585,18 @@ zipcode,city,dc,snowzone,note,comments
 52223,Stolberg (Rhld.),05334,2a,,covered by DC rule!
 52224,Stolberg,05334,2a,,covered by DC rule!
 52249,Eschweiler,05334,2a,,covered by DC rule!
-52349,Düren,05358,1,,covered by DC rule!
-52351,Düren,05358,1,,covered by DC rule!
-52353,Düren,05358,1,,covered by DC rule!
-52355,Düren,05358,1,,covered by DC rule!
-52372,Kreuzau,05358,1,,covered by DC rule!
-52379,Langerwehe,05358,1,,covered by DC rule!
+52349,Düren,05358,2a,,covered by DC rule!
+52351,Düren,05358,2a,,covered by DC rule!
+52353,Düren,05358,2a,,covered by DC rule!
+52355,Düren,05358,2a,,covered by DC rule!
+52372,Kreuzau,05358,2a,,covered by DC rule!
+52379,Langerwehe,05358,2a,,covered by DC rule!
 52382,Niederzier,05358,2a,,covered by DC rule!
-52385,Nideggen,05358,1,,covered by DC rule!
+52385,Nideggen,05358,2a,,covered by DC rule!
 52388,Nörvenich,05358,2a,,covered by DC rule!
-52391,Vettweiß,05358,1,,covered by DC rule!
-52393,Hürtgenwald,05358,1,,covered by DC rule!
-52396,Heimbach,05358,1,,covered by DC rule!
+52391,Vettweiß,05358,2a,,covered by DC rule!
+52393,Hürtgenwald,05358,2a,,covered by DC rule!
+52396,Heimbach,05358,2a,,covered by DC rule!
 52399,Merzenich,05358,2a,,covered by DC rule!
 52428,Jülich,05358,2a,,covered by DC rule!
 52441,Linnich,05358,2a,,covered by DC rule!
@@ -3604,7 +3604,7 @@ zipcode,city,dc,snowzone,note,comments
 52457,Aldenhoven,05358,2a,,covered by DC rule!
 52459,Inden,05358,2a,,covered by DC rule!
 52477,Alsdorf,05334,2a,,covered by DC rule!
-52499,Baesweiler,05334,1,,covered by DC rule!
+52499,Baesweiler,05334,2a,,covered by DC rule!
 52511,Geilenkirchen,05370,2a,,
 52525,"Waldfeucht, Heinsberg",05370,2a,,
 52531,Übach-Palenberg,05370,2a,,
@@ -3631,12 +3631,12 @@ zipcode,city,dc,snowzone,note,comments
 53343,Wachtberg,05382,2a,,covered by DC rule!
 53347,Alfter,05382,2a,,covered by DC rule!
 53359,Rheinbach,05382,2a,,covered by DC rule!
-53424,Remagen,07131,2a,,covered by DC rule
-53426,"Schalkenbach, Königsfeld, Dedenbach",07131,2a,,covered by DC rule
-53474,Bad Neuenahr-Ahrweiler,07131,2a,,covered by DC rule
-53489,Sinzig,07131,2a,,covered by DC rule
-53498,"Bad Breisig, Waldorf, Gönnersdorf",07131,2a,,covered by DC rule
-53501,Grafschaft,07131,2a,,covered by DC rule
+53424,Remagen,07131,1,,covered by DC rule
+53426,"Schalkenbach, Königsfeld, Dedenbach",07131,1,,covered by DC rule
+53474,Bad Neuenahr-Ahrweiler,07131,1,,covered by DC rule
+53489,Sinzig,07131,1,,covered by DC rule
+53498,"Bad Breisig, Waldorf, Gönnersdorf",07131,1,,covered by DC rule
+53501,Grafschaft,07131,1,,covered by DC rule
 53505,"Altenahr, Berg, Kalenborn, Kirchsahr",07131,2a,,covered by DC rule
 53506,"Ahrbrück, Heckenbach, Hönningen, Kesseling, Rech",07131,2a,,covered by DC rule
 53507,Dernau,07131,2a,,covered by DC rule
@@ -3651,7 +3651,7 @@ zipcode,city,dc,snowzone,note,comments
 53557,Bad Hönningen,07138,2a,,covered by DC rule
 53560,"Vettelschloß, Kretzhaus (Linz am Rhein)",07138,2a,,covered by DC rule
 53562,Sankt Katharinen (Landkreis Neuwied),07138,2a,,covered by DC rule
-53567,"Asbach, Buchholz",07138,2a,,covered by DC rule
+53567,"Asbach, Buchholz",07138,2,,covered by DC rule
 53572,"Bruchhausen, Unkel",07138,2a,,covered by DC rule
 53577,Neustadt (Wied),07138,2a,,covered by DC rule
 53578,Windhagen,07138,2a,,covered by DC rule
@@ -3662,11 +3662,11 @@ zipcode,city,dc,snowzone,note,comments
 53721,Siegburg,05382,2a,,covered by DC rule!
 53757,Sankt Augustin,05382,2a,,covered by DC rule!
 53773,Hennef (Sieg),05382,2a,,covered by DC rule!
-53783,Eitorf,05382,2,,covered by DC rule!
+53783,Eitorf,05382,2a,,covered by DC rule!
 53797,Lohmar,05382,2a,,covered by DC rule!
-53804,Much,05382,2,,covered by DC rule!
-53809,Ruppichteroth,05382,2,,covered by DC rule!
-53819,Neunkirchen-Seelscheid,05382,2,,covered by DC rule!
+53804,Much,05382,2a,,covered by DC rule!
+53809,Ruppichteroth,05382,2a,,covered by DC rule!
+53819,Neunkirchen-Seelscheid,05382,2a,,covered by DC rule!
 53840,Troisdorf,05382,2a,,covered by DC rule!
 53842,Troisdorf,05382,2a,,covered by DC rule!
 53844,Troisdorf,05382,2a,,covered by DC rule!
@@ -3804,9 +3804,9 @@ zipcode,city,dc,snowzone,note,comments
 55130,Mainz,07315,2a,,
 55131,Mainz,07315,2a,,
 55218,Ingelheim am Rhein,07339,2a,,covered by DC rule
-55232,Alzey,07331,2,,covered by DC rule
-55234,Albig,07331,2,,covered by DC rule
-55237,Flonheim,07331,2a,,covered by DC rule
+55232,Alzey,07331,2a,,covered by DC rule
+55234,Albig,07331,2a,,covered by DC rule
+55237,Flonheim,07331,2,,covered by DC rule
 55239,Gau-Odernheim,07331,2a,,covered by DC rule
 55246,Wiesbaden,06414,2a,,
 55252,Mainz-Kastel,06414,2a,,
@@ -3826,11 +3826,11 @@ zipcode,city,dc,snowzone,note,comments
 55296,Harxheim,07339,2a,,covered by DC rule
 55299,Nackenheim,07339,2a,,covered by DC rule
 55411,Bingen am Rhein,07339,2a,,covered by DC rule
-55413,Weiler bei Bingen,07339,2,,covered by DC rule
-55422,"Bacharach, Breitscheid",07339,2a,,covered by DC rule
-55424,Münster-Sarmsheim,07339,2a,,covered by DC rule
-55425,Waldalgesheim,07339,2a,,covered by DC rule
-55430,Oberwesel,07140,1,,55430 is ambiguous
+55413,Weiler bei Bingen,07339,2a,,covered by DC rule
+55422,"Bacharach, Breitscheid",07339,2,,covered by DC rule
+55424,Münster-Sarmsheim,07339,2,,covered by DC rule
+55425,Waldalgesheim,07339,2,,covered by DC rule
+55430,Oberwesel,07140,2a,,55430 is ambiguous
 55432,Niederburg,07140,2a,,55430 is ambiguous
 55435,Gau-Algesheim,07339,2a,,covered by DC rule
 55437,Ockenheim,07339,2a,,covered by DC rule
@@ -3838,8 +3838,8 @@ zipcode,city,dc,snowzone,note,comments
 55444,Seibersbach,07133,2a,,
 55450,Langenlonsheim,07133,2a,,
 55452,Guldental,07133,2a,,
-55457,Gensingen,07339,2,,covered by DC rule
-55459,"Aspisheim, Grolsheim",07339,2,,covered by DC rule
+55457,Gensingen,07339,2a,,covered by DC rule
+55459,"Aspisheim, Grolsheim",07339,2a,,covered by DC rule
 55469,Simmern/Hunsrück u.a.,07140,2a,,55430 is ambiguous
 55471,Tiefenbach u.a.,07140,2a,,55430 is ambiguous
 55481,Kirchberg u.a.,07140,2a,,55430 is ambiguous
@@ -3859,7 +3859,7 @@ zipcode,city,dc,snowzone,note,comments
 55568,Staudernheim,07133,2a,,
 55569,Monzingen,07133,2a,,
 55571,Odernheim am Glan,07133,2a,,
-55576,Sprendlingen,07339,2a,,covered by DC rule
+55576,Sprendlingen,07339,2,,covered by DC rule
 55578,Wallertheim,07339,2a,,covered by DC rule
 55583,Bad Kreuznach,07133,2a,,
 55585,Norheim u.a.,07133,2a,,
@@ -3869,7 +3869,7 @@ zipcode,city,dc,snowzone,note,comments
 55595,Hargesheim,07133,2a,,
 55596,Waldböckelheim,07133,2a,,
 55597,Wöllstein,07331,2,,covered by DC rule
-55599,Gau-Bickelheim,07331,2a,,covered by DC rule
+55599,Gau-Bickelheim,07331,2,,covered by DC rule
 55606,Kirn,07133,2a,,
 55608,Bergen,07134,2a,,
 55618,Simmertal,07133,2a,,
@@ -3901,25 +3901,25 @@ zipcode,city,dc,snowzone,note,comments
 56132,"Dausenau, Frücht u.a.",07141,2a,,covered by DC rule
 56133,"Fachbach, Exklave Lahnstein",07141,2a,,covered by DC rule
 56154,Boppard,07140,2a,,55430 is ambiguous
-56170,Bendorf,07137,2a,,covered by DC rule
-56179,Vallendar,07137,2a,,covered by DC rule
-56182,Urbar (bei Koblenz),07137,2a,,covered by DC rule
-56191,Weitersburg,07137,2a,,covered by DC rule
-56203,Höhr-Grenzhausen,07143,2a,,covered by DC rule
-56204,Hillscheid,07143,2a,,covered by DC rule
+56170,Bendorf,07137,1,,covered by DC rule
+56179,Vallendar,07137,1,,covered by DC rule
+56182,Urbar (bei Koblenz),07137,1,,covered by DC rule
+56191,Weitersburg,07137,1,,covered by DC rule
+56203,Höhr-Grenzhausen,07143,1,,covered by DC rule
+56204,Hillscheid,07143,1,,covered by DC rule
 56206,Hilgert,07143,2a,,covered by DC rule
-56218,Mülheim-Kärlich,07137,2a,,covered by DC rule
-56220,Urmitz,07137,2a,,covered by DC rule
+56218,Mülheim-Kärlich,07137,1,,covered by DC rule
+56220,Urmitz,07137,1,,covered by DC rule
 56235,Ransbach-Baumbach,07143,2a,,covered by DC rule
-56237,Nauort,07143,2a,,covered by DC rule
+56237,Nauort,07143,1,,covered by DC rule
 56242,Selters (Westerwald),07143,2a,,covered by DC rule
 56244,"Freilingen, Freirachdorf u.a.",07143,2a,,covered by DC rule
 56249,Herschbach,07143,2a,,covered by DC rule
 56253,Treis-Karden,07135,2a,,
 56254,Müden,07135,2a,,
-56269,Dierdorf,07138,2a,,covered by DC rule
-56271,Kleinmaischeid,07138,2a,,covered by DC rule
-56276,Großmaischeid,07138,2a,,covered by DC rule
+56269,Dierdorf,07138,2,,covered by DC rule
+56271,Kleinmaischeid,07138,2,,covered by DC rule
+56276,Großmaischeid,07138,2,,covered by DC rule
 56281,Emmelshausen,07140,2a,,55430 is ambiguous
 56283,"Wildenbungert, Gondershausen, Nörtershausen u.a.",07140,2a,,55430 is ambiguous
 56288,Kastellaun,07140,2a,,55430 is ambiguous
@@ -3928,19 +3928,19 @@ zipcode,city,dc,snowzone,note,comments
 56294,Münstermaifeld,07137,2a,,covered by DC rule
 56295,Lonnig,07137,2a,,covered by DC rule
 56299,Ochtendung,07137,2a,,covered by DC rule
-56305,Puderbach,07138,2a,,covered by DC rule
-56307,Dürrholz,07138,2a,,covered by DC rule
-56316,Raubach,07138,2a,,covered by DC rule
-56317,Urbach,07138,2a,,covered by DC rule
-56321,Rhens,07137,2a,,covered by DC rule
-56322,Spay,07137,2a,,covered by DC rule
-56323,"Waldesch, Hünenfeld",07137,2a,,covered by DC rule
+56305,Puderbach,07138,2,,covered by DC rule
+56307,Dürrholz,07138,2,,covered by DC rule
+56316,Raubach,07138,2,,covered by DC rule
+56317,Urbach,07138,2,,covered by DC rule
+56321,Rhens,07137,1,,covered by DC rule
+56322,Spay,07137,1,,covered by DC rule
+56323,"Waldesch, Hünenfeld",07137,1,,covered by DC rule
 56329,Sankt Goar,07140,2a,,55430 is ambiguous
 56330,Kobern-Gondorf,07137,2a,,covered by DC rule
-56332,"Lehmen, Niederfell, Oberfell, Wolken u.a.",07137,2a,,covered by DC rule
-56333,Winningen,07137,2a,,covered by DC rule
-56335,Neuhäusel,07143,2a,,covered by DC rule
-56337,Eitelborn,07141,2a,,covered by DC rule
+56332,"Lehmen, Niederfell, Oberfell, Wolken u.a.",07137,1,,covered by DC rule
+56333,Winningen,07137,1,,covered by DC rule
+56335,Neuhäusel,07143,1,,covered by DC rule
+56337,Eitelborn,07141,1,,covered by DC rule
 56338,Braubach,07141,2a,,covered by DC rule
 56340,Osterspai,07141,2a,,covered by DC rule
 56341,Kamp-Bornhofen-Filsen,07141,2a,,covered by DC rule
@@ -3948,11 +3948,11 @@ zipcode,city,dc,snowzone,note,comments
 56348,"Bornich, Patersberg",07141,2a,,covered by DC rule
 56349,Kaub,07141,2a,,covered by DC rule
 56355,Nastätten u.a.,07141,2a,,covered by DC rule
-56357,Miehlen u.a.,07141,2a,,covered by DC rule
-56368,Katzenelnbogen,07141,2a,,covered by DC rule
-56370,Schönborn,07141,2a,,covered by DC rule
-56377,Nassau,07141,2a,,covered by DC rule
-56379,Singhofen,07141,2a,,covered by DC rule
+56357,Miehlen u.a.,07141,2,,covered by DC rule
+56368,Katzenelnbogen,07141,2,,covered by DC rule
+56370,Schönborn,07141,2,,covered by DC rule
+56377,Nassau,07141,2,,covered by DC rule
+56379,Singhofen,07141,2,,covered by DC rule
 56410,Montabaur,07143,2a,,covered by DC rule
 56412,"Nentershausen, Hübingen, Niederelbert u.a.",07143,2a,,covered by DC rule
 56414,"Meudt, Molsberg, Hundsangen, Niederahr u.a.",07143,2a,,covered by DC rule
@@ -3970,27 +3970,27 @@ zipcode,city,dc,snowzone,note,comments
 56564,Neuwied,07138,2a,,covered by DC rule
 56566,Neuwied,07138,2a,,covered by DC rule
 56567,Neuwied,07138,2a,,covered by DC rule
-56575,Weißenthurm,07137,2a,,covered by DC rule
+56575,Weißenthurm,07137,1,,covered by DC rule
 56579,Rengsdorf,07138,2a,,covered by DC rule
 56581,Melsbach,07138,2a,,covered by DC rule
 56584,Anhausen,07138,2a,,covered by DC rule
 56587,Straßenhaus,07138,2a,,covered by DC rule
 56588,"Waldbreitbach, Hasuen",07138,2a,,covered by DC rule
 56589,Niederbreitbach,07138,2a,,covered by DC rule
-56593,Horhausen (Westerwald),07132,2a,,covered by DC rule
+56593,Horhausen (Westerwald),07132,1,,covered by DC rule
 56594,Willroth,07132,2a,,covered by DC rule
 56598,Rheinbrohl,07138,2a,,covered by DC rule
 56599,Leutesdorf,07138,2a,,covered by DC rule
-56626,Andernach,07137,2a,,covered by DC rule
-56630,Kretz,07137,2a,,covered by DC rule
-56637,Plaidt,07137,2a,,covered by DC rule
+56626,Andernach,07137,1,,covered by DC rule
+56630,Kretz,07137,1,,covered by DC rule
+56637,Plaidt,07137,1,,covered by DC rule
 56642,Kruft,07137,2a,,covered by DC rule
-56645,Nickenich,07137,2a,,covered by DC rule
-56648,Saffig,07137,2a,,covered by DC rule
-56651,Niederzissen,07131,2a,,covered by DC rule
-56653,Wehr,07131,2a,,covered by DC rule
-56656,Brohl-Lützing,07131,2a,,covered by DC rule
-56659,Burgbrohl,07131,2a,,covered by DC rule
+56645,Nickenich,07137,1,,covered by DC rule
+56648,Saffig,07137,1,,covered by DC rule
+56651,Niederzissen,07131,1,,covered by DC rule
+56653,Wehr,07131,1,,covered by DC rule
+56656,Brohl-Lützing,07131,1,,covered by DC rule
+56659,Burgbrohl,07131,1,,covered by DC rule
 56727,Mayen,07137,2a,,covered by DC rule
 56729,Ettringen,07137,2a,,covered by DC rule
 56736,Kottenheim,07137,2a,,covered by DC rule
@@ -4039,9 +4039,9 @@ zipcode,city,dc,snowzone,note,comments
 57271,Hilchenbach,05970,2a,,ZIP codes 57319 and 57339 are zone 3
 57290,Neunkirchen,05970,2a,,ZIP codes 57319 and 57339 are zone 3
 57299,Burbach,05970,2a,,ZIP codes 57319 and 57339 are zone 3
-57319,Bad Berleburg,05970,3,,ZIP codes 57319 and 57339 are zone 3
+57319,Bad Berleburg,05970,2a,,ZIP codes 57319 and 57339 are zone 3
 57334,Bad Laasphe,05970,2a,,ZIP codes 57319 and 57339 are zone 3
-57339,Erndtebrück,05970,3,,ZIP codes 57319 and 57339 are zone 3
+57339,Erndtebrück,05970,2a,,ZIP codes 57319 and 57339 are zone 3
 57368,Lennestadt,05966,2a,,
 57392,Schmallenberg,05958,2a,,covered by DC rule!
 57399,Kirchhundem,05966,2a,,
@@ -4070,14 +4070,14 @@ zipcode,city,dc,snowzone,note,comments
 57589,Pracht,07132,2a,,covered by DC rule
 57610,Altenkirchen (Westerwald),07132,2a,,covered by DC rule
 57612,Birnbach,07143,2a,,covered by DC rule
-57614,Steimel,07143,2a,,covered by DC rule
+57614,Steimel,07143,2,,covered by DC rule
 57627,Hachenburg,07143,2a,,covered by DC rule
 57629,"Malberg, Norken, Höchstenbach u.a.",07132,2a,,covered by DC rule
-57632,Flammersfeld,07132,2a,,covered by DC rule
+57632,Flammersfeld,07132,1,,covered by DC rule
 57635,Weyerbusch,07132,2a,,covered by DC rule
 57636,Mammelzen,07132,2a,,covered by DC rule
 57638,Neitersen,07132,2a,,covered by DC rule
-57639,Oberdreis,07138,2a,,covered by DC rule
+57639,Oberdreis,07138,2,,covered by DC rule
 57641,Oberlahr,07132,2a,,covered by DC rule
 57642,Alpenrod,07143,2a,,covered by DC rule
 57644,Hattert,07143,2a,,covered by DC rule
@@ -4092,13 +4092,13 @@ zipcode,city,dc,snowzone,note,comments
 58099,Hagen,05914,2a,,
 58119,Hagen,05914,2a,,
 58135,Hagen,05914,2a,,
-58239,Schwerte,05978,2,,covered by DC rule!
-58256,Ennepetal,05954,2,,covered by DC rule!
+58239,Schwerte,05978,2a,,covered by DC rule!
+58256,Ennepetal,05954,2a,,covered by DC rule!
 58285,Gevelsberg,05954,2a,,covered by DC rule!
 58300,Wetter (Ruhr),05954,2a,,covered by DC rule!
 58313,Herdecke,05954,2a,,covered by DC rule!
 58332,Schwelm,05954,2a,,covered by DC rule!
-58339,Breckerfeld,05954,2,,covered by DC rule!
+58339,Breckerfeld,05954,2a,,covered by DC rule!
 58452,Witten,05954,2a,,covered by DC rule!
 58453,Witten,05954,2a,,covered by DC rule!
 58454,Witten,05954,2a,,covered by DC rule!
@@ -4113,16 +4113,16 @@ zipcode,city,dc,snowzone,note,comments
 58553,Halver,05962,2a,,covered by DC rule!
 58566,Kierspe,05962,2a,,covered by DC rule!
 58579,Schalksmühle,05962,2a,,covered by DC rule!
-58636,Iserlohn,05962,2,,covered by DC rule!
-58638,Iserlohn,05962,2,,covered by DC rule!
-58640,Iserlohn,05962,2,,covered by DC rule!
-58642,Iserlohn,05962,2,,covered by DC rule!
-58644,Iserlohn,05962,2,,covered by DC rule!
+58636,Iserlohn,05962,2a,,covered by DC rule!
+58638,Iserlohn,05962,2a,,covered by DC rule!
+58640,Iserlohn,05962,2a,,covered by DC rule!
+58642,Iserlohn,05962,2a,,covered by DC rule!
+58644,Iserlohn,05962,2a,,covered by DC rule!
 58675,Hemer,05962,2a,,covered by DC rule!
-58706,Menden,05962,2,,covered by DC rule!
-58708,Menden,05962,2,,covered by DC rule!
-58710,Menden,05962,2,,covered by DC rule!
-58730,Fröndenberg/Ruhr,05978,2,,covered by DC rule!
+58706,Menden,05962,2a,,covered by DC rule!
+58708,Menden,05962,2a,,covered by DC rule!
+58710,Menden,05962,2a,,covered by DC rule!
+58730,Fröndenberg/Ruhr,05978,2a,,covered by DC rule!
 58739,Wickede (Ruhr),05974,2a,,covered by DC rule!
 58762,Altena,05962,2a,,covered by DC rule!
 58769,Nachrodt-Wiblingwerde,05962,2a,,covered by DC rule!
@@ -4145,9 +4145,9 @@ zipcode,city,dc,snowzone,note,comments
 59227,Ahlen,05570,2a,,covered by DC rule!
 59229,Ahlen,05570,2a,,covered by DC rule!
 59269,Beckum,05570,2a,,covered by DC rule!
-59302,Oelde,05570,2,,covered by DC rule!
+59302,Oelde,05570,2a,,covered by DC rule!
 59320,Ennigerloh,05570,2a,,covered by DC rule!
-59329,Wadersloh,05570,2,,covered by DC rule!
+59329,Wadersloh,05570,2a,,covered by DC rule!
 59348,Lüdinghausen,05558,2a,,
 59368,Werne,05978,2a,,covered by DC rule!
 59379,Selm,05978,2a,,covered by DC rule!
@@ -4162,7 +4162,7 @@ zipcode,city,dc,snowzone,note,comments
 59469,Ense,05974,2a,,covered by DC rule!
 59494,Soest,05974,2a,,covered by DC rule!
 59505,Bad Sassendorf,05974,2a,,covered by DC rule!
-59510,Lippetal,05974,1,,covered by DC rule!
+59510,Lippetal,05974,2a,,covered by DC rule!
 59514,Welver,05974,2a,,covered by DC rule!
 59519,Möhnesee,05974,2a,,covered by DC rule!
 59555,Lippstadt,05974,2a,,covered by DC rule!
@@ -4174,18 +4174,18 @@ zipcode,city,dc,snowzone,note,comments
 59597,Erwitte,05974,2a,,covered by DC rule!
 59602,Rüthen,05974,2a,,covered by DC rule!
 59609,Anröchte,05974,2a,,covered by DC rule!
-59755,Arnsberg,05958,2,,covered by DC rule!
-59757,Arnsberg,05958,2,,covered by DC rule!
-59759,Arnsberg,05958,2,,covered by DC rule!
-59821,Arnsberg,05958,2,,covered by DC rule!
-59823,Arnsberg,05958,2,,covered by DC rule!
+59755,Arnsberg,05958,2a,,covered by DC rule!
+59757,Arnsberg,05958,2a,,covered by DC rule!
+59759,Arnsberg,05958,2a,,covered by DC rule!
+59821,Arnsberg,05958,2a,,covered by DC rule!
+59823,Arnsberg,05958,2a,,covered by DC rule!
 59846,Sundern,05958,2a,,covered by DC rule!
 59872,Meschede,05958,2a,,covered by DC rule!
 59889,Eslohe (Sauerland),05958,2a,,covered by DC rule!
 59909,Bestwig,05958,2a,,covered by DC rule!
 59929,Brilon,05958,2a,,covered by DC rule!
 59939,Olsberg,05958,2a,,covered by DC rule!
-59955,Winterberg,05958,3,,covered by DC rule!
+59955,Winterberg,05958,2a,,covered by DC rule!
 59964,Medebach,05958,2a,,covered by DC rule!
 59969,"Bromskirchen, Hallenberg",05958,2a,,covered by DC rule!
 60306,"Frankfurt am Main, Opernturm",06412,2a,,
@@ -4226,14 +4226,14 @@ zipcode,city,dc,snowzone,note,comments
 60596,Frankfurt am Main,06412,2a,,
 60598,Frankfurt am Main,06412,2a,,
 60599,Frankfurt am Main,06412,2a,,
-61118,Bad Vilbel,06440,2a,,covered by DC rule!
+61118,Bad Vilbel,06440,1,,covered by DC rule!
 61130,Nidderau,06435,2a,,covered by DC rule!
 61137,Schöneck,06435,2a,,covered by DC rule!
 61138,Niederdorfelden,06435,2a,,covered by DC rule!
 61169,Friedberg (Hessen),06440,2a,,covered by DC rule!
-61184,Karben,06440,2a,,covered by DC rule!
+61184,Karben,06440,1,,covered by DC rule!
 61191,Rosbach v.d. Höhe,06440,2a,,covered by DC rule!
-61194,Niddatal,06440,2a,,covered by DC rule!
+61194,Niddatal,06440,1,,covered by DC rule!
 61197,Florstadt,06440,2a,,covered by DC rule!
 61200,Wölfersheim,06440,2a,,covered by DC rule!
 61203,Reichelsheim (Wetterau),06440,2a,,covered by DC rule!
@@ -4252,9 +4252,9 @@ zipcode,city,dc,snowzone,note,comments
 61381,Friedrichsdorf,06434,2a,,covered by DC rule!
 61389,Schmitten im Taunus,06434,2a,,covered by DC rule!
 61440,Oberursel (Taunus),06434,2a,,covered by DC rule!
-61449,Steinbach (Taunus),06434,2a,,covered by DC rule!
+61449,Steinbach (Taunus),06434,1,,covered by DC rule!
 61462,Königstein im Taunus,06434,2a,,covered by DC rule!
-61476,Kronberg im Taunus,06434,2a,,covered by DC rule!
+61476,Kronberg im Taunus,06434,1,,covered by DC rule!
 61479,Glashütten,06434,2a,,covered by DC rule!
 63065,Offenbach am Main,06413,2a,,
 63067,Offenbach am Main,06413,2a,,
@@ -4289,19 +4289,19 @@ zipcode,city,dc,snowzone,note,comments
 63543,Neuberg,06435,2a,,covered by DC rule!
 63546,Hammersbach,06435,2a,,covered by DC rule!
 63549,Ronneburg,06435,2a,,covered by DC rule!
-63571,Gelnhausen,06435,2a,,covered by DC rule!
+63571,Gelnhausen,06435,2,,covered by DC rule!
 63579,Freigericht,06435,2a,,covered by DC rule!
-63584,Gründau,06435,2a,,covered by DC rule!
-63589,Linsengericht,06435,2a,,covered by DC rule!
+63584,Gründau,06435,2,,covered by DC rule!
+63589,Linsengericht,06435,2,,covered by DC rule!
 63594,Hasselroth,06435,2a,,covered by DC rule!
-63599,Biebergemünd,06435,2a,,covered by DC rule!
-63607,Wächtersbach,06435,2a,,covered by DC rule!
-63619,Bad Orb,06435,2a,,covered by DC rule!
-63628,Bad Soden-Salmünster,06435,2a,,covered by DC rule!
+63599,Biebergemünd,06435,2,,covered by DC rule!
+63607,Wächtersbach,06435,2,,covered by DC rule!
+63619,Bad Orb,06435,2,,covered by DC rule!
+63628,Bad Soden-Salmünster,06435,2,,covered by DC rule!
 63633,Birstein,06435,2a,,covered by DC rule!
-63636,Brachttal,06435,2a,,covered by DC rule!
-63637,Jossgrund,06435,2a,,covered by DC rule!
-63639,Flörsbachtal,06435,2a,,covered by DC rule!
+63636,Brachttal,06435,2,,covered by DC rule!
+63637,Jossgrund,06435,2,,covered by DC rule!
+63639,Flörsbachtal,06435,2,,covered by DC rule!
 63654,Büdingen,06440,2a,,covered by DC rule!
 63667,Nidda,06440,2a,,covered by DC rule!
 63674,Altenstadt,06440,2a,,covered by DC rule!
@@ -4309,7 +4309,7 @@ zipcode,city,dc,snowzone,note,comments
 63683,Ortenberg,06440,2a,,covered by DC rule!
 63688,Gedern,06440,2a,,covered by DC rule!
 63691,Ranstadt,06440,2a,,covered by DC rule!
-63694,Limeshain,06440,2a,,covered by DC rule!
+63694,Limeshain,06440,1,,covered by DC rule!
 63695,Glauburg,06440,2a,,covered by DC rule!
 63697,Hirzenhain,06440,2a,,covered by DC rule!
 63699,Kefenrod,06440,2a,,covered by DC rule!
@@ -4379,23 +4379,23 @@ zipcode,city,dc,snowzone,note,comments
 64293,Darmstadt,06411,2a,,
 64295,Darmstadt,06411,2a,,
 64297,Darmstadt,06411,2a,,
-64319,Pfungstadt,06432,2a,,covered by DC rule!
-64331,Weiterstadt,06432,2a,,covered by DC rule!
+64319,Pfungstadt,06432,1,,covered by DC rule!
+64331,Weiterstadt,06432,1,,covered by DC rule!
 64342,Seeheim-Jugenheim,06432,2a,,covered by DC rule!
-64347,Griesheim,06432,2a,,covered by DC rule!
+64347,Griesheim,06432,1,,covered by DC rule!
 64354,Reinheim,06432,2a,,covered by DC rule!
 64367,Mühltal,06432,2a,,covered by DC rule!
 64372,Ober-Ramstadt,06432,2a,,covered by DC rule!
 64380,Roßdorf,06432,2a,,covered by DC rule!
 64385,Reichelsheim (Odenwald),06437,2a,,
-64390,Erzhausen,06432,2a,,covered by DC rule!
+64390,Erzhausen,06432,1,,covered by DC rule!
 64395,Brensbach,06432,2a,,covered by DC rule!
 64397,Modautal,06432,2a,,covered by DC rule!
 64401,Groß-Bieberau,06432,2a,,covered by DC rule!
 64404,Bickenbach,06432,2a,,covered by DC rule!
 64405,Fischbachtal,06432,2a,,covered by DC rule!
 64407,Fränkisch-Crumbach,06437,2a,,
-64409,Messel,06432,2a,,covered by DC rule!
+64409,Messel,06432,1,,covered by DC rule!
 64521,Groß-Gerau,06433,2a,,
 64546,Mörfelden-Walldorf,06433,2a,,
 64560,Riedstadt,06433,2a,,
@@ -4404,15 +4404,15 @@ zipcode,city,dc,snowzone,note,comments
 64579,Gernsheim,06433,2a,,
 64584,Biebesheim am Rhein,06433,2a,,
 64589,Stockstadt am Rhein,06433,2a,,
-64625,Bensheim,06431,2a,,covered by DC rule!
+64625,Bensheim,06431,1,,covered by DC rule!
 64646,Heppenheim (Bergstraße),06431,2a,,covered by DC rule!
-64653,Lorsch,06431,2a,,covered by DC rule!
+64653,Lorsch,06431,1,,covered by DC rule!
 64658,Fürth,06431,2a,,covered by DC rule!
 64665,Alsbach-Hähnlein,06432,2a,,covered by DC rule!
 64668,Rimbach,06431,2a,,covered by DC rule!
-64673,Zwingenberg,06431,2a,,covered by DC rule!
+64673,Zwingenberg,06431,1,,covered by DC rule!
 64678,Lindenfels,06431,2a,,covered by DC rule!
-64683,Einhausen,06431,2a,,covered by DC rule!
+64683,Einhausen,06431,1,,covered by DC rule!
 64686,Lautertal (Odenwald),06431,2a,,covered by DC rule!
 64689,Grasellenbach,06431,2a,,covered by DC rule!
 64711,Erbach,06437,2a,,
@@ -4429,11 +4429,11 @@ zipcode,city,dc,snowzone,note,comments
 64807,Dieburg,06432,2a,,covered by DC rule!
 64823,Groß-Umstadt,06432,2a,,covered by DC rule!
 64832,Babenhausen,06432,2a,,covered by DC rule!
-64839,Münster,06432,2a,,covered by DC rule!
+64839,Münster,06432,1,,covered by DC rule!
 64846,Groß-Zimmern,06432,2a,,covered by DC rule!
-64850,Schaafheim,06432,2a,,covered by DC rule!
+64850,Schaafheim,06432,1,,covered by DC rule!
 64853,Otzberg,06432,2a,,covered by DC rule!
-64859,Eppertshausen,06432,2a,,covered by DC rule!
+64859,Eppertshausen,06432,1,,covered by DC rule!
 65183,Wiesbaden,06414,2a,,
 65185,Wiesbaden,06414,2a,,
 65187,Wiesbaden,06414,2a,,
@@ -4458,12 +4458,12 @@ zipcode,city,dc,snowzone,note,comments
 65345,Eltville am Rhein,06439,2a,,covered by DC rule!
 65346,Eltville am Rhein,06439,2a,,covered by DC rule!
 65347,Eltville am Rhein,06439,2a,,covered by DC rule!
-65366,Geisenheim,06439,2a,,covered by DC rule!
+65366,Geisenheim,06439,1,,covered by DC rule!
 65375,Oestrich-Winkel,06439,2a,,covered by DC rule!
-65385,Rüdesheim am Rhein,06439,2a,,covered by DC rule!
+65385,Rüdesheim am Rhein,06439,1,,covered by DC rule!
 65388,Schlangenbad,06439,2a,,covered by DC rule!
-65391,Lorch,06439,2a,,covered by DC rule!
-65396,Walluf,06439,2a,,covered by DC rule!
+65391,Lorch,06439,1,,covered by DC rule!
+65396,Walluf,06439,1,,covered by DC rule!
 65399,Kiedrich,06439,2a,,covered by DC rule!
 65428,Rüsselsheim,06433,2a,,
 65439,Flörsheim am Main,06436,2a,,
@@ -4484,8 +4484,8 @@ zipcode,city,dc,snowzone,note,comments
 65554,Limburg,06533,2a,,
 65555,Limburg,06533,2a,,
 65556,Limburg,06533,2a,,
-65558,Burgschwalbach,07141,2a,,covered by DC rule
-65582,"Diez, Hambach, Aull",07141,2a,,covered by DC rule
+65558,Burgschwalbach,07141,2,,covered by DC rule
+65582,"Diez, Hambach, Aull",07141,2,,covered by DC rule
 65589,Hadamar,06533,2a,,
 65594,Runkel,06533,2a,,
 65597,Hünfelden,06533,2a,,
@@ -4496,11 +4496,11 @@ zipcode,city,dc,snowzone,note,comments
 65614,Beselich,06533,2a,,
 65618,Selters,06533,2a,,
 65620,Waldbrunn,06533,2a,,
-65623,Hahnstätten u.a.,07141,2a,,covered by DC rule
+65623,Hahnstätten u.a.,07141,2,,covered by DC rule
 65624,Altendiez,07141,2a,,covered by DC rule
-65626,Birlenbach,07141,2a,,covered by DC rule
+65626,Birlenbach,07141,2,,covered by DC rule
 65627,Elbtal,06533,2a,,
-65629,Niederneisen,07141,2a,,covered by DC rule
+65629,Niederneisen,07141,2,,covered by DC rule
 65719,Hofheim am Taunus,06436,2a,,
 65760,Eschborn,06436,2a,,
 65779,Kelkheim,06436,2a,,
@@ -4636,33 +4636,33 @@ zipcode,city,dc,snowzone,note,comments
 67067,Ludwigshafen am Rhein,07314,2a,,
 67069,Ludwigshafen am Rhein,07314,2a,,
 67071,Ludwigshafen am Rhein,07314,2a,,
-67098,Bad Dürkheim,07332,2a,2 (Exklaven in SLZ 2),covered by DC rule
-67105,Schifferstadt,07338,2a,,
-67112,Mutterstadt,07338,2a,,
-67117,Limburgerhof,07338,2a,,
-67122,Altrip,07338,2a,,
-67125,Dannstadt-Schauernheim,07338,2a,,
-67126,Hochdorf-Assenheim,07338,2a,,
-67127,Rödersheim-Gronau,07338,2a,,
-67133,Maxdorf,07338,2a,,
-67134,Birkenheide,07338,2a,,
-67136,Fußgönheim,07338,2a,,
-67141,Neuhofen,07338,2a,,
-67146,Deidesheim,07332,2a,2 (Exklaven in SLZ 2),covered by DC rule
-67147,Forst an der Weinstraße,07332,2a,2 (Exklaven in SLZ 2),covered by DC rule
+67098,Bad Dürkheim,07332,2,2 (Exklaven in SLZ 2),covered by DC rule
+67105,Schifferstadt,07338,2,,
+67112,Mutterstadt,07338,2,,
+67117,Limburgerhof,07338,2,,
+67122,Altrip,07338,2,,
+67125,Dannstadt-Schauernheim,07338,2,,
+67126,Hochdorf-Assenheim,07338,2,,
+67127,Rödersheim-Gronau,07338,2,,
+67133,Maxdorf,07338,2,,
+67134,Birkenheide,07338,2,,
+67136,Fußgönheim,07338,2,,
+67141,Neuhofen,07338,2,,
+67146,Deidesheim,07332,2,2 (Exklaven in SLZ 2),covered by DC rule
+67147,Forst an der Weinstraße,07332,2,2 (Exklaven in SLZ 2),covered by DC rule
 67149,Meckenheim,07332,2a,2 (Exklaven in SLZ 2),covered by DC rule
-67150,Niederkirchen bei Deidesheim,07332,2a,2 (Exklaven in SLZ 2),covered by DC rule
-67152,Ruppertsberg,07332,2a,2 (Exklaven in SLZ 2),covered by DC rule
-67157,Wachenheim an der Weinstraße,07332,2a,2 (Exklaven in SLZ 2),covered by DC rule
+67150,Niederkirchen bei Deidesheim,07332,2,2 (Exklaven in SLZ 2),covered by DC rule
+67152,Ruppertsberg,07332,2,2 (Exklaven in SLZ 2),covered by DC rule
+67157,Wachenheim an der Weinstraße,07332,2,2 (Exklaven in SLZ 2),covered by DC rule
 67158,Ellerstadt,07332,2a,2 (Exklaven in SLZ 2),covered by DC rule
-67159,Friedelsheim,07332,2a,2 (Exklaven in SLZ 2),covered by DC rule
+67159,Friedelsheim,07332,2,2 (Exklaven in SLZ 2),covered by DC rule
 67161,Gönnheim,07332,2a,2 (Exklaven in SLZ 2),covered by DC rule
 67165,Waldsee,07338,2a,,
 67166,Otterstadt,07338,2a,,
-67167,Erpolzheim,07332,2a,2 (Exklaven in SLZ 2),covered by DC rule
-67169,Kallstadt,07332,2a,2 (Exklaven in SLZ 2),covered by DC rule
+67167,Erpolzheim,07332,2,2 (Exklaven in SLZ 2),covered by DC rule
+67169,Kallstadt,07332,2,2 (Exklaven in SLZ 2),covered by DC rule
 67227,Frankenthal (Pfalz),07311,2a,,
-67229,Gerolsheim,07332,2,2 (Exklaven in SLZ 2),covered by DC rule
+67229,Gerolsheim,07332,2a,2 (Exklaven in SLZ 2),covered by DC rule
 67240,Bobenheim-Roxheim,07338,2a,,
 67245,Lambsheim,07338,2a,,
 67246,Dirmstein,07332,2a,2 (Exklaven in SLZ 2),covered by DC rule
@@ -4670,26 +4670,26 @@ zipcode,city,dc,snowzone,note,comments
 67256,Weisenheim am Sand,07332,2a,2 (Exklaven in SLZ 2),covered by DC rule
 67258,Heßheim,07338,2a,,
 67259,Beindersheim,07338,2a,,
-67269,Grünstadt,07332,2a,2 (Exklaven in SLZ 2),covered by DC rule
-67271,Kindenheim,07332,2a,2 (Exklaven in SLZ 2),covered by DC rule
-67273,Weisenheim am Berg,07332,2a,2 (Exklaven in SLZ 2),covered by DC rule
-67278,Bockenheim an der Weinstraße,07332,2a,2 (Exklaven in SLZ 2),covered by DC rule
-67280,Ebertsheim,07332,2a,2 (Exklaven in SLZ 2),covered by DC rule
-67281,Kirchheim an der Weinstraße,07332,2a,2 (Exklaven in SLZ 2),covered by DC rule
-67283,Obrigheim (Pfalz),07332,2a,2 (Exklaven in SLZ 2),covered by DC rule
-67292,Kirchheimbolanden,07333,2a,,
-67294,Bischheim u.a.,07331,2a,,covered by DC rule
-67295,Bolanden,07333,2a,,
-67297,Marnheim,07333,2a,,
-67304,Eisenberg (Pfalz),07333,2a,,
-67305,Ramsen,07333,2a,,
-67307,Göllheim,07333,2a,,
-67308,Albisheim (Pfrimm),07333,2a,,
-67310,Hettenleidelheim,07332,2a,2 (Exklaven in SLZ 2),covered by DC rule
-67311,Tiefenthal,07332,2a,2 (Exklaven in SLZ 2),covered by DC rule
-67316,Carlsberg,07332,2a,2 (Exklaven in SLZ 2),covered by DC rule
-67317,Altleiningen,07332,2a,2 (Exklaven in SLZ 2),covered by DC rule
-67319,Wattenheim,07332,2a,2 (Exklaven in SLZ 2),covered by DC rule
+67269,Grünstadt,07332,2,2 (Exklaven in SLZ 2),covered by DC rule
+67271,Kindenheim,07332,2,2 (Exklaven in SLZ 2),covered by DC rule
+67273,Weisenheim am Berg,07332,2,2 (Exklaven in SLZ 2),covered by DC rule
+67278,Bockenheim an der Weinstraße,07332,2,2 (Exklaven in SLZ 2),covered by DC rule
+67280,Ebertsheim,07332,2,2 (Exklaven in SLZ 2),covered by DC rule
+67281,Kirchheim an der Weinstraße,07332,2,2 (Exklaven in SLZ 2),covered by DC rule
+67283,Obrigheim (Pfalz),07332,2,2 (Exklaven in SLZ 2),covered by DC rule
+67292,Kirchheimbolanden,07333,2,,
+67294,Bischheim u.a.,07331,2,,covered by DC rule
+67295,Bolanden,07333,2,,
+67297,Marnheim,07333,2,,
+67304,Eisenberg (Pfalz),07333,2,,
+67305,Ramsen,07333,2,,
+67307,Göllheim,07333,2,,
+67308,Albisheim (Pfrimm),07333,2,,
+67310,Hettenleidelheim,07332,2,2 (Exklaven in SLZ 2),covered by DC rule
+67311,Tiefenthal,07332,2,2 (Exklaven in SLZ 2),covered by DC rule
+67316,Carlsberg,07332,2,2 (Exklaven in SLZ 2),covered by DC rule
+67317,Altleiningen,07332,2,2 (Exklaven in SLZ 2),covered by DC rule
+67319,Wattenheim,07332,2,2 (Exklaven in SLZ 2),covered by DC rule
 67346,Speyer,07318,2a,,
 67354,Römerberg,07338,2a,,
 67360,Lingenfeld,07334,2a,,
@@ -4701,22 +4701,22 @@ zipcode,city,dc,snowzone,note,comments
 67373,Dudenhofen,07338,2a,,
 67374,Hanhofen,07338,2a,,
 67376,Harthausen,07338,2a,,
-67377,Gommersheim,07337,2a,,covered by DC rule
+67377,Gommersheim,07337,2,,covered by DC rule
 67378,Zeiskam,07334,2a,,
 67433,Neustadt an der Weinstraße,07316,2a,,
 67434,Neustadt an der Weinstraße,07316,2a,,
 67435,Neustadt an der Weinstraße,07316,2a,,
 67454,Haßloch,07332,2a,2 (Exklaven in SLZ 2),covered by DC rule
 67459,Böhl-Iggelheim,07338,2a,,
-67466,Lambrecht (Pfalz),07332,2a,2 (Exklaven in SLZ 2),covered by DC rule
-67468,"Frankenstein, Neidenfels, Frankeneck",07335,2a,,
-67471,Elmstein,07332,2a,2 (Exklaven in SLZ 2),covered by DC rule
-67472,Esthal,07332,2a,2 (Exklaven in SLZ 2),covered by DC rule
-67473,Lindenberg,07332,2a,2 (Exklaven in SLZ 2),covered by DC rule
-67475,Weidenthal,07332,2a,2 (Exklaven in SLZ 2),covered by DC rule
+67466,Lambrecht (Pfalz),07332,2,2 (Exklaven in SLZ 2),covered by DC rule
+67468,"Frankenstein, Neidenfels, Frankeneck",07335,2,,
+67471,Elmstein,07332,2,2 (Exklaven in SLZ 2),covered by DC rule
+67472,Esthal,07332,2,2 (Exklaven in SLZ 2),covered by DC rule
+67473,Lindenberg,07332,2,2 (Exklaven in SLZ 2),covered by DC rule
+67475,Weidenthal,07332,2,2 (Exklaven in SLZ 2),covered by DC rule
 67480,Edenkoben,07337,2a,,covered by DC rule
-67482,Venningen,07337,2,,covered by DC rule
-67483,Edesheim,07337,2,,covered by DC rule
+67482,Venningen,07337,2a,,covered by DC rule
+67483,Edesheim,07337,2a,,covered by DC rule
 67487,Maikammer,07337,2a,,covered by DC rule
 67489,Kirrweiler (Pfalz),07337,2a,,covered by DC rule
 67547,Worms,07319,2a,,
@@ -4734,7 +4734,7 @@ zipcode,city,dc,snowzone,note,comments
 67586,Hillesheim,07339,2a,,covered by DC rule
 67587,Wintersheim,07339,2a,,covered by DC rule
 67590,Monsheim,07331,2a,,covered by DC rule
-67591,Offstein,07331,2,,covered by DC rule
+67591,Offstein,07331,2a,,covered by DC rule
 67592,Flörsheim-Dalsheim,07331,2a,,covered by DC rule
 67593,"Westhofen, Bermersheim",07331,2a,,covered by DC rule
 67595,Bechtheim,07331,2a,,covered by DC rule
@@ -4818,15 +4818,15 @@ zipcode,city,dc,snowzone,note,comments
 68305,Mannheim,08222,2a,,
 68307,Mannheim,08222,2a,,
 68309,Mannheim,08222,2a,,
-68519,Viernheim,06431,2a,,covered by DC rule!
+68519,Viernheim,06431,1,,covered by DC rule!
 68526,Ladenburg,08226,2a,,covered by DC rule!
 68535,Edingen-Neckarhausen,08226,2a,,covered by DC rule!
 68542,Heddesheim,08226,2a,,covered by DC rule!
 68549,Ilvesheim,08226,2a,,covered by DC rule!
-68623,Lampertheim,06431,2a,,covered by DC rule!
-68642,Bürstadt,06431,2a,,covered by DC rule!
-68647,Biblis,06431,2a,,covered by DC rule!
-68649,Groß-Rohrheim,06431,2a,,covered by DC rule!
+68623,Lampertheim,06431,1,,covered by DC rule!
+68642,Bürstadt,06431,1,,covered by DC rule!
+68647,Biblis,06431,1,,covered by DC rule!
+68649,Groß-Rohrheim,06431,1,,covered by DC rule!
 68723,Schwetzingen,08226,2a,,covered by DC rule!
 68753,Waghäusel,08215,2a,,covered by DC rule!
 68766,Hockenheim,08226,2a,,covered by DC rule!
@@ -4845,7 +4845,7 @@ zipcode,city,dc,snowzone,note,comments
 69123,Heidelberg,08221,2a,,
 69124,Heidelberg,08221,2a,,
 69126,Heidelberg,08221,2a,,
-69151,Neckargemünd,08226,2a,,covered by DC rule!
+69151,Neckargemünd,08226,2,,covered by DC rule!
 69168,Wiesloch,08226,2a,,covered by DC rule!
 69181,Leimen,08226,2a,,covered by DC rule!
 69190,Walldorf,08226,2a,,covered by DC rule!
@@ -4855,22 +4855,22 @@ zipcode,city,dc,snowzone,note,comments
 69221,Dossenheim,08226,2a,,covered by DC rule!
 69226,Nußloch,08226,2a,,covered by DC rule!
 69231,Rauenberg,08226,2a,,covered by DC rule!
-69234,Dielheim,08226,2a,,covered by DC rule!
+69234,Dielheim,08226,2,,covered by DC rule!
 69239,Neckarsteinach,06431,2a,,covered by DC rule!
 69242,Mühlhausen,08226,2a,,covered by DC rule!
-69245,Bammental,08226,2a,,covered by DC rule!
-69250,Schönau,08226,2a,,covered by DC rule!
+69245,Bammental,08226,2,,covered by DC rule!
+69250,Schönau,08226,2,,covered by DC rule!
 69251,Gaiberg,08226,2a,,covered by DC rule!
-69253,Heiligkreuzsteinach,08226,2a,,covered by DC rule!
+69253,Heiligkreuzsteinach,08226,2,,covered by DC rule!
 69254,Malsch,08226,2a,,covered by DC rule!
-69256,Mauer,08226,2a,,covered by DC rule!
-69257,Wiesenbach,08226,2a,,covered by DC rule!
-69259,Wilhelmsfeld,08226,2a,,covered by DC rule!
-69412,Eberbach,08226,2a,,covered by DC rule!
+69256,Mauer,08226,2,,covered by DC rule!
+69257,Wiesenbach,08226,2,,covered by DC rule!
+69259,Wilhelmsfeld,08226,2,,covered by DC rule!
+69412,Eberbach,08226,2,,covered by DC rule!
 69427,Mudau,08225,2a,,DC rule (default 2)
 69429,Waldbrunn,08226,2a,,covered by DC rule!
-69434,"Hirschhorn, Brombach, Heddesbach",08226,2a,,covered by DC rule!
-69436,Schönbrunn,08226,2a,,covered by DC rule!
+69434,"Hirschhorn, Brombach, Heddesbach",08226,2,,covered by DC rule!
+69436,Schönbrunn,08226,2,,covered by DC rule!
 69437,Neckargerach,08225,2a,,DC rule (default 2)
 69439,Zwingenberg,08225,2a,,DC rule (default 2)
 69469,Weinheim,08226,2a,,covered by DC rule!
@@ -5057,7 +5057,7 @@ zipcode,city,dc,snowzone,note,comments
 72358,Dormettingen,08417,2a,,DC rule (default 2)
 72359,Dotternhausen,08417,2a,,DC rule (default 2)
 72361,Hausen am Tann,08417,2a,,DC rule (default 2)
-72362,Nusplingen,08417,2a,,DC rule (default 2)
+72362,Nusplingen,08417,1,,DC rule (default 2)
 72364,Obernheim,08417,2a,,DC rule (default 2)
 72365,Ratshausen,08417,2a,,DC rule (default 2)
 72367,Weilen unter den Rinnen,08417,2a,,DC rule (default 2)
@@ -5074,11 +5074,11 @@ zipcode,city,dc,snowzone,note,comments
 72458,Albstadt,08417,2a,,DC rule (default 2)
 72459,Albstadt,08417,2a,,DC rule (default 2)
 72461,Albstadt,08417,2a,,DC rule (default 2)
-72469,Meßstetten,08417,2,,DC rule (default 2)
-72474,Winterlingen,08417,2a,,DC rule (default 2)
-72475,Bitz,08417,2a,,DC rule (default 2)
+72469,Meßstetten,08417,1,,DC rule (default 2)
+72474,Winterlingen,08417,1,,DC rule (default 2)
+72475,Bitz,08417,1,,DC rule (default 2)
 72477,Schwenningen,08437,2a,,
-72479,Straßberg,08417,2a,,DC rule (default 2)
+72479,Straßberg,08417,1,,DC rule (default 2)
 72488,Sigmaringen,08437,2a,,
 72501,Gammertingen,08437,2a,,
 72505,Krauchenwies,08437,2a,,
@@ -5089,13 +5089,13 @@ zipcode,city,dc,snowzone,note,comments
 72516,Scheer,08437,2a,,
 72517,Sigmaringendorf,08437,2a,,
 72519,Veringenstadt,08437,2a,,
-72525,Münsingen,08415,2a,,DC rule (default 2)
-72531,Hohenstein,08415,2a,,DC rule (default 2)
-72532,Gomadingen,08415,2a,,DC rule (default 2)
-72534,Hayingen,08415,2a,,DC rule (default 2)
+72525,Münsingen,08415,1,,DC rule (default 2)
+72531,Hohenstein,08415,1,,DC rule (default 2)
+72532,Gomadingen,08415,1,,DC rule (default 2)
+72534,Hayingen,08415,1,,DC rule (default 2)
 72535,Heroldstatt,08425,2a,,covered by DC rule!
-72537,Mehrstetten,08415,2a,,DC rule (default 2)
-72539,Pfronstetten,08415,2a,,DC rule (default 2)
+72537,Mehrstetten,08415,1,,DC rule (default 2)
+72539,Pfronstetten,08415,1,,DC rule (default 2)
 72555,Metzingen,08415,2a,,DC rule (default 2)
 72574,Bad Urach,08415,2a,,DC rule (default 2)
 72581,Dettingen an der Erms,08415,2a,,DC rule (default 2)
@@ -5103,7 +5103,7 @@ zipcode,city,dc,snowzone,note,comments
 72584,Hülben,08415,2a,,DC rule (default 2)
 72585,Riederich,08415,2a,,DC rule (default 2)
 72587,Römerstein,08415,2a,,DC rule (default 2)
-72589,Westerheim,08425,2a,,covered by DC rule!
+72589,Westerheim,08425,2,,covered by DC rule!
 72622,Nürtingen,08116,2a,,
 72631,Aichtal,08116,2a,,
 72636,Frickenhausen,08116,2a,,
@@ -5132,7 +5132,7 @@ zipcode,city,dc,snowzone,note,comments
 72805,Lichtenstein,08415,2a,,DC rule (default 2)
 72810,Gomaringen,08416,2a,,
 72813,St. Johann,08415,2a,,DC rule (default 2)
-72818,Trochtelfingen,08415,2a,,DC rule (default 2)
+72818,Trochtelfingen,08415,1,,DC rule (default 2)
 72820,Sonnenbühl,08415,2a,,DC rule (default 2)
 72827,Wannweil,08415,2a,,DC rule (default 2)
 72829,Engstingen,08415,2a,,DC rule (default 2)
@@ -5186,7 +5186,7 @@ zipcode,city,dc,snowzone,note,comments
 73329,Kuchen,08117,2a,,
 73333,Gingen an der Fils,08117,2a,,
 73337,Bad Überkingen,08117,2a,,
-73340,Amstetten,08425,2a,,covered by DC rule!
+73340,Amstetten,08425,2,,covered by DC rule!
 73342,Bad Ditzenbach,08117,2a,,
 73344,Gruibingen,08117,2a,,
 73345,Hohenstadt/Drackenstein,08117,2a,,
@@ -5332,31 +5332,31 @@ zipcode,city,dc,snowzone,note,comments
 74535,Mainhardt,08127,2a,,DC rule (default 2)
 74538,Rosengarten,08127,2a,,DC rule (default 2)
 74541,Vellberg,08127,2a,,DC rule (default 2)
-74542,Braunsbach,08127,2a,,DC rule (default 2)
+74542,Braunsbach,08127,1,,DC rule (default 2)
 74544,Michelbach an der Bilz,08127,2a,,DC rule (default 2)
 74545,Michelfeld,08127,2a,,DC rule (default 2)
 74547,Untermünkheim,08127,2a,,DC rule (default 2)
 74549,Wolpertshausen,08127,2a,,DC rule (default 2)
 74564,Crailsheim,08127,2a,,DC rule (default 2)
-74572,Blaufelden,08127,2a,,DC rule (default 2)
-74575,Schrozberg,08127,2a,,DC rule (default 2)
+74572,Blaufelden,08127,1,,DC rule (default 2)
+74575,Schrozberg,08127,1,,DC rule (default 2)
 74579,Fichtenau,08127,2a,,DC rule (default 2)
-74582,Gerabronn,08127,2a,,DC rule (default 2)
-74585,Rot am See,08127,2a,,DC rule (default 2)
+74582,Gerabronn,08127,1,,DC rule (default 2)
+74585,Rot am See,08127,1,,DC rule (default 2)
 74586,Frankenhardt,08127,2a,,DC rule (default 2)
 74589,Satteldorf,08127,2a,,DC rule (default 2)
-74592,Kirchberg an der Jagst,08127,2a,,DC rule (default 2)
+74592,Kirchberg an der Jagst,08127,1,,DC rule (default 2)
 74594,Kreßberg,08127,2a,,DC rule (default 2)
-74595,Langenburg,08127,2a,,DC rule (default 2)
+74595,Langenburg,08127,1,,DC rule (default 2)
 74597,Stimpfach,08127,2a,,DC rule (default 2)
 74599,Wallhausen,08127,2a,,DC rule (default 2)
-74613,Öhringen,08126,2a,,covered by DC rule!
-74626,Bretzfeld,08126,2a,,covered by DC rule!
-74629,Pfedelbach,08126,2a,,covered by DC rule!
-74632,Neuenstein,08126,2a,,covered by DC rule!
+74613,Öhringen,08126,2,,covered by DC rule!
+74626,Bretzfeld,08126,2,,covered by DC rule!
+74629,Pfedelbach,08126,2,,covered by DC rule!
+74632,Neuenstein,08126,2,,covered by DC rule!
 74635,Kupferzell,08126,2a,,covered by DC rule!
-74638,Waldenburg,08126,2a,,covered by DC rule!
-74639,Zweiflingen,08126,2a,,covered by DC rule!
+74638,Waldenburg,08126,2,,covered by DC rule!
+74639,Zweiflingen,08126,2,,covered by DC rule!
 74653,"Künzelsau, Ingelfingen",08126,2a,,covered by DC rule!
 74670,Forchtenberg,08126,2a,,covered by DC rule!
 74673,Mulfingen,08126,2a,,covered by DC rule!
@@ -5371,7 +5371,7 @@ zipcode,city,dc,snowzone,note,comments
 74743,Seckach,08225,2a,,DC rule (default 2)
 74744,Ahorn,08128,2a,,covered by DC rule!
 74746,Höpfingen,08225,2a,,DC rule (default 2)
-74747,Ravenstein,08225,2a,,DC rule (default 2)
+74747,Ravenstein,08225,1,,DC rule (default 2)
 74749,Rosenberg,08225,2a,,DC rule (default 2)
 74821,Mosbach,08225,2a,,DC rule (default 2)
 74831,Gundelsheim,08125,2a,,
@@ -5388,33 +5388,33 @@ zipcode,city,dc,snowzone,note,comments
 74865,Neckarzimmern,08225,2a,,DC rule (default 2)
 74867,Neunkirchen,08225,2a,,DC rule (default 2)
 74869,Schwarzach,08225,2a,,DC rule (default 2)
-74889,Sinsheim,08226,2a,,covered by DC rule!
+74889,Sinsheim,08226,2,,covered by DC rule!
 74906,Bad Rappenau,08125,2a,,
-74909,Meckesheim,08226,2a,,covered by DC rule!
+74909,Meckesheim,08226,2,,covered by DC rule!
 74912,Kirchardt,08125,2a,,
-74915,Waibstadt,08226,2a,,covered by DC rule!
-74918,Angelbachtal,08226,2a,,covered by DC rule!
-74921,Helmstadt-Bargen,08226,2a,,covered by DC rule!
-74924,Neckarbischofsheim,08226,2a,,covered by DC rule!
-74925,Epfenbach,08226,2a,,covered by DC rule!
-74927,Eschelbronn,08226,2a,,covered by DC rule!
+74915,Waibstadt,08226,2,,covered by DC rule!
+74918,Angelbachtal,08226,2,,covered by DC rule!
+74921,Helmstadt-Bargen,08226,2,,covered by DC rule!
+74924,Neckarbischofsheim,08226,2,,covered by DC rule!
+74925,Epfenbach,08226,2,,covered by DC rule!
+74927,Eschelbronn,08226,2,,covered by DC rule!
 74928,Hüffenhardt,08225,2a,,DC rule (default 2)
 74930,Ittlingen,08125,2a,,
-74931,Lobbach,08226,2a,,covered by DC rule!
-74933,Neidenstein,08226,2a,,covered by DC rule!
-74934,Reichartshausen,08226,2a,,covered by DC rule!
+74931,Lobbach,08226,2,,covered by DC rule!
+74933,Neidenstein,08226,2,,covered by DC rule!
+74934,Reichartshausen,08226,2,,covered by DC rule!
 74936,Siegelsbach,08125,2a,,
-74937,Spechbach,08226,2a,,covered by DC rule!
-74939,Zuzenhausen,08226,2a,,covered by DC rule!
-75015,Bretten,08215,2a,,covered by DC rule!
+74937,Spechbach,08226,2,,covered by DC rule!
+74939,Zuzenhausen,08226,2,,covered by DC rule!
+75015,Bretten,08215,2,,covered by DC rule!
 75031,Eppingen,08125,2a,,
-75038,Oberderdingen,08215,2a,,covered by DC rule!
+75038,Oberderdingen,08215,2,,covered by DC rule!
 75045,Walzbachtal,08215,2a,,covered by DC rule!
 75050,Gemmingen,08125,2a,,
 75053,Gondelsheim,08215,2a,,covered by DC rule!
-75056,Sulzfeld,08215,2a,,covered by DC rule!
-75057,Kürnbach,08215,2a,,covered by DC rule!
-75059,Zaisenhausen,08215,2a,,covered by DC rule!
+75056,Sulzfeld,08215,2,,covered by DC rule!
+75057,Kürnbach,08215,2,,covered by DC rule!
+75059,Zaisenhausen,08215,2,,covered by DC rule!
 75172,Pforzheim,08231,2a,,
 75173,Pforzheim,08231,2a,,
 75175,Pforzheim,08231,2a,,
@@ -5479,7 +5479,7 @@ zipcode,city,dc,snowzone,note,comments
 76275,Ettlingen,08215,2a,,covered by DC rule!
 76287,Rheinstetten,08215,2a,,covered by DC rule!
 76297,Stutensee,08215,2a,,covered by DC rule!
-76307,Karlsbad,08215,2a,,covered by DC rule!
+76307,Karlsbad,08215,2,,covered by DC rule!
 76316,Malsch,08215,2a,,covered by DC rule!
 76327,Pfinztal,08215,2a,,covered by DC rule!
 76332,Bad Herrenalb,08235,2a,,
@@ -5487,7 +5487,7 @@ zipcode,city,dc,snowzone,note,comments
 76344,Eggenstein-Leopoldshafen,08215,2a,,covered by DC rule!
 76351,Linkenheim-Hochstetten,08215,2a,,covered by DC rule!
 76356,Weingarten,08215,2a,,covered by DC rule!
-76359,Marxzell,08215,2a,,covered by DC rule!
+76359,Marxzell,08215,2,,covered by DC rule!
 76437,Rastatt,08216,2a,,covered by DC rule!
 76448,Durmersheim,08216,2a,,covered by DC rule!
 76456,Kuppenheim,08216,2a,,covered by DC rule!
@@ -5504,11 +5504,11 @@ zipcode,city,dc,snowzone,note,comments
 76534,Baden-Baden,08211,2a,,
 76547,Sinzheim,08216,2a,,covered by DC rule!
 76549,Hügelsheim,08216,2a,,covered by DC rule!
-76571,Gaggenau,08216,2a,,covered by DC rule!
-76593,Gernsbach,08216,2a,,covered by DC rule!
-76596,Forbach,08216,2a,,covered by DC rule!
-76597,Loffenau,08216,2a,,covered by DC rule!
-76599,Weisenbach,08216,2a,,covered by DC rule!
+76571,Gaggenau,08216,2,,covered by DC rule!
+76593,Gernsbach,08216,2,,covered by DC rule!
+76596,Forbach,08216,2,,covered by DC rule!
+76597,Loffenau,08216,2,,covered by DC rule!
+76599,Weisenbach,08216,2,,covered by DC rule!
 76646,Bruchsal,08215,2a,,covered by DC rule!
 76661,Philippsburg,08215,2a,,covered by DC rule!
 76669,Bad Schönborn,08215,2a,,covered by DC rule!
@@ -5544,33 +5544,33 @@ zipcode,city,dc,snowzone,note,comments
 76848,Wilgartswiesen,07340,2a,,
 76855,Annweiler am Trifels,07337,2a,,covered by DC rule
 76857,"Albersweiler, Silz u.a.",07337,2a,,covered by DC rule
-76863,Herxheim,07337,2a,,covered by DC rule
-76865,Insheim,07337,2a,,covered by DC rule
+76863,Herxheim,07337,2,,covered by DC rule
+76865,Insheim,07337,2,,covered by DC rule
 76870,Kandel,07334,2a,,
-76872,Steinweiler,07337,2a,,covered by DC rule
-76877,Offenbach an der Queich,07337,2a,,covered by DC rule
-76879,Hochstadt,07334,2a,,
+76872,Steinweiler,07337,2,,covered by DC rule
+76877,Offenbach an der Queich,07337,2,,covered by DC rule
+76879,Hochstadt,07334,2,,
 76887,Bad Bergzabern u.a.,07337,2a,,covered by DC rule
-76889,Klingenmünster u.a.,07337,2,,covered by DC rule
+76889,Klingenmünster u.a.,07337,2a,,covered by DC rule
 76891,Bruchweiler-Bärenbach u.a.,07340,2a,,
-77652,Offenburg,08317,2a,,DC rule (default 2)
-77654,Offenburg,08317,2a,,DC rule (default 2)
-77656,Offenburg,08317,2a,,DC rule (default 2)
-77694,Kehl,08317,2a,,DC rule (default 2)
+77652,Offenburg,08317,1,,DC rule (default 2)
+77654,Offenburg,08317,1,,DC rule (default 2)
+77656,Offenburg,08317,1,,DC rule (default 2)
+77694,Kehl,08317,1,,DC rule (default 2)
 77704,Oberkirch,08317,2a,,DC rule (default 2)
 77709,"Wolfach, Oberwolfach",08317,2a,,DC rule (default 2)
 77716,"Fischerbach, Haslach, Hofstetten",08317,2a,,DC rule (default 2)
 77723,Gengenbach,08317,2a,,DC rule (default 2)
 77728,Oppenau,08317,2a,,DC rule (default 2)
-77731,Willstätt,08317,2a,,DC rule (default 2)
+77731,Willstätt,08317,1,,DC rule (default 2)
 77736,Zell am Harmersbach,08317,2a,,DC rule (default 2)
 77740,Bad Peterstal-Griesbach,08317,2a,,DC rule (default 2)
-77743,Neuried,08317,2a,,DC rule (default 2)
-77746,Schutterwald,08317,2a,,DC rule (default 2)
-77749,Hohberg,08317,2a,,DC rule (default 2)
+77743,Neuried,08317,1,,DC rule (default 2)
+77746,Schutterwald,08317,1,,DC rule (default 2)
+77749,Hohberg,08317,1,,DC rule (default 2)
 77756,Hausach,08317,2a,,DC rule (default 2)
 77761,Schiltach,08325,2a,,
-77767,Appenweier,08317,2a,,DC rule (default 2)
+77767,Appenweier,08317,1,,DC rule (default 2)
 77770,Durbach,08317,2a,,DC rule (default 2)
 77773,Schenkenzell,08325,2a,,
 77776,Bad Rippoldsau-Schapbach,08237,2a,,covered by DC rule!
@@ -5583,32 +5583,32 @@ zipcode,city,dc,snowzone,note,comments
 77794,Lautenbach,08317,2a,,DC rule (default 2)
 77796,Mühlenbach,08317,2a,,DC rule (default 2)
 77797,Ohlsbach,08317,2a,,DC rule (default 2)
-77799,Ortenberg,08317,2a,,DC rule (default 2)
+77799,Ortenberg,08317,1,,DC rule (default 2)
 77815,Bühl,08216,2a,,covered by DC rule!
 77830,Bühlertal,08216,2a,,covered by DC rule!
 77833,Ottersweier,08216,2a,,covered by DC rule!
 77836,Rheinmünster,08216,2a,,covered by DC rule!
 77839,Lichtenau,08216,2a,,covered by DC rule!
-77855,Achern (Abweichung Exklaven),08317,2a,,DC rule (default 2)
-77866,Rheinau,08317,2a,,DC rule (default 2)
-77871,Renchen,08317,2a,,DC rule (default 2)
-77876,Kappelrodeck,08317,2a,,DC rule (default 2)
-77880,Sasbach,08317,2a,,DC rule (default 2)
+77855,Achern (Abweichung Exklaven),08317,1,,DC rule (default 2)
+77866,Rheinau,08317,1,,DC rule (default 2)
+77871,Renchen,08317,1,,DC rule (default 2)
+77876,Kappelrodeck,08317,1,,DC rule (default 2)
+77880,Sasbach,08317,1,,DC rule (default 2)
 77883,Ottenhöfen im Schwarzwald,08317,2a,,DC rule (default 2)
-77886,Lauf,08317,2a,,DC rule (default 2)
+77886,Lauf,08317,1,,DC rule (default 2)
 77887,Sasbachwalden,08317,2a,,DC rule (default 2)
 77889,Seebach,08317,2a,,DC rule (default 2)
-77933,Lahr/Schwarzwald,08317,2a,,DC rule (default 2)
-77948,Friesenheim,08317,2a,,DC rule (default 2)
+77933,Lahr/Schwarzwald,08317,1,,DC rule (default 2)
+77948,Friesenheim,08317,1,,DC rule (default 2)
 77955,Ettenheim,08317,2a,,DC rule (default 2)
 77960,Seelbach,08317,2a,,DC rule (default 2)
-77963,Schwanau,08317,2a,,DC rule (default 2)
-77966,Kappel-Grafenhausen,08317,2a,,DC rule (default 2)
-77971,Kippenheim,08317,2a,,DC rule (default 2)
-77972,Mahlberg,08317,2a,,DC rule (default 2)
-77974,Meißenheim,08317,2a,,DC rule (default 2)
-77975,Ringsheim,08317,2a,,DC rule (default 2)
-77977,Rust,08317,2a,,DC rule (default 2)
+77963,Schwanau,08317,1,,DC rule (default 2)
+77966,Kappel-Grafenhausen,08317,1,,DC rule (default 2)
+77971,Kippenheim,08317,1,,DC rule (default 2)
+77972,Mahlberg,08317,1,,DC rule (default 2)
+77974,Meißenheim,08317,1,,DC rule (default 2)
+77975,Ringsheim,08317,1,,DC rule (default 2)
+77977,Rust,08317,1,,DC rule (default 2)
 77978,Schuttertal,08317,2a,,DC rule (default 2)
 78048,Villingen-Schwenningen,08326,2a,,covered by DC rule!
 78050,Villingen-Schwenningen,08326,2a,,covered by DC rule!
@@ -5667,10 +5667,10 @@ zipcode,city,dc,snowzone,note,comments
 78476,Allensbach,08335,2a,,
 78479,Reichenau,08335,2a,,
 78532,Tuttlingen,08327,2a,,covered by DC rule!
-78549,Spaichingen,08327,2a,,covered by DC rule!
-78554,Aldingen,08327,2a,,covered by DC rule!
-78559,Gosheim,08327,2a,,covered by DC rule!
-78564,"Wehingen, Reichenbach",08327,2a,,covered by DC rule!
+78549,Spaichingen,08327,2,,covered by DC rule!
+78554,Aldingen,08327,2,,covered by DC rule!
+78559,Gosheim,08327,2,,covered by DC rule!
+78564,"Wehingen, Reichenbach",08327,2,,covered by DC rule!
 78567,Fridingen an der Donau,08327,2a,,covered by DC rule!
 78570,Mühlheim an der Donau,08327,2a,,covered by DC rule!
 78573,Wurmlingen,08327,2a,,covered by DC rule!
@@ -5680,12 +5680,12 @@ zipcode,city,dc,snowzone,note,comments
 78582,Balgheim,08327,2a,,covered by DC rule!
 78583,Böttingen,08327,2a,,covered by DC rule!
 78585,Bubsheim,08327,2a,,covered by DC rule!
-78586,Deilingen,08327,2a,,covered by DC rule!
-78588,Denkingen,08327,2a,,covered by DC rule!
+78586,Deilingen,08327,2,,covered by DC rule!
+78588,Denkingen,08327,2,,covered by DC rule!
 78589,Dürbheim,08327,2a,,covered by DC rule!
-78591,Durchhausen,08327,2a,,covered by DC rule!
+78591,Durchhausen,08327,2,,covered by DC rule!
 78592,Egesheim,08327,2a,,covered by DC rule!
-78594,Gunningen,08327,2a,,covered by DC rule!
+78594,Gunningen,08327,2,,covered by DC rule!
 78595,Hausen ob Verena,08327,2a,,covered by DC rule!
 78597,Irndorf,08327,2a,,covered by DC rule!
 78598,Königsheim,08327,2a,,covered by DC rule!
@@ -5694,17 +5694,17 @@ zipcode,city,dc,snowzone,note,comments
 78603,Renquishausen,08327,2a,,covered by DC rule!
 78604,Rietheim-Weilheim,08327,2a,,covered by DC rule!
 78606,Seitingen-Oberflacht,08327,2a,,covered by DC rule!
-78607,Talheim,08327,2a,,covered by DC rule!
+78607,Talheim,08327,2,,covered by DC rule!
 78609,Tuningen,08326,2a,,covered by DC rule!
 78628,Rottweil,08325,2a,,
-78647,Trossingen,08327,2a,,covered by DC rule!
+78647,Trossingen,08327,2,,covered by DC rule!
 78652,Deißlingen,08325,2a,,
 78655,Dunningen,08325,2a,,
 78658,Zimmern ob Rottweil,08325,2a,,
 78661,Dietingen,08325,2a,,
 78662,Bösingen,08325,2a,,
 78664,Eschbronn,08325,2a,,
-78665,Frittlingen,08327,2a,,covered by DC rule!
+78665,Frittlingen,08327,2,,covered by DC rule!
 78667,Villingendorf,08325,2a,,
 78669,Wellendingen,08325,2a,,
 78713,Schramberg,08325,2a,,
@@ -5727,43 +5727,43 @@ zipcode,city,dc,snowzone,note,comments
 79115,Freiburg im Breisgau,08311,2a,,
 79117,Freiburg im Breisgau,08311,2a,,
 79183,Waldkirch,08316,2a,,
-79189,Bad Krozingen,08315,2a,,DC rule (default 2a)
-79194,"Gundelfingen, Heuweiler",08315,2a,,DC rule (default 2a)
+79189,Bad Krozingen,08315,2,,DC rule (default 2a)
+79194,"Gundelfingen, Heuweiler",08315,2,,DC rule (default 2a)
 79199,Kirchzarten,08315,2a,,DC rule (default 2a)
-79206,Breisach am Rhein,08315,2a,,DC rule (default 2a)
+79206,Breisach am Rhein,08315,2,,DC rule (default 2a)
 79211,Denzlingen,08316,2a,,
 79215,"Elzach, Biederbach",08316,2a,,
-79219,Staufen im Breisgau,08315,2a,,DC rule (default 2a)
-79224,Umkirch,08315,2a,,DC rule (default 2a)
-79227,Schallstadt,08315,2a,,DC rule (default 2a)
-79232,March,08315,2a,,DC rule (default 2a)
-79235,Vogtsburg im Kaiserstuhl,08315,2a,,DC rule (default 2a)
-79238,Ehrenkirchen,08315,2a,,DC rule (default 2a)
-79241,Ihringen,08315,2a,,DC rule (default 2a)
+79219,Staufen im Breisgau,08315,2,,DC rule (default 2a)
+79224,Umkirch,08315,2,,DC rule (default 2a)
+79227,Schallstadt,08315,2,,DC rule (default 2a)
+79232,March,08315,2,,DC rule (default 2a)
+79235,Vogtsburg im Kaiserstuhl,08315,2,,DC rule (default 2a)
+79238,Ehrenkirchen,08315,2,,DC rule (default 2a)
+79241,Ihringen,08315,2,,DC rule (default 2a)
 79244,Münstertal,08315,2a,,DC rule (default 2a)
-79249,Merzhausen,08315,2a,,DC rule (default 2a)
+79249,Merzhausen,08315,2,,DC rule (default 2a)
 79252,Stegen,08315,2a,,DC rule (default 2a)
 79254,Oberried,08315,2a,,DC rule (default 2a)
 79256,Buchenbach,08315,2a,,DC rule (default 2a)
-79258,Hartheim,08315,2a,,DC rule (default 2a)
+79258,Hartheim,08315,2,,DC rule (default 2a)
 79261,Gutach im Breisgau,08316,2a,,
 79263,Simonswald,08316,2a,,
-79268,Bötzingen,08315,2a,,DC rule (default 2a)
+79268,Bötzingen,08315,2,,DC rule (default 2a)
 79271,Sankt Peter,08315,2a,,DC rule (default 2a)
 79274,St. Märgen,08315,2a,,DC rule (default 2a)
 79276,Reute,08316,2a,,
 79279,Vörstetten,08316,2a,,
-79280,Au (Breisgau),08315,2a,,DC rule (default 2a)
-79282,Ballrechten-Dottingen,08315,2a,,DC rule (default 2a)
+79280,Au (Breisgau),08315,2,,DC rule (default 2a)
+79282,Ballrechten-Dottingen,08315,2,,DC rule (default 2a)
 79283,Bollschweil,08315,2a,,DC rule (default 2a)
-79285,Ebringen,08315,2a,,DC rule (default 2a)
+79285,Ebringen,08315,2,,DC rule (default 2a)
 79286,Glottertal,08315,2a,,DC rule (default 2a)
-79288,Gottenheim,08315,2a,,DC rule (default 2a)
+79288,Gottenheim,08315,2,,DC rule (default 2a)
 79289,Horben,08315,2a,,DC rule (default 2a)
-79291,Merdingen,08315,2a,,DC rule (default 2a)
-79292,Pfaffenweiler,08315,2a,,DC rule (default 2a)
+79291,Merdingen,08315,2,,DC rule (default 2a)
+79292,Pfaffenweiler,08315,2,,DC rule (default 2a)
 79294,Sölden,08315,2a,,DC rule (default 2a)
-79295,Sulzburg,08315,2a,,DC rule (default 2a)
+79295,Sulzburg,08315,2,,DC rule (default 2a)
 79297,Winden im Elztal,08316,2a,,
 79299,Wittnau,08315,2a,,DC rule (default 2a)
 79312,Emmendingen,08316,2a,,
@@ -5774,7 +5774,7 @@ zipcode,city,dc,snowzone,note,comments
 79348,Freiamt,08316,2a,,
 79350,Sexau,08316,2a,,
 79353,Bahlingen am Kaiserstuhl,08316,2a,,
-79356,Eichstetten,08315,2a,,DC rule (default 2a)
+79356,Eichstetten,08315,2,,DC rule (default 2a)
 79359,Riegel Kaiserstuhl,08316,2a,,
 79361,Sasbach am Kaiserstuhl,08316,2a,,
 79362,Forchheim,08316,2a,,
@@ -5782,16 +5782,16 @@ zipcode,city,dc,snowzone,note,comments
 79365,Rheinhausen,08316,2a,,
 79367,Weisweil,08316,2a,,
 79369,Wyhl,08316,2a,,
-79379,Müllheim,08315,2a,,DC rule (default 2a)
-79395,Neuenburg am Rhein,08315,2a,,DC rule (default 2a)
+79379,Müllheim,08315,2,,DC rule (default 2a)
+79395,Neuenburg am Rhein,08315,2,,DC rule (default 2a)
 79400,Kandern,08336,2a,,
-79410,Badenweiler,08315,2a,,DC rule (default 2a)
+79410,Badenweiler,08315,2,,DC rule (default 2a)
 79415,Bad Bellingen,08336,2a,,
 79418,Schliengen,08336,2a,,
-79423,Heitersheim,08315,2a,,DC rule (default 2a)
-79424,Auggen,08315,2a,,DC rule (default 2a)
-79426,Buggingen,08315,2a,,DC rule (default 2a)
-79427,Eschbach,08315,2a,,DC rule (default 2a)
+79423,Heitersheim,08315,2,,DC rule (default 2a)
+79424,Auggen,08315,2,,DC rule (default 2a)
+79426,Buggingen,08315,2,,DC rule (default 2a)
+79427,Eschbach,08315,2,,DC rule (default 2a)
 79429,Malsburg-Marzell,08336,2a,,
 79539,Lörrach,08336,2a,,
 79540,Lörrach,08336,2a,,
@@ -5940,7 +5940,7 @@ zipcode,city,dc,snowzone,note,comments
 82041,Oberhaching,09184,2a,,covered by DC rule
 82049,Pullach i. Isartal,09184,2a,,covered by DC rule
 82054,Sauerlach,09184,2a,,covered by DC rule
-82057,Icking,09173,2a,,covered by DC rule
+82057,Icking,09173,2,,covered by DC rule
 82061,Neuried,09184,2a,,covered by DC rule
 82064,Straßlach-Dingharting,09184,2a,,covered by DC rule
 82065,Baierbrunn,09184,2a,,covered by DC rule
@@ -6035,10 +6035,10 @@ zipcode,city,dc,snowzone,note,comments
 82496,Oberau,09180,2a,,covered by DC rule
 82497,Unterammergau,09180,2a,,covered by DC rule
 82499,Wallgau,09180,2a,,covered by DC rule
-82515,Wolfratshausen,09173,2a,,covered by DC rule
+82515,Wolfratshausen,09173,2,,covered by DC rule
 82538,Geretsried,09173,2a,,covered by DC rule
-82541,Münsing,09173,2a,,covered by DC rule
-82544,Egling,09173,2a,,covered by DC rule
+82541,Münsing,09173,2,,covered by DC rule
+82544,Egling,09173,2,,covered by DC rule
 82547,Eurasburg,09173,2a,,covered by DC rule
 82549,Königsdorf,09173,2a,,covered by DC rule
 83022,Rosenheim,09163,2a,,
@@ -6124,7 +6124,7 @@ zipcode,city,dc,snowzone,note,comments
 83451,Piding,09172,2a,,covered by DC rule
 83454,Anger,09172,2a,,covered by DC rule
 83457,Bayerisch Gmain,09172,2a,,covered by DC rule
-83458,Schneizlreuth,09172,2a,,covered by DC rule
+83458,Schneizlreuth,09172,3a,,covered by DC rule
 83471,Berchtesgaden & Schönau,09172,2a,,covered by DC rule
 83483,Bischofswiesen,09172,2a,,covered by DC rule
 83486,Ramsau b. Berchtesgaden,09172,2a,,covered by DC rule
@@ -6140,8 +6140,8 @@ zipcode,city,dc,snowzone,note,comments
 83546,Gars am Inn,09183,2a,,covered by DC rule
 83547,Babensham,09187,2a,,covered by DC rule
 83549,Eiselfing,09187,2a,,covered by DC rule
-83550,Emmering,09175,2a,,covered by DC rule
-83553,Frauenneuharting,09175,2a,,covered by DC rule
+83550,Emmering,09175,2,,covered by DC rule
+83553,Frauenneuharting,09175,2,,covered by DC rule
 83555,Gars a. Inn,09183,2a,,covered by DC rule
 83556,Griesstätt,09187,2a,,covered by DC rule
 83558,Maitenbeth,09183,2a,,covered by DC rule
@@ -6271,20 +6271,20 @@ zipcode,city,dc,snowzone,note,comments
 84439,Steinkirchen,09177,2a,,
 84453,Mühldorf a. Inn,09183,2a,,covered by DC rule
 84478,Waldkraiburg,09183,2a,,covered by DC rule
-84489,Burghausen,09171,2a,,covered by DC rule
+84489,Burghausen,09171,3,,covered by DC rule
 84494,Neumarkt-Sankt Veit,09183,2a,,covered by DC rule
-84503,Altötting,09171,2a,,covered by DC rule
-84508,Burgkirchen an der Alz,09171,2a,,covered by DC rule
+84503,Altötting,09171,3,,covered by DC rule
+84508,Burgkirchen an der Alz,09171,3,,covered by DC rule
 84513,Töging a. Inn,09171,2a,,covered by DC rule
 84518,Garching a.d. Alz,09171,2a,,covered by DC rule
-84524,Neuötting,09171,2a,,covered by DC rule
+84524,Neuötting,09171,3,,covered by DC rule
 84529,Tittmoning,09189,2a,,covered by DC rule
-84533,Marktl,09171,2a,,covered by DC rule
+84533,Marktl,09171,3,,covered by DC rule
 84539,Ampfing,09183,2a,,covered by DC rule
 84543,Winhöring,09171,2a,,covered by DC rule
 84544,Aschau a. Inn,09183,2a,,covered by DC rule
 84546,Egglkofen,09183,2a,,covered by DC rule
-84547,Emmerting,09171,2a,,covered by DC rule
+84547,Emmerting,09171,3,,covered by DC rule
 84549,Engelsberg,09189,2a,,covered by DC rule
 84550,Feichten a.d. Alz,09171,2a,,covered by DC rule
 84552,Geratskirchen,09277,2a,,covered by DC rule
@@ -6293,11 +6293,11 @@ zipcode,city,dc,snowzone,note,comments
 84556,Kastl,09171,2a,,covered by DC rule
 84558,Kirchweidach,09171,2a,,covered by DC rule
 84559,Kraiburg a. Inn,09183,2a,,covered by DC rule
-84561,Mehring,09171,2a,,covered by DC rule
+84561,Mehring,09171,3,,covered by DC rule
 84562,Mettenheim,09183,2a,,covered by DC rule
 84564,Oberbergkirchen,09183,2a,,covered by DC rule
 84565,Oberneukirchen,09183,2a,,covered by DC rule
-84567,Erlbach,09171,2a,,covered by DC rule
+84567,Erlbach,09171,3,,covered by DC rule
 84568,Pleiskirchen,09171,2a,,covered by DC rule
 84570,Polling,09183,2a,,covered by DC rule
 84571,Reischach,09171,2a,,covered by DC rule
@@ -6404,8 +6404,8 @@ zipcode,city,dc,snowzone,note,comments
 85521,Ottobrunn/Riemerling,09184,2a,,covered by DC rule
 85540,Haar,09162,2a,,
 85551,Kirchheim b. München,09184,2a,,covered by DC rule
-85560,Ebersberg,09175,2a,,covered by DC rule
-85567,Grafing b. München,09175,2a,,covered by DC rule
+85560,Ebersberg,09175,2,,covered by DC rule
+85567,Grafing b. München,09175,2,,covered by DC rule
 85570,Markt Schwaben,09177,2a,,
 85579,Neubiberg,09184,2a,,covered by DC rule
 85586,Poing,09175,2a,,covered by DC rule
@@ -6414,26 +6414,26 @@ zipcode,city,dc,snowzone,note,comments
 85599,Parsdorf/Hergolding,09175,2a,,covered by DC rule
 85604,Zorneding,09175,2a,,covered by DC rule
 85609,Aschheim,09184,2a,,covered by DC rule
-85614,Kirchseeon,09175,2a,,covered by DC rule
-85617,Aßling,09175,2a,,covered by DC rule
+85614,Kirchseeon,09175,2,,covered by DC rule
+85617,Aßling,09175,2,,covered by DC rule
 85622,Feldkirchen,09184,2a,,covered by DC rule
-85625,Glonn,09175,2a,,covered by DC rule
+85625,Glonn,09175,2,,covered by DC rule
 85630,Grasbrunn,09184,2a,,covered by DC rule
 85635,Höhenkirchen-Siegertsbrunn,09184,2a,,covered by DC rule
 85640,Putzbrunn,09184,2a,,covered by DC rule
-85643,Steinhöring,09175,2a,,covered by DC rule
+85643,Steinhöring,09175,2,,covered by DC rule
 85646,Anzing,09175,2a,,covered by DC rule
 85649,Brunnthal,09184,2a,,covered by DC rule
 85652,Pliening,09175,2a,,covered by DC rule
 85653,Aying,09184,2a,,covered by DC rule
 85656,Buch a. Buchrain,09177,2a,,
-85658,Egmating,09175,2a,,covered by DC rule
+85658,Egmating,09175,2,,covered by DC rule
 85659,Forstern,09177,2a,,
 85661,Forstinning,09175,2a,,covered by DC rule
 85662,Hohenbrunn,09184,2a,,covered by DC rule
 85664,Hohenlinden,09175,2a,,covered by DC rule
-85665,Moosach,09175,2a,,covered by DC rule
-85667,Oberpframmern,09175,2a,,covered by DC rule
+85665,Moosach,09175,2,,covered by DC rule
+85667,Oberpframmern,09175,2,,covered by DC rule
 85669,Pastetten,09177,2a,,
 85716,Unterschleißheim,09184,2a,,covered by DC rule
 85737,Ismaning,09184,2a,,covered by DC rule
@@ -6759,19 +6759,19 @@ zipcode,city,dc,snowzone,note,comments
 88045,Friedrichshafen,08435,2a,,
 88046,Friedrichshafen,08435,2a,,
 88048,Friedrichshafen,08435,2a,,
-88069,Tettnang,08435,2a,,
+88069,Tettnang,08435,2,,
 88074,Meckenbeuren,08435,2a,,
-88079,Kressbronn am Bodensee,08435,2a,,
+88079,Kressbronn am Bodensee,08435,2,,
 88085,Langenargen,08435,2a,,
 88090,Immenstaad am Bodensee,08435,2a,,
 88094,Oberteuringen,08435,2a,,
 88097,Eriskirch,08435,2a,,
-88099,Neukirch,08435,2a,,
+88099,Neukirch,08435,2,,
 88131,Lindau (Bodensee),09776,2a,,88138 is ambiguous 88131 isn't
 88138,Sigmarszell,09776,2a,,88138 is ambiguous 88131 isn't
 88142,Wasserburg (Bodensee),09776,2a,,88138 is ambiguous 88131 isn't
 88145,Hergatz,09776,2a,,88138 is ambiguous 88131 isn't
-88147,Achberg,08436,2a,,covered by DC rule!
+88147,Achberg,08436,2,,covered by DC rule!
 88149,Nonnenhorn,09776,2a,,88138 is ambiguous 88131 isn't
 88161,Lindenberg im Allgäu,09776,2a,,88138 is ambiguous 88131 isn't
 88167,Röthenbach (Allgäu),09776,2a,,88138 is ambiguous 88131 isn't
@@ -6782,32 +6782,32 @@ zipcode,city,dc,snowzone,note,comments
 88212,Ravensburg,08436,2a,,covered by DC rule!
 88213,Ravensburg,08436,2a,,covered by DC rule!
 88214,Ravensburg,08436,2a,,covered by DC rule!
-88239,Wangen im Allgäu,08436,2a,,covered by DC rule!
+88239,Wangen im Allgäu,08436,3,,covered by DC rule!
 88250,Weingarten,08436,2a,,covered by DC rule!
 88255,Baienfurt,08436,2a,,covered by DC rule!
-88260,Argenbühl,08436,2a,,covered by DC rule!
+88260,Argenbühl,08436,3,,covered by DC rule!
 88263,Horgenzell,08436,2a,,covered by DC rule!
-88267,Vogt,08436,2a,,covered by DC rule!
+88267,Vogt,08436,2,,covered by DC rule!
 88271,Wilhelmsdorf,08436,2a,,covered by DC rule!
 88273,Fronreute,08436,2a,,covered by DC rule!
 88276,Berg,08436,2a,,covered by DC rule!
-88279,Amtzell,08436,2a,,covered by DC rule!
-88281,Schlier,08436,2a,,covered by DC rule!
+88279,Amtzell,08436,2,,covered by DC rule!
+88281,Schlier,08436,2,,covered by DC rule!
 88284,Wolpertswende,08436,2a,,covered by DC rule!
-88285,Bodnegg,08436,2a,,covered by DC rule!
-88287,Grünkraut,08436,2a,,covered by DC rule!
-88289,Waldburg,08436,2a,,covered by DC rule!
-88299,Leutkirch im Allgäu,08436,2a,,covered by DC rule!
-88316,Isny im Allgäu,08436,2a,,covered by DC rule!
-88317,Aichstetten,08436,2a,,covered by DC rule!
-88319,Aitrach,08436,2a,,covered by DC rule!
+88285,Bodnegg,08436,2,,covered by DC rule!
+88287,Grünkraut,08436,2,,covered by DC rule!
+88289,Waldburg,08436,2,,covered by DC rule!
+88299,Leutkirch im Allgäu,08436,3,,covered by DC rule!
+88316,Isny im Allgäu,08436,3,,covered by DC rule!
+88317,Aichstetten,08436,2,,covered by DC rule!
+88319,Aitrach,08436,2,,covered by DC rule!
 88326,Aulendorf,08436,2a,,covered by DC rule!
 88339,Bad Waldsee,08436,2a,,covered by DC rule!
 88348,"Bad Saulgau, Allmannsweiler",08437,2a,,
-88353,Kißlegg,08436,2a,,covered by DC rule!
+88353,Kißlegg,08436,3,,covered by DC rule!
 88356,Ostrach,08437,2a,,
 88361,Altshausen,08436,2a,,covered by DC rule!
-88364,Wolfegg,08436,2a,,covered by DC rule!
+88364,Wolfegg,08436,2,,covered by DC rule!
 88367,Hohentengen,08437,2a,,
 88368,Bergatreute,08436,2a,,covered by DC rule!
 88370,Ebenweiler,08436,2a,,covered by DC rule!
@@ -6818,13 +6818,13 @@ zipcode,city,dc,snowzone,note,comments
 88377,Riedhausen,08436,2a,,covered by DC rule!
 88379,Unterwaldhausen,08436,2a,,covered by DC rule!
 88400,Biberach an der Riß,08426,2a,,covered by DC rule! 88416 and 88436 are ambiguous!
-88410,Bad Wurzach,08436,2a,,covered by DC rule!
-88416,Ochsenhausen,08426,1a,,covered by DC rule! 88416 and 88436 are ambiguous!
+88410,Bad Wurzach,08436,2,,covered by DC rule!
+88416,Ochsenhausen,08426,2a,,covered by DC rule! 88416 and 88436 are ambiguous!
 88422,Bad Buchau,08426,2a,,covered by DC rule! 88416 and 88436 are ambiguous!
 88427,Bad Schussenried,08426,2a,,covered by DC rule! 88416 and 88436 are ambiguous!
-88430,Rot an der Rot,08426,2a,,covered by DC rule! 88416 and 88436 are ambiguous!
+88430,Rot an der Rot,08426,1a,,covered by DC rule! 88416 and 88436 are ambiguous!
 88433,Schemmerhofen,08426,2a,,covered by DC rule! 88416 and 88436 are ambiguous!
-88436,Eberhardzell,08426,1a,,covered by DC rule! 88416 and 88436 are ambiguous!
+88436,Eberhardzell,08426,2a,,covered by DC rule! 88416 and 88436 are ambiguous!
 88437,Maselheim,08426,2a,,covered by DC rule! 88416 and 88436 are ambiguous!
 88441,Mittelbiberach,08426,2a,,covered by DC rule! 88416 and 88436 are ambiguous!
 88444,Ummendorf,08426,2a,,covered by DC rule! 88416 and 88436 are ambiguous!
@@ -6854,7 +6854,7 @@ zipcode,city,dc,snowzone,note,comments
 88524,Uttenweiler,08426,2a,,covered by DC rule! 88416 and 88436 are ambiguous!
 88525,Dürmentingen,08426,2a,,covered by DC rule! 88416 and 88436 are ambiguous!
 88527,Unlingen,08426,2a,,covered by DC rule! 88416 and 88436 are ambiguous!
-88529,Zwiefalten,08415,2a,,DC rule (default 2)
+88529,Zwiefalten,08415,1,,DC rule (default 2)
 88605,"Meßkirch, Sauldorf",08437,2a,,
 88630,Pfullendorf,08437,2a,,
 88631,Beuron,08437,2a,,
@@ -6879,33 +6879,33 @@ zipcode,city,dc,snowzone,note,comments
 89077,Ulm,08421,2a,,
 89079,Ulm,08421,2a,,
 89081,Ulm,08421,2a,,
-89129,Langenau,08425,2a,,covered by DC rule!
-89134,Blaustein,08425,2a,,covered by DC rule!
-89143,Blaubeuren,08425,2a,,covered by DC rule!
-89150,Laichingen,08425,2a,,covered by DC rule!
+89129,Langenau,08425,1a,,covered by DC rule!
+89134,Blaustein,08425,1a,,covered by DC rule!
+89143,Blaubeuren,08425,1a,,covered by DC rule!
+89150,Laichingen,08425,2,,covered by DC rule!
 89155,Erbach,08425,2a,,covered by DC rule!
-89160,Dornstadt,08425,2a,,covered by DC rule!
+89160,Dornstadt,08425,1a,,covered by DC rule!
 89165,Dietenheim,08425,2a,,covered by DC rule!
-89168,Niederstotzingen,08135,2a,,DC rule (default 2)
+89168,Niederstotzingen,08135,1a,,DC rule (default 2)
 89171,Illerkirchberg,08425,2a,,covered by DC rule!
-89173,Lonsee,08425,2a,,covered by DC rule!
-89174,Altheim (Alb),08425,2a,,covered by DC rule!
-89176,Asselfingen,08425,2a,,covered by DC rule!
-89177,Ballendorf,08425,2a,,covered by DC rule!
-89179,Beimerstetten,08425,2a,,covered by DC rule!
-89180,Berghülen,08425,2a,,covered by DC rule!
-89182,Bernstadt,08425,2a,,covered by DC rule!
-89183,"Breitingen, Holzkirch",08425,2a,,covered by DC rule!
+89173,Lonsee,08425,2,,covered by DC rule!
+89174,Altheim (Alb),08425,2,,covered by DC rule!
+89176,Asselfingen,08425,1a,,covered by DC rule!
+89177,Ballendorf,08425,2,,covered by DC rule!
+89179,Beimerstetten,08425,1a,,covered by DC rule!
+89180,Berghülen,08425,1a,,covered by DC rule!
+89182,Bernstadt,08425,1a,,covered by DC rule!
+89183,"Breitingen, Holzkirch",08425,1a,,covered by DC rule!
 89185,Hüttisheim,08425,2a,,covered by DC rule!
 89186,Illerrieden,08425,2a,,covered by DC rule!
-89188,Merklingen,08425,2a,,covered by DC rule!
-89189,Neenstetten,08425,2a,,covered by DC rule!
-89191,Nellingen,08425,2a,,covered by DC rule!
-89192,Rammingen,08425,2a,,covered by DC rule!
+89188,Merklingen,08425,2,,covered by DC rule!
+89189,Neenstetten,08425,1a,,covered by DC rule!
+89191,Nellingen,08425,2,,covered by DC rule!
+89192,Rammingen,08425,1a,,covered by DC rule!
 89194,Schnürpflingen,08425,2a,,covered by DC rule!
 89195,Staig,08425,2a,,covered by DC rule!
-89197,Weidenstetten,08425,2a,,covered by DC rule!
-89198,Westerstetten,08425,2a,,covered by DC rule!
+89197,Weidenstetten,08425,2,,covered by DC rule!
+89198,Westerstetten,08425,1a,,covered by DC rule!
 89231,Neu-Ulm,09775,2a,,covered by DC rule
 89233,Neu-Ulm,09775,2a,,covered by DC rule
 89250,Senden,09775,2a,,covered by DC rule
@@ -6974,7 +6974,7 @@ zipcode,city,dc,snowzone,note,comments
 89558,Böhmenkirch,08117,2a,,
 89561,Dischingen,08135,2a,,DC rule (default 2)
 89564,Nattheim,08135,2a,,DC rule (default 2)
-89567,Sontheim an der Brenz,08135,2a,,DC rule (default 2)
+89567,Sontheim an der Brenz,08135,1a,,DC rule (default 2)
 89568,Hermaringen,08135,2a,,DC rule (default 2)
 89584,"Ehingen (Donau), Lauterach",08425,2a,,covered by DC rule!
 89597,Munderkingen,08425,2a,,covered by DC rule!
@@ -7827,10 +7827,10 @@ zipcode,city,dc,snowzone,note,comments
 96486,Lautertal,09473,2a,,
 96487,Dörfles-Esbach,09473,2a,,
 96489,Niederfüllbach,09473,2a,,
-96515,Sonneberg,16072,2,,covered by DC rule!
+96515,Sonneberg,16072,2a,,covered by DC rule!
 96523,Steinach,16072,2a,,covered by DC rule!
-96524,Föritztal,16072,2a,,covered by DC rule!
-96528,"Frankenblick, Schalkau, Bachfeld",16072,2a,,covered by DC rule!
+96524,Föritztal,16072,2,,covered by DC rule!
+96528,"Frankenblick, Schalkau, Bachfeld",16072,2,,covered by DC rule!
 97070,Würzburg,09663,2a,,
 97072,Würzburg,09663,2a,,
 97074,Würzburg,09663,2a,,
@@ -8026,10 +8026,10 @@ zipcode,city,dc,snowzone,note,comments
 97855,Triefenstein,09677,2a,,
 97857,Urspringen,09677,2a,,
 97859,Wiesthal,09677,2a,,
-97877,Wertheim,08128,2a,,covered by DC rule!
+97877,Wertheim,08128,2,,covered by DC rule!
 97892,Kreuzwertheim,09677,2a,,
-97896,"Freudenberg, Collenberg",08128,2a,,covered by DC rule!
-97900,Külsheim,08128,2a,,covered by DC rule!
+97896,"Freudenberg, Collenberg",08128,2,,covered by DC rule!
+97900,Külsheim,08128,2,,covered by DC rule!
 97901,Altenbuch,09676,2a,,
 97903,Collenberg,09676,2a,,
 97904,Dorfprozelten,09676,2a,,
@@ -8041,7 +8041,7 @@ zipcode,city,dc,snowzone,note,comments
 97944,Boxberg,08128,2a,,covered by DC rule!
 97947,Grünsfeld,08128,2a,,covered by DC rule!
 97950,Großrinderfeld,08128,2a,,covered by DC rule!
-97953,Königheim,08128,2a,,covered by DC rule!
+97953,Königheim,08128,2,,covered by DC rule!
 97956,Werbach,08128,2a,,covered by DC rule!
 97957,Wittighausen,08128,2a,,covered by DC rule!
 97959,Assamstadt,08128,2a,,covered by DC rule!
@@ -8054,16 +8054,16 @@ zipcode,city,dc,snowzone,note,comments
 98528,Suhl,16054,2a,,
 98529,Suhl,16054,2a,,
 98530,"Marisfeld, Rohr u.a.",16069,2a,,
-98544,Zella-Mehlis,16066,2a,,covered by DC rule!
+98544,Zella-Mehlis,16066,3,,covered by DC rule!
 98547,Schwarza u.a.,16066,2a,,covered by DC rule!
 98553,Schleusingen u.a.,16069,2a,,
-98559,Oberhof,16054,2a,,
-98574,Schmalkalden,16066,2a,,covered by DC rule!
-98587,Steinbach-Hallenberg,16066,2,,covered by DC rule!
+98559,Oberhof,16054,3,,
+98574,Schmalkalden,16066,3,,covered by DC rule!
+98587,Steinbach-Hallenberg,16066,3,,covered by DC rule!
 98590,Schwallungen,16066,2a,,covered by DC rule!
-98593,Floh-Seligenthal,16066,2a,,covered by DC rule!
-98596,Brotterode-Trusetal,16066,2a,,covered by DC rule!
-98597,Breitungen/Werra,16066,3,,covered by DC rule!
+98593,Floh-Seligenthal,16066,3,,covered by DC rule!
+98596,Brotterode-Trusetal,16066,3,,covered by DC rule!
+98597,Breitungen/Werra,16066,2a,,covered by DC rule!
 98617,Meiningen u.a.,16066,2a,,covered by DC rule!
 98630,Römhild,16069,2a,,
 98631,Grabfeld,16066,2a,,covered by DC rule!
@@ -8098,17 +8098,17 @@ zipcode,city,dc,snowzone,note,comments
 99097,Erfurt,16051,2a,,
 99098,Erfurt,16051,2a,,
 99099,Erfurt,16051,2a,,
-99100,"Großfahner, Dachwig u.a.",16067,2a,,covered by DC rule!
-99102,Klettbach,16071,2a,,
+99100,"Großfahner, Dachwig u.a.",16067,2,,covered by DC rule!
+99102,Klettbach,16071,2,,
 99189,Gebesee,16068,2a,,
-99192,"Nesse-Apfelstädt, Nottleben",16067,2a,,covered by DC rule!
+99192,"Nesse-Apfelstädt, Nottleben",16067,2,,covered by DC rule!
 99195,"Großrudestedt, Schloßvippach u.a.",16068,2a,,
 99198,Udestedt,16068,2a,,
-99310,Arnstadt,16070,2,,covered by DC rule!
+99310,Arnstadt,16070,2a,,covered by DC rule!
 99326,"Stadtilm, Ilmtal",16070,2a,,covered by DC rule!
 99330,Geratal,16070,2a,,covered by DC rule!
 99331,Geratal,,2a,,Die Zuordnung bezieht sich auf den Gebietsstand 1. Dezember 2017
-99334,"Elleben, Wachsenburg",16070,2a,,covered by DC rule!
+99334,"Elleben, Wachsenburg",16070,2,,covered by DC rule!
 99338,"Plaue, Martinroda",16070,2a,,covered by DC rule!
 99423,Weimar,16055,2a,,
 99425,Weimar,16055,2a,,
@@ -8133,25 +8133,25 @@ zipcode,city,dc,snowzone,note,comments
 99713,Ebeleben,16065,2a,,
 99718,Greußen Clingen Großenehrich,16065,2a,,
 99734,Nordhausen,16062,2a,,covered by DC rule!
-99735,"Kleinfurra, Werther",16062,3,,covered by DC rule!
+99735,"Kleinfurra, Werther",16062,2a,,covered by DC rule!
 99752,Bleicherode,16062,2a,,covered by DC rule!
-99755,Ellrich,16062,2a,,covered by DC rule!
+99755,Ellrich,16062,3,,covered by DC rule!
 99759,"Sollstedt, Niedergebra, Großlohra",16062,2a,,covered by DC rule!
 99765,Heringen/ Helme,16062,2a,,covered by DC rule!
-99768,Harztor,16062,2a,,covered by DC rule!
+99768,Harztor,16062,3,,covered by DC rule!
 99817,Eisenach,16056,2a,,
-99819,"Marksuhl, Krauthausen u.a.",16063,2a,,covered by DC rule!
-99820,Hörselberg-Hainich,16063,2a,,covered by DC rule!
-99826,Mihla u.a.,16063,2a,,covered by DC rule!
-99830,Treffurt/Ifta,16063,2a,,covered by DC rule!
-99831,Creuzburg,16063,2a,,covered by DC rule!
+99819,"Marksuhl, Krauthausen u.a.",16063,3,,covered by DC rule!
+99820,Hörselberg-Hainich,16063,3,,covered by DC rule!
+99826,Mihla u.a.,16063,3,,covered by DC rule!
+99830,Treffurt/Ifta,16063,3,,covered by DC rule!
+99831,Creuzburg,16063,3,,covered by DC rule!
 99834,Gerstungen,16063,2a,,covered by DC rule!
 99837,Berka/ Werra,16063,2a,,covered by DC rule!
-99842,Ruhla,16063,2a,,covered by DC rule!
-99846,Seebach,16063,2a,,covered by DC rule!
-99848,Wutha-Farnroda,16063,2a,,covered by DC rule!
+99842,Ruhla,16063,3,,covered by DC rule!
+99846,Seebach,16063,3,,covered by DC rule!
+99848,Wutha-Farnroda,16063,3,,covered by DC rule!
 99867,Gotha,16067,2a,,covered by DC rule!
-99869,Drei Gleichen,16067,2,,covered by DC rule!
+99869,Drei Gleichen,16067,2a,,covered by DC rule!
 99880,Waltershausen,16067,2a,,covered by DC rule!
 99885,"Ohrdruf, Luisenthal",16067,2a,,covered by DC rule!
 99887,Georgenthal/ Thür. Wald,16067,2a,,covered by DC rule!
@@ -8160,11 +8160,11 @@ zipcode,city,dc,snowzone,note,comments
 99897,Tambach-Dietharz/ Thür.,16067,2a,,covered by DC rule!
 99947,Bad Langensalza,16064,3,,covered by DC rule!
 99955,Bad Tennstedt,16064,2a,,covered by DC rule!
-99958,"Großvargula, Tonna",16064,2,,covered by DC rule!
+99958,"Großvargula, Tonna",16064,2a,,covered by DC rule!
 99974,"Mühlhausen, Unstruttal",16064,2a,,covered by DC rule!
-99976,"Rodeberg, Dünwald u.a.",16064,2,,covered by DC rule!
-99986,"Vogtei, Kammerforst u.a.",16064,2a,,covered by DC rule!
-99988,Südeichsfeld,16064,2a,,covered by DC rule!
+99976,"Rodeberg, Dünwald u.a.",16064,3,,covered by DC rule!
+99986,"Vogtei, Kammerforst u.a.",16064,3,,covered by DC rule!
+99988,Südeichsfeld,16064,3,,covered by DC rule!
 99991,Unstrut-Hainich,16064,2a,,covered by DC rule!
 99994,Schlotheim u.a.,16064,2a,,covered by DC rule!
 99996,Menteroda,16064,2a,,covered by DC rule!

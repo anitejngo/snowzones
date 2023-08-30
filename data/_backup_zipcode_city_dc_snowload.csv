@@ -132,7 +132,7 @@ zipcode,city,dc,snowzone,note,comments
 02906,"Niesky, Hohendubrau u.a.",14626,3,,covered by DC rule
 02923,"Hähnichen, Horka, Kodersdorf",14626,3,,covered by DC rule
 02929,Rothenburg/O.L.,14626,3,,covered by DC rule
-02943,"Weißwasser, Boxberg",14626,3,,covered by DC rule
+02943,"Weißwasser, Boxberg",14626,2,,covered by DC rule
 02953,"Bad Muskau, Groß Düben, Gablenz",14626,2,,covered by DC rule
 02956,Rietschen,14626,2,,covered by DC rule
 02957,"Krauschwitz, Weißkeißel",14626,2,,covered by DC rule
@@ -404,7 +404,7 @@ zipcode,city,dc,snowzone,note,comments
 07368,Remptendorf,16075,3,,covered by DC rule!
 07381,Pößneck,16075,2,,covered by DC rule!
 07387,Krölpa,16075,3,,covered by DC rule!
-07389,Ranis u.a.,16075,3,,covered by DC rule!
+07389,Ranis u.a.,16075,2,,covered by DC rule!
 07407,Rudolstadt,16073,2,,covered by DC rule!
 07422,Bad Blankenburg,16073,3,,covered by DC rule!
 07426,Königsee-Rottenbach u.a.,16073,3,,covered by DC rule!
@@ -1076,7 +1076,7 @@ zipcode,city,dc,snowzone,note,comments
 18314,Löbnitz,13073,3,,"DC rule: 18334 Dettmannsdorf, 18334 Bad Sülze, 18334 Lindholz, 18465 Tribsees, 18513 Deyelsdorf, 18513 Grammendorf, 18513 Gransebieth, 18513 Wendisch Baggendorf, 18513 Glewitz, 18516 Süderholz are zone 2"
 18317,Saal,13073,3,,"DC rule: 18334 Dettmannsdorf, 18334 Bad Sülze, 18334 Lindholz, 18465 Tribsees, 18513 Deyelsdorf, 18513 Grammendorf, 18513 Gransebieth, 18513 Wendisch Baggendorf, 18513 Glewitz, 18516 Süderholz are zone 2"
 18320,"Ahrenshagen-Daskow, Trinwillershagen u.a.",13073,3,,"DC rule: 18334 Dettmannsdorf, 18334 Bad Sülze, 18334 Lindholz, 18465 Tribsees, 18513 Deyelsdorf, 18513 Grammendorf, 18513 Gransebieth, 18513 Wendisch Baggendorf, 18513 Glewitz, 18516 Süderholz are zone 2"
-18334,Bad Sülze,13073,3,,"DC rule: 18334 Dettmannsdorf, 18334 Bad Sülze, 18334 Lindholz, 18465 Tribsees, 18513 Deyelsdorf, 18513 Grammendorf, 18513 Gransebieth, 18513 Wendisch Baggendorf, 18513 Glewitz, 18516 Süderholz are zone 2"
+18334,Bad Sülze,13073,2,,"DC rule: 18334 Dettmannsdorf, 18334 Bad Sülze, 18334 Lindholz, 18465 Tribsees, 18513 Deyelsdorf, 18513 Grammendorf, 18513 Gransebieth, 18513 Wendisch Baggendorf, 18513 Glewitz, 18516 Süderholz are zone 2"
 18337,Marlow,13073,3,,"DC rule: 18334 Dettmannsdorf, 18334 Bad Sülze, 18334 Lindholz, 18465 Tribsees, 18513 Deyelsdorf, 18513 Grammendorf, 18513 Gransebieth, 18513 Wendisch Baggendorf, 18513 Glewitz, 18516 Süderholz are zone 2"
 18347,Dierhagen,13073,3,,"DC rule: 18334 Dettmannsdorf, 18334 Bad Sülze, 18334 Lindholz, 18465 Tribsees, 18513 Deyelsdorf, 18513 Grammendorf, 18513 Gransebieth, 18513 Wendisch Baggendorf, 18513 Glewitz, 18516 Süderholz are zone 2"
 18356,Barth,13073,3,,"DC rule: 18334 Dettmannsdorf, 18334 Bad Sülze, 18334 Lindholz, 18465 Tribsees, 18513 Deyelsdorf, 18513 Grammendorf, 18513 Gransebieth, 18513 Wendisch Baggendorf, 18513 Glewitz, 18516 Süderholz are zone 2"
@@ -1088,12 +1088,12 @@ zipcode,city,dc,snowzone,note,comments
 18442,Niepars,13073,3,,"DC rule: 18334 Dettmannsdorf, 18334 Bad Sülze, 18334 Lindholz, 18465 Tribsees, 18513 Deyelsdorf, 18513 Grammendorf, 18513 Gransebieth, 18513 Wendisch Baggendorf, 18513 Glewitz, 18516 Süderholz are zone 2"
 18445,Prohn,13073,3,,"DC rule: 18334 Dettmannsdorf, 18334 Bad Sülze, 18334 Lindholz, 18465 Tribsees, 18513 Deyelsdorf, 18513 Grammendorf, 18513 Gransebieth, 18513 Wendisch Baggendorf, 18513 Glewitz, 18516 Süderholz are zone 2"
 18461,"Franzburg, Richtenberg, u.a.",13073,3,,"DC rule: 18334 Dettmannsdorf, 18334 Bad Sülze, 18334 Lindholz, 18465 Tribsees, 18513 Deyelsdorf, 18513 Grammendorf, 18513 Gransebieth, 18513 Wendisch Baggendorf, 18513 Glewitz, 18516 Süderholz are zone 2"
-18465,Tribsees,13073,3,,"DC rule: 18334 Dettmannsdorf, 18334 Bad Sülze, 18334 Lindholz, 18465 Tribsees, 18513 Deyelsdorf, 18513 Grammendorf, 18513 Gransebieth, 18513 Wendisch Baggendorf, 18513 Glewitz, 18516 Süderholz are zone 2"
+18465,Tribsees,13073,2,,"DC rule: 18334 Dettmannsdorf, 18334 Bad Sülze, 18334 Lindholz, 18465 Tribsees, 18513 Deyelsdorf, 18513 Grammendorf, 18513 Gransebieth, 18513 Wendisch Baggendorf, 18513 Glewitz, 18516 Süderholz are zone 2"
 18469,Velgast,13073,3,,"DC rule: 18334 Dettmannsdorf, 18334 Bad Sülze, 18334 Lindholz, 18465 Tribsees, 18513 Deyelsdorf, 18513 Grammendorf, 18513 Gransebieth, 18513 Wendisch Baggendorf, 18513 Glewitz, 18516 Süderholz are zone 2"
 18507,Grimmen,13073,3,,"DC rule: 18334 Dettmannsdorf, 18334 Bad Sülze, 18334 Lindholz, 18465 Tribsees, 18513 Deyelsdorf, 18513 Grammendorf, 18513 Gransebieth, 18513 Wendisch Baggendorf, 18513 Glewitz, 18516 Süderholz are zone 2"
 18510,Wittenhagen,13073,3,,"DC rule: 18334 Dettmannsdorf, 18334 Bad Sülze, 18334 Lindholz, 18465 Tribsees, 18513 Deyelsdorf, 18513 Grammendorf, 18513 Gransebieth, 18513 Wendisch Baggendorf, 18513 Glewitz, 18516 Süderholz are zone 2"
-18513,Glewitz,13073,3,,"DC rule: 18334 Dettmannsdorf, 18334 Bad Sülze, 18334 Lindholz, 18465 Tribsees, 18513 Deyelsdorf, 18513 Grammendorf, 18513 Gransebieth, 18513 Wendisch Baggendorf, 18513 Glewitz, 18516 Süderholz are zone 2"
-18516,Rakow,13073,3,,"DC rule: 18334 Dettmannsdorf, 18334 Bad Sülze, 18334 Lindholz, 18465 Tribsees, 18513 Deyelsdorf, 18513 Grammendorf, 18513 Gransebieth, 18513 Wendisch Baggendorf, 18513 Glewitz, 18516 Süderholz are zone 2"
+18513,Glewitz,13073,2,,"DC rule: 18334 Dettmannsdorf, 18334 Bad Sülze, 18334 Lindholz, 18465 Tribsees, 18513 Deyelsdorf, 18513 Grammendorf, 18513 Gransebieth, 18513 Wendisch Baggendorf, 18513 Glewitz, 18516 Süderholz are zone 2"
+18516,Rakow,13073,2,,"DC rule: 18334 Dettmannsdorf, 18334 Bad Sülze, 18334 Lindholz, 18465 Tribsees, 18513 Deyelsdorf, 18513 Grammendorf, 18513 Gransebieth, 18513 Wendisch Baggendorf, 18513 Glewitz, 18516 Süderholz are zone 2"
 18519,Miltzow u.a.,13073,3,,"DC rule: 18334 Dettmannsdorf, 18334 Bad Sülze, 18334 Lindholz, 18465 Tribsees, 18513 Deyelsdorf, 18513 Grammendorf, 18513 Gransebieth, 18513 Wendisch Baggendorf, 18513 Glewitz, 18516 Süderholz are zone 2"
 18528,Bergen/ Rügen,13073,3,,"DC rule: 18334 Dettmannsdorf, 18334 Bad Sülze, 18334 Lindholz, 18465 Tribsees, 18513 Deyelsdorf, 18513 Grammendorf, 18513 Gransebieth, 18513 Wendisch Baggendorf, 18513 Glewitz, 18516 Süderholz are zone 2"
 18546,Sassnitz,13073,3,,"DC rule: 18334 Dettmannsdorf, 18334 Bad Sülze, 18334 Lindholz, 18465 Tribsees, 18513 Deyelsdorf, 18513 Grammendorf, 18513 Gransebieth, 18513 Wendisch Baggendorf, 18513 Glewitz, 18516 Süderholz are zone 2"
@@ -3045,9 +3045,9 @@ zipcode,city,dc,snowzone,note,comments
 42369,Wuppertal,05124,2a,,
 42389,Wuppertal,05124,2a,,
 42399,Wuppertal,05124,2a,,
-42477,Radevormwald,05374,2a,,covered by DC rule!
+42477,Radevormwald,05374,2,,covered by DC rule!
 42489,Wülfrath,05158,2a,,
-42499,Hückeswagen,05374,2a,,covered by DC rule!
+42499,Hückeswagen,05374,2,,covered by DC rule!
 42549,Velbert,05158,2a,,
 42551,Velbert,05158,2a,,
 42553,Velbert,05158,2a,,
@@ -3069,7 +3069,7 @@ zipcode,city,dc,snowzone,note,comments
 42859,Remscheid,05120,2a,,
 42897,Remscheid,05120,2a,,
 42899,Remscheid,05120,2a,,
-42929,Wermelskirchen,05378,2a,,covered by DC rule!
+42929,Wermelskirchen,05378,2,,covered by DC rule!
 44135,Dortmund,05913,2a,,
 44137,Dortmund,05913,2a,,
 44139,Dortmund,05913,2a,,
@@ -3335,12 +3335,12 @@ zipcode,city,dc,snowzone,note,comments
 48317,Drensteinfurt,05570,2a,,covered by DC rule!
 48324,Sendenhorst,05570,2a,,covered by DC rule!
 48329,Havixbeck,05558,2a,,
-48336,Sassenberg,05570,2a,,covered by DC rule!
+48336,Sassenberg,05570,2,,covered by DC rule!
 48341,Altenberge,05566,2a,,covered by DC rule!
 48346,Ostbevern,05570,2a,,covered by DC rule!
 48351,Everswinkel,05570,2a,,covered by DC rule!
 48356,Nordwalde,05566,2a,,covered by DC rule!
-48361,Beelen,05570,2a,,covered by DC rule!
+48361,Beelen,05570,2,,covered by DC rule!
 48366,Laer,05566,2a,,covered by DC rule!
 48369,Saerbeck,05566,2a,,covered by DC rule!
 48429,Rheine,05566,2a,,covered by DC rule!
@@ -3422,10 +3422,10 @@ zipcode,city,dc,snowzone,note,comments
 49479,Ibbenbüren,05566,2a,,covered by DC rule!
 49492,Westerkappeln,05566,2a,,covered by DC rule!
 49497,Mettingen,05566,2a,,covered by DC rule!
-49504,Lotte,05566,2a,,covered by DC rule!
+49504,Lotte,05566,2,,covered by DC rule!
 49509,Recke,05566,2a,,covered by DC rule!
 49525,Lengerich,05566,2a,,covered by DC rule!
-49536,Lienen,05566,2a,,covered by DC rule!
+49536,Lienen,05566,2,,covered by DC rule!
 49545,Tecklenburg,05566,2a,,covered by DC rule!
 49549,Ladbergen,05566,2a,,covered by DC rule!
 49565,Bramsche,03459,2a,,
@@ -3547,12 +3547,12 @@ zipcode,city,dc,snowzone,note,comments
 51465,Bergisch Gladbach,05378,2a,,covered by DC rule!
 51467,Bergisch Gladbach,05378,2a,,covered by DC rule!
 51469,Bergisch Gladbach,05378,2a,,covered by DC rule!
-51491,Overath,05378,2a,,covered by DC rule!
+51491,Overath,05378,2,,covered by DC rule!
 51503,Rösrath,05378,2a,,covered by DC rule!
-51515,Kürten,05378,2a,,covered by DC rule!
+51515,Kürten,05378,2,,covered by DC rule!
 51519,Odenthal,05378,2a,,covered by DC rule!
 51545,Waldbröl,05374,2a,,covered by DC rule!
-51570,Windeck,05382,2a,,covered by DC rule!
+51570,Windeck,05382,2,,covered by DC rule!
 51580,Reichshof,05374,2a,,covered by DC rule!
 51588,Nümbrecht,05374,2a,,covered by DC rule!
 51597,Morsbach,05374,2a,,covered by DC rule!
@@ -3564,8 +3564,8 @@ zipcode,city,dc,snowzone,note,comments
 51688,Wipperfürth,05374,2a,,covered by DC rule!
 51702,Bergneustadt,05374,2a,,covered by DC rule!
 51709,Marienheide,05374,2a,,covered by DC rule!
-51766,Engelskirchen,05374,2a,,covered by DC rule!
-51789,Lindlar,05374,2a,,covered by DC rule!
+51766,Engelskirchen,05374,2,,covered by DC rule!
+51789,Lindlar,05374,2,,covered by DC rule!
 52062,Aachen,05334,2a,,covered by DC rule!
 52064,Aachen,05334,2a,,covered by DC rule!
 52066,Aachen,05334,2a,,covered by DC rule!
@@ -3585,18 +3585,18 @@ zipcode,city,dc,snowzone,note,comments
 52223,Stolberg (Rhld.),05334,2a,,covered by DC rule!
 52224,Stolberg,05334,2a,,covered by DC rule!
 52249,Eschweiler,05334,2a,,covered by DC rule!
-52349,Düren,05358,2a,,covered by DC rule!
-52351,Düren,05358,2a,,covered by DC rule!
-52353,Düren,05358,2a,,covered by DC rule!
-52355,Düren,05358,2a,,covered by DC rule!
-52372,Kreuzau,05358,2a,,covered by DC rule!
-52379,Langerwehe,05358,2a,,covered by DC rule!
+52349,Düren,05358,1,,covered by DC rule!
+52351,Düren,05358,1,,covered by DC rule!
+52353,Düren,05358,1,,covered by DC rule!
+52355,Düren,05358,1,,covered by DC rule!
+52372,Kreuzau,05358,1,,covered by DC rule!
+52379,Langerwehe,05358,1,,covered by DC rule!
 52382,Niederzier,05358,2a,,covered by DC rule!
-52385,Nideggen,05358,2a,,covered by DC rule!
+52385,Nideggen,05358,1,,covered by DC rule!
 52388,Nörvenich,05358,2a,,covered by DC rule!
-52391,Vettweiß,05358,2a,,covered by DC rule!
-52393,Hürtgenwald,05358,2a,,covered by DC rule!
-52396,Heimbach,05358,2a,,covered by DC rule!
+52391,Vettweiß,05358,1,,covered by DC rule!
+52393,Hürtgenwald,05358,1,,covered by DC rule!
+52396,Heimbach,05358,1,,covered by DC rule!
 52399,Merzenich,05358,2a,,covered by DC rule!
 52428,Jülich,05358,2a,,covered by DC rule!
 52441,Linnich,05358,2a,,covered by DC rule!
@@ -3604,7 +3604,7 @@ zipcode,city,dc,snowzone,note,comments
 52457,Aldenhoven,05358,2a,,covered by DC rule!
 52459,Inden,05358,2a,,covered by DC rule!
 52477,Alsdorf,05334,2a,,covered by DC rule!
-52499,Baesweiler,05334,2a,,covered by DC rule!
+52499,Baesweiler,05334,1,,covered by DC rule!
 52511,Geilenkirchen,05370,2a,,
 52525,"Waldfeucht, Heinsberg",05370,2a,,
 52531,Übach-Palenberg,05370,2a,,
@@ -3662,11 +3662,11 @@ zipcode,city,dc,snowzone,note,comments
 53721,Siegburg,05382,2a,,covered by DC rule!
 53757,Sankt Augustin,05382,2a,,covered by DC rule!
 53773,Hennef (Sieg),05382,2a,,covered by DC rule!
-53783,Eitorf,05382,2a,,covered by DC rule!
+53783,Eitorf,05382,2,,covered by DC rule!
 53797,Lohmar,05382,2a,,covered by DC rule!
-53804,Much,05382,2a,,covered by DC rule!
-53809,Ruppichteroth,05382,2a,,covered by DC rule!
-53819,Neunkirchen-Seelscheid,05382,2a,,covered by DC rule!
+53804,Much,05382,2,,covered by DC rule!
+53809,Ruppichteroth,05382,2,,covered by DC rule!
+53819,Neunkirchen-Seelscheid,05382,2,,covered by DC rule!
 53840,Troisdorf,05382,2a,,covered by DC rule!
 53842,Troisdorf,05382,2a,,covered by DC rule!
 53844,Troisdorf,05382,2a,,covered by DC rule!
@@ -4039,9 +4039,9 @@ zipcode,city,dc,snowzone,note,comments
 57271,Hilchenbach,05970,2a,,ZIP codes 57319 and 57339 are zone 3
 57290,Neunkirchen,05970,2a,,ZIP codes 57319 and 57339 are zone 3
 57299,Burbach,05970,2a,,ZIP codes 57319 and 57339 are zone 3
-57319,Bad Berleburg,05970,2a,,ZIP codes 57319 and 57339 are zone 3
+57319,Bad Berleburg,05970,3,,ZIP codes 57319 and 57339 are zone 3
 57334,Bad Laasphe,05970,2a,,ZIP codes 57319 and 57339 are zone 3
-57339,Erndtebrück,05970,2a,,ZIP codes 57319 and 57339 are zone 3
+57339,Erndtebrück,05970,3,,ZIP codes 57319 and 57339 are zone 3
 57368,Lennestadt,05966,2a,,
 57392,Schmallenberg,05958,2a,,covered by DC rule!
 57399,Kirchhundem,05966,2a,,
@@ -4092,13 +4092,13 @@ zipcode,city,dc,snowzone,note,comments
 58099,Hagen,05914,2a,,
 58119,Hagen,05914,2a,,
 58135,Hagen,05914,2a,,
-58239,Schwerte,05978,2a,,covered by DC rule!
-58256,Ennepetal,05954,2a,,covered by DC rule!
+58239,Schwerte,05978,2,,covered by DC rule!
+58256,Ennepetal,05954,2,,covered by DC rule!
 58285,Gevelsberg,05954,2a,,covered by DC rule!
 58300,Wetter (Ruhr),05954,2a,,covered by DC rule!
 58313,Herdecke,05954,2a,,covered by DC rule!
 58332,Schwelm,05954,2a,,covered by DC rule!
-58339,Breckerfeld,05954,2a,,covered by DC rule!
+58339,Breckerfeld,05954,2,,covered by DC rule!
 58452,Witten,05954,2a,,covered by DC rule!
 58453,Witten,05954,2a,,covered by DC rule!
 58454,Witten,05954,2a,,covered by DC rule!
@@ -4122,7 +4122,7 @@ zipcode,city,dc,snowzone,note,comments
 58706,Menden,05962,2,,covered by DC rule!
 58708,Menden,05962,2,,covered by DC rule!
 58710,Menden,05962,2,,covered by DC rule!
-58730,Fröndenberg/Ruhr,05978,2a,,covered by DC rule!
+58730,Fröndenberg/Ruhr,05978,2,,covered by DC rule!
 58739,Wickede (Ruhr),05974,2a,,covered by DC rule!
 58762,Altena,05962,2a,,covered by DC rule!
 58769,Nachrodt-Wiblingwerde,05962,2a,,covered by DC rule!
@@ -4145,9 +4145,9 @@ zipcode,city,dc,snowzone,note,comments
 59227,Ahlen,05570,2a,,covered by DC rule!
 59229,Ahlen,05570,2a,,covered by DC rule!
 59269,Beckum,05570,2a,,covered by DC rule!
-59302,Oelde,05570,2a,,covered by DC rule!
+59302,Oelde,05570,2,,covered by DC rule!
 59320,Ennigerloh,05570,2a,,covered by DC rule!
-59329,Wadersloh,05570,2a,,covered by DC rule!
+59329,Wadersloh,05570,2,,covered by DC rule!
 59348,Lüdinghausen,05558,2a,,
 59368,Werne,05978,2a,,covered by DC rule!
 59379,Selm,05978,2a,,covered by DC rule!
@@ -4162,7 +4162,7 @@ zipcode,city,dc,snowzone,note,comments
 59469,Ense,05974,2a,,covered by DC rule!
 59494,Soest,05974,2a,,covered by DC rule!
 59505,Bad Sassendorf,05974,2a,,covered by DC rule!
-59510,Lippetal,05974,2a,,covered by DC rule!
+59510,Lippetal,05974,1,,covered by DC rule!
 59514,Welver,05974,2a,,covered by DC rule!
 59519,Möhnesee,05974,2a,,covered by DC rule!
 59555,Lippstadt,05974,2a,,covered by DC rule!
@@ -4185,7 +4185,7 @@ zipcode,city,dc,snowzone,note,comments
 59909,Bestwig,05958,2a,,covered by DC rule!
 59929,Brilon,05958,2a,,covered by DC rule!
 59939,Olsberg,05958,2a,,covered by DC rule!
-59955,Winterberg,05958,2a,,covered by DC rule!
+59955,Winterberg,05958,3,,covered by DC rule!
 59964,Medebach,05958,2a,,covered by DC rule!
 59969,"Bromskirchen, Hallenberg",05958,2a,,covered by DC rule!
 60306,"Frankfurt am Main, Opernturm",06412,2a,,
@@ -8169,3 +8169,5 @@ zipcode,city,dc,snowzone,note,comments
 99994,Schlotheim u.a.,16064,2a,,covered by DC rule!
 99996,Menteroda,16064,2a,,covered by DC rule!
 99998,"Körner, Weinbergen",16064,2a,,covered by DC rule!
+98554,Benshausen,16066,2a,,covered by DC rule!
+98711,Suhl,16054,2a,,

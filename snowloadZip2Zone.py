@@ -1,4 +1,3 @@
-import copy
 import csv
 
 def is_within_range(number, range_string):
@@ -41,18 +40,18 @@ def updateSnowload(input_filename, snowload_filename, output_filename):
 
             for zipRow in snowload_data:
                 zipCodeInData = zipRow['ZIP code']
+                # cover all , cases and , and - cases together
                 if ',' in zipCodeInData:
                     if is_within_comma_separated_range(int(zipcode), zipCodeInData):
                         row['snowzone'] = zipRow['snow zone']
-                        break  # Break after finding a match in comma-separated ranges
-                elif '-' in zipCodeInData:
+                # cover only - range
+                elif '-' in zipCodeInData and ',' not in zipCodeInData:
                     if is_within_range(zipcode,zipCodeInData):
                         row['snowzone'] = zipRow['snow zone']
-                        break
+                # cover all other cases
                 else:
                     if zipcode == zipRow['ZIP code']:
                         row['snowzone'] = zipRow['snow zone']
-                        break
 
             result.append(row)
 
