@@ -20,7 +20,7 @@ script_filenames = [
     "snowloadSN14",
     "snowloadST15",
     "snowloadTH16",
-    "snowloadZip2Zone",
+    # "snowloadZip2Zone",
     "snowloadAmbiguousZIP",
 ]
 

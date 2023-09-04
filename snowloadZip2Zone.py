@@ -10,9 +10,9 @@ def is_within_comma_separated_range(number, range_string):
         if '-' in r:
             sub_ranges = r.split('-')
             start, end = int(sub_ranges[0]), int(sub_ranges[-1])
-            if start <= number <= end:
+            if start <= int(number) <= end:
                 return True
-        elif int(r) == number:
+        elif r == number:
             return True
     return False
 
@@ -37,12 +37,11 @@ def updateSnowload(input_filename, snowload_filename, output_filename):
         reader = csv.DictReader(csvfile, delimiter=',')
         for row in reader:
             zipcode = row['zipcode']
-
             for zipRow in snowload_data:
                 zipCodeInData = zipRow['ZIP code']
                 # cover all , cases and , and - cases together
                 if ',' in zipCodeInData:
-                    if is_within_comma_separated_range(int(zipcode), zipCodeInData):
+                    if is_within_comma_separated_range(zipcode, zipCodeInData):
                         row['snowzone'] = zipRow['snow zone']
                 # cover only - range
                 elif '-' in zipCodeInData and ',' not in zipCodeInData:
