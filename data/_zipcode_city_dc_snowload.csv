@@ -132,7 +132,7 @@ zipcode,city,dc,snowzone,note,comments
 02906,"Niesky, Hohendubrau u.a.",14626,2,,covered by DC rule
 02923,"Hähnichen, Horka, Kodersdorf",14626,2,,covered by DC rule
 02929,Rothenburg/O.L.,14626,2,,covered by DC rule
-02943,"Weißwasser, Boxberg",14626,2,,covered by DC rule
+02943,"Weißwasser, Boxberg",14626,3,,covered by DC rule
 02953,"Bad Muskau, Groß Düben, Gablenz",14626,2,,covered by DC rule
 02956,Rietschen,14626,2,,covered by DC rule
 02957,"Krauschwitz, Weißkeißel",14626,2,,covered by DC rule
@@ -4321,56 +4321,56 @@ zipcode,city,dc,snowzone,note,comments
 63768,Hösbach,09671,1,,covered by DC rule
 63773,Goldbach,09671,1,,covered by DC rule
 63776,Mömbris,09671,1,,covered by DC rule
-63785,Obernburg a.Main,09676,2,,
+63785,Obernburg a.Main,09676,2,,default zone is 2
 63791,Karlstein am Main,09671,1,,default zone is 1
 63796,Kahl am Main,09671,1,,default zone is 1
 63801,Kleinostheim,09671,1,,covered by DC rule
 63808,Haibach,09671,1,,covered by DC rule
 63811,Stockstadt am Main,09671,1,,default zone is 1
 63814,Mainaschaff,09671,1,,covered by DC rule
-63820,Elsenfeld,09676,2,,
+63820,Elsenfeld,09676,2,,default zone is 2
 63825,"Schöllkrippen, Blankenbach",09671,1,,default zone is 1
 63826,Geiselbach,09671,1,,covered by DC rule
 63828,Kleinkahl,09671,1,,covered by DC rule
 63829,Krombach,09671,1,,covered by DC rule
-63831,"Wiesen, Wiesener Forst",09671,1,,default zone is 1
-63834,Sulzbach am Main,09676,2,,
-63839,Kleinwallstadt,09676,2,,
-63840,Hausen,09676,2,,
-63843,Niedernberg,09676,2,,
+63831,"Wiesen, Wiesener Forst",09671,2,,covered by DC rule
+63834,Sulzbach am Main,09676,2,,default zone is 2
+63839,Kleinwallstadt,09676,2,,default zone is 2
+63840,Hausen,09676,2,,default zone is 2
+63843,Niedernberg,09676,2,,default zone is 2
 63846,Laufach,09671,1,,covered by DC rule
-63849,Leidersbach,09676,2,,
-63853,Mömlingen,09676,2,,
+63849,Leidersbach,09676,2,,default zone is 2
+63853,Mömlingen,09676,2,,default zone is 2
 63856,Bessenbach,09671,1,,covered by DC rule
 63857,"Waldaschaff, Waldaschaffer Forst",09671,1,,default zone is 1
 63860,"Rothenbuch, Rothenbucher Forst",09671,1,,default zone is 1
-63863,Eschau,09676,2,,
+63863,Eschau,09676,2,,default zone is 2
 63864,Glattbach,09671,1,,covered by DC rule
 63867,Johannesberg,09671,1,,covered by DC rule
-63868,Großwallstadt,09676,2,,
+63868,Großwallstadt,09676,2,,default zone is 2
 63869,Heigenbrücken,09671,2,,covered by DC rule
 63871,Heinrichsthal,09671,2,,covered by DC rule
 63872,Heimbuchenthal,09671,2,,covered by DC rule
 63874,Dammbach,09671,2,,covered by DC rule
 63875,Mespelbrunn,09671,2,,covered by DC rule
 63877,Sailauf,09671,1,,covered by DC rule
-63879,"Weibersbrunn, Rohrbrunner Forst",09671,1,,default zone is 1
-63897,Miltenberg,09676,2,,
-63906,Erlenbach a.Main,09676,2,,
-63911,Klingenberg a. Main,09676,2,,
-63916,Amorbach,09676,2,,
-63920,Großheubach,09676,2,,
-63924,"Kleinheubach, Rüdenau",09676,2,,
-63925,Laudenbach,09676,2,,
-63927,Bürgstadt,09676,2,,
+63879,"Weibersbrunn, Rohrbrunner Forst",09671,2,,covered by DC rule
+63897,Miltenberg,09676,2,,default zone is 2
+63906,Erlenbach a.Main,09676,2,,default zone is 2
+63911,Klingenberg a. Main,09676,2,,default zone is 2
+63916,Amorbach,09676,2,,default zone is 2
+63920,Großheubach,09676,2,,default zone is 2
+63924,"Kleinheubach, Rüdenau",09676,2,,default zone is 2
+63925,Laudenbach,09676,2,,default zone is 2
+63927,Bürgstadt,09676,2,,default zone is 2
 63928,Eichenbühl,08225,1,,covered by DC rule!
-63930,Neunkirchen,09676,2,,
-63931,Kirchzell,09676,2,,
-63933,Mönchberg,09676,2,,
-63934,Röllbach,09676,2,,
-63936,Schneeberg,09676,2,,
-63937,Weilbach,09676,2,,
-63939,Wörth a.Main,09676,2,,
+63930,Neunkirchen,09676,2,,default zone is 2
+63931,Kirchzell,09676,2,,default zone is 2
+63933,Mönchberg,09676,2,,default zone is 2
+63934,Röllbach,09676,2,,default zone is 2
+63936,Schneeberg,09676,2,,default zone is 2
+63937,Weilbach,09676,2,,default zone is 2
+63939,Wörth a.Main,09676,2,,default zone is 2
 64283,Darmstadt,06411,2a,,
 64285,Darmstadt,06411,2a,,
 64287,Darmstadt,06411,2a,,
@@ -5365,7 +5365,7 @@ zipcode,city,dc,snowzone,note,comments
 74679,Weißbach,08126,1,,DC rule (default 1)
 74706,Osterburken,08225,1,,covered by DC rule!
 74722,Buchen,08225,1,,covered by DC rule!
-74731,Walldürn,09676,2,,
+74731,Walldürn,09676,2,,default zone is 2
 74736,Hardheim,08225,1,,covered by DC rule!
 74740,Adelsheim,08225,1,,covered by DC rule!
 74743,Seckach,08225,1,,covered by DC rule!
@@ -6062,7 +6062,7 @@ zipcode,city,dc,snowzone,note,comments
 83115,Neubeuern,09187,3,,covered by DC rule
 83119,Obing,09189,2,,covered by DC rule
 83122,Samerberg,09187,3,,covered by DC rule
-83123,Amerang,09187,2,,default zone is 2
+83123,Amerang,09187,3,,covered by DC rule
 83125,Eggstätt,09187,2,,covered by DC rule
 83126,Flintsbach a. Inn,09187,3,,covered by DC rule
 83128,Halfing,09187,2,,covered by DC rule
@@ -6098,7 +6098,7 @@ zipcode,city,dc,snowzone,note,comments
 83342,Tacherting,09189,2,,covered by DC rule
 83346,Bergen,09189,2a,,covered by DC rule
 83349,Palling,09189,2,,covered by DC rule
-83352,Altenmarkt a.d. Alz,09189,2,,default zone is 2
+83352,Altenmarkt a.d. Alz,09189,2a,,covered by DC rule
 83355,Grabenstätt,09189,2a,,covered by DC rule
 83358,Seeon-Seebruck,09189,2,,covered by DC rule
 83361,Kienberg,09189,2,,covered by DC rule
@@ -6188,12 +6188,12 @@ zipcode,city,dc,snowzone,note,comments
 84051,Essenbach,09274,1a,,
 84056,Rottenburg a.d. Laaber,09274,1a,,
 84061,Ergoldsbach,09274,1a,,
-84066,Mallersdorf-Pfaffenberg,09278,2,,
+84066,Mallersdorf-Pfaffenberg,09278,2,,default zone is 2
 84069,Schierling,09375,1a,,covered by DC rule
 84072,Au in der Hallertau,09178,1a,,
 84076,Pfeffenhausen,09274,1a,,
 84079,Bruckberg,09274,1a,,
-84082,Laberweinting,09278,2,,
+84082,Laberweinting,09278,2,,default zone is 2
 84085,Langquaid,09273,1a,,
 84088,Neufahrn i. NB,09274,1a,,
 84089,Aiglsbach,09273,1a,,
@@ -6534,7 +6534,7 @@ zipcode,city,dc,snowzone,note,comments
 86643,Rennertshofen,09185,1a,,
 86647,Buttenwiesen,09773,1a,,covered by DC rule
 86650,Wemding,09779,2,,covered by DC rule
-86653,Monheim,09779,2,,covered by DC rule
+86653,Monheim,09779,1a,,covered by DC rule
 86655,Harburg,09779,2,,default zone is 2
 86657,Bissingen,09773,2,,covered by DC rule
 86660,Tapfheim,09779,1a,,covered by DC rule
@@ -6560,7 +6560,7 @@ zipcode,city,dc,snowzone,note,comments
 86694,Niederschönenfeld,09779,1a,,covered by DC rule
 86695,Nordendorf,09772,1a,,
 86697,Oberhausen,09185,1a,,
-86698,Oberndorf a.Lech,09779,2,,default zone is 2
+86698,Oberndorf a.Lech,09779,1a,,covered by DC rule
 86700,Otting,09779,2,,covered by DC rule
 86701,Rohrenfels,09185,1a,,
 86703,Rögling,09779,1a,,covered by DC rule
@@ -6673,11 +6673,11 @@ zipcode,city,dc,snowzone,note,comments
 87496,Untrasried,09777,2,,covered by DC rule
 87497,Wertach,09780,2a,,covered by DC rule
 87499,Wildpoldsried,09780,2,,covered by DC rule
-87509,Immenstadt im Allgäu,09780,2a,,default zone is 2a
+87509,Immenstadt im Allgäu,09780,3,,covered by DC rule
 87527,Sonthofen,09780,2a,,covered by DC rule
 87534,Oberstaufen,09780,3,,covered by DC rule
-87538,Fischen im Allgäu,09780,2a,,default zone is 2a
-87541,Bad Hindelang,09780,2a,,default zone is 2a
+87538,Fischen im Allgäu,09780,3,,covered by DC rule
+87541,Bad Hindelang,09780,3,,covered by DC rule
 87544,Blaichach,09780,2a,,covered by DC rule
 87545,Burgberg im Allgäu,09780,2a,,default zone is 2a
 87547,Missen-Wilhams,09780,3,,covered by DC rule
@@ -6706,7 +6706,7 @@ zipcode,city,dc,snowzone,note,comments
 87665,Mauerstetten,09777,2,,covered by DC rule
 87666,Pforzen,09777,2,,covered by DC rule
 87668,Rieden,09777,2,,covered by DC rule
-87669,Rieden am Forggensee,09777,2,,default zone is 2
+87669,Rieden am Forggensee,09777,3,,covered by DC rule
 87671,Ronsberg,09777,2,,covered by DC rule
 87672,Roßhaupten,09777,2,,covered by DC rule
 87674,Ruderatshofen,09777,2,,covered by DC rule
@@ -6721,10 +6721,10 @@ zipcode,city,dc,snowzone,note,comments
 87733,Markt Rettenbach,09778,2,,covered by DC rule
 87734,Benningen,09778,2,,covered by DC rule
 87736,Böhen,09778,2,,covered by DC rule
-87737,Boos,09778,1a,,covered by DC rule
+87737,Boos,09778,2,,covered by DC rule
 87739,Breitenbrunn,09778,1a,,covered by DC rule
 87740,Buxheim,09778,1,,covered by DC rule
-87742,Apfeltrach,09778,1a,,covered by DC rule
+87742,Apfeltrach,09778,2,,covered by DC rule
 87743,Egg an der Günz,09778,1a,,default zone is 1a
 87745,Eppishausen,09778,1a,,covered by DC rule
 87746,Erkheim,09778,1a,,covered by DC rule
@@ -6767,18 +6767,18 @@ zipcode,city,dc,snowzone,note,comments
 88094,Oberteuringen,08435,1,,DC rule (default 1)
 88097,Eriskirch,08435,1,,DC rule (default 1)
 88099,Neukirch,08435,1,,DC rule (default 1)
-88131,Lindau (Bodensee),09776,3,,88138 is ambiguous 88131 isn't
-88138,Sigmarszell,09776,3,,88138 is ambiguous 88131 isn't
-88142,Wasserburg (Bodensee),09776,3,,88138 is ambiguous 88131 isn't
-88145,Hergatz,09776,3,,88138 is ambiguous 88131 isn't
+88131,Lindau (Bodensee),09776,3,,"default zone is 3, others by DC rule, 88138 is ambiguous 88131 isn't"
+88138,Sigmarszell,09776,2,,"default zone is 3, others by DC rule, 88138 is ambiguous 88131 isn't"
+88142,Wasserburg (Bodensee),09776,3,,"default zone is 3, others by DC rule, 88138 is ambiguous 88131 isn't"
+88145,Hergatz,09776,3,,"default zone is 3, others by DC rule, 88138 is ambiguous 88131 isn't"
 88147,Achberg,08436,1,,DC rule (default 1)
-88149,Nonnenhorn,09776,3,,88138 is ambiguous 88131 isn't
-88161,Lindenberg im Allgäu,09776,3,,88138 is ambiguous 88131 isn't
-88167,Röthenbach (Allgäu),09776,3,,88138 is ambiguous 88131 isn't
-88171,Weiler-Simmerberg,09776,3,,88138 is ambiguous 88131 isn't
-88175,Scheidegg,09776,3,,88138 is ambiguous 88131 isn't
-88178,Heimenkirch,09776,3,,88138 is ambiguous 88131 isn't
-88179,Oberreute,09776,3,,88138 is ambiguous 88131 isn't
+88149,Nonnenhorn,09776,3,,"default zone is 3, others by DC rule, 88138 is ambiguous 88131 isn't"
+88161,Lindenberg im Allgäu,09776,3,,"default zone is 3, others by DC rule, 88138 is ambiguous 88131 isn't"
+88167,Röthenbach (Allgäu),09776,3,,"default zone is 3, others by DC rule, 88138 is ambiguous 88131 isn't"
+88171,Weiler-Simmerberg,09776,3,,"default zone is 3, others by DC rule, 88138 is ambiguous 88131 isn't"
+88175,Scheidegg,09776,3,,"default zone is 3, others by DC rule, 88138 is ambiguous 88131 isn't"
+88178,Heimenkirch,09776,3,,"default zone is 3, others by DC rule, 88138 is ambiguous 88131 isn't"
+88179,Oberreute,09776,3,,"default zone is 3, others by DC rule, 88138 is ambiguous 88131 isn't"
 88212,Ravensburg,08436,1,,DC rule (default 1)
 88213,Ravensburg,08436,1,,DC rule (default 1)
 88214,Ravensburg,08436,1,,DC rule (default 1)
@@ -6950,7 +6950,7 @@ zipcode,city,dc,snowzone,note,comments
 89415,Lauingen (Donau),09773,1a,,covered by DC rule
 89420,Höchstädt a.d. Donau,09773,1a,,covered by DC rule
 89423,Gundelfingen a.d. Donau,09773,1a,,covered by DC rule
-89426,Wittislingen,09773,1a,,covered by DC rule
+89426,Wittislingen,09773,2,,covered by DC rule
 89428,Syrgenstein,09773,2,,covered by DC rule
 89429,Bachhagel,09773,2,,covered by DC rule
 89431,Bächingen a.d. Brenz,09773,1a,,covered by DC rule
@@ -7057,9 +7057,9 @@ zipcode,city,dc,snowzone,note,comments
 91074,Herzogenaurach,09572,1,,covered by DC rule
 91077,Neunkirchen a. Brand,09474,1,,covered by DC rule
 91080,"Uttenreuth, Marloffstein",09572,2,,covered by DC rule
-91083,Baiersdorf,09572,1,,covered by DC rule
+91083,Baiersdorf,09572,1,,default zone is 1
 91085,Weisendorf,09572,1,,covered by DC rule
-91086,Aurachtal,09572,1,,default zone is 1
+91086,Aurachtal,09572,1,,covered by DC rule
 91088,Bubenreuth,09572,1,,covered by DC rule
 91090,Effeltrich,09474,1,,covered by DC rule
 91091,Großenseebach,09572,1,,covered by DC rule
@@ -7108,7 +7108,7 @@ zipcode,city,dc,snowzone,note,comments
 91289,Schnabelwaid,09472,2,,covered by DC rule
 91301,Forchheim,09474,2,,covered by DC rule
 91315,Höchstadt a.d.Aisch,09572,2,,covered by DC rule
-91320,Ebermannstadt,09474,2,,covered by DC rule
+91320,Ebermannstadt,09474,2,,default zone is 2
 91322,Gräfenberg,09474,1,,covered by DC rule
 91325,Adelsdorf,09572,2,,covered by DC rule
 91327,Gößweinstein,09474,2,,covered by DC rule
@@ -7173,7 +7173,7 @@ zipcode,city,dc,snowzone,note,comments
 91575,Windsbach,09571,1,,covered by DC rule
 91578,Leutershausen,09571,2,,covered by DC rule
 91580,Petersaurach,09571,1,,covered by DC rule
-91583,Schillingsfürst,09571,2,,covered by DC rule
+91583,Schillingsfürst,09571,1,,covered by DC rule
 91586,Lichtenau,09571,1,,covered by DC rule
 91587,Adelshofen,09571,1,,covered by DC rule
 91589,Aurach,09571,2,,covered by DC rule
@@ -7465,14 +7465,14 @@ zipcode,city,dc,snowzone,note,comments
 93499,Zandt,09372,2,,covered by DC rule
 94032,Passau,09262,3a,,covered by DC rule
 94034,Passau,09262,3a,,covered by DC rule
-94036,Passau,09275,>3a,,covered by DC rule
+94036,Passau,09275,3a,,covered by DC rule
 94051,Hauzenberg,09275,3a,,covered by DC rule
 94060,Pocking,09275,2a,,covered by DC rule
 94065,Waldkirchen,09272,3,,
 94072,Bad Füssing,09275,2a,,covered by DC rule
 94078,Freyung,09272,3,,
 94081,Fürstenzell,09275,2a,,covered by DC rule
-94086,Griesbach i. Rottal,09275,>3a,,covered by DC rule
+94086,Griesbach i. Rottal,09275,2,,covered by DC rule
 94089,Neureichenau,09272,3,,
 94094,Rotthalmünster,09275,2,,covered by DC rule
 94099,Ruhstorf a.d. Rott,09275,2a,,covered by DC rule
@@ -7483,13 +7483,13 @@ zipcode,city,dc,snowzone,note,comments
 94116,Hutthurm,09275,3a,,covered by DC rule
 94118,Jandelsbrunn,09272,3,,
 94121,Salzweg,09275,3a,,covered by DC rule
-94124,Büchlberg,09275,3a,,default zone is 3a
+94124,Büchlberg,09275,3a,,covered by DC rule
 94127,Neuburg a. Inn,09275,2a,,covered by DC rule
 94130,Obernzell,09275,3,,covered by DC rule
 94133,Röhrnbach,09272,3,,
 94136,Thyrnau,09275,3,,covered by DC rule
 94137,Bayerbach,09277,2,,covered by DC rule
-94139,Breitenberg,09275,>3a,,covered by DC rule
+94139,Breitenberg,09275,>3a,,default zone is >3a
 94140,Ering,09277,2,,covered by DC rule
 94142,Fürsteneck,09272,3,,
 94143,Grainet,09272,3,,
@@ -7529,36 +7529,36 @@ zipcode,city,dc,snowzone,note,comments
 94267,Prackenbach,09276,3,,covered by DC rule
 94269,Rinchnach,09276,3,,covered by DC rule
 94315,Straubing,09263,2,,
-94327,Bogen,09278,2,,
-94330,Aiterhofen,09278,2,,
-94333,Geiselhöring,09278,2,,
-94336,Hunderdorf,09278,2,,
-94339,Leiblfing,09278,2,,
-94342,Straßkirchen,09278,2,,
-94344,Wiesenfelden,09278,2,,
-94345,Aholfing,09278,2,,
-94347,Ascha,09278,2,,
-94348,Atting,09278,2,,
-94350,Falkenfels,09278,2,,
-94351,Feldkirchen,09278,2,,
-94353,Haibach,09278,2,,
-94354,Haselbach,09278,2,,
-94356,Kirchroth,09278,2,,
-94357,Konzell,09278,2,,
-94359,Loitzendorf,09278,2,,
-94360,Mitterfels,09278,2,,
-94362,Neukirchen,09278,2,,
-94363,Oberschneiding,09278,2,,
-94365,Parkstetten,09278,2,,
-94366,Perasdorf,09278,2,,
-94368,Perkam,09278,2,,
-94369,Rain,09278,2,,
-94371,Rattenberg,09278,2,,
-94372,Rattiszell,09278,2,,
-94374,Schwarzach,09278,2,,
-94375,Stallwang,09278,2,,
-94377,Steinach,09278,2,,
-94379,Sankt Englmar,09278,2,,
+94327,Bogen,09278,2,,default zone is 2
+94330,Aiterhofen,09278,2,,default zone is 2
+94333,Geiselhöring,09278,2,,default zone is 2
+94336,Hunderdorf,09278,2,,default zone is 2
+94339,Leiblfing,09278,2,,default zone is 2
+94342,Straßkirchen,09278,2,,default zone is 2
+94344,Wiesenfelden,09278,2,,default zone is 2
+94345,Aholfing,09278,2,,default zone is 2
+94347,Ascha,09278,2,,default zone is 2
+94348,Atting,09278,2,,default zone is 2
+94350,Falkenfels,09278,2,,default zone is 2
+94351,Feldkirchen,09278,2,,default zone is 2
+94353,Haibach,09278,2,,default zone is 2
+94354,Haselbach,09278,2,,default zone is 2
+94356,Kirchroth,09278,2,,default zone is 2
+94357,Konzell,09278,2,,default zone is 2
+94359,Loitzendorf,09278,2,,default zone is 2
+94360,Mitterfels,09278,2,,default zone is 2
+94362,Neukirchen,09278,2,,default zone is 2
+94363,Oberschneiding,09278,2,,default zone is 2
+94365,Parkstetten,09278,2,,default zone is 2
+94366,Perasdorf,09278,2,,default zone is 2
+94368,Perkam,09278,2,,default zone is 2
+94369,Rain,09278,2,,default zone is 2
+94371,Rattenberg,09278,2,,default zone is 2
+94372,Rattiszell,09278,2,,default zone is 2
+94374,Schwarzach,09278,2,,default zone is 2
+94375,Stallwang,09278,2,,default zone is 2
+94377,Steinach,09278,2,,default zone is 2
+94379,Sankt Englmar,09278,2,,default zone is 2
 94405,Landau a.d. Isar,09279,2,,covered by DC rule
 94419,Reisbach,09279,2,,covered by DC rule
 94424,Arnstorf,09277,2,,default zone is 2
@@ -7569,7 +7569,7 @@ zipcode,city,dc,snowzone,note,comments
 94439,Roßbach,09277,2,,covered by DC rule
 94447,Plattling,09271,2,,covered by DC rule
 94469,Deggendorf,09271,3,,covered by DC rule
-94474,Vilshofen an der Donau,09275,>3a,,covered by DC rule
+94474,Vilshofen an der Donau,09275,2a,,covered by DC rule
 94481,Grafenau,09272,3,,
 94486,Osterhofen,09271,2,,covered by DC rule
 94491,Hengersberg,09271,3,,covered by DC rule
@@ -7598,11 +7598,11 @@ zipcode,city,dc,snowzone,note,comments
 94548,Innernzell,09272,3,,
 94550,Künzing,09271,2,,covered by DC rule
 94551,Lalling,09271,3,,covered by DC rule
-94553,Mariaposching,09278,2,,
+94553,Mariaposching,09278,2,,default zone is 2
 94554,Moos,09271,2,,covered by DC rule
 94556,Neuschönau,09272,3,,
 94557,Niederalteich,09271,2,,covered by DC rule
-94559,Niederwinkling,09278,2,,
+94559,Niederwinkling,09278,2,,default zone is 2
 94560,Offenberg,09271,2,,covered by DC rule
 94562,Oberpöring,09271,2,,covered by DC rule
 94563,Otzing,09271,2,,covered by DC rule
@@ -7816,7 +7816,7 @@ zipcode,city,dc,snowzone,note,comments
 96364,Marktrodach,09476,3,,covered by DC rule
 96365,Nordhalben,09476,3,,covered by DC rule
 96367,Tschirn,09476,3,,covered by DC rule
-96369,Weißenbrunn,09477,3,,covered by DC rule
+96369,Weißenbrunn,09477,2,,covered by DC rule
 96450,Coburg,09463,2,,
 96465,Neustadt b. Coburg,09473,2,,
 96472,Rödental,09473,2,,
@@ -7845,7 +7845,7 @@ zipcode,city,dc,snowzone,note,comments
 97215,Uffenheim,09575,1,,
 97218,Gerbrunn,09679,1,,
 97222,Rimpar,09679,1,,
-97225,Zellingen,09677,2,,
+97225,Zellingen,09677,2,,default zone is 2
 97228,Rottendorf,09679,1,,
 97230,Estenfeld,09679,1,,
 97232,Giebelstadt,09679,1,,
@@ -7870,7 +7870,7 @@ zipcode,city,dc,snowzone,note,comments
 97262,Hausen b. Würzburg,09679,1,,
 97264,Helmstadt,09679,1,,
 97265,Hettstadt,09679,1,,
-97267,Himmelstadt,09677,2,,
+97267,Himmelstadt,09677,2,,default zone is 2
 97268,Kirchheim,09679,1,,
 97270,"Kist, Irtenberger Wald",09679,1,,
 97271,Kleinrinderfeld,09679,1,,
@@ -7880,12 +7880,12 @@ zipcode,city,dc,snowzone,note,comments
 97277,Neubrunn,09679,1,,
 97279,Prosselsheim,09679,1,,
 97280,Remlingen,09679,1,,
-97282,Retzstadt,09677,2,,
+97282,Retzstadt,09677,2,,default zone is 2
 97283,Riedenheim,09679,1,,
 97285,"Röttingen, Tauberrettersheim",09679,1,,
 97286,Winterhausen,09679,1,,
 97288,Theilheim,09679,1,,
-97289,Thüngen,09677,2,,
+97289,Thüngen,09677,2,,default zone is 2
 97291,Thüngershem,09679,1,,
 97292,"Üttingen, Holzkirchen",09679,1,,
 97294,Unterpleichfeld,09679,1,,
@@ -7912,7 +7912,7 @@ zipcode,city,dc,snowzone,note,comments
 97437,Haßfurt,09674,1,,covered by DC rule
 97440,Werneck,09678,1,,
 97447,Gerolzhofen,09678,1,,
-97450,Arnstein,09677,2,,
+97450,Arnstein,09677,2,,default zone is 2
 97453,Schonungen,09678,1,,
 97456,Dittelbrunn,09678,1,,
 97461,Hofheim i. UFr.,09674,1,,covered by DC rule
@@ -7957,15 +7957,15 @@ zipcode,city,dc,snowzone,note,comments
 97537,Wipfeld,09678,1,,
 97539,Wonfurt,09674,1,,covered by DC rule
 97616,Bad Neustadt an der Saale,09673,2,,default zone is 2
-97618,Hohenroth,09673,2,,covered by DC rule
+97618,Hohenroth,09673,1,,covered by DC rule
 97631,Bad Königshofen i. Grabfeld,09673,1,,covered by DC rule
 97633,Sulzfeld,09673,1,,covered by DC rule
 97638,Mellrichstadt,09673,2,,covered by DC rule
 97640,Oberstreu,09673,2,,covered by DC rule
 97645,Ostheim v.d. Rhön,09673,2,,covered by DC rule
-97647,Nordheim v.d. Rhön,09673,2a,,covered by DC rule
+97647,Nordheim v.d. Rhön,09673,2,,covered by DC rule
 97650,Fladungen,09673,2a,,covered by DC rule
-97653,Bischofsheim i.d. Rhön,09673,2,,default zone is 2
+97653,Bischofsheim i.d. Rhön,09673,2a,,covered by DC rule
 97654,Bastheim,09673,2,,covered by DC rule
 97656,Oberelsbach,09673,2a,,covered by DC rule
 97657,Sandberg,09673,2,,covered by DC rule
@@ -7983,59 +7983,59 @@ zipcode,city,dc,snowzone,note,comments
 97725,Elfershausen,09672,1,,covered by DC rule
 97727,Fuchsstadt,09672,1,,covered by DC rule
 97729,Ramsthal,09672,1,,covered by DC rule
-97737,Gemünden a. Main,09677,2,,
-97753,Karlstadt,09677,2,,
+97737,Gemünden a. Main,09677,2,,default zone is 2
+97753,Karlstadt,09677,2,,default zone is 2
 97762,Hammelburg,09672,2,,covered by DC rule
 97769,Bad Brückenau,09672,2,,covered by DC rule
 97772,Wildflecken,09672,2a,,covered by DC rule
-97773,Aura i. Sinngrund,09677,2,,
-97775,Burgsinn,09677,2,,
-97776,Eußenheim,09677,2,,
-97778,Fellen,09677,2,,
+97773,Aura i. Sinngrund,09677,2,,default zone is 2
+97775,Burgsinn,09677,2,,default zone is 2
+97776,Eußenheim,09677,2,,default zone is 2
+97778,Fellen,09677,2,,default zone is 2
 97779,Geroda,09672,2,,covered by DC rule
-97780,Gössenheim,09677,2,,
-97782,Gräfendorf,09677,2,,
-97783,Karsbach,09677,2,,
-97785,Mittelsinn,09677,2,,
+97780,Gössenheim,09677,2,,default zone is 2
+97782,Gräfendorf,09677,2,,default zone is 2
+97783,Karsbach,09677,2,,default zone is 2
+97785,Mittelsinn,09677,2,,default zone is 2
 97786,Motten,09672,2a,,covered by DC rule
-97788,Neuendorf,09677,2,,
+97788,Neuendorf,09677,2,,default zone is 2
 97789,Oberleichtersbach,09672,2,,covered by DC rule
-97791,Obersinn,09677,2,,
+97791,Obersinn,09677,2,,default zone is 2
 97792,Riedenberg,09672,2,,covered by DC rule
-97794,Rieneck,09677,2,,
+97794,Rieneck,09677,2,,default zone is 2
 97795,Schondra,09672,2,,covered by DC rule
 97797,Wartmannsroth,09672,2,,covered by DC rule
 97799,Zeitlofs,09672,2,,covered by DC rule
-97816,Lohr a. Main,09677,2,,
-97828,Marktheidenfeld,09677,2,,
-97833,Frammersbach,09677,2,,
-97834,Birkenfeld,09677,2,,
-97836,Bischbrunn,09677,2,,
-97837,Erlenbach b. Marktheidenfeld,09677,2,,
-97839,Esselbach,09677,2,,
-97840,"Hafenlohr, Rothenbuch",09677,2,,
-97842,Karbach,09677,2,,
-97843,Neuhütten,09677,2,,
-97845,Neustadt a. Main,09677,2,,
-97846,Partenstein,09677,2,,
-97848,Rechtenbach,09677,2,,
-97849,Roden,09677,2,,
-97851,Rothenfels,09677,2,,
-97852,Schollbrunn,09677,2,,
-97854,Steinfeld,09677,2,,
-97855,Triefenstein,09677,2,,
-97857,Urspringen,09677,2,,
-97859,Wiesthal,09677,2,,
+97816,Lohr a. Main,09677,2,,default zone is 2
+97828,Marktheidenfeld,09677,2,,default zone is 2
+97833,Frammersbach,09677,2,,default zone is 2
+97834,Birkenfeld,09677,2,,default zone is 2
+97836,Bischbrunn,09677,2,,default zone is 2
+97837,Erlenbach b. Marktheidenfeld,09677,2,,default zone is 2
+97839,Esselbach,09677,2,,default zone is 2
+97840,"Hafenlohr, Rothenbuch",09677,2,,default zone is 2
+97842,Karbach,09677,2,,default zone is 2
+97843,Neuhütten,09677,2,,default zone is 2
+97845,Neustadt a. Main,09677,2,,default zone is 2
+97846,Partenstein,09677,2,,default zone is 2
+97848,Rechtenbach,09677,2,,default zone is 2
+97849,Roden,09677,2,,default zone is 2
+97851,Rothenfels,09677,2,,default zone is 2
+97852,Schollbrunn,09677,2,,default zone is 2
+97854,Steinfeld,09677,2,,default zone is 2
+97855,Triefenstein,09677,2,,default zone is 2
+97857,Urspringen,09677,2,,default zone is 2
+97859,Wiesthal,09677,2,,default zone is 2
 97877,Wertheim,08128,1,,DC rule (default 1)
-97892,Kreuzwertheim,09677,2,,
+97892,Kreuzwertheim,09677,2,,default zone is 2
 97896,"Freudenberg, Collenberg",08128,1,,DC rule (default 1)
 97900,Külsheim,08128,1,,DC rule (default 1)
-97901,Altenbuch,09676,2,,
-97903,Collenberg,09676,2,,
-97904,Dorfprozelten,09676,2,,
-97906,Faulbach,09676,2,,
-97907,Hasloch,09677,2,,
-97909,Stadtprozelten,09676,2,,
+97901,Altenbuch,09676,2,,default zone is 2
+97903,Collenberg,09676,2,,default zone is 2
+97904,Dorfprozelten,09676,2,,default zone is 2
+97906,Faulbach,09676,2,,default zone is 2
+97907,Hasloch,09677,2,,default zone is 2
+97909,Stadtprozelten,09676,2,,default zone is 2
 97922,Lauda-Königshofen,08128,1,,DC rule (default 1)
 97941,Tauberbischofsheim,08128,1,,DC rule (default 1)
 97944,Boxberg,08128,1,,DC rule (default 1)
